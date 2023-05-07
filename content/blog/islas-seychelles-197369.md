@@ -4,6 +4,7 @@ type: "post"
 date: "2009-02-03 00:00:00"
 slug: "islas-seychelles-197369"
 categories: ["Sin Categoría"]
+tags: ["África","Seychelles"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2019-01-08 09:00:00"
 slug: "dos-dias-en-buenos-aires-345922"
 categories: ["América"]
+tags: ["Argentina","Buenos Aires","Ciudades"]
 image: "post-images/recoleta-240x300.jpg"
 ---
 

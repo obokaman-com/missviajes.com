@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-29 00:00:00"
 slug: "the-sanderson-hotel-65050"
 categories: ["Sin Categoría"]
+tags: ["Europa","Gran Bretaña","Hoteles","Londres"]
 image: "post-images/65050-54298.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-06-23 00:00:00"
 slug: "murmansk-route-2008-murmansk-itaca-99654"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Noticias"]
 image: "post-images/99654-75914.jpg"
 ---
 

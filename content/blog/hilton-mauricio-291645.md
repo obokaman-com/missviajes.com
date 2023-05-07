@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-14 17:16:00"
 slug: "hilton-mauricio-291645"
 categories: ["África","Hoteles"]
+tags: ["Hoteles","Mauricio","Playas"]
 image: "post-images/291645-160527.jpg"
 ---
 

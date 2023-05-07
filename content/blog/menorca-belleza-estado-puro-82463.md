@@ -4,6 +4,7 @@ type: "post"
 date: "2015-06-22 00:00:00"
 slug: "menorca-belleza-estado-puro-82463"
 categories: ["Europa","Playas"]
+tags: ["Baleares","España","Europa","Islas","Menorca","Playas"]
 image: "post-images/cala-macarelleta-by-Markus-Trienke.jpg"
 ---
 

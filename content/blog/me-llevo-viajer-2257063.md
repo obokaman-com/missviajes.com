@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-18 09:48:00"
 slug: "me-llevo-viajer-2257063"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/5141dd375ebe4s39984.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2018-04-27 00:00:00"
 slug: "parque-natural-albufera-34344"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["España","Europa","Parques","Valencia"]
 image: "post-images/34344-32196.jpg"
 ---
 

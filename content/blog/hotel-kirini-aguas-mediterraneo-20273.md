@@ -4,6 +4,7 @@ type: "post"
 date: "2012-08-16 20:00:00"
 slug: "hotel-kirini-aguas-mediterraneo-20273"
 categories: ["Europa","Hoteles","Playas"]
+tags: ["Europa","Grecia","Hoteles","Playas","Santorini"]
 image: "post-images/502d0187c7027s18548.jpg"
 ---
 

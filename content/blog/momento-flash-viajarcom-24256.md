@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-27 00:00:00"
 slug: "momento-flash-viajarcom-24256"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

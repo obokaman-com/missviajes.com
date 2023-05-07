@@ -4,6 +4,7 @@ type: "post"
 date: "2018-08-01 00:00:00"
 slug: "parque-omega-mas-cerca-animales-nunca-1358176"
 categories: ["América","En Familia","Visitas Y Excursiones"]
+tags: ["Canadá","Parque Omega","Parques"]
 image: "post-images/4eb57194c7587s1540706.jpg"
 ---
 

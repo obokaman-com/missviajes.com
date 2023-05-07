@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-06 20:23:00"
 slug: "sierra-albarracin-350038"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Albarracín","Aragón","España","Europa","Natura"]
 image: "post-background.jpg"
 ---
 

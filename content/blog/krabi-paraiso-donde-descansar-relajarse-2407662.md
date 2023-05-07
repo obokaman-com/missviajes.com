@@ -4,6 +4,7 @@ type: "post"
 date: "2016-01-11 16:25:00"
 slug: "krabi-paraiso-donde-descansar-relajarse-2407662"
 categories: ["Asia","Playas"]
+tags: ["Asia","Krabi","Playas","Thailandia"]
 image: "post-images/5693c2c48b8e7s41417.jpg"
 ---
 

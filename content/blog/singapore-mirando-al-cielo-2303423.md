@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-27 09:30:00"
 slug: "singapore-mirando-al-cielo-2303423"
 categories: ["Asia"]
+tags: ["Asia","Singapore"]
 image: "post-images/5294b63b0b2e5s972864.jpg"
 ---
 

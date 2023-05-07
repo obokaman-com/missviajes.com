@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-20 10:05:00"
 slug: "llega-pepeday-858314"
 categories: ["Actualidad"]
+tags: ["Actualidad","Pepeday","Pepetravel"]
 image: "post-images/858314-284064.jpg"
 ---
 

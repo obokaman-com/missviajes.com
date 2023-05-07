@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-02 00:00:00"
 slug: "kenia-5440"
 categories: ["África"]
+tags: ["África","Paises"]
 image: "post-images/5440-6636.jpg"
 ---
 

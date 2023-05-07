@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-24 00:00:00"
 slug: "puente-triana-sevilla-foto-mes-93764"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","España","Europa","Foto Del Mes","Sevilla","Triana"]
 image: "post-images/93764-105115.jpg"
 ---
 

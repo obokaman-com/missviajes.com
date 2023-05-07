@@ -4,6 +4,7 @@ type: "post"
 date: "2018-07-05 00:00:00"
 slug: "piazza-navona-sorbito-roma-2344213"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","Piazza Navona","Roma"]
 image: "post-images/535649e137389s2317584.jpg"
 ---
 

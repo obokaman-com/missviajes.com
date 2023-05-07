@@ -4,6 +4,7 @@ type: "post"
 date: "2008-03-25 00:00:00"
 slug: "bolsas-contenedor-viaje-71533"
 categories: ["Sin Categoría"]
+tags: ["Maletas","Varios"]
 image: "post-images/71533-59440.jpg"
 ---
 

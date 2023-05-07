@@ -4,6 +4,7 @@ type: "post"
 date: "2012-05-29 15:30:00"
 slug: "gran-barrera-coralina-5366"
 categories: ["Oceania","Playas","Visitas Y Excursiones"]
+tags: ["Australia","Oceanía","Parques"]
 image: "post-images/5366-6738.jpg"
 ---
 

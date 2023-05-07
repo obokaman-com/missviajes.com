@@ -4,6 +4,7 @@ type: "post"
 date: "2016-04-29 00:00:00"
 slug: "hotel-lhorloge-hotel-mucho-encanto-avignon-593203"
 categories: ["Europa","Hoteles"]
+tags: ["Avignon","Francia","Hoteles"]
 image: "post-images/horlogne-300x200.jpg"
 ---
 

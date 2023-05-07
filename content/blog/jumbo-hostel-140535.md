@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-27 00:00:00"
 slug: "jumbo-hostel-140535"
 categories: ["Sin Categoría"]
+tags: ["Estocolmo","Europa","Hoteles"]
 image: "post-images/140535-99184.jpg"
 ---
 

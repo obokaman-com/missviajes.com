@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-06 00:00:00"
 slug: "sagrada-familia-122034"
 categories: ["Sin Categoría"]
+tags: ["Barcelona","España","Europa","Tickets"]
 image: "post-images/122034-95832.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-17 00:00:00"
 slug: "jardines-luxemburgo-foto-mes-122010"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes"]
 image: "post-images/122010-97240.jpg"
 ---
 

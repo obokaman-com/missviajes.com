@@ -4,6 +4,7 @@ type: "post"
 date: "2009-02-16 09:20:00"
 slug: "81-espanoles-recortara-gastos-viajes-2009-201208"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/201208-121222.jpg"
 ---
 

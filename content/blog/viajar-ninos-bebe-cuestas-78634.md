@@ -4,6 +4,7 @@ type: "post"
 date: "2008-04-25 00:00:00"
 slug: "viajar-ninos-bebe-cuestas-78634"
 categories: ["Sin Categoría"]
+tags: ["Missviajecitos","Viajar Con Niños"]
 image: "post-images/78634-63330.jpg"
 ---
 

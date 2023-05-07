@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-19 00:00:00"
 slug: "treetops-hotel-6328"
 categories: ["África","Hoteles"]
+tags: ["Aberdares","África","Hoteles","Kenia"]
 image: "post-images/6328-8727.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-10-29 09:00:00"
 slug: "descanso-aeropuerto-plaza-premium-lounge-2401366"
 categories: ["Actualidad"]
+tags: ["Aeropuertos","Lounge"]
 image: "post-images/562e135c99a7fs93168.jpg"
 ---
 

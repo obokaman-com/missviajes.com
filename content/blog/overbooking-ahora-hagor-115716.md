@@ -4,6 +4,7 @@ type: "post"
 date: "2015-01-16 10:00:00"
 slug: "overbooking-ahora-hagor-115716"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Overbooking"]
 image: "post-background.jpg"
 ---
 

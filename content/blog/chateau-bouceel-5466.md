@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-08 00:00:00"
 slug: "chateau-bouceel-5466"
 categories: ["Sin Categoría"]
+tags: ["Europa","Francia","Hoteles","Moint Sant Michel"]
 image: "post-images/5466-8589.jpg"
 ---
 

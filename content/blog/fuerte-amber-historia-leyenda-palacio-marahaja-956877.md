@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-17 00:00:00"
 slug: "fuerte-amber-historia-leyenda-palacio-marahaja-956877"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Fuerte Amber","India","Jaipur","Tickets"]
 image: "post-images/Mirror-Room-Fuerte-Amber-c-Jeff-and-Neda-Fields-1024x760.jpg"
 ---
 

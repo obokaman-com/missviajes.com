@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-22 15:53:00"
 slug: "sri-lanka-pais-eterna-sonrisa-2272853"
 categories: ["Asia"]
+tags: ["Paises","Sri Lanka"]
 image: "post-images/519ccc0a1ce22s116284.jpg"
 ---
 

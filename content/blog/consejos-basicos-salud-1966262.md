@@ -4,6 +4,7 @@ type: "post"
 date: "2012-06-14 16:35:00"
 slug: "consejos-basicos-salud-1966262"
 categories: ["Cosas Varias"]
+tags: ["Consejos","Vacunas"]
 image: "post-background.jpg"
 ---
 

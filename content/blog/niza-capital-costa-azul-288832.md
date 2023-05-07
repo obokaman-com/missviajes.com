@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-10 15:59:00"
 slug: "niza-capital-costa-azul-288832"
 categories: ["Europa","Playas"]
+tags: ["Ciudades","Costa Azul","Europa","Francia","Niza"]
 image: "post-background.jpg"
 ---
 

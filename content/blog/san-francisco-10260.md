@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-23 00:00:00"
 slug: "san-francisco-10260"
 categories: ["América"]
+tags: ["América","California","Ciudades","Eeuu"]
 image: "post-images/10260-11434.jpg"
 ---
 

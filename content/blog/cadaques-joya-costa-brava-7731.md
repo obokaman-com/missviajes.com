@@ -4,6 +4,7 @@ type: "post"
 date: "2019-06-17 00:00:00"
 slug: "cadaques-joya-costa-brava-7731"
 categories: ["Europa","Playas"]
+tags: ["Catalunya","Ciudades","España","Europa","Playas"]
 image: "post-images/53e87bfede6a1s221281.jpg"
 ---
 

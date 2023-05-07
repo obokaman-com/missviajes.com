@@ -4,6 +4,7 @@ type: "post"
 date: "2007-05-11 00:00:00"
 slug: "camino-del-inca-5464"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Perú","Sudamerica"]
 image: "post-images/5464-12111.jpg"
 ---
 

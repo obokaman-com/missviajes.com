@@ -4,6 +4,7 @@ type: "post"
 date: "2019-12-04 00:00:00"
 slug: "ruta-cataros-historia-dels-bons-homes-9504"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Europa","Francia","Rutas"]
 image: "post-images/lastours.jpg"
 ---
 

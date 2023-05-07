@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-13 00:00:00"
 slug: "dublin-paseando-tabernas-11011"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Irlanda"]
 image: "post-images/dublin-top-ten-hapenny-bridge-bg-e1486804695713.jpg"
 ---
 

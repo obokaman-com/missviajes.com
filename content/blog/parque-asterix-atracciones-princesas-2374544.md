@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-16 17:00:00"
 slug: "parque-asterix-atracciones-princesas-2374544"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Asterix","Atracciones","Francia","Paris"]
 image: "post-images/54905031c3cb9s185197.jpg"
 ---
 

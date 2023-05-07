@@ -4,6 +4,7 @@ type: "post"
 date: "2012-06-02 12:28:00"
 slug: "10-mejores-hoteles-playa-espana-1959107"
 categories: ["Hoteles"]
+tags: ["Hoteles"]
 image: "post-images/4fc9d6a01a9ccs1187659.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-06-29 09:00:00"
 slug: "india-pais-sensaciones-5921"
 categories: ["Asia"]
+tags: ["Asia","India","Paises"]
 image: "post-images/558e5c543aa01s226811.jpg"
 ---
 

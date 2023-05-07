@@ -4,6 +4,7 @@ type: "post"
 date: "2009-03-20 09:30:00"
 slug: "oporto-foto-mes-187529"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes"]
 image: "post-background.jpg"
 ---
 

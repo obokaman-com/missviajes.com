@@ -4,6 +4,7 @@ type: "post"
 date: "2013-10-18 12:30:00"
 slug: "fiebre-brasil-preludio-mundial-futbol-2295787"
 categories: ["Actualidad","América"]
+tags: ["Brasil","Mundial 2014"]
 image: "post-images/52610b41e365as12192.jpg"
 ---
 

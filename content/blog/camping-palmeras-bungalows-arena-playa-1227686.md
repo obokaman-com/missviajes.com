@@ -4,6 +4,7 @@ type: "post"
 date: "2017-06-07 00:00:00"
 slug: "camping-palmeras-bungalows-arena-playa-1227686"
 categories: ["En Familia","Europa","Hoteles","Playas"]
+tags: ["Altafulla","Camping","Las Palmeras","Tendumi"]
 image: "post-images/campping-las-palmeras.jpg"
 ---
 

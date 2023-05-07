@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-30 00:00:00"
 slug: "viajar-movil-86825"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/86825-69928.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-12-11 10:32:00"
 slug: "amboseli-439917"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["África","Amboseli","Kenia"]
 image: "post-images/439917-206144.jpg"
 ---
 

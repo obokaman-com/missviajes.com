@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-28 15:52:00"
 slug: "jardin-familia-nomura-foto-mes-298633"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes","Japón","Kanazawa"]
 image: "post-background.jpg"
 ---
 

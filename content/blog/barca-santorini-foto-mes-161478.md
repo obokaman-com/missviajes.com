@@ -4,6 +4,7 @@ type: "post"
 date: "2009-01-16 00:00:00"
 slug: "barca-santorini-foto-mes-161478"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes","Grecia","Santorini"]
 image: "post-background.jpg"
 ---
 

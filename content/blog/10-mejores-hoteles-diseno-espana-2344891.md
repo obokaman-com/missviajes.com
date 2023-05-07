@@ -4,6 +4,7 @@ type: "post"
 date: "2014-04-28 09:42:00"
 slug: "10-mejores-hoteles-diseno-espana-2344891"
 categories: ["Actualidad","Europa","Hoteles"]
+tags: ["España","Hoteles"]
 image: "post-images/535d7a5491a6ds1966044.jpg"
 ---
 

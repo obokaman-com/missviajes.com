@@ -4,6 +4,7 @@ type: "post"
 date: "2016-02-24 08:00:00"
 slug: "vall-nuria-esquiar-familia-2411927"
 categories: ["En Familia"]
+tags: ["Catalunya","Esquí","Nieve","Ribesdefreser","Valldenuria"]
 image: "post-images/56cc75f312abes72305.jpg"
 ---
 

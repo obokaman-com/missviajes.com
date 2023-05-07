@@ -4,6 +4,7 @@ type: "post"
 date: "2018-01-15 00:00:00"
 slug: "sigiriya-roca-leon-2274315"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Sri Lanka"]
 image: "post-images/51a8a36363a8bs193954.jpg"
 ---
 

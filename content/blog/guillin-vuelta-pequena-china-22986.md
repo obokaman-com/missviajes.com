@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-09 09:00:00"
 slug: "guillin-vuelta-pequena-china-22986"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","China","Ciudades"]
 image: "post-images/5048770121e42s241381.jpg"
 ---
 

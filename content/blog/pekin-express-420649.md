@@ -4,6 +4,7 @@ type: "post"
 date: "2009-11-19 09:48:00"
 slug: "pekin-express-420649"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Opiniión","Pekín-Express","Televisión"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-12-29 09:44:00"
 slug: "hotel-melia-sky-barcelona-2406489"
 categories: ["Hoteles"]
+tags: ["Barcelona","Cataluña","Catalunya","Hoteles"]
 image: "post-images/5681b9e1adf0es24854.jpg"
 ---
 

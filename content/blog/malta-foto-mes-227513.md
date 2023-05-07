@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-27 20:16:00"
 slug: "malta-foto-mes-227513"
 categories: ["Sin Categoría"]
+tags: ["Europa","Foto Del Mes","Malta"]
 image: "post-background.jpg"
 ---
 

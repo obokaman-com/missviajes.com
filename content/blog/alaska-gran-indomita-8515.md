@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-30 00:00:00"
 slug: "alaska-gran-indomita-8515"
 categories: ["América"]
+tags: ["América","Eeuu","Parques"]
 image: "post-images/8515-10025.jpg"
 ---
 

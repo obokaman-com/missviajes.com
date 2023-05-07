@@ -4,6 +4,7 @@ type: "post"
 date: "2016-03-30 00:00:00"
 slug: "pals-joya-costa-brava-10605"
 categories: ["En Familia","Europa","Playas"]
+tags: ["Catalunya","Ciudades","Costa Brava","España","Europa","Playas"]
 image: "post-images/10605-11656.jpg"
 ---
 

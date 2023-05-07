@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-08 17:16:00"
 slug: "ganador-concurso-camara-cybershoot-292985"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/292985-160217.jpg"
 ---
 

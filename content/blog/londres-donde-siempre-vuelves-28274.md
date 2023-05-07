@@ -4,6 +4,7 @@ type: "post"
 date: "2016-06-27 09:00:00"
 slug: "londres-donde-siempre-vuelves-28274"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Gran Bretaña"]
 image: "post-images/51374ea6bd315s80843.jpg"
 ---
 

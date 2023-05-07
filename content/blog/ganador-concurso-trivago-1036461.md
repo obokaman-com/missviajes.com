@@ -4,6 +4,7 @@ type: "post"
 date: "2010-12-03 22:21:00"
 slug: "ganador-concurso-trivago-1036461"
 categories: ["Sin Categoría"]
+tags: ["Trivago"]
 image: "post-images/1036461-320076.jpg"
 ---
 

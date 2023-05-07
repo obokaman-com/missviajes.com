@@ -4,6 +4,7 @@ type: "post"
 date: "2019-03-11 00:00:00"
 slug: "visados-y-esta-que-necesito-2263313"
 categories: ["Cosas Varias"]
+tags: ["Visados","Webs"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-22 00:00:00"
 slug: "bora-bora-6981"
 categories: ["Oceania","Playas"]
+tags: ["Islas","Oceanía","Polinesia"]
 image: "post-images/6981-8903.jpg"
 ---
 

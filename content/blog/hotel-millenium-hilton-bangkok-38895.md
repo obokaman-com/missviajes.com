@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-22 00:00:00"
 slug: "hotel-millenium-hilton-bangkok-38895"
 categories: ["Sin Categoría"]
+tags: ["Asia","Bangkok","Hoteles","Thailandia"]
 image: "post-images/38895-37338.jpg"
 ---
 

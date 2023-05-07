@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-15 00:00:00"
 slug: "blog-action-day-2008-viajes-solidarios-136163"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Blog Action Day"]
 image: "post-images/136163-97131.jpg"
 ---
 

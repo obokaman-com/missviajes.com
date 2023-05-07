@@ -4,6 +4,7 @@ type: "post"
 date: "2018-05-08 00:00:00"
 slug: "benares-ciudad-santa-5910"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Benarés","Ciudades","India"]
 image: "post-images/526ed58d2d6c9s97019.jpg"
 ---
 

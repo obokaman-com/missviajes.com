@@ -4,6 +4,7 @@ type: "post"
 date: "2007-09-03 00:00:00"
 slug: "san-sebastian-22798"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","España","Europa","País Vasco"]
 image: "post-images/22798-24416.jpg"
 ---
 

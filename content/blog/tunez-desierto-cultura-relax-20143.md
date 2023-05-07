@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-04 09:00:00"
 slug: "tunez-desierto-cultura-relax-20143"
 categories: ["África"]
+tags: ["Oriente Medio","Paises","Túnez"]
 image: "post-images/20143-18736.jpg"
 ---
 

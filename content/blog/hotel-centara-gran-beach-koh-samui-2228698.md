@@ -4,6 +4,7 @@ type: "post"
 date: "2017-03-08 00:00:00"
 slug: "hotel-centara-gran-beach-koh-samui-2228698"
 categories: ["Asia","En Familia","Hoteles","Playas"]
+tags: ["Hoteles","Koh Samui","Tailandia"]
 image: "post-images/50c9c0ead95ces183340.jpg"
 ---
 

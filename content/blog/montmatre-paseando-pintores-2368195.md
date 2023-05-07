@@ -4,6 +4,7 @@ type: "post"
 date: "2014-10-16 15:01:00"
 slug: "montmatre-paseando-pintores-2368195"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Montmatre","Paris"]
 image: "post-images/543f9f7a6beabs223829.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-15 00:00:00"
 slug: "el-taj-mahal-191214"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["India","Taj Mahal","Tickets"]
 image: "post-images/51e00bfd93e0as207712.jpg"
 ---
 

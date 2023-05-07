@@ -4,6 +4,7 @@ type: "post"
 date: "2013-01-15 17:00:00"
 slug: "hotel-dusit-thani-laguna-phuket-10826"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Hoteles","Phuket","Thailandia"]
 image: "post-images/10826-11867.jpg"
 ---
 

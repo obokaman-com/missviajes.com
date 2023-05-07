@@ -4,6 +4,7 @@ type: "post"
 date: "2011-07-29 20:59:00"
 slug: "concurso-trivago-vete-viaje-face-book-1249184"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Trivago"]
 image: "post-images/5984534250_4a996d24cb.jpg"
 ---
 

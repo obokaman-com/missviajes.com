@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-16 00:00:00"
 slug: "camino-santiago-8676"
 categories: ["Cosas Varias","Europa"]
+tags: ["España","Europa","Rutas"]
 image: "post-images/8676-10218.jpg"
 ---
 

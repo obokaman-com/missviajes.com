@@ -4,6 +4,7 @@ type: "post"
 date: "2016-11-10 00:00:00"
 slug: "tossa-mar-playas-costa-brava-familia-1241136"
 categories: ["En Familia","Europa","Playas"]
+tags: ["Catalunya","Costa Brava","España","Playas","Tossa De Mar"]
 image: "post-images/4e21f4d05e900s2597924.jpg"
 ---
 

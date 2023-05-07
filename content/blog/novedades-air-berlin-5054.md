@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-21 00:00:00"
 slug: "novedades-air-berlin-5054"
 categories: ["Actualidad"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

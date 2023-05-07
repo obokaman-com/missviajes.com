@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-31 00:00:00"
 slug: "hotel-one-only-kanuhura-24415"
 categories: ["Sin Categoría"]
+tags: ["Asia","Hoteles","Maldivas","One &Amp; Only"]
 image: "post-images/24415-24041.jpg"
 ---
 

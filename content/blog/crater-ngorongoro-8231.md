@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-26 00:00:00"
 slug: "crater-ngorongoro-8231"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["África","Cráter Ngorongoro","Parques","Tanzania"]
 image: "post-images/8231-9801.jpg"
 ---
 

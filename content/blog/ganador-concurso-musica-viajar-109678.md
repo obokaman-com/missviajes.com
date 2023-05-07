@@ -4,6 +4,7 @@ type: "post"
 date: "2008-07-18 00:00:00"
 slug: "ganador-concurso-musica-viajar-109678"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Varios"]
 image: "post-images/109678-81388.jpg"
 ---
 

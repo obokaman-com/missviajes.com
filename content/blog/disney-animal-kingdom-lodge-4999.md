@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-29 00:00:00"
 slug: "disney-animal-kingdom-lodge-4999"
 categories: ["América","En Familia","Hoteles"]
+tags: ["América","Eeuu","Florida","Hoteles","Orlando"]
 image: "post-images/4999-5615.jpg"
 ---
 

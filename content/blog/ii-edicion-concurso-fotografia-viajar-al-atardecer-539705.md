@@ -4,6 +4,7 @@ type: "post"
 date: "2010-03-29 09:45:00"
 slug: "ii-edicion-concurso-fotografia-viajar-al-atardecer-539705"
 categories: ["Sin Categoría"]
+tags: ["Blogs","Webs"]
 image: "post-images/539705-232333.jpg"
 ---
 

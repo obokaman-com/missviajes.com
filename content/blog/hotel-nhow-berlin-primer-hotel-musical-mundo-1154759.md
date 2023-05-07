@@ -4,6 +4,7 @@ type: "post"
 date: "2011-01-18 20:46:00"
 slug: "hotel-nhow-berlin-primer-hotel-musical-mundo-1154759"
 categories: ["Europa","Hoteles"]
+tags: ["Berlin","Europa","Hoteles","Nhow"]
 image: "post-images/1154759-328078.jpg"
 ---
 

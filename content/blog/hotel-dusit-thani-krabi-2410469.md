@@ -4,6 +4,7 @@ type: "post"
 date: "2016-02-08 10:33:00"
 slug: "hotel-dusit-thani-krabi-2410469"
 categories: ["Hoteles"]
+tags: ["Asia","Dusit Thani","Hoteles","Krabi","Tailandia"]
 image: "post-images/56b85bba7f5dcs297875.jpg"
 ---
 

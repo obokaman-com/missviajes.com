@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-20 00:00:00"
 slug: "un-poquito-de-sentido-comun-por-favor-1238824"
 categories: ["Actualidad","Sin Categoría"]
+tags: ["Actualidad","Reflexiones"]
 image: "post-background.jpg"
 ---
 

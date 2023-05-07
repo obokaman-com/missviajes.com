@@ -4,6 +4,7 @@ type: "post"
 date: "2016-02-16 11:30:00"
 slug: "new-york-new-york-5000"
 categories: ["América"]
+tags: ["América","Ciudades","Eeuu"]
 image: "post-images/56c2f352457fds1104151.jpg"
 ---
 

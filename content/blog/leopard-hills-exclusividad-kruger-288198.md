@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-03 11:50:00"
 slug: "leopard-hills-exclusividad-kruger-288198"
 categories: ["África","Hoteles"]
+tags: ["África","Hoteles","Kruger","Lodge","Safari","Sudafrica"]
 image: "post-images/288198-157730.jpg"
 ---
 

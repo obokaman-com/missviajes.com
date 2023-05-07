@@ -4,6 +4,7 @@ type: "post"
 date: "2010-04-26 22:21:00"
 slug: "parque-nacional-denali-tierra-contrastes-alaska-559984"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Alaska","América","Parques"]
 image: "post-background.jpg"
 ---
 

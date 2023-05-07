@@ -4,6 +4,7 @@ type: "post"
 date: "2016-09-19 00:00:00"
 slug: "quebec-capital-quebecoise-20146"
 categories: ["América"]
+tags: ["América","Canadá","Ciudades","Costa Este"]
 image: "post-images/4eb86a2b0db41s1427246.jpg"
 ---
 

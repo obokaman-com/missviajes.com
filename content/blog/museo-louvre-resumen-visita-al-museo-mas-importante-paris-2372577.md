@@ -4,6 +4,7 @@ type: "post"
 date: "2019-11-29 00:00:00"
 slug: "museo-louvre-resumen-visita-al-museo-mas-importante-paris-2372577"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["@Louvre","Paris","Tickets"]
 image: "post-images/5475af6fd93c9s65541.jpg"
 ---
 

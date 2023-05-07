@@ -4,6 +4,7 @@ type: "post"
 date: "2012-02-02 10:26:00"
 slug: "hizo-mal-spanairr-1412896"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

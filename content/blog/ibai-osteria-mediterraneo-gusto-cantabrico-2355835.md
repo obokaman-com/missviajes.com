@@ -4,6 +4,7 @@ type: "post"
 date: "2014-07-21 09:20:00"
 slug: "ibai-osteria-mediterraneo-gusto-cantabrico-2355835"
 categories: ["Cosas Varias","Europa"]
+tags: ["Catalunya","Hoteles"]
 image: "post-images/53ca4010e52abs101232.jpg"
 ---
 

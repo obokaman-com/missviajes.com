@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-28 21:43:00"
 slug: "recuerdo-japon-1183513"
 categories: ["Actualidad"]
+tags: ["Actualidad","El Pachinko","Japón"]
 image: "post-images/1183513-339065.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-04-05 15:43:00"
 slug: "trajinando-mundo-viaje-uruguay-1757049"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Blogs"]
 image: "post-background.jpg"
 ---
 

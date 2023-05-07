@@ -4,6 +4,7 @@ type: "post"
 date: "2014-06-25 11:00:00"
 slug: "whale-island-aislado-mundo-138706"
 categories: ["Asia","Hoteles","Playas"]
+tags: ["Asia","Nha Trang","Playas","Vietnam","Whale Island"]
 image: "post-images/53aa8aafeaf71s80013.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-01 09:30:00"
 slug: "korean-air-apostando-futuro-2268633"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Aéreo"]
 image: "post-images/517fd00260496s12358.jpg"
 ---
 

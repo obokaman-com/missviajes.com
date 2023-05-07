@@ -4,6 +4,7 @@ type: "post"
 date: "2014-06-04 15:23:00"
 slug: "pasando-tailandiar-2349705"
 categories: ["Actualidad"]
+tags: ["Actualidad","Tailandia"]
 image: "post-background.jpg"
 ---
 

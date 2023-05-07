@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-22 00:00:00"
 slug: "feliz-navidad-162360"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/162360-109697.jpg"
 ---
 

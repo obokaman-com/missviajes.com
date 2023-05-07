@@ -4,6 +4,7 @@ type: "post"
 date: "2009-08-25 12:11:00"
 slug: "hotel-san-roman-escalante-318032"
 categories: ["Sin Categoría"]
+tags: ["Cantabria","España","Europa","Hoteles"]
 image: "post-images/318032-175522.jpg"
 ---
 

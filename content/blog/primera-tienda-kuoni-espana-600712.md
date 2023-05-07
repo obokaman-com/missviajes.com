@@ -4,6 +4,7 @@ type: "post"
 date: "2010-05-24 01:34:00"
 slug: "primera-tienda-kuoni-espana-600712"
 categories: ["Sin Categoría"]
+tags: ["Kuoni","Madrid","Viajes"]
 image: "post-images/600712-252019.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-06-22 16:24:00"
 slug: "nara-visita-obligada-japon-559986"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Ciudades","Japón","Nara"]
 image: "post-background.jpg"
 ---
 

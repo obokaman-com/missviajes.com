@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-18 10:04:00"
 slug: "enoturismo-vendimia-327521"
 categories: ["Cosas Varias"]
+tags: ["Enoturismo","Uvinum","Vendimia"]
 image: "post-images/327521-179299.jpg"
 ---
 

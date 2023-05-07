@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-16 20:34:00"
 slug: "vancouver-279180"
 categories: ["Sin Categoría"]
+tags: ["América","Canadá","Vancouver"]
 image: "post-background.jpg"
 ---
 

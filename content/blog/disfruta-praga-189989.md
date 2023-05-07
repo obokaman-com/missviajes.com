@@ -4,6 +4,7 @@ type: "post"
 date: "2009-01-26 00:00:00"
 slug: "disfruta-praga-189989"
 categories: ["Sin Categoría"]
+tags: ["Novedades","Web"]
 image: "post-images/189989-116329.jpg"
 ---
 

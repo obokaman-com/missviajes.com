@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-30 10:08:00"
 slug: "espanoles-optan-ano-nacional-377237"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Noticias"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-04-02 15:56:00"
 slug: "nuevo-visado-india-1741248"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","India","Visado"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-08 12:15:05"
 slug: "boston-ciudad-kennedy-60046"
 categories: ["Sin Categoría"]
+tags: ["América","Ciudades","Eeuu"]
 image: "post-images/60046-51970.jpg"
 ---
 

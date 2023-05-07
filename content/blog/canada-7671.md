@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-09 00:00:00"
 slug: "canada-7671"
 categories: ["América"]
+tags: ["América","Paises"]
 image: "post-images/7671-9216.jpg"
 ---
 

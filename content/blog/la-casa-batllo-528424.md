@@ -4,6 +4,7 @@ type: "post"
 date: "2016-05-09 00:00:00"
 slug: "la-casa-batllo-528424"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Barcelona","Cataluña","España","Europa","Gaudí","Tickets"]
 image: "post-images/casa-batllo-roof-top-300x169.jpg"
 ---
 

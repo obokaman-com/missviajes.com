@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-14 10:21:00"
 slug: "lagos-foto-mes-319817"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes","Lagos","Portugal"]
 image: "post-background.jpg"
 ---
 

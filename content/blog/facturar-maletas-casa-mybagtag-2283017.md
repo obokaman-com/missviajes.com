@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-25 09:30:00"
 slug: "facturar-maletas-casa-mybagtag-2283017"
 categories: ["Cosas Varias"]
+tags: ["Aéreos"]
 image: "post-background.jpg"
 ---
 

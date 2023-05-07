@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-03 09:22:00"
 slug: "playas-tailandia-escapada-al-paraiso-1169792"
 categories: ["Asia","Playas"]
+tags: ["Asia","Playas","Tailandia"]
 image: "post-images/1169792-335055.jpg"
 ---
 

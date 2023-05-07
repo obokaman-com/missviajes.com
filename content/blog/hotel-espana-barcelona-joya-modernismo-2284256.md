@@ -4,6 +4,7 @@ type: "post"
 date: "2018-01-29 00:00:00"
 slug: "hotel-espana-barcelona-joya-modernismo-2284256"
 categories: ["Europa","Hoteles"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/51ff7e1f60bacs135719.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2018-03-02 00:00:00"
 slug: "hotel-pullman-barcelona-skipper-2279808"
 categories: ["Cosas Varias","Europa"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/51d6d7002c5ccs115923.jpg"
 ---
 

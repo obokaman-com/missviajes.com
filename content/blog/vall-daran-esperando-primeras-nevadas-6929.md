@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-25 16:30:00"
 slug: "vall-daran-esperando-primeras-nevadas-6929"
 categories: ["Europa"]
+tags: ["Cataluña","España","Esquí","Europa","Parques"]
 image: "post-images/528f30bf46946s207214.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-11-11 10:00:00"
 slug: "concurso-altair-cumpleanos-missviajes-374384"
 categories: ["Sin Categoría"]
+tags: ["Altaïr","Cumpleaños","Missviajes"]
 image: "post-images/374384-197984.jpg"
 ---
 

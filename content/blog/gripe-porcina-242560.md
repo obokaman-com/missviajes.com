@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-30 09:27:00"
 slug: "gripe-porcina-242560"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","La Gripe Porcina","Oms"]
 image: "post-background.jpg"
 ---
 

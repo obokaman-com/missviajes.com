@@ -4,6 +4,7 @@ type: "post"
 date: "2015-02-02 02:30:00"
 slug: "delfos-mas-famoso-oraculos-343051"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Delfos","Grecia","Tickets"]
 image: "post-images/54cb999faa376s375651.jpg"
 ---
 

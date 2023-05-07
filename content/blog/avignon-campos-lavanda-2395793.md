@@ -4,6 +4,7 @@ type: "post"
 date: "2020-01-28 00:00:00"
 slug: "avignon-campos-lavanda-2395793"
 categories: ["Europa"]
+tags: ["Avignon","Francia"]
 image: "post-images/55cdf4c694e49s336491.jpg"
 ---
 

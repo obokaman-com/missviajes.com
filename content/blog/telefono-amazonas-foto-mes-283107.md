@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-26 20:50:00"
 slug: "telefono-amazonas-foto-mes-283107"
 categories: ["Sin Categoría"]
+tags: ["Amazonas","América","Brasil","Foto Del Mes"]
 image: "post-images/283107-154803.jpg"
 ---
 

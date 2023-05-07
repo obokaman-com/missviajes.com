@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-16 00:00:00"
 slug: "nueva-comunidad-fotos-missviajes-22398"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

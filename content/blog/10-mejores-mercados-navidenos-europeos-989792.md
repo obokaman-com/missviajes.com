@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-15 20:23:00"
 slug: "10-mejores-mercados-navidenos-europeos-989792"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
+tags: ["Actualidad","Liligo","Mercados Navideños"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-05-14 23:30:00"
 slug: "busco-un-viaje-1948512"
 categories: ["Cosas Varias"]
+tags: ["Premios","Webs"]
 image: "post-images/4fb2c8737f664s223565.jpg"
 ---
 

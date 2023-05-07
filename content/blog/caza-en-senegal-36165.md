@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-15 00:00:00"
 slug: "caza-en-senegal-36165"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

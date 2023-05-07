@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-08 21:51:00"
 slug: "la-gomera-223854"
 categories: ["Sin Categoría"]
+tags: ["Canarias","España","Europa","Islas","La Gomera","Playas"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-11-09 09:00:00"
 slug: "paseo-toscana-305719"
 categories: ["Europa"]
+tags: ["Europa","Italia","Ruta","Toscana"]
 image: "post-images/563382331f4dds241834.jpg"
 ---
 

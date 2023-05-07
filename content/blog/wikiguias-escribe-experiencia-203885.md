@@ -4,6 +4,7 @@ type: "post"
 date: "2009-03-11 09:30:00"
 slug: "wikiguias-escribe-experiencia-203885"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-images/203885-124796.jpg"
 ---
 

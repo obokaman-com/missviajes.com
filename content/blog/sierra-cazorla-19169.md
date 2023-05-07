@@ -4,6 +4,7 @@ type: "post"
 date: "2016-04-07 13:30:00"
 slug: "sierra-cazorla-19169"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","España","Europa","Jaén","Parques"]
 image: "post-images/19169-21162-1-300x190.jpg"
 ---
 

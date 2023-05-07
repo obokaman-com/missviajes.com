@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-18 15:04:00"
 slug: "airbnb-nueva-forma-viajar-993844"
 categories: ["Cosas Varias","Hoteles"]
+tags: ["Actualidad","Airbnb"]
 image: "post-images/993844-315218.jpg"
 ---
 

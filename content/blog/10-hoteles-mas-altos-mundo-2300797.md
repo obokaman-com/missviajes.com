@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-15 09:00:00"
 slug: "10-hoteles-mas-altos-mundo-2300797"
 categories: ["Cosas Varias","Hoteles"]
+tags: ["Hoteles","Trivago"]
 image: "post-images/52823fcbe1cf4s105408.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-30 12:46:00"
 slug: "american-airlines-suspension-pagos-1328149"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-01-28 00:00:00"
 slug: "lake-palace-udaipur-hotel-reyes-11865"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Hoteles","India","Rajasthan","Udaipur"]
 image: "post-images/11865-12912.jpg"
 ---
 

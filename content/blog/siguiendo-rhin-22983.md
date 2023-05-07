@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-29 00:00:00"
 slug: "siguiendo-rhin-22983"
 categories: ["Sin Categoría"]
+tags: ["Alemania","Europa","Rutas"]
 image: "post-images/22983-24030.jpg"
 ---
 

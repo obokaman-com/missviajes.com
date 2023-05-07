@@ -4,6 +4,7 @@ type: "post"
 date: "2008-07-25 00:00:00"
 slug: "bali-foto-mes-108964"
 categories: ["Sin Categoría"]
+tags: ["Asia","Foto Del Mes","Indonesia","Playas"]
 image: "post-images/108964-82626.jpg"
 ---
 

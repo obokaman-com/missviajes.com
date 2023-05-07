@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-29 20:27:00"
 slug: "acueducto-segovia-foto-mes-250267"
 categories: ["Sin Categoría"]
+tags: ["España","Europa","Foto Del Mes","Segovia"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-14 20:51:00"
 slug: "ayuda-humanitaria-haiti-501118"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Haití","Terremoto"]
 image: "post-images/501118-212782.jpg"
 ---
 

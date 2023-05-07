@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-25 22:10:00"
 slug: "concurso-trivago-239609"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-background.jpg"
 ---
 

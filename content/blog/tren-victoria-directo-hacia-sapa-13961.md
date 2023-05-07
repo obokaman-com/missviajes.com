@@ -4,6 +4,7 @@ type: "post"
 date: "2015-01-19 09:45:00"
 slug: "tren-victoria-directo-hacia-sapa-13961"
 categories: ["Asia","Cosas Varias","Visitas Y Excursiones"]
+tags: ["Asia","Hoteles","Lao Cai","Sapa","Trenes","Vietnam"]
 image: "post-images/13961-15712.jpg"
 ---
 

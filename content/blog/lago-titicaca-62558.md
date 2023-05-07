@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-21 00:00:00"
 slug: "lago-titicaca-62558"
 categories: ["Sin Categoría"]
+tags: ["América","Paisajes","Perú","Titicaca"]
 image: "post-images/62558-53593.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-31 00:00:00"
 slug: "hotel-newport-bay-club-eurodisney-2249266"
 categories: ["En Familia","Europa","Hoteles"]
+tags: ["Eurodisney","Hoteles","Paris"]
 image: "post-images/511bb829aaf8fs134922.jpg"
 ---
 

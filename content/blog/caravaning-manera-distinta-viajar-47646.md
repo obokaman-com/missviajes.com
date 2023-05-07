@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-08 00:00:00"
 slug: "caravaning-manera-distinta-viajar-47646"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

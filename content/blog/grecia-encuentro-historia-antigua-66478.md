@@ -4,6 +4,7 @@ type: "post"
 date: "2014-02-14 17:00:00"
 slug: "grecia-encuentro-historia-antigua-66478"
 categories: ["Europa"]
+tags: ["Europa","Grecia","Paises"]
 image: "post-images/52fe2cf2d7e24s264992.jpg"
 ---
 

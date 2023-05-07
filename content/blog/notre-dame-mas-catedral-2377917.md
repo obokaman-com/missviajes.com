@@ -4,6 +4,7 @@ type: "post"
 date: "2015-01-23 15:30:00"
 slug: "notre-dame-mas-catedral-2377917"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Notre Dame","Paris","Tickets"]
 image: "post-images/54c257d9ab230s164569.jpg"
 ---
 

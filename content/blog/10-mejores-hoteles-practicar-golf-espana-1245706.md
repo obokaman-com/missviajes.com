@@ -4,6 +4,7 @@ type: "post"
 date: "2011-07-26 23:40:00"
 slug: "10-mejores-hoteles-practicar-golf-espana-1245706"
 categories: ["Europa","Hoteles"]
+tags: ["Actualidad","Golf","Hoteles","Los Top 10","Trivago"]
 image: "post-images/golf_course_8.jpg"
 ---
 

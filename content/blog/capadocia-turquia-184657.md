@@ -4,6 +4,7 @@ type: "post"
 date: "2015-05-18 11:00:00"
 slug: "capadocia-turquia-184657"
 categories: ["Europa"]
+tags: ["Capadocia","Europa","Turquía"]
 image: "post-images/5559a8b072d9bs85883.jpg"
 ---
 

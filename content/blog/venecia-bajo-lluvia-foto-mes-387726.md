@@ -4,6 +4,7 @@ type: "post"
 date: "2009-11-24 10:16:00"
 slug: "venecia-bajo-lluvia-foto-mes-387726"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Foto Del Mes","Italia","Venecia"]
 image: "post-background.jpg"
 ---
 

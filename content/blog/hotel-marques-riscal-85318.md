@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-26 00:00:00"
 slug: "hotel-marques-riscal-85318"
 categories: ["Sin Categoría"]
+tags: ["Enoturismo","España","Europa","Hoteles","Marqués De Riscal","País Vasco"]
 image: "post-images/85318-68085.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2020-03-09 00:00:00"
 slug: "fuerteventura-isla-tranquila-6840"
 categories: ["Europa","Playas"]
+tags: ["Canarias","España","Europa","Fuerteventura","Islas"]
 image: "post-images/53f1b0166df6bs490591.jpg"
 ---
 

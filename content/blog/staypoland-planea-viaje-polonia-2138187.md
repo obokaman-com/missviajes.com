@@ -4,6 +4,7 @@ type: "post"
 date: "2012-08-27 10:05:00"
 slug: "staypoland-planea-viaje-polonia-2138187"
 categories: ["Cosas Varias","Europa"]
+tags: ["Polonia"]
 image: "post-images/503cc9bc57411s5240.jpg"
 ---
 

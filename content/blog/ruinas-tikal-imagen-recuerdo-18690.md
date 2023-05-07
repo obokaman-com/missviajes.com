@@ -4,6 +4,7 @@ type: "post"
 date: "2018-07-19 00:00:00"
 slug: "ruinas-tikal-imagen-recuerdo-18690"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Guatemala","Parques","Tikal"]
 image: "post-images/full_tikal_02_big.jpg"
 ---
 

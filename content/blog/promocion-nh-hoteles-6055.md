@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-18 00:00:00"
 slug: "promocion-nh-hoteles-6055"
 categories: ["Sin Categoría"]
+tags: ["Hoteles","Promociones","Varios"]
 image: "post-background.jpg"
 ---
 

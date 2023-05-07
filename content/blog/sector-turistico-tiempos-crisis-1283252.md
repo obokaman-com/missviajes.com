@@ -4,6 +4,7 @@ type: "post"
 date: "2011-09-27 22:17:00"
 slug: "sector-turistico-tiempos-crisis-1283252"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

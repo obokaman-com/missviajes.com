@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-14 00:00:00"
 slug: "nueva-normativa-equipaje-4997"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Equipaje","Legislación","Noticias","Seguridad"]
 image: "post-background.jpg"
 ---
 

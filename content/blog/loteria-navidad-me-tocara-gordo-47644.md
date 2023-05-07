@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-19 00:00:00"
 slug: "loteria-navidad-me-tocara-gordo-47644"
 categories: ["Actualidad"]
+tags: ["Varios"]
 image: "post-images/548fef7749eecs3469717.jpg"
 ---
 

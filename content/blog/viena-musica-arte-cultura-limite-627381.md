@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-04 12:28:00"
 slug: "viena-musica-arte-cultura-limite-627381"
 categories: ["Europa"]
+tags: ["Austria","Ciudades","Europa","Viena"]
 image: "post-background.jpg"
 ---
 

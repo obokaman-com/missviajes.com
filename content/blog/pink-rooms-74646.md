@@ -4,6 +4,7 @@ type: "post"
 date: "2008-04-10 00:00:00"
 slug: "pink-rooms-74646"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Hoteles"]
 image: "post-background.jpg"
 ---
 

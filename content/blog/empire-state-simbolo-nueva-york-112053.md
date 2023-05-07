@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-08 09:30:00"
 slug: "empire-state-simbolo-nueva-york-112053"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["América","Eeuu","Nueva York","Visitas"]
 image: "post-images/112053-83257.jpg"
 ---
 

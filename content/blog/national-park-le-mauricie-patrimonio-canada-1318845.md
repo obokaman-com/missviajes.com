@@ -4,6 +4,7 @@ type: "post"
 date: "2016-09-27 00:00:00"
 slug: "national-park-le-mauricie-patrimonio-canada-1318845"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Canadá","Parques"]
 image: "post-images/4ecfe8af90df4s1243497.jpg"
 ---
 

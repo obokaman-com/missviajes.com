@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-05 09:00:00"
 slug: "senegal-pais-tradiciones-10646"
 categories: ["África"]
+tags: ["África","Paises","Senegal"]
 image: "post-images/10646-14548.jpg"
 ---
 

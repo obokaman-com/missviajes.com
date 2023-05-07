@@ -4,6 +4,7 @@ type: "post"
 date: "2011-01-26 20:24:00"
 slug: "10-mejores-aeropuertos-mundo-1159479"
 categories: ["Hoteles"]
+tags: ["Actualidad","Aeropuertos"]
 image: "post-images/1159479-329017.jpg"
 ---
 

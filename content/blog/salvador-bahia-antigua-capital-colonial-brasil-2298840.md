@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-11 09:37:00"
 slug: "salvador-bahia-antigua-capital-colonial-brasil-2298840"
 categories: ["América"]
+tags: ["Brasil","Salvador De Bahia"]
 image: "post-images/527aace7b910es90733.jpg"
 ---
 

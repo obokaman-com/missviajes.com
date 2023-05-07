@@ -4,6 +4,7 @@ type: "post"
 date: "2018-02-01 00:00:00"
 slug: "ribes-freser-puerta-vall-nuria-2296217"
 categories: ["En Familia","Europa"]
+tags: ["Catalunya","Ribes De Freser"]
 image: "post-images/52667931eed85s210449.jpg"
 ---
 

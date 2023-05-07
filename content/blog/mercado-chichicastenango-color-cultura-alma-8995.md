@@ -4,6 +4,7 @@ type: "post"
 date: "2019-04-29 00:00:00"
 slug: "mercado-chichicastenango-color-cultura-alma-8995"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Chichicastenango","Guatemala"]
 image: "post-images/8995-10311.jpg"
 ---
 

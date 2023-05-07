@@ -4,6 +4,7 @@ type: "post"
 date: "2013-08-20 20:00:00"
 slug: "huahine-jardin-secreto-416040"
 categories: ["Oceania","Playas"]
+tags: ["Huahine","Playas","Polinesia"]
 image: "post-background.jpg"
 ---
 

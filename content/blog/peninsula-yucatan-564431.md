@@ -4,6 +4,7 @@ type: "post"
 date: "2010-04-21 17:06:00"
 slug: "peninsula-yucatan-564431"
 categories: ["América"]
+tags: ["Cancún","Caribe","México","Playas","Yucatán"]
 image: "post-images/564431-240253.jpg"
 ---
 

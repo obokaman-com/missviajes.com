@@ -4,6 +4,7 @@ type: "post"
 date: "2015-09-16 09:13:00"
 slug: "mejor-koh-samui-pequeno-paraiso-golfo-tailandia-2398216"
 categories: ["Asia","Playas"]
+tags: ["Islas","Koh Samui","Samui","Tailandia","Thailandia"]
 image: "post-images/55f82926cf3bds176187.jpg"
 ---
 

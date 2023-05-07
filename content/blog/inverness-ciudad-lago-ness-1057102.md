@@ -4,6 +4,7 @@ type: "post"
 date: "2016-08-23 00:00:00"
 slug: "inverness-ciudad-lago-ness-1057102"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Escocia","Europa","Highlands","Inverness"]
 image: "post-images/1057102-322057.jpg"
 ---
 

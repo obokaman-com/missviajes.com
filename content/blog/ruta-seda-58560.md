@@ -4,6 +4,7 @@ type: "post"
 date: "2008-07-11 00:00:00"
 slug: "ruta-seda-58560"
 categories: ["Sin Categoría"]
+tags: ["Asia","Rutas"]
 image: "post-images/58560-80170.jpg"
 ---
 

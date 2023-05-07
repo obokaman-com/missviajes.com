@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-05 00:00:00"
 slug: "viajar-ninos-gratis-royal-caribbean-167768"
 categories: ["Sin Categoría"]
+tags: ["Cruceros","Missviajecitos","Viajar Con Niños"]
 image: "post-images/167768-106597.jpg"
 ---
 

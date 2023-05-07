@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-21 00:00:00"
 slug: "disfruta-venecia-157981"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Webs"]
 image: "post-images/157981-104811.jpg"
 ---
 

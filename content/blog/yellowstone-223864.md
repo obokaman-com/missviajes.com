@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-25 12:00:00"
 slug: "yellowstone-223864"
 categories: ["América","En Familia","Visitas Y Excursiones"]
+tags: ["América","Eeuu","Yellowstone"]
 image: "post-background.jpg"
 ---
 

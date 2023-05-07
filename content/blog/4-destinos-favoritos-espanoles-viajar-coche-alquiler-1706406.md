@@ -4,6 +4,7 @@ type: "post"
 date: "2012-03-27 13:07:00"
 slug: "4-destinos-favoritos-espanoles-viajar-coche-alquiler-1706406"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Avis"]
 image: "post-images/4f71b8efd9525s869539.jpg"
 ---
 

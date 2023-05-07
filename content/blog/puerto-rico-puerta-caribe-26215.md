@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-08 09:25:00"
 slug: "puerto-rico-puerta-caribe-26215"
 categories: ["América"]
+tags: ["Caribe","Paises","Puerto Rico"]
 image: "post-images/5188ff4c80a85s345247.jpg"
 ---
 

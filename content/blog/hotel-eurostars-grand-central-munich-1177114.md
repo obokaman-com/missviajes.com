@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-19 13:22:00"
 slug: "hotel-eurostars-grand-central-munich-1177114"
 categories: ["Europa","Hoteles"]
+tags: ["Alemania","Europa","Eurostars","Hoteles","Munich"]
 image: "post-images/1177114-337740.jpg"
 ---
 

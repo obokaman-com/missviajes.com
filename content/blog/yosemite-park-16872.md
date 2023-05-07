@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-02 09:00:00"
 slug: "yosemite-park-16872"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Eeuu","Parques"]
 image: "post-background.jpg"
 ---
 

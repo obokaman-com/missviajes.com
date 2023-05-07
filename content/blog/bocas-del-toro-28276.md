@@ -4,6 +4,7 @@ type: "post"
 date: "2013-02-26 09:00:00"
 slug: "bocas-del-toro-28276"
 categories: ["América","Playas"]
+tags: ["América","Panamá","Playas"]
 image: "post-images/28276-31446.jpg"
 ---
 

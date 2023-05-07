@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-25 20:11:00"
 slug: "paris-en-bici-1211489"
 categories: ["Europa"]
+tags: ["Actualidad","Blogs","Europa","Francia","Paris"]
 image: "post-background.jpg"
 ---
 

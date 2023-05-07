@@ -4,6 +4,7 @@ type: "post"
 date: "2020-02-03 00:00:00"
 slug: "siem-reap-templos-angkor-2403658"
 categories: ["Asia","En Familia","Visitas Y Excursiones"]
+tags: ["Angkor","Angkorwat","Asia","Camboya","Siem Reap"]
 image: "post-images/5652428b1e5ebs423885.jpg"
 ---
 

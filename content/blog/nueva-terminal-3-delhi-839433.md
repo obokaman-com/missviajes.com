@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-02 12:09:00"
 slug: "nueva-terminal-3-delhi-839433"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aeropuertos","Asia","Delhi","India"]
 image: "post-images/839433-277745.jpg"
 ---
 

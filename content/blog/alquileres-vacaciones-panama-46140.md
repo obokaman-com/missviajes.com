@@ -4,6 +4,7 @@ type: "post"
 date: "2007-12-14 00:00:00"
 slug: "alquileres-vacaciones-panama-46140"
 categories: ["Sin Categoría"]
+tags: ["Alquiler","Apartamento","Panamá","Varios"]
 image: "post-images/46140-41791.jpg"
 ---
 

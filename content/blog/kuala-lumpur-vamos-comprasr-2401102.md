@@ -4,6 +4,7 @@ type: "post"
 date: "2015-10-20 16:00:00"
 slug: "kuala-lumpur-vamos-comprasr-2401102"
 categories: ["Asia"]
+tags: ["Asia","Ciudades","Kuala Lumpur","Malasia"]
 image: "post-images/56262f817d25ds691854.jpg"
 ---
 

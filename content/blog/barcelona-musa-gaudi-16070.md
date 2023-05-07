@@ -4,6 +4,7 @@ type: "post"
 date: "2017-08-23 00:00:00"
 slug: "barcelona-musa-gaudi-16070"
 categories: ["Europa"]
+tags: ["Cataluña","Catalunya","Ciudades","España","Europa"]
 image: "post-images/568a749cc2d23s171525.jpg"
 ---
 

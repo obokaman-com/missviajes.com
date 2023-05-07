@@ -4,6 +4,7 @@ type: "post"
 date: "2011-06-08 15:30:00"
 slug: "traveldog-viajes-confortables-mascota-1217687"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Traveldog","Webs"]
 image: "post-images/traveldog.jpg"
 ---
 

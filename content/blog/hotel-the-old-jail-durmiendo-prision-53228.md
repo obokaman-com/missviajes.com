@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-29 00:00:00"
 slug: "hotel-the-old-jail-durmiendo-prision-53228"
 categories: ["Sin Categoría"]
+tags: ["Australia","Hoteles","Mount Gambier"]
 image: "post-background.jpg"
 ---
 

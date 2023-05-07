@@ -4,6 +4,7 @@ type: "post"
 date: "2012-05-03 15:48:00"
 slug: "milford-sound-gran-tesoro-new-zealand-1809422"
 categories: ["Oceania","Visitas Y Excursiones"]
+tags: ["Nueva Zelanda","Oceanía"]
 image: "post-background.jpg"
 ---
 

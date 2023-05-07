@@ -4,6 +4,7 @@ type: "post"
 date: "2015-04-13 09:00:00"
 slug: "delta-ebro-escapada-familia-arrozales-1192490"
 categories: ["En Familia","Europa"]
+tags: ["Cataluña","España","Europa","Parques"]
 image: "post-images/55253ced4b813s149748.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-10-23 16:38:00"
 slug: "compras-hoi-an-12305"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Ciudades","Hoi An","Vietnam"]
 image: "post-images/12305-13728.jpg"
 ---
 

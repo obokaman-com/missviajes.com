@@ -4,6 +4,7 @@ type: "post"
 date: "2013-06-06 23:30:00"
 slug: "viajes-caprabo-nuevo-agencia-viajes-online-2275470"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

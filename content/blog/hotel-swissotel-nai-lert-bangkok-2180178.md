@@ -4,6 +4,7 @@ type: "post"
 date: "2016-03-20 09:04:00"
 slug: "hotel-swissotel-nai-lert-bangkok-2180178"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Bangkok","Hoteles","Tailandia"]
 image: "post-images/508e807325619s307453.jpg"
 ---
 

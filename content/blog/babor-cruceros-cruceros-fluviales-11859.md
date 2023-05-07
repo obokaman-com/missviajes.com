@@ -4,6 +4,7 @@ type: "post"
 date: "2007-05-24 00:00:00"
 slug: "babor-cruceros-cruceros-fluviales-11859"
 categories: ["Sin Categoría"]
+tags: ["Cruceros"]
 image: "post-background.jpg"
 ---
 

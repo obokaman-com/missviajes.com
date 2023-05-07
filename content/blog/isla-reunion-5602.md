@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-21 00:00:00"
 slug: "isla-reunion-5602"
 categories: ["África","Playas"]
+tags: ["África","Islas"]
 image: "post-images/5602-6125.jpg"
 ---
 

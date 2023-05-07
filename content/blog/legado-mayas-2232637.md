@@ -4,6 +4,7 @@ type: "post"
 date: "2012-12-18 08:55:00"
 slug: "legado-mayas-2232637"
 categories: ["América","Cosas Varias"]
+tags: ["México","Sudamerica","Yucatán"]
 image: "post-background.jpg"
 ---
 

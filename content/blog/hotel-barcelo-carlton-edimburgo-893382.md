@@ -4,6 +4,7 @@ type: "post"
 date: "2010-10-01 00:00:00"
 slug: "hotel-barcelo-carlton-edimburgo-893382"
 categories: ["Europa","Hoteles"]
+tags: ["Barceló","Edimburgo","Europa","Hoteles","Reino Unido"]
 image: "post-images/893382-300226.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-01-19 00:00:00"
 slug: "viajes-ofertasnet-186387"
 categories: ["Sin Categoría"]
+tags: ["Webs"]
 image: "post-background.jpg"
 ---
 

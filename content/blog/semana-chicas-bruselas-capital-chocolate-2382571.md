@@ -4,6 +4,7 @@ type: "post"
 date: "2015-03-17 14:15:00"
 slug: "semana-chicas-bruselas-capital-chocolate-2382571"
 categories: ["Cosas Varias","Europa"]
+tags: ["Bélgica","Bruselas","Ciudades"]
 image: "post-images/555c3fbd89e24s149966.jpg"
 ---
 

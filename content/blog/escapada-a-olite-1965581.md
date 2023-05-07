@@ -4,6 +4,7 @@ type: "post"
 date: "2017-10-20 00:00:00"
 slug: "escapada-a-olite-1965581"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["España","Navarra","Olite"]
 image: "post-images/Fiestas_Medievales_Olite_Navarra_2.jpg"
 ---
 

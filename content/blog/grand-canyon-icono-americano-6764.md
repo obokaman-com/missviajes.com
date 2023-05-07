@@ -4,6 +4,7 @@ type: "post"
 date: "2018-03-22 00:00:00"
 slug: "grand-canyon-icono-americano-6764"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Eeuu","Grand Canyon","Parques"]
 image: "post-images/52974fd90e29bs411515.jpg"
 ---
 

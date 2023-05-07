@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-04 00:00:00"
 slug: "hotel-casa-santo-domingo-5003"
 categories: ["América","Hoteles"]
+tags: ["América","Antigua","Guatemala","Hoteles"]
 image: "post-images/5003-6742.jpg"
 ---
 

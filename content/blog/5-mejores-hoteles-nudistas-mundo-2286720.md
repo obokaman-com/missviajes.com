@@ -4,6 +4,7 @@ type: "post"
 date: "2019-04-22 00:00:00"
 slug: "5-mejores-hoteles-nudistas-mundo-2286720"
 categories: ["Cosas Varias","Hoteles"]
+tags: ["Hoteles","Trivago"]
 image: "post-background.jpg"
 ---
 

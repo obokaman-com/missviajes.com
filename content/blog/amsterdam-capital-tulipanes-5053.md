@@ -4,6 +4,7 @@ type: "post"
 date: "2015-03-05 09:00:00"
 slug: "amsterdam-capital-tulipanes-5053"
 categories: ["Europa"]
+tags: ["Amsterdam","Ciudades","Europa","Holanda"]
 image: "post-images/54f6dd098abafs442968.jpg"
 ---
 

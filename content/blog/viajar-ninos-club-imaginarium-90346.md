@@ -4,6 +4,7 @@ type: "post"
 date: "2008-08-08 00:00:00"
 slug: "viajar-ninos-club-imaginarium-90346"
 categories: ["Sin Categoría"]
+tags: ["Missviajecitos"]
 image: "post-images/90346-84012.jpg"
 ---
 

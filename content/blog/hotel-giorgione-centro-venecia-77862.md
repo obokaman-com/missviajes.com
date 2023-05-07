@@ -4,6 +4,7 @@ type: "post"
 date: "2013-12-12 09:00:00"
 slug: "hotel-giorgione-centro-venecia-77862"
 categories: ["Europa","Hoteles"]
+tags: ["Europa","Hoteles","Italia","Venecia"]
 image: "post-images/77862-62577.jpg"
 ---
 

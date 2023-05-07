@@ -4,6 +4,7 @@ type: "post"
 date: "2020-02-10 00:00:00"
 slug: "venecia-ciudad-canales-6042"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Italia"]
 image: "post-images/536a3f8a60bf3s571016.jpg"
 ---
 

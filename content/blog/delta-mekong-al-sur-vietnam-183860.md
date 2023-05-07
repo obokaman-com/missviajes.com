@@ -4,6 +4,7 @@ type: "post"
 date: "2018-09-24 00:00:00"
 slug: "delta-mekong-al-sur-vietnam-183860"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Mekong","Vietnam"]
 image: "post-images/54662ce245d83s135062.jpg"
 ---
 

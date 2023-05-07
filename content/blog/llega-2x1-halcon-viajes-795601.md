@@ -4,6 +4,7 @@ type: "post"
 date: "2010-07-23 16:01:00"
 slug: "llega-2x1-halcon-viajes-795601"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["2X1","Actualidad","Halcón Viajes"]
 image: "post-images/795601-273484.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-06-28 09:33:00"
 slug: "conil-frontera-640163"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","Cádiz","Conil De La Frontera","España","Europa","Playas"]
 image: "post-images/640163-261371.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-01 00:00:00"
 slug: "cadena-taj-nuevos-jets-privados-35539"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-images/35539-33352.jpg"
 ---
 

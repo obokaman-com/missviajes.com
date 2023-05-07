@@ -4,6 +4,7 @@ type: "post"
 date: "2017-12-20 00:00:00"
 slug: "anuradhapura-arbol-sagrado-bo-2277111"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Anuradhapura","Sri Lanka"]
 image: "post-images/51bc4402d3605s244855.jpg"
 ---
 

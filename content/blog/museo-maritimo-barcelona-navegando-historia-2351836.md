@@ -4,6 +4,7 @@ type: "post"
 date: "2014-06-18 10:30:00"
 slug: "museo-maritimo-barcelona-navegando-historia-2351836"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Barcelona","Museos"]
 image: "post-images/53a02dee713d6s713303.jpg"
 ---
 

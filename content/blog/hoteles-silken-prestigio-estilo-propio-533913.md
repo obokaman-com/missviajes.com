@@ -4,6 +4,7 @@ type: "post"
 date: "2010-04-01 22:17:00"
 slug: "hoteles-silken-prestigio-estilo-propio-533913"
 categories: ["Hoteles"]
+tags: ["Hoteles","Silken"]
 image: "post-images/533913-233346.jpg"
 ---
 

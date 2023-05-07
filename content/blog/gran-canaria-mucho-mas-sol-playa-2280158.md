@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-05 09:30:00"
 slug: "gran-canaria-mucho-mas-sol-playa-2280158"
 categories: ["Europa","Playas"]
+tags: ["Gran Canaria"]
 image: "post-images/51d4253c5a0c9s182388.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-09-05 14:20:00"
 slug: "klm-nueva-politica-cobro-equipaje-2290084"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

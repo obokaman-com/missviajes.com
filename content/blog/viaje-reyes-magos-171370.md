@@ -4,6 +4,7 @@ type: "post"
 date: "2009-01-02 00:00:00"
 slug: "viaje-reyes-magos-171370"
 categories: ["Sin Categoría"]
+tags: ["Rutas"]
 image: "post-images/171370-111841.jpg"
 ---
 

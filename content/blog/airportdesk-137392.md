@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-10 09:16:00"
 slug: "airportdesk-137392"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-images/137392-131945.jpg"
 ---
 

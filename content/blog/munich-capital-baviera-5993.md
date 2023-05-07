@@ -4,6 +4,7 @@ type: "post"
 date: "2018-07-02 00:00:00"
 slug: "munich-capital-baviera-5993"
 categories: ["Europa"]
+tags: ["Alemania","Ciudades","Europa"]
 image: "post-images/52ebb5749fa41s295327.jpg"
 ---
 

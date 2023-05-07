@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-26 00:00:00"
 slug: "ruta-kashbashs-163467"
 categories: ["Sin Categoría"]
+tags: ["Marruecos","Oriente Medio","Rutas"]
 image: "post-background.jpg"
 ---
 

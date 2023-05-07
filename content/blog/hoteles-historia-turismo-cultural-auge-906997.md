@@ -4,6 +4,7 @@ type: "post"
 date: "2010-10-07 20:24:00"
 slug: "hoteles-historia-turismo-cultural-auge-906997"
 categories: ["Hoteles"]
+tags: ["Actualidad","Hotel.info","Hoteles"]
 image: "post-images/906997-303292.jpg"
 ---
 

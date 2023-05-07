@@ -4,6 +4,7 @@ type: "post"
 date: "2015-01-26 10:00:00"
 slug: "kruger-national-park-safari-sudafrica-75850"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["África","Kruger","Reservas Naturales","Safari","Sudafrica"]
 image: "post-images/75850-61688.jpg"
 ---
 

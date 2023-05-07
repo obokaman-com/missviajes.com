@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-13 15:00:00"
 slug: "tallinn-tesoro-medieval-baltico-34954"
 categories: ["Europa"]
+tags: ["Ciudades","Estonia","Europa"]
 image: "post-images/5051c34fa60e9s161881.jpg"
 ---
 

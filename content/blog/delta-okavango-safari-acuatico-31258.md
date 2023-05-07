@@ -4,6 +4,7 @@ type: "post"
 date: "2007-10-12 00:00:00"
 slug: "delta-okavango-safari-acuatico-31258"
 categories: ["Sin Categoría"]
+tags: ["África","Botswana","Parques","Safari"]
 image: "post-images/31258-29602.jpg"
 ---
 

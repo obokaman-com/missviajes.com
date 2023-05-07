@@ -4,6 +4,7 @@ type: "post"
 date: "2017-04-24 06:54:00"
 slug: "vegas-ciudad-casinos-5182"
 categories: ["América"]
+tags: ["Eeuu","Las Vegas"]
 image: "post-images/vegas1.jpg"
 ---
 

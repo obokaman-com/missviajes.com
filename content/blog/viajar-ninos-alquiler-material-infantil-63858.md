@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-25 00:00:00"
 slug: "viajar-ninos-alquiler-material-infantil-63858"
 categories: ["Sin Categoría"]
+tags: ["Alquiler","Missviajecitos","Viajar Con Niños"]
 image: "post-images/63858-53855.jpg"
 ---
 

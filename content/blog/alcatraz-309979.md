@@ -4,6 +4,7 @@ type: "post"
 date: "2009-08-11 19:43:00"
 slug: "alcatraz-309979"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Eeuu","Europa","San Francisco","Tickets"]
 image: "post-background.jpg"
 ---
 

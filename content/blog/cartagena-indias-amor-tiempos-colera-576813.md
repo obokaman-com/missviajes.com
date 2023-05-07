@@ -4,6 +4,7 @@ type: "post"
 date: "2015-05-29 09:30:00"
 slug: "cartagena-indias-amor-tiempos-colera-576813"
 categories: ["América"]
+tags: ["América","Cartagena De Indias","Colombia"]
 image: "post-images/576813-245724.jpg"
 ---
 

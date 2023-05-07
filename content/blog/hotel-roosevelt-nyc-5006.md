@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-17 00:00:00"
 slug: "hotel-roosevelt-nyc-5006"
 categories: ["América","Hoteles"]
+tags: ["América","Eeuu","Hoteles","New York"]
 image: "post-images/5006-4987.jpg"
 ---
 

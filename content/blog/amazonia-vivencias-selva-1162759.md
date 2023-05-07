@@ -4,6 +4,7 @@ type: "post"
 date: "2011-02-11 22:42:00"
 slug: "amazonia-vivencias-selva-1162759"
 categories: ["América"]
+tags: ["Altaïr","Amazonia","Perú","Sudamerica"]
 image: "post-images/1162759-331810.jpg"
 ---
 

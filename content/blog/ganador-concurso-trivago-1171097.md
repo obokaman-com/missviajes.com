@@ -4,6 +4,7 @@ type: "post"
 date: "2011-02-24 22:27:00"
 slug: "ganador-concurso-trivago-1171097"
 categories: ["Sin Categoría"]
+tags: ["Hoteles","Trivago"]
 image: "post-background.jpg"
 ---
 

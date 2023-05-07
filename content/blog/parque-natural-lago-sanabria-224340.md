@@ -4,6 +4,7 @@ type: "post"
 date: "2009-03-27 21:20:00"
 slug: "parque-natural-lago-sanabria-224340"
 categories: ["Sin Categoría"]
+tags: ["Castilla Y León","España","Europa","Sanabria","Zamora"]
 image: "post-background.jpg"
 ---
 

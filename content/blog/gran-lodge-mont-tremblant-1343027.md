@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-24 00:00:00"
 slug: "gran-lodge-mont-tremblant-1343027"
 categories: ["América","Hoteles"]
+tags: ["América","Canadá","Hoteles"]
 image: "post-images/le-grand-lodge-mont-tremblant-200x300.jpg"
 ---
 

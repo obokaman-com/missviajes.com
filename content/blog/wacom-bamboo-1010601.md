@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-26 20:03:00"
 slug: "wacom-bamboo-1010601"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Bamboo","Novedades","Tecnolgía","Utilidades"]
 image: "post-images/1010601-317257.jpg"
 ---
 

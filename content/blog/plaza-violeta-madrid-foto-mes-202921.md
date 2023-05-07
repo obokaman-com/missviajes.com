@@ -4,6 +4,7 @@ type: "post"
 date: "2009-02-20 19:06:00"
 slug: "plaza-violeta-madrid-foto-mes-202921"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes","Madrid"]
 image: "post-images/202921-120953.jpg"
 ---
 

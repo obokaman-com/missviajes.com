@@ -4,6 +4,7 @@ type: "post"
 date: "2013-01-22 16:30:00"
 slug: "hotel-patios-corazon-parque-nacional-cabo-gata-8893"
 categories: ["Europa","Hoteles"]
+tags: ["Andalucia","Cabo De Gata","España","Hoteles"]
 image: "post-images/8893-23342.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2019-01-28 00:00:00"
 slug: "camino-san-vicente-martir-78156"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["España","Europa","Rutas"]
 image: "post-images/78156-64195.jpg"
 ---
 

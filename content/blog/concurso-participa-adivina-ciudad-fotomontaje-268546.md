@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-01 09:00:00"
 slug: "concurso-participa-adivina-ciudad-fotomontaje-268546"
 categories: ["Sin Categoría"]
+tags: ["Fotografía","Sony"]
 image: "post-images/268546-146728.jpg"
 ---
 

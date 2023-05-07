@@ -4,6 +4,7 @@ type: "post"
 date: "2011-08-10 16:10:00"
 slug: "toulouse-ciudad-mucho-encanto-1256162"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Francia","Toulouse"]
 image: "post-images/4e4256b662c48s144185.jpg"
 ---
 

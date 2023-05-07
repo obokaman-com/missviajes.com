@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-19 00:00:00"
 slug: "paseo-emeraude-8990"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Bahia Halong","Cruceros","Hoteles","Vietnam"]
 image: "post-images/8990-10304.jpg"
 ---
 

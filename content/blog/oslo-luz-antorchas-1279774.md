@@ -4,6 +4,7 @@ type: "post"
 date: "2011-09-22 23:15:00"
 slug: "oslo-luz-antorchas-1279774"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Noruega","Oslo"]
 image: "post-background.jpg"
 ---
 

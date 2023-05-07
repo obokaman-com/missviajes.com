@@ -4,6 +4,7 @@ type: "post"
 date: "2018-04-10 00:00:00"
 slug: "parque-nacional-donana-5342"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","España","Europa","Parques"]
 image: "post-images/5342-9970.jpg"
 ---
 

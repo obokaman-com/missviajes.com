@@ -4,6 +4,7 @@ type: "post"
 date: "2010-12-23 10:15:00"
 slug: "feliz-navidad-1090772"
 categories: ["Cosas Varias"]
+tags: ["Feliz Navidad"]
 image: "post-images/1090772-324187.jpg"
 ---
 

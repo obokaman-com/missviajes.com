@@ -4,6 +4,7 @@ type: "post"
 date: "2018-01-25 00:00:00"
 slug: "hotel-cinnamon-lodge-habarana-2276046"
 categories: ["Asia","Hoteles"]
+tags: ["Habarana","Hoteles","Sri Lanka"]
 image: "post-images/51b59721a253as123917.jpg"
 ---
 

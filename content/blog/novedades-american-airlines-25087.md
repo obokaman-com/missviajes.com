@@ -4,6 +4,7 @@ type: "post"
 date: "2007-09-06 00:00:00"
 slug: "novedades-american-airlines-25087"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-images/25087-24263.jpg"
 ---
 

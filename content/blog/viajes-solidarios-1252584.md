@@ -4,6 +4,7 @@ type: "post"
 date: "2011-08-04 18:45:00"
 slug: "viajes-solidarios-1252584"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Perú","Solidaridad","Turismo Solidario","Viajes"]
 image: "post-images/4e3a8c9eb376as48640.jpg"
 ---
 

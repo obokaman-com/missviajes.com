@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-26 00:00:00"
 slug: "hotel-sagamore-miami-9257"
 categories: ["América","Hoteles"]
+tags: ["América","Eeuu","Florida","Hoteles","Miami","South Beach"]
 image: "post-images/9257-10545.jpg"
 ---
 

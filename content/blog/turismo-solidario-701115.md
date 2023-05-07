@@ -4,6 +4,7 @@ type: "post"
 date: "2010-07-12 22:45:00"
 slug: "turismo-solidario-701115"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Tercer Mundo","Turismo Solidario"]
 image: "post-background.jpg"
 ---
 

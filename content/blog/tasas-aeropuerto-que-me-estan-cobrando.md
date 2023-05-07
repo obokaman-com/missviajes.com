@@ -4,6 +4,7 @@ type: "post"
 date: "2019-05-21 00:00:00"
 slug: "tasas-aeropuerto-que-me-estan-cobrando"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

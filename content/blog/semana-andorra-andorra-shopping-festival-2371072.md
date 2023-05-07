@@ -4,6 +4,7 @@ type: "post"
 date: "2014-11-12 17:02:00"
 slug: "semana-andorra-andorra-shopping-festival-2371072"
 categories: ["Cosas Varias","Europa"]
+tags: ["Andorra","Inúu","Les Escaldes"]
 image: "post-images/54623987477bfs103789.jpg"
 ---
 

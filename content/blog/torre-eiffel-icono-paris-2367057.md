@@ -4,6 +4,7 @@ type: "post"
 date: "2014-10-06 16:40:00"
 slug: "torre-eiffel-icono-paris-2367057"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Eiffel","Paris","Tickets"]
 image: "post-images/5432a6893a90fs217852.jpg"
 ---
 

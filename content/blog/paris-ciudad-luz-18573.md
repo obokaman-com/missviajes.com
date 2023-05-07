@@ -4,6 +4,7 @@ type: "post"
 date: "2019-02-04 00:00:00"
 slug: "paris-ciudad-luz-18573"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","Europa","Francia"]
 image: "post-images/18573-17387.jpg"
 ---
 

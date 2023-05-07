@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-17 09:36:00"
 slug: "vuelomania-297084"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Webs"]
 image: "post-images/297084-162957.jpg"
 ---
 

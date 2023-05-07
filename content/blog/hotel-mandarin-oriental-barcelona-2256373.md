@@ -4,6 +4,7 @@ type: "post"
 date: "2017-11-16 00:00:00"
 slug: "hotel-mandarin-oriental-barcelona-2256373"
 categories: ["Europa","Hoteles"]
+tags: ["Barcelona","Catalunya","Hoteles"]
 image: "post-images/513df7105ad13s269904.jpg"
 ---
 

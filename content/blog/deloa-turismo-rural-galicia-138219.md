@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-15 00:00:00"
 slug: "deloa-turismo-rural-galicia-138219"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Galicia","Web"]
 image: "post-background.jpg"
 ---
 

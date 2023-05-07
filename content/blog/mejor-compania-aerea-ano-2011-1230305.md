@@ -4,6 +4,7 @@ type: "post"
 date: "2011-06-28 13:22:00"
 slug: "mejor-compania-aerea-ano-2011-1230305"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Aéreo","Qatar"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-17 10:37:00"
 slug: "rovos-rail-nostalgico-viaje-railes-africa-1202526"
 categories: ["África"]
+tags: ["África","Lujo","Rovos Rail","Trenes"]
 image: "post-images/4dd188b4de6d0s6127.jpg"
 ---
 

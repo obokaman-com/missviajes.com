@@ -4,6 +4,7 @@ type: "post"
 date: "2017-07-27 00:00:00"
 slug: "ruta-66-siguiendo-sueno-costa-costa-8326"
 categories: ["América","Cosas Varias"]
+tags: ["América","Eeuu","Rutas"]
 image: "post-images/538863a9d8f48s255930.jpg"
 ---
 

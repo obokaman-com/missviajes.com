@@ -4,6 +4,7 @@ type: "post"
 date: "2015-09-22 10:00:00"
 slug: "botiquin-viaje-imprescindible-7851"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-images/56010ad47e437s19718.jpg"
 ---
 

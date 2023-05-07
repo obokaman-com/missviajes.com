@@ -4,6 +4,7 @@ type: "post"
 date: "2018-02-08 00:00:00"
 slug: "marrakech-en-3-dias-97018"
 categories: ["África"]
+tags: ["África","Ciudades","Marrakech","Marruecos","Oriente Medio"]
 image: "post-images/57545-49158.jpg"
 ---
 

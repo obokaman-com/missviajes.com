@@ -4,6 +4,7 @@ type: "post"
 date: "2015-12-21 09:04:00"
 slug: "hotel-borei-angkor-resort-donde-dormir-siem-reap-2405781"
 categories: ["Hoteles"]
+tags: ["Asia","Camboya","Hoteles","Siem Reap","Siem Repa"]
 image: "post-images/5675240fad0dfs238525.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-12-16 15:53:00"
 slug: "vallsharing-camino-nieve-1075020"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Catalunya","Esquí","Nieve","Pirineos","Vall Nord"]
 image: "post-images/1075020-323197.jpg"
 ---
 

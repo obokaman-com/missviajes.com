@@ -4,6 +4,7 @@ type: "post"
 date: "2017-09-07 00:00:00"
 slug: "hotel-le-meridien-chiang-mai-2181287"
 categories: ["Asia","Hoteles"]
+tags: ["Chiang Mai","Tailandia"]
 image: "post-images/50ab698d0e5b9s66803.jpg"
 ---
 

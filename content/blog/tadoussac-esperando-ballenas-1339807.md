@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-02 00:00:00"
 slug: "tadoussac-esperando-ballenas-1339807"
 categories: ["Visitas Y Excursiones"]
+tags: ["América","Canadá","Tadoussac"]
 image: "post-images/4eea6399c0455s1267375.jpg"
 ---
 

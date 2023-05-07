@@ -4,6 +4,7 @@ type: "post"
 date: "2019-05-27 00:00:00"
 slug: "campamentos-verano-forma-turismo-juvenil-2003388"
 categories: ["Actualidad"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

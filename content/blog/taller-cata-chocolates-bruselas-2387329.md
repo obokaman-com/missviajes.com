@@ -4,6 +4,7 @@ type: "post"
 date: "2015-05-08 11:07:00"
 slug: "taller-cata-chocolates-bruselas-2387329"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
+tags: ["Actividades","Bruselas","Chocolate","Flandesnet"]
 image: "post-images/554c761a0eac5s130386.jpg"
 ---
 

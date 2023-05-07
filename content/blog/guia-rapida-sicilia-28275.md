@@ -4,6 +4,7 @@ type: "post"
 date: "2017-11-27 00:00:00"
 slug: "guia-rapida-sicilia-28275"
 categories: ["Europa"]
+tags: ["Europa","Islas","Italia"]
 image: "post-images/517066fe58f69s163745.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-08-21 10:03:35"
 slug: "condolencias-vuelo-jk5022-120801"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

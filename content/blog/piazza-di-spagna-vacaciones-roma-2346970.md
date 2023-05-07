@@ -4,6 +4,7 @@ type: "post"
 date: "2014-05-14 15:29:00"
 slug: "piazza-di-spagna-vacaciones-roma-2346970"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Italia","Piazza Di Spagna","Roma"]
 image: "post-images/53733e756d8acs1655602.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-04 00:00:00"
 slug: "queridos-reyes-magos-1347269"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

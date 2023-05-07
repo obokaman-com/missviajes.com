@@ -4,6 +4,7 @@ type: "post"
 date: "2018-04-19 00:00:00"
 slug: "templo-cueva-dambulla-2281374"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Dambulla","Sri Lanka"]
 image: "post-background.jpg"
 ---
 

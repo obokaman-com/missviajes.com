@@ -4,6 +4,7 @@ type: "post"
 date: "2014-07-07 00:29:00"
 slug: "in-out-hostel-se-buscan-clientes-2353845"
 categories: ["Actualidad","Europa","Hoteles"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/53b54b2e28e96s50027.jpg"
 ---
 

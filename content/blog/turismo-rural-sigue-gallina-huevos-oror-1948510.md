@@ -4,6 +4,7 @@ type: "post"
 date: "2012-05-11 17:30:00"
 slug: "turismo-rural-sigue-gallina-huevos-oror-1948510"
 categories: ["Actualidad"]
+tags: ["Actualidad"]
 image: "post-images/4fad21243d649s488323.jpg"
 ---
 

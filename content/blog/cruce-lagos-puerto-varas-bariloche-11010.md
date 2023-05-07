@@ -4,6 +4,7 @@ type: "post"
 date: "2007-07-04 00:00:00"
 slug: "cruce-lagos-puerto-varas-bariloche-11010"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Andes","Argentina","Chile","Rutas"]
 image: "post-images/11010-15141.jpg"
 ---
 

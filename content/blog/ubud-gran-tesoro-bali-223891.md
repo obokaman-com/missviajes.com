@@ -4,6 +4,7 @@ type: "post"
 date: "2010-10-21 13:30:00"
 slug: "ubud-gran-tesoro-bali-223891"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Bali","Indonesia","Ubud"]
 image: "post-background.jpg"
 ---
 

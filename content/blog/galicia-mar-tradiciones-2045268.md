@@ -4,6 +4,7 @@ type: "post"
 date: "2012-07-18 17:05:00"
 slug: "galicia-mar-tradiciones-2045268"
 categories: ["Europa"]
+tags: ["España","Galicia"]
 image: "post-images/5006d6773c334s151538.jpg"
 ---
 

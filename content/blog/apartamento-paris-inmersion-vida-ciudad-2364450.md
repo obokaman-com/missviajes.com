@@ -4,6 +4,7 @@ type: "post"
 date: "2014-09-18 19:27:00"
 slug: "apartamento-paris-inmersion-vida-ciudad-2364450"
 categories: ["Europa","Hoteles"]
+tags: ["Apartamentos","Paris"]
 image: "post-images/541afa4608ecds138762.jpg"
 ---
 

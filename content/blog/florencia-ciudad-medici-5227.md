@@ -4,6 +4,7 @@ type: "post"
 date: "2016-10-24 00:00:00"
 slug: "florencia-ciudad-medici-5227"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","Europa","Italia","Mediterraneo"]
 image: "post-images/55aa1ab8b1892s79787.jpg"
 ---
 

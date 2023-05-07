@@ -4,6 +4,7 @@ type: "post"
 date: "2008-07-01 00:00:00"
 slug: "concurso-musica-viajar-102505"
 categories: ["Sin Categoría"]
+tags: ["Sansa Fuze"]
 image: "post-images/102505-78103.jpg"
 ---
 

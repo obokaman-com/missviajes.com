@@ -4,6 +4,7 @@ type: "post"
 date: "2018-10-22 00:00:00"
 slug: "mezquita-azul-reina-estambul-161005"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Estambul","Europa","Tickets","Turquía"]
 image: "post-images/53beeb3f8c755s101698.jpg"
 ---
 

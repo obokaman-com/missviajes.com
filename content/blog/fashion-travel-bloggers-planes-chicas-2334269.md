@@ -4,6 +4,7 @@ type: "post"
 date: "2014-02-10 15:20:00"
 slug: "fashion-travel-bloggers-planes-chicas-2334269"
 categories: ["Cosas Varias"]
+tags: ["Fashion Travel Bloggers"]
 image: "post-images/52f8dde455e0cs2265385.jpg"
 ---
 

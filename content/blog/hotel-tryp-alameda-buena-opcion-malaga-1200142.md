@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-13 10:32:00"
 slug: "hotel-tryp-alameda-buena-opcion-malaga-1200142"
 categories: ["Europa","Hoteles"]
+tags: ["Andalucia","Hoteles","Malaga","Tryp Alameda"]
 image: "post-images/4dcaebe019f46s24920.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2018-05-30 00:00:00"
 slug: "lago-atitlan-donde-se-oye-silencio-35936"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Guatemala","Parques"]
 image: "post-images/52778d9fce95cs1110001.jpg"
 ---
 

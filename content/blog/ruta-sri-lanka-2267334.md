@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-24 12:00:00"
 slug: "ruta-sri-lanka-2267334"
 categories: ["Asia"]
+tags: ["Sri Lanka"]
 image: "post-background.jpg"
 ---
 

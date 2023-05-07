@@ -4,6 +4,7 @@ type: "post"
 date: "2014-09-26 11:35:00"
 slug: "proyecto-barcelona-ciudad-todos-todos-2365654"
 categories: ["Actualidad","Europa"]
+tags: ["Actualidad","Barcelona"]
 image: "post-background.jpg"
 ---
 

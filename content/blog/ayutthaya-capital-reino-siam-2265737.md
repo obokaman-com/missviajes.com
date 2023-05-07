@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-18 23:00:00"
 slug: "ayutthaya-capital-reino-siam-2265737"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Ayutthaya","Thailandia","Tickets"]
 image: "post-images/51705ca1194bbs66523.jpg"
 ---
 

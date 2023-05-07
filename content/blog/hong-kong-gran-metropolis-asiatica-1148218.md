@@ -4,6 +4,7 @@ type: "post"
 date: "2011-01-05 20:01:00"
 slug: "hong-kong-gran-metropolis-asiatica-1148218"
 categories: ["Asia"]
+tags: ["Asia","Hong Kong"]
 image: "post-background.jpg"
 ---
 

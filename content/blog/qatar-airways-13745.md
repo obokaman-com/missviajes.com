@@ -4,6 +4,7 @@ type: "post"
 date: "2007-07-12 00:00:00"
 slug: "qatar-airways-13745"
 categories: ["Sin Categoría"]
+tags: ["Compañias Aéreas","Varios"]
 image: "post-images/13745-15349.jpg"
 ---
 

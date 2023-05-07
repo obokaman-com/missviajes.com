@@ -4,6 +4,7 @@ type: "post"
 date: "2019-05-06 00:00:00"
 slug: "gales-gran-desconocida-519037"
 categories: ["Europa"]
+tags: ["Europa","Gales","Gran Bretaña"]
 image: "post-images/519037-221046.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-02-09 20:00:00"
 slug: "carnaval-cadiz-103613"
 categories: ["Sin Categoría"]
+tags: ["Andalucia","Cádiz","Ciudades","España","Europa","Playas"]
 image: "post-images/103613-120287.jpg"
 ---
 

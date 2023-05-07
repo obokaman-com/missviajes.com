@@ -4,6 +4,7 @@ type: "post"
 date: "2013-12-06 09:32:00"
 slug: "paisajes-disney-realidades-inspiraron-fantasia-2304140"
 categories: ["América","Cosas Varias","En Familia","Visitas Y Excursiones"]
+tags: ["Actualidad"]
 image: "post-images/52a04c4de3ab1s226816.jpg"
 ---
 

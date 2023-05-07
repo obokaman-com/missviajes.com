@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-20 13:00:00"
 slug: "hotel-park-central-nyc-6226"
 categories: ["América","Hoteles"]
+tags: ["América","Eeuu","Hoteles","New York"]
 image: "post-images/6226-8596.jpg"
 ---
 

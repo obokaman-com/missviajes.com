@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-04 16:10:00"
 slug: "fundacion-aladina-1307553"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/4eb2abd05ad53s23124.jpg"
 ---
 

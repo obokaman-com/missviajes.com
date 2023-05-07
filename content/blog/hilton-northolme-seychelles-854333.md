@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-24 21:58:00"
 slug: "hilton-northolme-seychelles-854333"
 categories: ["África","Hoteles"]
+tags: ["África","Hoteles","Playas","Seychelles"]
 image: "post-images/854333-285592.jpg"
 ---
 

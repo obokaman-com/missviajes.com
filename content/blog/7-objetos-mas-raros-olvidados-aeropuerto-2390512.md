@@ -4,6 +4,7 @@ type: "post"
 date: "2015-06-12 15:44:00"
 slug: "7-objetos-mas-raros-olvidados-aeropuerto-2390512"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

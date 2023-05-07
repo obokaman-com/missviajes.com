@@ -4,6 +4,7 @@ type: "post"
 date: "2016-01-25 10:05:00"
 slug: "hotel-amari-vogue-krabi-2409099"
 categories: ["Hoteles","Playas"]
+tags: ["Hoteles","Krabi","Thailandia"]
 image: "post-images/56a5e3f34539fs44989.jpg"
 ---
 

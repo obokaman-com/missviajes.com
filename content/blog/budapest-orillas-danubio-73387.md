@@ -4,6 +4,7 @@ type: "post"
 date: "2015-09-28 09:00:00"
 slug: "budapest-orillas-danubio-73387"
 categories: ["Europa"]
+tags: ["Budapest","Ciudades","Europa","Hungría"]
 image: "post-images/55f7fac383a4es503470.jpg"
 ---
 

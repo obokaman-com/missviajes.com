@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-22 09:30:00"
 slug: "burgos-tierras-cid-118458"
 categories: ["Europa"]
+tags: ["Burgos","Castilla Y León","Ciudades","España","Europa"]
 image: "post-images/118458-87044.jpg"
 ---
 

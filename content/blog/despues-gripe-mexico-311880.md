@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-02 09:38:00"
 slug: "despues-gripe-mexico-311880"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Gripe A","México","Turismo"]
 image: "post-background.jpg"
 ---
 

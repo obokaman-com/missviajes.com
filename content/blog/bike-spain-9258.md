@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-29 00:00:00"
 slug: "bike-spain-9258"
 categories: ["Cosas Varias"]
+tags: ["Varios","Web"]
 image: "post-images/9258-10549.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2019-09-11 00:00:00"
 slug: "10-mejores-hoteles-enologicos-espana-2168089"
 categories: ["Cosas Varias","Europa","Hoteles"]
+tags: ["Hoteles"]
 image: "post-images/50587ca673077s666308.jpg"
 ---
 

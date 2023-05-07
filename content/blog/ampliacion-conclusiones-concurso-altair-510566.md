@@ -4,6 +4,7 @@ type: "post"
 date: "2010-02-09 20:07:00"
 slug: "ampliacion-conclusiones-concurso-altair-510566"
 categories: ["Sin Categoría"]
+tags: ["Concursos","Missviajes"]
 image: "post-images/510566-217419.jpg"
 ---
 

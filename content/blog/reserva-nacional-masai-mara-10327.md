@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-27 00:00:00"
 slug: "reserva-nacional-masai-mara-10327"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["África","Kenia","Parques"]
 image: "post-images/10327-11495.jpg"
 ---
 

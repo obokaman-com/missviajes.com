@@ -4,6 +4,7 @@ type: "post"
 date: "2018-05-14 00:00:00"
 slug: "ulagalla-resort-boutique-hotel-mucho-encanto-2279023"
 categories: ["Asia","Hoteles"]
+tags: ["Hoteles","Sri Lanka"]
 image: "post-images/51caae577c886s97169.jpg"
 ---
 

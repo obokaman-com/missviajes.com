@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-29 00:00:00"
 slug: "nueva-zelanda-131081"
 categories: ["Sin Categoría"]
+tags: ["Nueva Zelanda","Oceanía","Paises"]
 image: "post-images/131081-93645.jpg"
 ---
 

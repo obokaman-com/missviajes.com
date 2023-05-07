@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-24 20:07:00"
 slug: "hoteles-silken-231708"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-images/231708-134156.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-05 00:00:00"
 slug: "personal-shopper-tus-vacaciones-81570"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Hoteles","Novedades"]
 image: "post-images/81570-64470.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-24 14:26:00"
 slug: "kmtrico-nuevo-bono-autobus-293587"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Autobus. Alsa"]
 image: "post-images/293587-160540.jpg"
 ---
 

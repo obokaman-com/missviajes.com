@@ -4,6 +4,7 @@ type: "post"
 date: "2012-07-16 22:30:00"
 slug: "costa-blanca-vive-tus-suenos-2015012"
 categories: ["Europa","Playas"]
+tags: ["Actualidad","Concursos","Costa Blanca"]
 image: "post-images/5004740ebae53s241836.jpg"
 ---
 

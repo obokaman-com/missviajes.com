@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-20 10:34:00"
 slug: "museo-automovil-malaga-1200143"
 categories: ["Sin Categoría"]
+tags: ["Andalucia","Malaga","Museo Del Automóvil","Museos"]
 image: "post-images/4dd57ea88b88fs2641354.jpg"
 ---
 

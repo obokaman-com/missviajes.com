@@ -4,6 +4,7 @@ type: "post"
 date: "2020-04-14 00:00:00"
 slug: "10-mejores-hoteles-literarios-mundo-1848146"
 categories: ["Cosas Varias","Hoteles"]
+tags: ["Actualidad","Trivago"]
 image: "post-images/4f916de11dd24s199932.jpg"
 ---
 

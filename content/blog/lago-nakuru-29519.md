@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-26 00:00:00"
 slug: "lago-nakuru-29519"
 categories: ["Sin Categoría"]
+tags: ["África","Kenia","Parques"]
 image: "post-images/29519-38340.jpg"
 ---
 

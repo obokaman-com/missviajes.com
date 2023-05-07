@@ -4,6 +4,7 @@ type: "post"
 date: "2016-07-26 00:00:00"
 slug: "hotel-melati-beach-koh-samui-439912"
 categories: ["Asia","Hoteles","Playas"]
+tags: ["Asia","Hoteles","Koh Samui","Playas","Thailandia"]
 image: "post-images/439912-207887.jpg"
 ---
 

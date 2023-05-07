@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-15 09:30:00"
 slug: "blog-action-day-2009-cambio-climatico-360751"
 categories: ["Sin Categoría"]
+tags: ["Blog Action Day","Cambio Climático"]
 image: "post-images/360751-190918.jpg"
 ---
 

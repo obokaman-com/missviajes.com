@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-30 22:00:00"
 slug: "jardin-botanico-malaga-1211817"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","España","Jardín Botánico","Malaga"]
 image: "post-images/4de3fc4244af4s3636283.jpg"
 ---
 

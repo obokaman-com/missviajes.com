@@ -4,6 +4,7 @@ type: "post"
 date: "2015-12-11 12:00:00"
 slug: "pesebre-viviente-corbera-sumergete-pleno-navidad-2405248"
 categories: ["Visitas Y Excursiones"]
+tags: ["Actividades","Barcelona","Catalunya","España"]
 image: "post-images/566a9b53e19f9s25636.jpg"
 ---
 

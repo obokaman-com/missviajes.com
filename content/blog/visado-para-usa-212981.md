@@ -4,6 +4,7 @@ type: "post"
 date: "2009-03-03 20:26:00"
 slug: "visado-para-usa-212981"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-10-03 00:00:00"
 slug: "rocky-mountaineer-5064"
 categories: ["América","Cosas Varias","Hoteles"]
+tags: ["América","Canadá","Parques","Trenes"]
 image: "post-images/5064-4986.jpg"
 ---
 

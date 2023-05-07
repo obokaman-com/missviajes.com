@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-05 00:00:00"
 slug: "egipto-tierra-faraones-5070"
 categories: ["Oriente Medio"]
+tags: ["África","Egipto","Paises"]
 image: "post-images/5070-5760.jpg"
 ---
 

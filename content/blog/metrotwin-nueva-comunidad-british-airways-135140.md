@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-13 00:00:00"
 slug: "metrotwin-nueva-comunidad-british-airways-135140"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Aéreo"]
 image: "post-images/135140-96611.jpg"
 ---
 

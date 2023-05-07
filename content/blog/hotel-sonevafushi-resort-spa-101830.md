@@ -4,6 +4,7 @@ type: "post"
 date: "2008-06-27 00:00:00"
 slug: "hotel-sonevafushi-resort-spa-101830"
 categories: ["Sin Categoría"]
+tags: ["Asia","Hoteles","Maldivas"]
 image: "post-images/101830-77406.jpg"
 ---
 

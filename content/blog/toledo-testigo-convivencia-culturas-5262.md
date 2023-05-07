@@ -4,6 +4,7 @@ type: "post"
 date: "2016-09-22 00:00:00"
 slug: "toledo-testigo-convivencia-culturas-5262"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Castilla-La Mancha","Ciudades","Europa"]
 image: "post-images/5282320bc1fbes332078.jpg"
 ---
 

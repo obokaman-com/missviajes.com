@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-07 00:00:00"
 slug: "hotel-manoir-victoria-corazon-antiguo-quebec-1332527"
 categories: ["América","Hoteles"]
+tags: ["América","Canadá","Hoteles","Quebec"]
 image: "post-images/4edcef0ab6690s18279.jpg"
 ---
 

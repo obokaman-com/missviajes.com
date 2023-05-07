@@ -4,6 +4,7 @@ type: "post"
 date: "2015-11-02 09:39:00"
 slug: "hotel-renaissance-kuala-lumpur-2401779"
 categories: ["Hoteles"]
+tags: ["Asia","Hoteles","Kuala Lumpur"]
 image: "post-images/56308b504778es127036.jpg"
 ---
 

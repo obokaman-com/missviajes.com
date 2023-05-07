@@ -4,6 +4,7 @@ type: "post"
 date: "2018-09-10 00:00:00"
 slug: "ruta-cornualles-86869"
 categories: ["Cosas Varias","En Familia","Europa"]
+tags: ["Europa","Gran Bretaña","Rutas"]
 image: "post-images/5382ec720c5bas296341.jpg"
 ---
 

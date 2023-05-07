@@ -4,6 +4,7 @@ type: "post"
 date: "2014-11-21 17:09:00"
 slug: "taormina-parada-obligatoria-sicilia-321581"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Europa","Italia","Playas","Sicilia","Taormina"]
 image: "post-images/546f4fb20af42s1394479.jpg"
 ---
 

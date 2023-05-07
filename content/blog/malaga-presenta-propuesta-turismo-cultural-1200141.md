@@ -4,6 +4,7 @@ type: "post"
 date: "2011-05-10 10:26:00"
 slug: "malaga-presenta-propuesta-turismo-cultural-1200141"
 categories: ["Sin Categoría"]
+tags: ["Andalucia","Blogtrip","España","Malaga"]
 image: "post-images/4dc85cad4256bs2330692.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-03-29 00:00:00"
 slug: "sevilla-feria-71923"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Andalucia","Fiestas Populares","Sevilla"]
 image: "post-images/71923-59958.jpg"
 ---
 

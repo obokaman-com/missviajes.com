@@ -4,6 +4,7 @@ type: "post"
 date: "2012-05-08 16:38:00"
 slug: "travel-bloggers-meeting-1948381"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/4fa984b2dfba3s252095.jpg"
 ---
 

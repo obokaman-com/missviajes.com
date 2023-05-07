@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-18 00:00:00"
 slug: "hotel-dvorak-cesky-krumlov-14201"
 categories: ["Europa","Hoteles"]
+tags: ["Cesky Krumlov","Europa","Hoteles","Republica Checa"]
 image: "post-images/14201-14365.jpg"
 ---
 

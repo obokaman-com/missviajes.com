@@ -4,6 +4,7 @@ type: "post"
 date: "2012-10-19 21:20:00"
 slug: "tailandia-ideal-viajar-ninos-2178570"
 categories: ["Asia","En Familia"]
+tags: ["Missviajecitos","Tailandia","Viajar Con Niños"]
 image: "post-images/5081a7b6a50f2s3022951.jpg"
 ---
 

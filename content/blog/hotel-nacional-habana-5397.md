@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-07 00:00:00"
 slug: "hotel-nacional-habana-5397"
 categories: ["América","Hoteles"]
+tags: ["Caribe","Cuba","Hoteles","La Habana"]
 image: "post-images/5397-5768.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-04-19 22:07:00"
 slug: "guia-experiencias-brugal-republica-dominicana-559980"
 categories: ["Sin Categoría"]
+tags: ["Caribe","Guías","Republica Dominicana"]
 image: "post-background.jpg"
 ---
 

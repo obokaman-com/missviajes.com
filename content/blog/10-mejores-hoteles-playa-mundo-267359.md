@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-28 10:00:00"
 slug: "10-mejores-hoteles-playa-mundo-267359"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Los Top 10","Playas","Trivago","Vacaciones"]
 image: "post-images/267359-146325.jpg"
 ---
 

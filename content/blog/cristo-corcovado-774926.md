@@ -4,6 +4,7 @@ type: "post"
 date: "2010-07-20 16:34:00"
 slug: "cristo-corcovado-774926"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Brasil","Corcovado","Rio De Janerio","Sudamerica","Tickets"]
 image: "post-background.jpg"
 ---
 

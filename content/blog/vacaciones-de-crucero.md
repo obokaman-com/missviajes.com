@@ -4,6 +4,7 @@ type: "post"
 date: "2017-10-04 00:00:00"
 slug: "vacaciones-de-crucero"
 categories: ["Actualidad","En Familia"]
+tags: ["Cruceros"]
 image: "post-background.jpg"
 ---
 

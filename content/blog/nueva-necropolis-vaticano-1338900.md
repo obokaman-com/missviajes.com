@@ -4,6 +4,7 @@ type: "post"
 date: "2011-12-12 16:18:00"
 slug: "nueva-necropolis-vaticano-1338900"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["El Vaticano","Europa","Italia","Roma"]
 image: "post-images/4ee623a25c77fs56109.jpg"
 ---
 

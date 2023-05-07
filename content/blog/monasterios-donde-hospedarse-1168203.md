@@ -4,6 +4,7 @@ type: "post"
 date: "2011-02-16 22:19:00"
 slug: "monasterios-donde-hospedarse-1168203"
 categories: ["Europa","Hoteles"]
+tags: ["Alojamiento","Blogs","Diario Del Viajero","Monasterios"]
 image: "post-background.jpg"
 ---
 

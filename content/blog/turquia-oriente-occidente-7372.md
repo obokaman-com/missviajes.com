@@ -4,6 +4,7 @@ type: "post"
 date: "2015-02-06 09:00:00"
 slug: "turquia-oriente-occidente-7372"
 categories: ["Europa"]
+tags: ["Paises","Turquía"]
 image: "post-images/7372-13063.jpg"
 ---
 

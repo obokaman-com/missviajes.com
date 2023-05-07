@@ -4,6 +4,7 @@ type: "post"
 date: "2014-08-27 09:00:00"
 slug: "tenerife-paisaje-fauna-flora-unicos-mundo-2361703"
 categories: ["Europa","Playas"]
+tags: ["Canarias","España","Islas","Tenerife"]
 image: "post-images/53fc87c999a44s83195.jpg"
 ---
 

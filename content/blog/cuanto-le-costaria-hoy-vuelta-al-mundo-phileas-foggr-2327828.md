@@ -4,6 +4,7 @@ type: "post"
 date: "2018-10-08 00:00:00"
 slug: "cuanto-le-costaria-hoy-vuelta-al-mundo-phileas-foggr-2327828"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-images/52ceb7921020es149785.jpg"
 ---
 

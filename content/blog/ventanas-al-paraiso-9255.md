@@ -4,6 +4,7 @@ type: "post"
 date: "2012-12-06 09:00:00"
 slug: "ventanas-al-paraiso-9255"
 categories: ["América","Hoteles","Playas"]
+tags: ["América","Hoteles","México"]
 image: "post-images/9255-10550.jpg"
 ---
 

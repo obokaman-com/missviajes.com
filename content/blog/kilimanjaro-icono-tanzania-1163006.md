@@ -4,6 +4,7 @@ type: "post"
 date: "2011-02-04 11:25:00"
 slug: "kilimanjaro-icono-tanzania-1163006"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["África","Ecoturismo","Escalada","Kilimanjaro","Tanzania"]
 image: "post-images/1163006-329885.jpg"
 ---
 

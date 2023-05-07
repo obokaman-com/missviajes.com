@@ -4,6 +4,7 @@ type: "post"
 date: "2007-09-13 00:00:00"
 slug: "new-orleans-26345"
 categories: ["Sin Categoría"]
+tags: ["América","Ciudades","Eeuu"]
 image: "post-images/26345-25260.jpg"
 ---
 

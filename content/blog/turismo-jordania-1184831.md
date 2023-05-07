@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-31 09:59:00"
 slug: "turismo-jordania-1184831"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Turismo Jordania"]
 image: "post-background.jpg"
 ---
 

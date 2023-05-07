@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-07 12:49:00"
 slug: "protector-pantalla-iphone-viajar-seguro-289350"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Varios"]
 image: "post-images/289350-158232.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-05 00:00:00"
 slug: "issimo-suites-descansando-costa-rica-6377"
 categories: ["América","Hoteles"]
+tags: ["América","Costa Rica","Hoteles","Manuel Antonio","Pacífico"]
 image: "post-images/6377-9192.jpg"
 ---
 

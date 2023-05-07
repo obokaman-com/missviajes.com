@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-03 09:18:00"
 slug: "otono-en-canada-1307943"
 categories: ["América"]
+tags: ["América","Canadá"]
 image: "post-images/4eb57194c7587s1540706.jpg"
 ---
 

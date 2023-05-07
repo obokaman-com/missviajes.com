@@ -4,6 +4,7 @@ type: "post"
 date: "2014-05-21 18:41:00"
 slug: "glamplingr-2347826"
 categories: ["Actualidad","Cosas Varias","Hoteles"]
+tags: ["Actualidad"]
 image: "post-images/537ca2e3b2c75s71685.jpg"
 ---
 

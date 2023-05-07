@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-23 00:00:00"
 slug: "torre-hercules-foto-mes-81317"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","España","Europa","Foto Del Mes","La Coruña","Torre De Hércules"]
 image: "post-images/81317-64249.jpg"
 ---
 

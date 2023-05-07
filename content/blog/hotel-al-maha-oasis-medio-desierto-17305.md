@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-01 09:00:00"
 slug: "hotel-al-maha-oasis-medio-desierto-17305"
 categories: ["Hoteles","Oriente Medio"]
+tags: ["Dubai","Emiratos Árabes","Hoteles","Oriente Medio"]
 image: "post-images/17305-16184.jpg"
 ---
 

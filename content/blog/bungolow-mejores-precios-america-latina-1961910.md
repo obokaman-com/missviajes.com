@@ -4,6 +4,7 @@ type: "post"
 date: "2012-06-06 16:28:00"
 slug: "bungolow-mejores-precios-america-latina-1961910"
 categories: ["Actualidad","Hoteles"]
+tags: ["Webs"]
 image: "post-images/4fcf658270fd2s10272.jpg"
 ---
 

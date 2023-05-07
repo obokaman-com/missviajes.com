@@ -4,6 +4,7 @@ type: "post"
 date: "2010-09-07 11:25:00"
 slug: "hotel-montalembert-paris-869738"
 categories: ["Europa","Hoteles"]
+tags: ["Francia","Hoteles","Paris"]
 image: "post-images/869738-287740.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-04 17:30:00"
 slug: "valle-roncal-481491"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["España","Navarra","Roncal"]
 image: "post-background.jpg"
 ---
 

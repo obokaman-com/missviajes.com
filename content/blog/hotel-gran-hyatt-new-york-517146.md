@@ -4,6 +4,7 @@ type: "post"
 date: "2015-04-28 12:30:00"
 slug: "hotel-gran-hyatt-new-york-517146"
 categories: ["América","Hoteles"]
+tags: ["Eeuu","Gran Hyatt","Nueva York"]
 image: "post-images/553f6016130d5s250958.jpg"
 ---
 

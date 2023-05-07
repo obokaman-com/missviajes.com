@@ -4,6 +4,7 @@ type: "post"
 date: "2012-06-18 09:45:00"
 slug: "turismo-irlanda-sortea-viaje-cuatro-personas-1962500"
 categories: ["Sin Categoría"]
+tags: ["Irlanda"]
 image: "post-background.jpg"
 ---
 

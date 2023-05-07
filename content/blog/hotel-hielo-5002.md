@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-01 00:00:00"
 slug: "hotel-hielo-5002"
 categories: ["Hoteles"]
+tags: ["Europa","Hoteles","Nieve","Suecia"]
 image: "post-images/5002-5619.jpg"
 ---
 

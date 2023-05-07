@@ -4,6 +4,7 @@ type: "post"
 date: "2018-02-21 00:00:00"
 slug: "kandy-festival-perahera-2280195"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Kandy","Sri Lanka"]
 image: "post-images/51d4305b41c0es258704.jpg"
 ---
 

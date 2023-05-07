@@ -4,6 +4,7 @@ type: "post"
 date: "2011-04-07 23:40:00"
 slug: "hoteles-encanto-noruega-1188342"
 categories: ["Europa","Hoteles"]
+tags: ["Hoteles","Noruega"]
 image: "post-images/1188342-339800.jpg"
 ---
 

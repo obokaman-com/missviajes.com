@@ -4,6 +4,7 @@ type: "post"
 date: "2015-10-26 09:00:00"
 slug: "fez-restos-imperiales-marruecos-18180"
 categories: ["África"]
+tags: ["África","Ciudades","Marruecos","Oriente Medio"]
 image: "post-images/562a3d17600e6s222245.jpg"
 ---
 

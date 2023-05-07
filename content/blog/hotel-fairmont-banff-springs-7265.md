@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-26 00:00:00"
 slug: "hotel-fairmont-banff-springs-7265"
 categories: ["América","Hoteles"]
+tags: ["Alberta","América","Banff","Canadá","Costa Oeste","Hoteles"]
 image: "post-images/7265-8998.jpg"
 ---
 

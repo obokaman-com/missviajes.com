@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-09 16:35:00"
 slug: "etihad-airways-cia-aerea-alto-standing-851367"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Etihad Airways"]
 image: "post-images/851367-280154.jpg"
 ---
 

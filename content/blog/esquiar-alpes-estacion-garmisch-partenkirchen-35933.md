@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-18 00:00:00"
 slug: "esquiar-alpes-estacion-garmisch-partenkirchen-35933"
 categories: ["Sin Categoría"]
+tags: ["Alemania","Alpes","Europa","Nieve"]
 image: "post-images/35933-46115.jpg"
 ---
 

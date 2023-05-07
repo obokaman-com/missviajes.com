@@ -4,6 +4,7 @@ type: "post"
 date: "2013-10-15 09:30:00"
 slug: "chamonix-falda-mont-blanc-34561"
 categories: ["Europa"]
+tags: ["Esquí","Europa","Francia","Nieve"]
 image: "post-background.jpg"
 ---
 

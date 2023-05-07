@@ -4,6 +4,7 @@ type: "post"
 date: "2017-07-05 00:00:00"
 slug: "1noche-en-la-bahia-de-halong-6584"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Parques","Vietnam"]
 image: "post-images/6584-9774.jpg"
 ---
 

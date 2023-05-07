@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-11 10:50:00"
 slug: "parque-nacional-serengeti-polemica-autopista-1177023"
 categories: ["África","Visitas Y Excursiones"]
+tags: ["Actualidad","Savetheserengeti","Serengeti","Tanzania"]
 image: "post-images/1177023-336854.jpg"
 ---
 

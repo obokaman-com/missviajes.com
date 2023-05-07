@@ -4,6 +4,7 @@ type: "post"
 date: "2017-07-24 00:00:00"
 slug: "estancia-en-el-desierto-wadi-rum-6378"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
+tags: ["Jordania","Oriente Medio"]
 image: "post-images/34368935682_a9c3817a1d_k-1-1024x684.jpg"
 ---
 

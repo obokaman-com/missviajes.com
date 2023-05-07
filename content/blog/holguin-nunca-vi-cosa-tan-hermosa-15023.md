@@ -4,6 +4,7 @@ type: "post"
 date: "2012-12-27 11:00:00"
 slug: "holguin-nunca-vi-cosa-tan-hermosa-15023"
 categories: ["América"]
+tags: ["América","Caribe","Cuba","Playas"]
 image: "post-images/15023-14843.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-29 00:00:00"
 slug: "merida-huellas-romanas-40757"
 categories: ["Sin Categoría"]
+tags: ["Badajoz","Ciudades","España","Europa","Extremadura"]
 image: "post-images/40757-39399.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-07-06 15:35:00"
 slug: "juegos-londres-2012-1985590"
 categories: ["Sin Categoría"]
+tags: ["Gran Bretaña","Hoteles","Londres"]
 image: "post-images/4ff6c04719c99s138269.jpg"
 ---
 

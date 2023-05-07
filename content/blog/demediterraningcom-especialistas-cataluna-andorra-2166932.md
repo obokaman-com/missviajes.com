@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-15 13:00:00"
 slug: "demediterraningcom-especialistas-cataluna-andorra-2166932"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/505454b86f79as49323.jpg"
 ---
 

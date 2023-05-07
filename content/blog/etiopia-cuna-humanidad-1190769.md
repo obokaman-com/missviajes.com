@@ -4,6 +4,7 @@ type: "post"
 date: "2011-04-12 23:18:00"
 slug: "etiopia-cuna-humanidad-1190769"
 categories: ["África"]
+tags: ["África","Etiopía","Paises"]
 image: "post-images/1190769-340150.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-05 09:01:00"
 slug: "saborea-euskadi-2179929"
 categories: ["Cosas Varias","Europa"]
+tags: ["Euskadi"]
 image: "post-images/50891b5fb238es626171.jpg"
 ---
 

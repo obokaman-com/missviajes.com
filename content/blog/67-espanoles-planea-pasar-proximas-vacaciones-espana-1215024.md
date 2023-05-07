@@ -4,6 +4,7 @@ type: "post"
 date: "2011-06-02 21:01:00"
 slug: "67-espanoles-planea-pasar-proximas-vacaciones-espana-1215024"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Tendencias","Trivago","Turismo"]
 image: "post-background.jpg"
 ---
 

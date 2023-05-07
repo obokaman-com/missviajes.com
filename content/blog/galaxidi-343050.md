@@ -4,6 +4,7 @@ type: "post"
 date: "2013-08-12 10:50:00"
 slug: "galaxidi-343050"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Delfos","Europa","Galaxidi","Grecia"]
 image: "post-images/343050-203316.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-12-03 09:00:00"
 slug: "rovaniemi-ciudad-santa-klaus-5001"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Finlandia","Nieve"]
 image: "post-images/50b8d33976409s120306.jpg"
 ---
 

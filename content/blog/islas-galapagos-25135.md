@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-16 00:00:00"
 slug: "islas-galapagos-25135"
 categories: ["América","En Familia","Playas","Visitas Y Excursiones"]
+tags: ["América","Ecuador","Galápagos","Parques"]
 image: "post-images/25135-35596.jpg"
 ---
 

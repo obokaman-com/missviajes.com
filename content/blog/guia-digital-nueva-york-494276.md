@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-08 16:05:00"
 slug: "guia-digital-nueva-york-494276"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Guías","Novedades","Nueva York","Varios"]
 image: "post-images/494276-211440.jpg"
 ---
 

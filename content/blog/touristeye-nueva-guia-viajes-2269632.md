@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-07 09:37:00"
 slug: "touristeye-nueva-guia-viajes-2269632"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-images/5187641226b54s941136.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-08-31 09:35:00"
 slug: "hotel-barcelo-valencia-ciudad-artes-ciencias-2396837"
 categories: ["Europa","Hoteles"]
+tags: ["España","Hoteles","Valencia"]
 image: "post-images/55e01d4fa18c8s38453.jpg"
 ---
 

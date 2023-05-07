@@ -4,6 +4,7 @@ type: "post"
 date: "2018-06-06 00:00:00"
 slug: "cuando-ninos-viajan-solos-47645"
 categories: ["Cosas Varias","En Familia"]
+tags: ["Avión","Missviajecitos","Viajar Con Niños"]
 image: "post-images/boy-airport.jpg"
 ---
 

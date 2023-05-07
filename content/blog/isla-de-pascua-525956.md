@@ -4,6 +4,7 @@ type: "post"
 date: "2010-02-28 23:13:00"
 slug: "isla-de-pascua-525956"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Chile","Isla De Pascua","Pacífico"]
 image: "post-images/525956-224939.jpg"
 ---
 

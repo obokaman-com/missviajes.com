@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-17 09:41:00"
 slug: "viajeras-leyenda-damas-descubrieron-mundo-siglo-xix-1314608"
 categories: ["Cosas Varias"]
+tags: ["Literatura"]
 image: "post-images/4ec2936d175bfs10461.jpg"
 ---
 

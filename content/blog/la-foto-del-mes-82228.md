@@ -4,6 +4,7 @@ type: "post"
 date: "2008-04-01 00:00:00"
 slug: "la-foto-del-mes-82228"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-23 00:00:00"
 slug: "carnaval-sitges-528419"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Carnavales","Catalunya","España","Europa","Sitges"]
 image: "post-images/carnival-sitges.jpg"
 ---
 

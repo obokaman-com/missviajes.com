@@ -4,6 +4,7 @@ type: "post"
 date: "2008-08-22 00:00:00"
 slug: "torres-paine-116027"
 categories: ["Sin Categoría"]
+tags: ["América","Chile","Parques"]
 image: "post-images/116027-85664.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-09-07 18:38:00"
 slug: "nuevo-destino-paris-2363247"
 categories: ["Europa"]
+tags: ["Ciudades","Paris"]
 image: "post-images/540c95a48bd12s276126.jpg"
 ---
 

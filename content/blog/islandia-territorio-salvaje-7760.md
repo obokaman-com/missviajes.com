@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-19 09:00:00"
 slug: "islandia-territorio-salvaje-7760"
 categories: ["Europa"]
+tags: ["Europa","Paises"]
 image: "post-background.jpg"
 ---
 

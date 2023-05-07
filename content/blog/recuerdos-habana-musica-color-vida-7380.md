@@ -4,6 +4,7 @@ type: "post"
 date: "2018-12-03 00:00:00"
 slug: "recuerdos-habana-musica-color-vida-7380"
 categories: ["América","Playas"]
+tags: ["Caribe","Ciudades","Cuba"]
 image: "post-images/5398a17022bffs245032.jpg"
 ---
 

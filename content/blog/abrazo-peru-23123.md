@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-18 13:32:55"
 slug: "abrazo-peru-23123"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-images/23123-21927.jpg"
 ---
 

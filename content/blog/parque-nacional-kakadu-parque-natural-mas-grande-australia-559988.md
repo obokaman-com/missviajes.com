@@ -4,6 +4,7 @@ type: "post"
 date: "2010-05-31 11:07:00"
 slug: "parque-nacional-kakadu-parque-natural-mas-grande-australia-559988"
 categories: ["Oceania","Visitas Y Excursiones"]
+tags: ["Asia","Australia","Darwin","Kakadu","Parques"]
 image: "post-background.jpg"
 ---
 

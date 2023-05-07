@@ -4,6 +4,7 @@ type: "post"
 date: "2018-07-25 00:00:00"
 slug: "se-entiende-viaje-fotografiasr-2337121"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Opinión"]
 image: "post-background.jpg"
 ---
 

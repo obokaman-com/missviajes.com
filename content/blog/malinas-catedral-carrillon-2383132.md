@@ -4,6 +4,7 @@ type: "post"
 date: "2020-02-27 00:00:00"
 slug: "malinas-catedral-carrillon-2383132"
 categories: ["Europa"]
+tags: ["Bélgica","Malinas","Mechelen"]
 image: "post-images/550f3c96df6fbs196898.jpg"
 ---
 

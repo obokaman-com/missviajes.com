@@ -4,6 +4,7 @@ type: "post"
 date: "2018-09-17 00:00:00"
 slug: "colombo-capital-sri-lanka-2291054"
 categories: ["Asia"]
+tags: ["Asia","Ciudades","Sri Lanka"]
 image: "post-background.jpg"
 ---
 

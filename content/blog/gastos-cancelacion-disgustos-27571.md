@@ -4,6 +4,7 @@ type: "post"
 date: "2013-02-21 09:00:00"
 slug: "gastos-cancelacion-disgustos-27571"
 categories: ["Cosas Varias"]
+tags: ["Consejos","Varios"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-07-03 15:30:00"
 slug: "sur-india-repitiendo-experiencia-92872"
 categories: ["Asia"]
+tags: ["Asia","India","Paises"]
 image: "post-images/53b555d094a3ds274165.jpg"
 ---
 

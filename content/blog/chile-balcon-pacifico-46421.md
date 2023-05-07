@@ -4,6 +4,7 @@ type: "post"
 date: "2007-12-17 00:00:00"
 slug: "chile-balcon-pacifico-46421"
 categories: ["Sin Categoría"]
+tags: ["América","Paises"]
 image: "post-images/46421-41891.jpg"
 ---
 

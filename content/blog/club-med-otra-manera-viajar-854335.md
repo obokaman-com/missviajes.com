@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-13 00:00:00"
 slug: "club-med-otra-manera-viajar-854335"
 categories: ["Cosas Varias"]
+tags: ["Club Med","Hoteles"]
 image: "post-background.jpg"
 ---
 

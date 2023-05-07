@@ -4,6 +4,7 @@ type: "post"
 date: "2010-02-02 22:05:00"
 slug: "castillo-neuschwanstein-511481"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
+tags: ["Alemania","Neuschwanstein","Tickets"]
 image: "post-background.jpg"
 ---
 

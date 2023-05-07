@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-07 00:00:00"
 slug: "sorteo-viaje-al-londres-james-bond-152036"
 categories: ["Sin Categoría"]
+tags: ["Europa","Londres"]
 image: "post-images/152036-101827.jpg"
 ---
 

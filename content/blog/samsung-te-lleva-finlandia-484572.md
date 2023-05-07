@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-05 15:04:00"
 slug: "samsung-te-lleva-finlandia-484572"
 categories: ["Sin Categoría"]
+tags: ["Finlandia"]
 image: "post-images/484572-210665.jpg"
 ---
 

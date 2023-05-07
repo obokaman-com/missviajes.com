@@ -4,6 +4,7 @@ type: "post"
 date: "2016-08-30 06:00:00"
 slug: "hanoi-alma-cultura-1274657"
 categories: ["Asia"]
+tags: ["Asia","Ciudades","Vietnam"]
 image: "post-images/10647-11771.jpg"
 ---
 

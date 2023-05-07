@@ -4,6 +4,7 @@ type: "post"
 date: "2015-10-14 11:00:00"
 slug: "10-mejores-cementerios-noche-halloween-149798"
 categories: ["Actualidad"]
+tags: ["Actualidad","Cementerios","Europa","Halloween","Tickets"]
 image: "post-images/149798-99988.jpg"
 ---
 

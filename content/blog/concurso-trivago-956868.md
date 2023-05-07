@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-10 10:00:00"
 slug: "concurso-trivago-956868"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Trivago"]
 image: "post-images/956868-312399.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-01 14:15:00"
 slug: "opera-garnier-lujo-suntuosidad-2373033"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Francia","Opera Garnier","Paris","Tickets"]
 image: "post-images/547c67aa207c8s184888.jpg"
 ---
 

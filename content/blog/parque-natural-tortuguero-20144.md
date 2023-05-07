@@ -4,6 +4,7 @@ type: "post"
 date: "2007-09-07 00:00:00"
 slug: "parque-natural-tortuguero-20144"
 categories: ["América","En Familia","Visitas Y Excursiones"]
+tags: ["Costa Rica","Parques"]
 image: "post-images/20144-24424.jpg"
 ---
 

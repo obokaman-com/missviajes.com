@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-13 00:00:00"
 slug: "valencia-momento-fallas-58953"
 categories: ["Sin Categoría"]
+tags: ["España","Europa","Fiestas Populares","Valencia"]
 image: "post-images/58953-52384.jpg"
 ---
 

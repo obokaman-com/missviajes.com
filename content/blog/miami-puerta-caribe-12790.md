@@ -4,6 +4,7 @@ type: "post"
 date: "2016-07-11 00:00:00"
 slug: "miami-puerta-caribe-12790"
 categories: ["América","Playas"]
+tags: ["América","Ciudades","Eeuu","Florida","Usa"]
 image: "post-images/12790-13489.jpg"
 ---
 

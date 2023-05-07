@@ -4,6 +4,7 @@ type: "post"
 date: "2011-10-13 22:38:00"
 slug: "vincci-hoteles-1292664"
 categories: ["Hoteles"]
+tags: ["Hoteles","Vincci"]
 image: "post-images/4e974685b6fb3s48220.jpg"
 ---
 

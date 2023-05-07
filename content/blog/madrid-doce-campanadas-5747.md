@@ -4,6 +4,7 @@ type: "post"
 date: "2010-12-31 19:00:00"
 slug: "madrid-doce-campanadas-5747"
 categories: ["Europa"]
+tags: ["Ciudades","España","Europa","Madrid"]
 image: "post-images/5747-325914.jpg"
 ---
 

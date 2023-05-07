@@ -4,6 +4,7 @@ type: "post"
 date: "2018-07-15 00:00:00"
 slug: "panteon-roma-monumento-agripa-2342327"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","Panteón","Roma","Tickets"]
 image: "post-images/53419254b19b5s477850.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-09-17 09:00:00"
 slug: "the-ghan-cruzando-australia-norte-sur-528417"
 categories: ["Cosas Varias","Hoteles","Oceania"]
+tags: ["Australia","The Ghan","Trenes"]
 image: "post-background.jpg"
 ---
 

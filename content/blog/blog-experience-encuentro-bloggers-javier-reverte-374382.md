@@ -4,6 +4,7 @@ type: "post"
 date: "2009-11-03 20:00:00"
 slug: "blog-experience-encuentro-bloggers-javier-reverte-374382"
 categories: ["Sin Categoría"]
+tags: ["Addor","Hoteles","Madrid"]
 image: "post-images/374382-196089.jpg"
 ---
 

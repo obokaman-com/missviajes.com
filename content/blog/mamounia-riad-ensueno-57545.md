@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-31 00:00:00"
 slug: "mamounia-riad-ensueno-57545"
 categories: ["Sin Categoría"]
+tags: ["África","Hoteles","Marrakech","Marruecos","Riads"]
 image: "post-images/57545-49157.jpg"
 ---
 

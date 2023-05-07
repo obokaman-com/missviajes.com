@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-30 10:04:00"
 slug: "vamos-de-golf-138707"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-background.jpg"
 ---
 

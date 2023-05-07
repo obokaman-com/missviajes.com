@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-10 10:00:00"
 slug: "10-clasicos-literatura-viajera-15886"
 categories: ["Cosas Varias"]
+tags: ["Libros","Literatura Viajera","Varios"]
 image: "post-images/15886-18011.jpg"
 ---
 

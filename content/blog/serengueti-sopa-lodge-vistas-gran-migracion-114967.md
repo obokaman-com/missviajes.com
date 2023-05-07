@@ -4,6 +4,7 @@ type: "post"
 date: "2008-08-11 00:00:00"
 slug: "serengueti-sopa-lodge-vistas-gran-migracion-114967"
 categories: ["Sin Categoría"]
+tags: ["Hoteles","Safari","Serengueti","Tanzania"]
 image: "post-images/114967-84630.jpg"
 ---
 

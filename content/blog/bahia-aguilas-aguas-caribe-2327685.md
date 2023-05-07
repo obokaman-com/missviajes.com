@@ -4,6 +4,7 @@ type: "post"
 date: "2014-01-15 09:45:00"
 slug: "bahia-aguilas-aguas-caribe-2327685"
 categories: ["América","Playas"]
+tags: ["Caribe","Republica Dominicana"]
 image: "post-images/52cdaee608bbfs46290.jpg"
 ---
 

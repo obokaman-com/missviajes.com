@@ -4,6 +4,7 @@ type: "post"
 date: "2014-03-31 10:40:00"
 slug: "visita-roma-fiat500-clasico-2341341"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
+tags: ["Roma"]
 image: "post-images/5336abe4992a9s2140019.jpg"
 ---
 

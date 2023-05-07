@@ -4,6 +4,7 @@ type: "post"
 date: "2012-10-07 09:00:00"
 slug: "san-petersburgo-5598"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Rusia"]
 image: "post-images/5598-6032.jpg"
 ---
 

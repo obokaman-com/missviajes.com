@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-11 00:00:00"
 slug: "cuenca-casas-colgadas-50958"
 categories: ["Sin Categoría"]
+tags: ["Castilla-La Mancha","Ciudades","España","Europa"]
 image: "post-images/50958-44559.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-06-12 09:35:00"
 slug: "semana-paris-imprescindibles-2369134"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
+tags: ["Francia","Paris"]
 image: "post-images/543f9f93812f7s225271.jpg"
 ---
 

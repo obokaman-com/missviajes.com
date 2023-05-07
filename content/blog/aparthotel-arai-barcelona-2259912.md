@@ -4,6 +4,7 @@ type: "post"
 date: "2019-07-15 00:00:00"
 slug: "aparthotel-arai-barcelona-2259912"
 categories: ["Europa","Hoteles"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/515160fd22f5fs1707617.jpg"
 ---
 

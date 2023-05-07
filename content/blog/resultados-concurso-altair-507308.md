@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-27 23:59:00"
 slug: "resultados-concurso-altair-507308"
 categories: ["Sin Categoría"]
+tags: ["Concursos","Miss Viajes"]
 image: "post-images/507308-215960.jpg"
 ---
 

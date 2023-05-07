@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-01 00:00:00"
 slug: "sierra-madrilena-rincon-162361"
 categories: ["Sin Categoría"]
+tags: ["España","Europa","Madrid","Parques"]
 image: "post-background.jpg"
 ---
 

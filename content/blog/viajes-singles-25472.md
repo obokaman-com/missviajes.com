@@ -4,6 +4,7 @@ type: "post"
 date: "2013-01-31 09:00:00"
 slug: "viajes-singles-25472"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

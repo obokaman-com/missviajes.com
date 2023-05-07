@@ -4,6 +4,7 @@ type: "post"
 date: "2010-07-01 09:30:00"
 slug: "5-mejores-cias-aereas-entretenimiento-bordo-665295"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Aéreo"]
 image: "post-images/665295-265262.jpg"
 ---
 

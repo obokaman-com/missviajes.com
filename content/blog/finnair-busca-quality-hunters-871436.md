@@ -4,6 +4,7 @@ type: "post"
 date: "2010-09-03 17:22:00"
 slug: "finnair-busca-quality-hunters-871436"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aéreo","Finnair"]
 image: "post-images/871436-289178.jpg"
 ---
 

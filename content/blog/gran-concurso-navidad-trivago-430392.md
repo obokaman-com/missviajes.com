@@ -4,6 +4,7 @@ type: "post"
 date: "2009-12-04 09:31:00"
 slug: "gran-concurso-navidad-trivago-430392"
 categories: ["Sin Categoría"]
+tags: ["Novedades","Trivago","Web"]
 image: "post-images/430392-203641.jpg"
 ---
 

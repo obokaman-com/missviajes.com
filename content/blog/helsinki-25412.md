@@ -4,6 +4,7 @@ type: "post"
 date: "2013-02-04 00:00:00"
 slug: "helsinki-25412"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Finlandia"]
 image: "post-images/25412-25052.jpg"
 ---
 

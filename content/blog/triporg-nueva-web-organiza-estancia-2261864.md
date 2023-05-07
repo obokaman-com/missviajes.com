@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-05 09:40:00"
 slug: "triporg-nueva-web-organiza-estancia-2261864"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/515d65bf07687s122580.jpg"
 ---
 

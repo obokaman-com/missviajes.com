@@ -4,6 +4,7 @@ type: "post"
 date: "2013-06-13 11:10:00"
 slug: "miedo-volar-superarlo-2276404"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-background.jpg"
 ---
 

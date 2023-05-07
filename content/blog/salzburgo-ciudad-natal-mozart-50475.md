@@ -4,6 +4,7 @@ type: "post"
 date: "2013-10-09 00:00:00"
 slug: "salzburgo-ciudad-natal-mozart-50475"
 categories: ["Europa"]
+tags: ["Austria","Ciudades","Europa"]
 image: "post-images/50475-44305.jpg"
 ---
 

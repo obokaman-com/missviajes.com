@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-11 09:50:00"
 slug: "missviajes-cumple-5-anos-1312426"
 categories: ["Sin Categoría"]
+tags: ["Missviajes"]
 image: "post-images/4ebce10653b13s29192.jpg"
 ---
 

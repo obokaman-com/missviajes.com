@@ -4,6 +4,7 @@ type: "post"
 date: "2013-10-30 09:58:00"
 slug: "hotel-ac-forum-barcelona-descansando-diagonal-mar-2297520"
 categories: ["Europa","Hoteles"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/52702bd426094s38396.jpg"
 ---
 

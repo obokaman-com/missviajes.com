@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-20 00:00:00"
 slug: "ciudades-oscar-1522889"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

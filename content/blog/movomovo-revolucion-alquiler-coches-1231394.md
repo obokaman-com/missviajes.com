@@ -4,6 +4,7 @@ type: "post"
 date: "2011-06-30 22:16:00"
 slug: "movomovo-revolucion-alquiler-coches-1231394"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Alquiler","Coches","Movomovo","Web"]
 image: "post-images/4e0ce0235caf6s353376.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-08-01 16:00:00"
 slug: "hotel-explora-luna-atacama-5795"
 categories: ["América","Hoteles"]
+tags: ["América","Atacama","Chile","Hoteles"]
 image: "post-images/53db9bf064a97s22740.jpg"
 ---
 

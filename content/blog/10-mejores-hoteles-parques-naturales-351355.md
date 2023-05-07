@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-02 22:39:00"
 slug: "10-mejores-hoteles-parques-naturales-351355"
 categories: ["Hoteles"]
+tags: ["Actualidad","Hoteles","Parques","Trivago"]
 image: "post-images/351355-188055.jpg"
 ---
 

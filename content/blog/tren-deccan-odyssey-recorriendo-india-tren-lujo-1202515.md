@@ -4,6 +4,7 @@ type: "post"
 date: "2011-07-21 16:33:00"
 slug: "tren-deccan-odyssey-recorriendo-india-tren-lujo-1202515"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Deccan Odyssey","India","Trenes"]
 image: "post-images/one.jpg"
 ---
 

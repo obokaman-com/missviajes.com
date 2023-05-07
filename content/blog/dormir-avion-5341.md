@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-05 00:00:00"
 slug: "dormir-avion-5341"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-images/5341-10677.jpg"
 ---
 

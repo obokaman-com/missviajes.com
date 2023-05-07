@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-28 00:00:00"
 slug: "10-pistas-esqui-europeas-mas-populares-162890"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Esquí","Europa","Los Top 10"]
 image: "post-background.jpg"
 ---
 

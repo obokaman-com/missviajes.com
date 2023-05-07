@@ -4,6 +4,7 @@ type: "post"
 date: "2010-03-19 17:15:00"
 slug: "spanair-nueva-imagen-533912"
 categories: ["Sin Categoría"]
+tags: ["Barcelona","Spanair","Vuelos"]
 image: "post-images/533912-228658.jpg"
 ---
 

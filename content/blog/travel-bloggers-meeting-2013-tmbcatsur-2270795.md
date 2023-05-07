@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-10 14:41:00"
 slug: "travel-bloggers-meeting-2013-tmbcatsur-2270795"
 categories: ["Cosas Varias"]
+tags: ["Actualidad"]
 image: "post-images/518cefa3f19d3s63028.jpg"
 ---
 

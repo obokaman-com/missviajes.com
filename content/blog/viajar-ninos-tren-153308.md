@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-10 00:00:00"
 slug: "viajar-ninos-tren-153308"
 categories: ["Sin Categoría"]
+tags: ["Missviajecitos","Trenes","Viajar Con Niños"]
 image: "post-images/153308-102050.jpg"
 ---
 

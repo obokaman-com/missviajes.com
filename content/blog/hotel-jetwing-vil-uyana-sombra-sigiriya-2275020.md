@@ -4,6 +4,7 @@ type: "post"
 date: "2018-06-27 00:00:00"
 slug: "hotel-jetwing-vil-uyana-sombra-sigiriya-2275020"
 categories: ["Asia","Hoteles"]
+tags: ["Hoteles","Sri Lanka","Viluyana"]
 image: "post-images/51addd314c628s110015.jpg"
 ---
 

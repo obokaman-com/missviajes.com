@@ -4,6 +4,7 @@ type: "post"
 date: "2013-06-28 13:34:00"
 slug: "10-mejores-hoteles-playa-espana-2013-2279394"
 categories: ["Europa","Hoteles","Playas"]
+tags: ["Actualidad","Hoteles","Trivago"]
 image: "post-images/51cd6f8198cafs2524618.jpg"
 ---
 

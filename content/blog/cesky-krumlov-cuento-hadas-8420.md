@@ -4,6 +4,7 @@ type: "post"
 date: "2014-07-28 09:07:00"
 slug: "cesky-krumlov-cuento-hadas-8420"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","Europa","Republica Checa"]
 image: "post-images/53d375be69407s206308.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-04 00:00:00"
 slug: "samoa-paraiso-independiente-50890"
 categories: ["Sin Categoría"]
+tags: ["Pacífico","Playas"]
 image: "post-images/50890-44516.jpg"
 ---
 

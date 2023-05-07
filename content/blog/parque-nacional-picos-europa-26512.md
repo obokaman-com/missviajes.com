@@ -4,6 +4,7 @@ type: "post"
 date: "2017-03-29 00:00:00"
 slug: "parque-nacional-picos-europa-26512"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["España","Europa","Parques"]
 image: "post-images/potes.jpg"
 ---
 

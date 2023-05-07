@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-08 00:00:00"
 slug: "easyviajar-nuevo-buscador-ofertas-37303"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-images/37303-35214.jpg"
 ---
 

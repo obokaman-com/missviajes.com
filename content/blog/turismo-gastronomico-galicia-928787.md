@@ -4,6 +4,7 @@ type: "post"
 date: "2010-10-15 20:49:00"
 slug: "turismo-gastronomico-galicia-928787"
 categories: ["Actualidad","Cosas Varias","Europa"]
+tags: ["Actualidad","España","Turismo De Galicia"]
 image: "post-images/928787-305324.jpg"
 ---
 

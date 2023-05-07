@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-12 00:00:00"
 slug: "aniversario-missviajes-34953"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

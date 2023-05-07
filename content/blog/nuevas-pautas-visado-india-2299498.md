@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-07 09:06:00"
 slug: "nuevas-pautas-visado-india-2299498"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","India"]
 image: "post-background.jpg"
 ---
 

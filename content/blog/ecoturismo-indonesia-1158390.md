@@ -4,6 +4,7 @@ type: "post"
 date: "2011-01-24 13:39:00"
 slug: "ecoturismo-indonesia-1158390"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Ecoturismo","Habitat For Humanity","Indonesia"]
 image: "post-images/1158390-328631.jpg"
 ---
 

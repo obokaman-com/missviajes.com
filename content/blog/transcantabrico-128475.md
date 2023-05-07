@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-18 00:00:00"
 slug: "transcantabrico-128475"
 categories: ["Sin Categoría"]
+tags: ["España","Europa","Rutas","Trenes"]
 image: "post-images/128475-91196.jpg"
 ---
 

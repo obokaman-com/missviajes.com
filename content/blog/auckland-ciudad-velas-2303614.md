@@ -4,6 +4,7 @@ type: "post"
 date: "2013-11-29 09:30:00"
 slug: "auckland-ciudad-velas-2303614"
 categories: ["Oceania"]
+tags: ["Auckland","New Zealand","Nueva Zelanda"]
 image: "post-images/529658c721dbfs286718.jpg"
 ---
 

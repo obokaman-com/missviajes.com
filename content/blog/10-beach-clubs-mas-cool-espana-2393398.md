@@ -4,6 +4,7 @@ type: "post"
 date: "2020-07-01 00:00:00"
 slug: "10-beach-clubs-mas-cool-espana-2393398"
 categories: ["Actualidad","Cosas Varias","Europa","Hoteles"]
+tags: ["Actualidad"]
 image: "post-images/55aa22a7ceabfs1111554.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2016-01-29 09:30:00"
 slug: "santiago-compostela-estudiantes-peregrinos-103616"
 categories: ["Europa"]
+tags: ["Ciudades","España","Europa","Galicia","Santiago Compostela"]
 image: "post-images/56aa07cf268a7s100391.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-03-24 16:09:00"
 slug: "hostelbookers-1-edicion-premios-excelencia-540544"
 categories: ["Hoteles"]
+tags: ["Hostelbrookers","Premios"]
 image: "post-images/540544-231377.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-10-16 00:00:00"
 slug: "parador-gredos-1948507"
 categories: ["Europa","Hoteles"]
+tags: ["Castilla Y León","España","Hoteles"]
 image: "post-images/4fbb80c237589s128271.jpg"
 ---
 

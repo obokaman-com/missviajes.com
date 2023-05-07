@@ -4,6 +4,7 @@ type: "post"
 date: "2018-08-09 00:00:00"
 slug: "key-west-florida-los-cayos-de-florida113424"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Eeuu","Florida","Key West"]
 image: "post-images/key-west-xxl-low-jpg_header-152808.jpeg"
 ---
 

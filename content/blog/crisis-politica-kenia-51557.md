@@ -4,6 +4,7 @@ type: "post"
 date: "2008-01-07 00:00:00"
 slug: "crisis-politica-kenia-51557"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Kenia"]
 image: "post-background.jpg"
 ---
 

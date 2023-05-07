@@ -4,6 +4,7 @@ type: "post"
 date: "2009-06-12 20:20:00"
 slug: "fiordos-noruegos-276698"
 categories: ["Sin Categoría"]
+tags: ["Europa","Fiordos","Noruega"]
 image: "post-background.jpg"
 ---
 

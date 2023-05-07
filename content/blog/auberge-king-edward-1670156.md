@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-28 00:00:00"
 slug: "auberge-king-edward-1670156"
 categories: ["América","Hoteles"]
+tags: ["Canadá","Hoteles","Ottawa"]
 image: "post-images/4f67884ca4decs1524376.jpg"
 ---
 

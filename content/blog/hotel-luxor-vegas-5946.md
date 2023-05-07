@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-29 00:00:00"
 slug: "hotel-luxor-vegas-5946"
 categories: ["América","Hoteles"]
+tags: ["América","Eeuu","Hoteles","Las Vegas","Nevada"]
 image: "post-images/5946-6494.jpg"
 ---
 

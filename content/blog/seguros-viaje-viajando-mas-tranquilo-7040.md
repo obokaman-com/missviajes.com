@@ -4,6 +4,7 @@ type: "post"
 date: "2020-04-27 00:00:00"
 slug: "seguros-viaje-viajando-mas-tranquilo-7040"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Seguro De Viaje","Varios"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-10-11 21:29:00"
 slug: "visitar-barcelona-918595"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Actualidad","Barcelona","Catalunya","España","Turismo"]
 image: "post-background.jpg"
 ---
 

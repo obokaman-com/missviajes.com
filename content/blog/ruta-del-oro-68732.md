@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-29 09:30:00"
 slug: "ruta-del-oro-68732"
 categories: ["América"]
+tags: ["Alaska","América","Eeuu","Rutas"]
 image: "post-images/51f3a26930c94s156795.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-13 00:00:00"
 slug: "hotel-omni-angeles-9883"
 categories: ["América","Hoteles"]
+tags: ["América","California","Eeuu","Hoteles","Los Angeles"]
 image: "post-images/9883-11058.jpg"
 ---
 

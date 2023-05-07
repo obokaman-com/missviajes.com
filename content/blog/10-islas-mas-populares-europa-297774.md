@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-31 12:40:00"
 slug: "10-islas-mas-populares-europa-297774"
 categories: ["Europa","Hoteles"]
+tags: ["Trivago"]
 image: "post-images/LIndos-Rodas.jpg"
 ---
 

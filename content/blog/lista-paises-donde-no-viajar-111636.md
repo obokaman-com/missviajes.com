@@ -4,6 +4,7 @@ type: "post"
 date: "2008-07-28 00:00:00"
 slug: "lista-paises-donde-no-viajar-111636"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-background.jpg"
 ---
 

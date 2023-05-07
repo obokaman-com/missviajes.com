@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-25 16:35:00"
 slug: "ruta-ninos-tailandia-2169488"
 categories: ["Asia","En Familia"]
+tags: ["Asia","Paises","Thailandia"]
 image: "post-background.jpg"
 ---
 

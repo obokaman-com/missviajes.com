@@ -4,6 +4,7 @@ type: "post"
 date: "2012-12-11 12:23:00"
 slug: "casas-rurales-sierra-cadiz-2230298"
 categories: ["En Familia","Europa","Hoteles","Visitas Y Excursiones"]
+tags: ["Cádiz","España","Parques"]
 image: "post-images/50c70af55f2a0s254150.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-13 00:00:00"
 slug: "carcassone-20614"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","Europa","Francia","Ruta De Los Cataros"]
 image: "post-images/20614-20151.jpg"
 ---
 

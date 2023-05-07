@@ -4,6 +4,7 @@ type: "post"
 date: "2012-02-07 17:04:00"
 slug: "museo-civilizacion-ottawa-1430467"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Canadá","Museos","Ottawa"]
 image: "post-images/4f32d1ee03d3ds1478009.jpg"
 ---
 

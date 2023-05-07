@@ -4,6 +4,7 @@ type: "post"
 date: "2011-11-14 09:21:00"
 slug: "intur-2011-feria-internacional-turismo-interior-1313840"
 categories: ["Sin Categoría"]
+tags: ["España","Intur","Valladolid"]
 image: "post-images/4ebbf3ac3f3b2s238609.jpg"
 ---
 

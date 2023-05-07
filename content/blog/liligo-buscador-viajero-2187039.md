@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-16 16:00:00"
 slug: "liligo-buscador-viajero-2187039"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/50a63130aea3cs18428.jpg"
 ---
 

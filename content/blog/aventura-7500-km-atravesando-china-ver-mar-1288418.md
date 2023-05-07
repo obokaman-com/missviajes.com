@@ -4,6 +4,7 @@ type: "post"
 date: "2011-10-05 22:11:00"
 slug: "aventura-7500-km-atravesando-china-ver-mar-1288418"
 categories: ["Asia"]
+tags: ["Actualidad","Expediciones"]
 image: "post-images/4e8ccb38e10b7s242794.jpg"
 ---
 

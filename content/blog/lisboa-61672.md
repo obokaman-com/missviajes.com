@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-15 00:00:00"
 slug: "lisboa-61672"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","Europa","Lisboa","Portugal"]
 image: "post-images/61672-52682.jpg"
 ---
 

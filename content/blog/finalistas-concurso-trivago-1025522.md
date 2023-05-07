@@ -4,6 +4,7 @@ type: "post"
 date: "2010-11-30 15:19:00"
 slug: "finalistas-concurso-trivago-1025522"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Concursos"]
 image: "post-background.jpg"
 ---
 

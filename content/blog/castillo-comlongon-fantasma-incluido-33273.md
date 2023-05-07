@@ -4,6 +4,7 @@ type: "post"
 date: "2007-10-25 00:00:00"
 slug: "castillo-comlongon-fantasma-incluido-33273"
 categories: ["Sin Categoría"]
+tags: ["Escocia","Europa","Hoteles"]
 image: "post-images/33273-32748.jpg"
 ---
 

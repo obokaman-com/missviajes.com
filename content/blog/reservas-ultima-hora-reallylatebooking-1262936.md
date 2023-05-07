@@ -4,6 +4,7 @@ type: "post"
 date: "2011-08-22 19:27:00"
 slug: "reservas-ultima-hora-reallylatebooking-1262936"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Hoteles","Iphone","Reallylatebooking"]
 image: "post-images/4e5658b4de64cs221308.jpg"
 ---
 

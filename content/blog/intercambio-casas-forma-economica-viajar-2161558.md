@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-05 22:20:00"
 slug: "intercambio-casas-forma-economica-viajar-2161558"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/5047703f5eadbs16832.jpg"
 ---
 

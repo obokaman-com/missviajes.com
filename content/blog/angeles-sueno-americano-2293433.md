@@ -4,6 +4,7 @@ type: "post"
 date: "2018-03-26 00:00:00"
 slug: "angeles-sueno-americano-2293433"
 categories: ["América"]
+tags: ["Eeuu","Los Angeles"]
 image: "post-images/524dd220a9b03s215546.jpg"
 ---
 

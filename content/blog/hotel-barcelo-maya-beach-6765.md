@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-15 00:00:00"
 slug: "hotel-barcelo-maya-beach-6765"
 categories: ["América","Hoteles","Playas"]
+tags: ["América","Hoteles","México","Riviera Maya"]
 image: "post-images/6765-8637.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-02-27 09:45:00"
 slug: "cuando-mejor-momento-reservar-vuelos-r-2381061"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Vuelos"]
 image: "post-background.jpg"
 ---
 

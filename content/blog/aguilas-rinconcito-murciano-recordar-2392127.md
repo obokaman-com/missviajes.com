@@ -4,6 +4,7 @@ type: "post"
 date: "2015-07-03 10:00:00"
 slug: "aguilas-rinconcito-murciano-recordar-2392127"
 categories: ["Europa"]
+tags: ["Águilas","España","Murcia","Playas"]
 image: "post-images/55963cc9bdb97s549609.jpg"
 ---
 

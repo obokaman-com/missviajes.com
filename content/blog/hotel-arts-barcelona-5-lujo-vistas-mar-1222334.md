@@ -4,6 +4,7 @@ type: "post"
 date: "2016-10-19 00:00:00"
 slug: "hotel-arts-barcelona-5-lujo-vistas-mar-1222334"
 categories: ["Europa","Hoteles","Playas"]
+tags: ["Barcelona","Catalunya","España","Hotel Arts De Barcelona","Hoteles"]
 image: "post-images/4dfa72dbd1a41s36209.jpg"
 ---
 

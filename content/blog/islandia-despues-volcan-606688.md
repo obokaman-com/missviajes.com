@@ -4,6 +4,7 @@ type: "post"
 date: "2010-05-27 12:35:00"
 slug: "islandia-despues-volcan-606688"
 categories: ["Actualidad","Europa"]
+tags: ["Actualidad","Islandia","Volcan"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2009-12-17 09:45:00"
 slug: "concurso-altair-452263"
 categories: ["Sin Categoría"]
+tags: ["Altaïr"]
 image: "post-background.jpg"
 ---
 

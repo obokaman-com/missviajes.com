@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-12 00:00:00"
 slug: "columnas-karnak-foto-mes-115717"
 categories: ["Sin Categoría"]
+tags: ["Egipto","Foto Del Mes","Oriente Medio"]
 image: "post-images/115717-88741.jpg"
 ---
 

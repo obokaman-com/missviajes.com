@@ -4,6 +4,7 @@ type: "post"
 date: "2006-12-11 00:00:00"
 slug: "mare-australis-crucero-mundo-5568"
 categories: ["América","Hoteles"]
+tags: ["América","Argentina","Chile","Cruceros","Patagonia"]
 image: "post-images/5568-5888.jpg"
 ---
 

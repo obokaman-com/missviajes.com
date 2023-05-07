@@ -4,6 +4,7 @@ type: "post"
 date: "2018-05-03 00:00:00"
 slug: "hotel-kandy-house-2283005"
 categories: ["Asia","Hoteles"]
+tags: ["Hoteles","Sri Lanka"]
 image: "post-images/51ea5db43b061s143336.jpg"
 ---
 

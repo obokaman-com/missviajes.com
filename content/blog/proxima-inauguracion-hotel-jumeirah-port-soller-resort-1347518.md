@@ -4,6 +4,7 @@ type: "post"
 date: "2011-12-26 13:37:00"
 slug: "proxima-inauguracion-hotel-jumeirah-port-soller-resort-1347518"
 categories: ["Europa","Hoteles"]
+tags: ["Baleares","España","Hoteles","Jumeirah","Mallorca"]
 image: "post-images/4ef45ea4ad110s150778.jpg"
 ---
 

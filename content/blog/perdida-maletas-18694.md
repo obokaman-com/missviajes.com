@@ -4,6 +4,7 @@ type: "post"
 date: "2019-06-12 00:00:00"
 slug: "perdida-maletas-18694"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

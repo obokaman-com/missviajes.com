@@ -4,6 +4,7 @@ type: "post"
 date: "2019-02-25 00:00:00"
 slug: "roma-escapada-fecha-regreso-2339722"
 categories: ["Europa"]
+tags: ["Ciudades","Italia","Roma"]
 image: "post-images/IMG_2337-EFFECTS.jpg"
 ---
 

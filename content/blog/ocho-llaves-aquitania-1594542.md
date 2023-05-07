@@ -4,6 +4,7 @@ type: "post"
 date: "2017-08-04 00:01:00"
 slug: "ocho-llaves-aquitania-1594542"
 categories: ["Europa"]
+tags: ["Aquitania","Europa","Francia"]
 image: "post-images/jardines-de-1024x680.jpg"
 ---
 

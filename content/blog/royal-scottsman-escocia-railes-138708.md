@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-08 00:00:00"
 slug: "royal-scottsman-escocia-railes-138708"
 categories: ["Sin Categoría"]
+tags: ["Escocia","Europa","Trenes"]
 image: "post-images/138708-102882.jpg"
 ---
 

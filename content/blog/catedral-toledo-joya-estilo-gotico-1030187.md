@@ -4,6 +4,7 @@ type: "post"
 date: "2017-01-30 00:00:00"
 slug: "catedral-toledo-joya-estilo-gotico-1030187"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Castilla-La Mancha","Tickets","Toledo"]
 image: "post-images/1030187-319828.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-12-05 22:47:00"
 slug: "huelga-controladores-1042003"
 categories: ["Actualidad"]
+tags: ["Actualidad","Controladores","España"]
 image: "post-background.jpg"
 ---
 

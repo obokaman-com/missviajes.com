@@ -4,6 +4,7 @@ type: "post"
 date: "2011-10-19 10:00:00"
 slug: "ruta-canada-costa-este-1295762"
 categories: ["América"]
+tags: ["América","Canadá","Rutas"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-09-19 00:00:00"
 slug: "escapada-a-formentera-26513"
 categories: ["En Familia","Europa","Playas","Visitas Y Excursiones"]
+tags: ["Baleares","España","Europa","Islas"]
 image: "post-images/faro-formentera.jpg"
 ---
 

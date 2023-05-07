@@ -4,6 +4,7 @@ type: "post"
 date: "2018-08-06 00:00:00"
 slug: "hotel-cinnamon-citadel-kandy-2291916"
 categories: ["Asia","Hoteles"]
+tags: ["Hoteles","Sri Lanka"]
 image: "post-images/523ac1b5e14c8s12523.jpg"
 ---
 

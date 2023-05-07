@@ -4,6 +4,7 @@ type: "post"
 date: "2018-03-22 00:00:00"
 slug: "la-shopping-week-compras-en-new-york-37750"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Eeuu","New York"]
 image: "post-images/New-York-shopping.jpg"
 ---
 

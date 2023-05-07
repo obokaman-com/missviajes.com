@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-06 00:00:00"
 slug: "hotel-britania-lisboa-7679"
 categories: ["Europa","Hoteles","Sin Categoría"]
+tags: ["Europa","Hoteles","Lisboa","Portugal"]
 image: "post-images/7679-9201.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-28 00:00:00"
 slug: "hotel-montien-bangkok-15222"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Bangkok","Hoteles","Thailandia"]
 image: "post-images/15222-14897.jpg"
 ---
 

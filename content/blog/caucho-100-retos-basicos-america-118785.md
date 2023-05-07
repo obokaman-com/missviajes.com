@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-01 00:00:00"
 slug: "caucho-100-retos-basicos-america-118785"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","América","Eeuu","Itinerarios","Web"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-07-14 11:00:00"
 slug: "hotel-oberoi-amarvilas-vistas-al-taj-mahal-5226"
 categories: ["Asia","Hoteles"]
+tags: ["Agra","Asia","Hoteles","India"]
 image: "post-images/55a3d8f193f39s148595.jpg"
 ---
 

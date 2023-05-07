@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-03 12:00:00"
 slug: "aude-provincia-catara-227923"
 categories: ["Sin Categoría"]
+tags: ["Cátaro","Europa","Francia"]
 image: "post-background.jpg"
 ---
 

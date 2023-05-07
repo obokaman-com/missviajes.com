@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-19 00:00:00"
 slug: "hotel-gorakadan-7570"
 categories: ["Asia","Hoteles"]
+tags: ["Asia","Hoteles","Japón","Parques"]
 image: "post-images/7570-9695.jpg"
 ---
 

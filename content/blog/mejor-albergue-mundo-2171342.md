@@ -4,6 +4,7 @@ type: "post"
 date: "2012-09-28 17:17:00"
 slug: "mejor-albergue-mundo-2171342"
 categories: ["Hoteles"]
+tags: ["Hoteles","Lisboa"]
 image: "post-images/50646edd34985s124307.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-12-21 09:29:00"
 slug: "sierra-nevada-esquiando-granada-2318533"
 categories: ["Europa"]
+tags: ["Esquí","Granada","Sierra Nevada"]
 image: "post-images/52b06814d7ee5s124926.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-09 09:13:44"
 slug: "todos-genbeta-60332"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Noticias"]
 image: "post-background.jpg"
 ---
 

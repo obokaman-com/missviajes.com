@@ -4,6 +4,7 @@ type: "post"
 date: "2008-12-12 00:00:00"
 slug: "madagascar-foto-mes-139109"
 categories: ["Sin Categoría"]
+tags: ["África","Foto Del Mes","Madagascar"]
 image: "post-background.jpg"
 ---
 

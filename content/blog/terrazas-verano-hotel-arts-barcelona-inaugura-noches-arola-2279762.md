@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-02 09:30:00"
 slug: "terrazas-verano-hotel-arts-barcelona-inaugura-noches-arola-2279762"
 categories: ["Cosas Varias","Europa","Hoteles"]
+tags: ["Barcelona","Hoteles"]
 image: "post-images/51d138dcacfe4s3425782.jpg"
 ---
 

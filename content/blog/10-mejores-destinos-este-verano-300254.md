@@ -4,6 +4,7 @@ type: "post"
 date: "2009-07-21 20:03:00"
 slug: "10-mejores-destinos-este-verano-300254"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Consejos","Los Top 10","Recomendaciones","Vacaciones"]
 image: "post-images/300254-164599.jpg"
 ---
 

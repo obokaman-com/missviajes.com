@@ -4,6 +4,7 @@ type: "post"
 date: "2018-02-19 00:00:00"
 slug: "isla-koh-tao-isla-ensueno-2283541"
 categories: ["Asia","Playas"]
+tags: ["Koh Tao","Thailandia"]
 image: "post-images/51f104d978455s158552.jpg"
 ---
 

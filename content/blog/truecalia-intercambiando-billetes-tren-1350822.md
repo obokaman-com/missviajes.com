@@ -4,6 +4,7 @@ type: "post"
 date: "2012-01-03 09:35:00"
 slug: "truecalia-intercambiando-billetes-tren-1350822"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-images/4efb3b964b919s58260.jpg"
 ---
 

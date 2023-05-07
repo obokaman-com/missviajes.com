@@ -4,6 +4,7 @@ type: "post"
 date: "2010-06-04 13:13:00"
 slug: "mezquita-cordoba-orgullo-patrimonio-humanidad-613749"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","Córdoba","España","Europa","Mezquita","Tickets"]
 image: "post-background.jpg"
 ---
 

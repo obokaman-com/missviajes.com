@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-12 20:30:00"
 slug: "interrail-europa-tren-122033"
 categories: ["Sin Categoría"]
+tags: ["Europa","Rutas","Trenes"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2018-04-16 00:00:00"
 slug: "nuwara-eliya-capital-plantaciones-te-2282615"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Nuwara Eliya","Sri Lanka"]
 image: "post-images/nuwara-eliya-main.jpg"
 ---
 

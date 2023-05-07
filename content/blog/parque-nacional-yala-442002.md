@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-31 20:24:00"
 slug: "parque-nacional-yala-442002"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Sri Lanka","Yala"]
 image: "post-background.jpg"
 ---
 

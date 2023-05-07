@@ -4,6 +4,7 @@ type: "post"
 date: "2017-11-02 00:00:00"
 slug: "bangkok-ciudad-contrastes-2179396"
 categories: ["Asia"]
+tags: ["Asia","Bangkok","Ciudades","Tailandia"]
 image: "post-images/tuktuk.jpg"
 ---
 

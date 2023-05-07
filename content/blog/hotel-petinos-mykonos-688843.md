@@ -4,6 +4,7 @@ type: "post"
 date: "2016-09-08 00:00:00"
 slug: "hotel-petinos-mykonos-688843"
 categories: ["Europa","Hoteles"]
+tags: ["Grecia","Hoteles","Mykonos","Petinos","Playas"]
 image: "post-images/architecture_mykonos-207x300.jpg"
 ---
 

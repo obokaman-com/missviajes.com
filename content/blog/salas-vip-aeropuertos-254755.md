@@ -4,6 +4,7 @@ type: "post"
 date: "2020-02-19 00:00:00"
 slug: "salas-vip-aeropuertos-254755"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Aeropuerto"]
 image: "post-background.jpg"
 ---
 

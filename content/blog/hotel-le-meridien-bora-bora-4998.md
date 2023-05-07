@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-22 07:50:13"
 slug: "hotel-le-meridien-bora-bora-4998"
 categories: ["Hoteles","Oceania"]
+tags: ["Bora Bora","Hoteles","Oceanía","Polinesia"]
 image: "post-images/4998-5264.jpg"
 ---
 

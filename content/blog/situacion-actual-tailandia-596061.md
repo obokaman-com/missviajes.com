@@ -4,6 +4,7 @@ type: "post"
 date: "2010-05-19 22:19:00"
 slug: "situacion-actual-tailandia-596061"
 categories: ["Actualidad","Asia"]
+tags: ["Actualidad","Noticias","Tailandia"]
 image: "post-background.jpg"
 ---
 

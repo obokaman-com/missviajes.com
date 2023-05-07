@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-20 00:00:00"
 slug: "sighisoara-bajo-sombra-dracula-136421"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","Europa","Rumanía","Sighisoara"]
 image: "post-images/136421-97600.jpg"
 ---
 

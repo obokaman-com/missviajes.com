@@ -4,6 +4,7 @@ type: "post"
 date: "2018-11-20 00:00:00"
 slug: "patan-ciudad-mil-tejados-rojos-2330503"
 categories: ["Asia"]
+tags: ["Nepal"]
 image: "post-images/52e2811b52898s111889.jpg"
 ---
 

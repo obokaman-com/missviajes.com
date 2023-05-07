@@ -4,6 +4,7 @@ type: "post"
 date: "2017-08-14 00:00:00"
 slug: "mar-muerto-sales-aguas-curativas-13771"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
+tags: ["Jordania","Oriente Medio","Paisajes"]
 image: "post-images/IMG_05551-1024x768.jpg"
 ---
 

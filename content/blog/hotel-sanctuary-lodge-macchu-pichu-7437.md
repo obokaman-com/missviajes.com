@@ -4,6 +4,7 @@ type: "post"
 date: "2007-01-30 00:00:00"
 slug: "hotel-sanctuary-lodge-macchu-pichu-7437"
 categories: ["América","Hoteles"]
+tags: ["América","Cuzco","Hoteles","Macchu Pichu","Perú"]
 image: "post-images/7437-9116.jpg"
 ---
 

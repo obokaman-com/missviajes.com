@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-27 22:52:00"
 slug: "vacaciones-relax-858297"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Relax"]
 image: "post-images/858297-286607.jpg"
 ---
 

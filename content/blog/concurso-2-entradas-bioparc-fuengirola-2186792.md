@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-15 11:25:00"
 slug: "concurso-2-entradas-bioparc-fuengirola-2186792"
 categories: ["Cosas Varias"]
+tags: ["Andalucia","Concursos","Costa Del Sol","España"]
 image: "post-images/50a3893083e20s2301104.jpg"
 ---
 

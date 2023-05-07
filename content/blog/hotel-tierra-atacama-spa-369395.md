@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-22 10:21:00"
 slug: "hotel-tierra-atacama-spa-369395"
 categories: ["América","Hoteles"]
+tags: ["América","Atacama","Chile","Desierto","Hoteles"]
 image: "post-images/369395-192198.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2019-10-22 00:00:00"
 slug: "7-mejores-hoteles-esquiar-espana-andorra-2250316"
 categories: ["Europa","Hoteles"]
+tags: ["Esquí","Hoteles","Trivago"]
 image: "post-images/rumaykiyya.jpg"
 ---
 

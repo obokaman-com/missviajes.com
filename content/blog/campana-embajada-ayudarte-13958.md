@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-14 00:00:00"
 slug: "campana-embajada-ayudarte-13958"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

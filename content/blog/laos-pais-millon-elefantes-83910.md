@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-12 00:00:00"
 slug: "laos-pais-millon-elefantes-83910"
 categories: ["Sin Categoría"]
+tags: ["Asia","Paises"]
 image: "post-images/83910-66571.jpg"
 ---
 

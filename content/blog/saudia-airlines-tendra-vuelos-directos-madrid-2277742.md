@@ -4,6 +4,7 @@ type: "post"
 date: "2013-06-20 09:45:00"
 slug: "saudia-airlines-tendra-vuelos-directos-madrid-2277742"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

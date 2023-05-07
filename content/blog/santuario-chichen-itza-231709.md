@@ -4,6 +4,7 @@ type: "post"
 date: "2015-02-17 09:30:00"
 slug: "santuario-chichen-itza-231709"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Chichen Itza","México","Tickets"]
 image: "post-images/54e2fa2628e3as49822.jpg"
 ---
 

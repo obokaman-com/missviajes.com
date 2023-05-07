@@ -4,6 +4,7 @@ type: "post"
 date: "2011-06-23 17:17:00"
 slug: "destino-belgica-1228046"
 categories: ["Europa"]
+tags: ["Bélgica","Europa"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2014-11-05 15:30:00"
 slug: "pipa-playa-secreta-brasil-11733"
 categories: ["América","Playas"]
+tags: ["América","Brasil","Pipa"]
 image: "post-images/11733-12668.jpg"
 ---
 

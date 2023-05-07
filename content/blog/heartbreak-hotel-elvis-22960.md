@@ -4,6 +4,7 @@ type: "post"
 date: "2007-10-18 00:00:00"
 slug: "heartbreak-hotel-elvis-22960"
 categories: ["Sin Categoría"]
+tags: ["América","Eeuu","Elvis","Hoteles","Memphis"]
 image: "post-images/22960-31108.jpg"
 ---
 

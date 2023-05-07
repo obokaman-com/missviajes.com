@@ -4,6 +4,7 @@ type: "post"
 date: "2012-07-02 17:00:00"
 slug: "venezuela-323331"
 categories: ["América"]
+tags: ["América","Paises"]
 image: "post-background.jpg"
 ---
 

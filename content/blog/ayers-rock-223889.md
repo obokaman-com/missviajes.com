@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-05 20:29:00"
 slug: "ayers-rock-223889"
 categories: ["Sin Categoría"]
+tags: ["Australia","Ayers Rock","Oceanía","Tickets","Uluru"]
 image: "post-background.jpg"
 ---
 

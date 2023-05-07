@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-02 00:00:00"
 slug: "cataratas-niagara-9505"
 categories: ["América","En Familia","Visitas Y Excursiones"]
+tags: ["América","Canadá","Cataratas Del Niagara","Eeuu","Parques"]
 image: "post-images/9505-10673.jpg"
 ---
 

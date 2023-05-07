@@ -4,6 +4,7 @@ type: "post"
 date: "2016-05-03 00:00:00"
 slug: "holanda-pais-cuento-854332"
 categories: ["En Familia","Europa"]
+tags: ["Europa","Paises"]
 image: "post-images/AMSTERDAM-300x169.jpg"
 ---
 

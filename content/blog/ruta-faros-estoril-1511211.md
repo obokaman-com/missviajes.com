@@ -4,6 +4,7 @@ type: "post"
 date: "2017-02-16 00:00:00"
 slug: "ruta-faros-estoril-1511211"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Europa","Portugal"]
 image: "post-images/faro-cascais-1024x683.jpg"
 ---
 

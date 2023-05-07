@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-03 00:00:00"
 slug: "viajar-ninos-coche-131327"
 categories: ["Sin Categoría"]
+tags: ["Missviajecitos","Viajar Con Niños"]
 image: "post-images/131327-95603.jpg"
 ---
 

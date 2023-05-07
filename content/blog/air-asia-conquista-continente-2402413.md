@@ -4,6 +4,7 @@ type: "post"
 date: "2015-11-05 09:00:00"
 slug: "air-asia-conquista-continente-2402413"
 categories: ["Actualidad"]
+tags: ["Airasia","Asia"]
 image: "post-images/563a33880b3d6s190573.jpg"
 ---
 

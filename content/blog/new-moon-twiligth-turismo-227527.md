@@ -4,6 +4,7 @@ type: "post"
 date: "2009-04-29 16:33:00"
 slug: "new-moon-twiligth-turismo-227527"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Rodaje Luna Nueva","The New Moon"]
 image: "post-background.jpg"
 ---
 

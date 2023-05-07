@@ -4,6 +4,7 @@ type: "post"
 date: "2008-09-05 00:00:00"
 slug: "lineas-nazca-123185"
 categories: ["Sin Categoría"]
+tags: ["América","Nazca","Perú","Tickets"]
 image: "post-images/123185-88491.jpg"
 ---
 

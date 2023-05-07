@@ -4,6 +4,7 @@ type: "post"
 date: "2015-05-25 10:20:00"
 slug: "antigua-mas-bonita-ciudad-colonial-nunca-vista-617117"
 categories: ["América"]
+tags: ["América","Antigua","Guatemala"]
 image: "post-images/5562d59fcbe3ds228733.jpg"
 ---
 

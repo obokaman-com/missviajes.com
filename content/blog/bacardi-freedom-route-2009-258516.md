@@ -4,6 +4,7 @@ type: "post"
 date: "2009-05-21 15:02:00"
 slug: "bacardi-freedom-route-2009-258516"
 categories: ["Sin Categoría"]
+tags: ["Actualidad"]
 image: "post-images/258516-144321.jpg"
 ---
 

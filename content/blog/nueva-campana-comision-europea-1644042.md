@@ -4,6 +4,7 @@ type: "post"
 date: "2012-03-13 15:37:00"
 slug: "nueva-campana-comision-europea-1644042"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Europa"]
 image: "post-background.jpg"
 ---
 

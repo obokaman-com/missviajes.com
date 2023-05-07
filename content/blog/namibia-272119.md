@@ -4,6 +4,7 @@ type: "post"
 date: "2013-08-05 11:12:00"
 slug: "namibia-272119"
 categories: ["África"]
+tags: ["África","Namibia","Paises"]
 image: "post-background.jpg"
 ---
 

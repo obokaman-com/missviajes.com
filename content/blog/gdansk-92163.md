@@ -4,6 +4,7 @@ type: "post"
 date: "2008-06-06 00:00:00"
 slug: "gdansk-92163"
 categories: ["Sin Categoría"]
+tags: ["Ciudades","Europa","Gdansk","Polonia"]
 image: "post-images/92163-71478.jpg"
 ---
 

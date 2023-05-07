@@ -4,6 +4,7 @@ type: "post"
 date: "2011-04-26 22:00:00"
 slug: "dubrovnik-perla-adriatico-956873"
 categories: ["Europa"]
+tags: ["Ciudades","Dubrovnik","Europa"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-10-04 00:00:00"
 slug: "abu-simbel-reconstruido-pieza-pieza-29520"
 categories: ["Sin Categoría"]
+tags: ["África","Egipto","Monumentos","Oriente Medio"]
 image: "post-images/29520-29017.jpg"
 ---
 

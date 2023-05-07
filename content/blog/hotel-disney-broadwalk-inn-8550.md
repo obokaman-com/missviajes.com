@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-08 00:00:00"
 slug: "hotel-disney-broadwalk-inn-8550"
 categories: ["América","En Familia","Hoteles"]
+tags: ["América","Eeuu","Florida","Hoteles","Orlando","Parques"]
 image: "post-images/8550-9965.jpg"
 ---
 

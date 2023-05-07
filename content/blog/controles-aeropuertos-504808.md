@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-21 00:38:00"
 slug: "controles-aeropuertos-504808"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Aeropuertos","Escáner Corporal"]
 image: "post-background.jpg"
 ---
 

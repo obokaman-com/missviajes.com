@@ -4,6 +4,7 @@ type: "post"
 date: "2015-04-22 10:00:00"
 slug: "ubeda-senorita-jaen-528418"
 categories: ["Europa"]
+tags: ["Andalucia","España","Europa","Jaén","Úbeda"]
 image: "post-images/55375042e9e80s932195.jpg"
 ---
 

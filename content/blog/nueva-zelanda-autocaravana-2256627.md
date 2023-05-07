@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-21 09:03:00"
 slug: "nueva-zelanda-autocaravana-2256627"
 categories: ["Oceania"]
+tags: ["Autocaravana","Nueva Zelanda"]
 image: "post-images/5148870bc3b74s170272.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-08-17 09:00:00"
 slug: "parque-nacional-ordesa-monte-perdido-69710"
 categories: ["Europa"]
+tags: ["Aragón","España","Europa","Ordesa","Parques"]
 image: "post-images/55cb2555eb01fs322693.jpg"
 ---
 

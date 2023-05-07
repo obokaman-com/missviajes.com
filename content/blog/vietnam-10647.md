@@ -4,6 +4,7 @@ type: "post"
 date: "2007-05-04 00:00:00"
 slug: "vietnam-10647"
 categories: ["Asia"]
+tags: ["Asia","Paises","Vietnam"]
 image: "post-images/10647-11777.jpg"
 ---
 

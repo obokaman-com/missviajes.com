@@ -4,6 +4,7 @@ type: "post"
 date: "2012-01-09 21:45:00"
 slug: "lorca-despues-terremoto-1356062"
 categories: ["Actualidad","Europa"]
+tags: ["Actualidad","España","Lorca","Murcia"]
 image: "post-background.jpg"
 ---
 

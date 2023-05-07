@@ -4,6 +4,7 @@ type: "post"
 date: "2015-08-12 12:50:00"
 slug: "goticket-prefieres-bus-o-trenr-2395502"
 categories: ["Actualidad","Cosas Varias"]
+tags: ["Actualidad","Webs"]
 image: "post-background.jpg"
 ---
 

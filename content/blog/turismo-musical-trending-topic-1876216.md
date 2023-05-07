@@ -4,6 +4,7 @@ type: "post"
 date: "2012-04-27 09:33:00"
 slug: "turismo-musical-trending-topic-1876216"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Hoteles","Turismo Musical"]
 image: "post-images/4f980d8c984eds23928.jpg"
 ---
 

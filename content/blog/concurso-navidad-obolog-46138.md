@@ -4,6 +4,7 @@ type: "post"
 date: "2007-12-13 00:00:00"
 slug: "concurso-navidad-obolog-46138"
 categories: ["Sin Categoría"]
+tags: ["Navidad","Varios"]
 image: "post-images/46138-41793.jpg"
 ---
 

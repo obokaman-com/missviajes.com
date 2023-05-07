@@ -4,6 +4,7 @@ type: "post"
 date: "2018-01-08 00:00:00"
 slug: "parque-nacional-cabo-gata-11680"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","España","Europa","Parques"]
 image: "post-images/11680-12626.jpg"
 ---
 

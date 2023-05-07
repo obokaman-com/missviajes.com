@@ -4,6 +4,7 @@ type: "post"
 date: "2018-11-05 00:00:00"
 slug: "camino-faros-costa-da-morte-2326328"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["España","Galicia","Rutas"]
 image: "post-images/52c71e70cee23s547893.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-30 00:00:00"
 slug: "mis-heroes-anonimos-149866"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

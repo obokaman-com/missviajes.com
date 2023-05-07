@@ -4,6 +4,7 @@ type: "post"
 date: "2013-06-07 17:29:00"
 slug: "polonnaruwa-budas-gal-vihara-2275587"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Sri Lanka"]
 image: "post-images/51b1ef093e358s172507.jpg"
 ---
 

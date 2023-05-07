@@ -4,6 +4,7 @@ type: "post"
 date: "2008-11-03 00:00:00"
 slug: "final-premios-bitacoras-151013"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Premios"]
 image: "post-background.jpg"
 ---
 

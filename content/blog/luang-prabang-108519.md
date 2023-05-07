@@ -4,6 +4,7 @@ type: "post"
 date: "2013-04-29 11:00:00"
 slug: "luang-prabang-108519"
 categories: ["Asia"]
+tags: ["Asia","Laos"]
 image: "post-images/517e24a25f19ds248288.jpg"
 ---
 

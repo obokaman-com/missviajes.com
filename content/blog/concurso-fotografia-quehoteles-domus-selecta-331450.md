@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-08 09:20:00"
 slug: "concurso-fotografia-quehoteles-domus-selecta-331450"
 categories: ["Sin Categoría"]
+tags: ["Concursos","Fotografía","Quehoteles"]
 image: "post-images/331450-180561.jpg"
 ---
 

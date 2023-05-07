@@ -4,6 +4,7 @@ type: "post"
 date: "2008-05-16 00:00:00"
 slug: "viajarcom-81575"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Varios"]
 image: "post-images/81575-64472.jpg"
 ---
 

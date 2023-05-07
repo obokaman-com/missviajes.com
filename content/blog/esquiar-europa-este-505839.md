@@ -4,6 +4,7 @@ type: "post"
 date: "2010-01-22 20:03:00"
 slug: "esquiar-europa-este-505839"
 categories: ["Sin Categoría"]
+tags: ["Esquí","Europa","Nieve"]
 image: "post-background.jpg"
 ---
 

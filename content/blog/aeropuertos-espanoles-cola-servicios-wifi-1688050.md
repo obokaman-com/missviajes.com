@@ -4,6 +4,7 @@ type: "post"
 date: "2012-03-22 13:28:00"
 slug: "aeropuertos-espanoles-cola-servicios-wifi-1688050"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aeropuertos"]
 image: "post-background.jpg"
 ---
 

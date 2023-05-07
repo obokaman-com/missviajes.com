@@ -4,6 +4,7 @@ type: "post"
 date: "2009-01-23 00:00:00"
 slug: "viajes-ninos-nieve-guarderias-187541"
 categories: ["Sin Categoría"]
+tags: ["Missviajecitos","Nieve","Viajar Con Niños"]
 image: "post-background.jpg"
 ---
 

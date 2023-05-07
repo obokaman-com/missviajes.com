@@ -4,6 +4,7 @@ type: "post"
 date: "2012-11-27 23:17:00"
 slug: "10-mejores-paradores-2012-2227374"
 categories: ["Europa","Hoteles","Sin Categoría"]
+tags: ["España","Hoteles"]
 image: "post-images/50b537db71c55s32018.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-04-30 16:59:00"
 slug: "vuelta-al-mundo-shandy-574940"
 categories: ["Sin Categoría"]
+tags: ["Varios","Vuelta Al Mundo"]
 image: "post-images/574940-242866.jpg"
 ---
 

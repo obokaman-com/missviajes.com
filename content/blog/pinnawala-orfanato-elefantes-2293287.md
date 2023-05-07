@@ -4,6 +4,7 @@ type: "post"
 date: "2018-06-20 00:00:00"
 slug: "pinnawala-orfanato-elefantes-2293287"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Pinnawala","Sri Lanka"]
 image: "post-images/5249dbc30c54cs195538.jpg"
 ---
 

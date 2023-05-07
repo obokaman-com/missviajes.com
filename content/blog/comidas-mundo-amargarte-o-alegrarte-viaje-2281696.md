@@ -4,6 +4,7 @@ type: "post"
 date: "2018-04-03 00:00:00"
 slug: "comidas-mundo-amargarte-o-alegrarte-viaje-2281696"
 categories: ["Cosas Varias"]
+tags: ["Opiniones"]
 image: "post-background.jpg"
 ---
 

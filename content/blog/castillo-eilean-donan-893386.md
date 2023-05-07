@@ -4,6 +4,7 @@ type: "post"
 date: "2015-05-12 10:00:00"
 slug: "castillo-eilean-donan-893386"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Eilean Donan","Escocia","Europa","Reino Unido","Tickets"]
 image: "post-images/5551adcca3c88s572544.jpg"
 ---
 

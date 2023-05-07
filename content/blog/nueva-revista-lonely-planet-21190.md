@@ -4,6 +4,7 @@ type: "post"
 date: "2007-08-09 00:00:00"
 slug: "nueva-revista-lonely-planet-21190"
 categories: ["Sin Categoría"]
+tags: ["Lonely Planet","Revista Lonely Planet","Varios"]
 image: "post-background.jpg"
 ---
 

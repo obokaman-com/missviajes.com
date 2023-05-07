@@ -4,6 +4,7 @@ type: "post"
 date: "2007-02-15 00:00:00"
 slug: "hotel-atlantic-palace-florencia-7129"
 categories: ["Sin Categoría"]
+tags: ["Europa","Florencia","Hoteles","Italia"]
 image: "post-images/7129-9251.jpg"
 ---
 

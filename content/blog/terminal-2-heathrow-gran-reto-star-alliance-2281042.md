@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-11 09:30:00"
 slug: "terminal-2-heathrow-gran-reto-star-alliance-2281042"
 categories: ["Cosas Varias","Europa"]
+tags: ["Actualidad","Londres"]
 image: "post-images/51dad872e47cfs43224.jpg"
 ---
 

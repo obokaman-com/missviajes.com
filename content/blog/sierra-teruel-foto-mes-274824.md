@@ -4,6 +4,7 @@ type: "post"
 date: "2009-10-09 16:24:00"
 slug: "sierra-teruel-foto-mes-274824"
 categories: ["Sin Categoría"]
+tags: ["Foto Del Mes"]
 image: "post-background.jpg"
 ---
 

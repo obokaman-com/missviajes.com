@@ -4,6 +4,7 @@ type: "post"
 date: "2013-07-01 09:30:00"
 slug: "tablas-daimiel-humedal-mancha-35545"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Castilla-La Mancha","España","Europa","Parques"]
 image: "post-images/35545-33358.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2015-07-28 09:00:00"
 slug: "ottawa-parlamento-canadiense-1569432"
 categories: ["América"]
+tags: ["Canadá","Ciudades","Ottawa"]
 image: "post-images/55b63cd161e38s131860.jpg"
 ---
 

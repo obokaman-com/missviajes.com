@@ -4,6 +4,7 @@ type: "post"
 date: "2011-04-15 22:07:00"
 slug: "altair-blog-informacion-actualidad-click-1192216"
 categories: ["Sin Categoría"]
+tags: ["Altaïr","Blogs"]
 image: "post-background.jpg"
 ---
 

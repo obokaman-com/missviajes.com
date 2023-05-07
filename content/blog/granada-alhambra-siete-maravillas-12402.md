@@ -4,6 +4,7 @@ type: "post"
 date: "2019-07-01 00:00:00"
 slug: "granada-alhambra-siete-maravillas-12402"
 categories: ["Visitas Y Excursiones"]
+tags: ["Andalucia","Ciudades","España","Europa","Granada"]
 image: "post-images/12402-13124.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2012-08-29 19:00:00"
 slug: "hotel-celal-sultan-estambul-7761"
 categories: ["Europa","Hoteles"]
+tags: ["Estambul","Europa","Hoteles","Turquía"]
 image: "post-images/7761-9244.jpg"
 ---
 

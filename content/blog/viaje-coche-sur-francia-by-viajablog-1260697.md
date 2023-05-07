@@ -4,6 +4,7 @@ type: "post"
 date: "2011-08-17 21:42:00"
 slug: "viaje-coche-sur-francia-by-viajablog-1260697"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Costa Azul","Francia","Rutas"]
 image: "post-background.jpg"
 ---
 

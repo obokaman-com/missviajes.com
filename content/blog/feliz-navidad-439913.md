@@ -4,6 +4,7 @@ type: "post"
 date: "2009-12-22 09:21:00"
 slug: "feliz-navidad-439913"
 categories: ["Sin Categoría"]
+tags: ["Navidad"]
 image: "post-images/439913-206300.jpg"
 ---
 

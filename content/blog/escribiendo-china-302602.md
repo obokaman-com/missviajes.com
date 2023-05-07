@@ -4,6 +4,7 @@ type: "post"
 date: "2009-08-03 12:46:00"
 slug: "escribiendo-china-302602"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Web"]
 image: "post-background.jpg"
 ---
 

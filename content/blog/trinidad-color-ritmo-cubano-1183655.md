@@ -4,6 +4,7 @@ type: "post"
 date: "2011-03-25 23:01:00"
 slug: "trinidad-color-ritmo-cubano-1183655"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Caribe","Ciudades","Cuba","Trinidad"]
 image: "post-background.jpg"
 ---
 

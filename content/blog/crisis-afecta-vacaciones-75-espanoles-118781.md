@@ -4,6 +4,7 @@ type: "post"
 date: "2008-08-15 00:00:00"
 slug: "crisis-afecta-vacaciones-75-espanoles-118781"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Noticias"]
 image: "post-background.jpg"
 ---
 

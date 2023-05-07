@@ -4,6 +4,7 @@ type: "post"
 date: "2013-05-16 09:00:00"
 slug: "kathmandu-sombra-himalaya-22984"
 categories: ["Asia"]
+tags: ["Asia","Ciudades","Nepal"]
 image: "post-images/518ce78534f71s332343.jpg"
 ---
 

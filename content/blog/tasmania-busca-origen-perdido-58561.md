@@ -4,6 +4,7 @@ type: "post"
 date: "2008-02-04 00:00:00"
 slug: "tasmania-busca-origen-perdido-58561"
 categories: ["Sin Categoría"]
+tags: ["Australia","Oceanía"]
 image: "post-images/58561-49894.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2013-12-01 11:43:00"
 slug: "fashion-travel-bloggers-2329145"
 categories: ["Cosas Varias"]
+tags: ["Fashion Travel Bloggers","Social Media"]
 image: "post-images/52d7c7e4a9902s105576.jpg"
 ---
 

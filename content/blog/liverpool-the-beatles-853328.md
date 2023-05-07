@@ -4,6 +4,7 @@ type: "post"
 date: "2010-08-13 13:17:00"
 slug: "liverpool-the-beatles-853328"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Liverpool","Reino Unido"]
 image: "post-background.jpg"
 ---
 

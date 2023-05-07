@@ -4,6 +4,7 @@ type: "post"
 date: "2009-12-07 11:00:00"
 slug: "vitoria-429322"
 categories: ["Europa"]
+tags: ["Ciudades","España","Europa","País Vasco","Vitoria"]
 image: "post-background.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2017-12-11 00:00:00"
 slug: "gran-muralla-china-42407"
 categories: ["Asia","Visitas Y Excursiones"]
+tags: ["Asia","Beijing","China"]
 image: "post-images/gubei.jpg"
 ---
 

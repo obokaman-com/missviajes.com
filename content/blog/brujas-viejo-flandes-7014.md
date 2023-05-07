@@ -4,6 +4,7 @@ type: "post"
 date: "2018-05-17 00:00:00"
 slug: "brujas-viejo-flandes-7014"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Bélgica","Ciudades","Europa"]
 image: "post-background.jpg"
 ---
 

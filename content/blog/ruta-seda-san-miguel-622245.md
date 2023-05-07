@@ -4,6 +4,7 @@ type: "post"
 date: "2010-06-07 17:41:00"
 slug: "ruta-seda-san-miguel-622245"
 categories: ["Cosas Varias"]
+tags: ["Actualidad","Varios"]
 image: "post-images/622245-257047.jpg"
 ---
 

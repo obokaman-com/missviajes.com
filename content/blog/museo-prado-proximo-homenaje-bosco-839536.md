@@ -4,6 +4,7 @@ type: "post"
 date: "2016-01-15 16:00:00"
 slug: "museo-prado-proximo-homenaje-bosco-839536"
 categories: ["Visitas Y Excursiones"]
+tags: ["España","Madrid","Museos"]
 image: "post-images/5697a5bb8f2fcs18519.jpg"
 ---
 

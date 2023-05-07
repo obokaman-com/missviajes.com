@@ -4,6 +4,7 @@ type: "post"
 date: "2012-01-27 13:05:00"
 slug: "emirates-apuesta-aeropuerto-barcelona-1388037"
 categories: ["Actualidad"]
+tags: ["Actualidad","Aéreo"]
 image: "post-background.jpg"
 ---
 

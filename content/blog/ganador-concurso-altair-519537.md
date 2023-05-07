@@ -4,6 +4,7 @@ type: "post"
 date: "2010-02-17 09:55:00"
 slug: "ganador-concurso-altair-519537"
 categories: ["Sin Categoría"]
+tags: ["Altaïr"]
 image: "post-background.jpg"
 ---
 

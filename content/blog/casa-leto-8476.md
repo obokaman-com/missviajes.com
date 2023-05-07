@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-02 00:00:00"
 slug: "casa-leto-8476"
 categories: ["Europa","Hoteles"]
+tags: ["Europa","Hoteles","Rusia","Sant Petersbugo"]
 image: "post-images/8476-9924.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-11-23 00:00:00"
 slug: "tahaa-isla-vainilla-35934"
 categories: ["Sin Categoría"]
+tags: ["Islas","Pacífico","Playas","Polinesia"]
 image: "post-images/35934-37708.jpg"
 ---
 

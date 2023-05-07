@@ -4,6 +4,7 @@ type: "post"
 date: "2007-12-06 00:00:00"
 slug: "nuevos-productos-higienicos-viaje-44105"
 categories: ["Sin Categoría"]
+tags: ["Varios"]
 image: "post-images/44105-40527.jpg"
 ---
 

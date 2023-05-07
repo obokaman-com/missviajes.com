@@ -4,6 +4,7 @@ type: "post"
 date: "2014-01-17 09:00:00"
 slug: "ronda-ciudad-sonada-5228"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Andalucia","Ciudades","Malaga","Nacional"]
 image: "post-images/52d8ef7acd3ecs274688.jpg"
 ---
 

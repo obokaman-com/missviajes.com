@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-26 00:00:00"
 slug: "crucero-moonriver-nilo-10261"
 categories: ["Sin Categoría"]
+tags: ["Cruceros","Egipto","Oriente Medio"]
 image: "post-images/10261-11539.jpg"
 ---
 

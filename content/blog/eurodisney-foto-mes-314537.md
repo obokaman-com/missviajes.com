@@ -4,6 +4,7 @@ type: "post"
 date: "2009-08-21 09:49:00"
 slug: "eurodisney-foto-mes-314537"
 categories: ["En Familia","Europa"]
+tags: ["Eurodisney","Foto Del Mes","Francia","Missviajecitos","Paris","Viajar Con Niños"]
 image: "post-background.jpg"
 ---
 

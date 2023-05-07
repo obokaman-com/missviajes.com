@@ -4,6 +4,7 @@ type: "post"
 date: "2012-07-26 15:56:00"
 slug: "hoteles-londres-bajan-precios-comienzo-olimpiadas-2081814"
 categories: ["Actualidad"]
+tags: ["Actualidad","Londres"]
 image: "post-images/50112ad840332s80484.jpg"
 ---
 

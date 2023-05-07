@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-17 09:30:00"
 slug: "premios-bitacoras-2009-130326"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","Premios"]
 image: "post-images/130326-183137.jpg"
 ---
 

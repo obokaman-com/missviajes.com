@@ -4,6 +4,7 @@ type: "post"
 date: "2015-11-30 09:22:00"
 slug: "phare-circus-circo-camboyano-2404192"
 categories: ["Visitas Y Excursiones"]
+tags: ["Actividades","Asia","Camboya","Prare Circus","Siem Reap"]
 image: "post-images/56571df90d869s204445.jpg"
 ---
 

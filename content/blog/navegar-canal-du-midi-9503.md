@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-09 00:00:00"
 slug: "navegar-canal-du-midi-9503"
 categories: ["Cosas Varias","En Familia","Europa","Hoteles"]
+tags: ["Europa","Francia","Languedoc","Turismo Fluvial"]
 image: "post-images/9503-10670.jpg"
 ---
 

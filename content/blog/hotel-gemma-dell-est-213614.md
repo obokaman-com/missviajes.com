@@ -4,6 +4,7 @@ type: "post"
 date: "2009-03-06 20:29:00"
 slug: "hotel-gemma-dell-est-213614"
 categories: ["Sin Categoría"]
+tags: ["Gemma De Lest","Hoteles","Playas","Zanzíbar"]
 image: "post-images/213614-124786.jpg"
 ---
 

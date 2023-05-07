@@ -4,6 +4,7 @@ type: "post"
 date: "2008-10-10 00:00:00"
 slug: "languedoc-roussillon-region-caracter-133793"
 categories: ["Sin Categoría"]
+tags: ["Europa","Francia","Languedoc-Roussillon"]
 image: "post-images/133793-96062.jpg"
 ---
 

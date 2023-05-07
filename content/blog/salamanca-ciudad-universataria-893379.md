@@ -4,6 +4,7 @@ type: "post"
 date: "2010-09-27 20:39:00"
 slug: "salamanca-ciudad-universataria-893379"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Castilla Y León","Ciudades","España","Salamanca"]
 image: "post-images/893379-298850.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2007-12-20 00:00:00"
 slug: "hotel-omni-san-francisco-35937"
 categories: ["Sin Categoría"]
+tags: ["América","California","Hoteles","San Francisco"]
 image: "post-images/35937-42695.jpg"
 ---
 

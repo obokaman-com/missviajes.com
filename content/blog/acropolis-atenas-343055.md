@@ -4,6 +4,7 @@ type: "post"
 date: "2015-01-12 19:30:00"
 slug: "acropolis-atenas-343055"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Atenas","Europa","Grecia","Tickets"]
 image: "post-images/343055-185036.jpg"
 ---
 

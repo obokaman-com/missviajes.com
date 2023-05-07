@@ -4,6 +4,7 @@ type: "post"
 date: "2012-08-01 15:23:00"
 slug: "20-cosas-amman-2122129"
 categories: ["Oriente Medio"]
+tags: ["Jordania","Oriente Medio"]
 image: "post-images/501925769cb7bs140515.jpg"
 ---
 

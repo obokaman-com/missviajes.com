@@ -4,6 +4,7 @@ type: "post"
 date: "2013-02-11 09:00:00"
 slug: "panama-mucho-mas-canal-15307"
 categories: ["América"]
+tags: ["Paises"]
 image: "post-images/15307-14940.jpg"
 ---
 

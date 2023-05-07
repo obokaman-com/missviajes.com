@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-08 00:00:00"
 slug: "hotel-notros-casi-confin-mundo-13633"
 categories: ["América","Hoteles"]
+tags: ["Argentina","Calafate","Hoteles","Patagonia","Perito Moreno","Sudamerica"]
 image: "post-images/13633-13871.jpg"
 ---
 

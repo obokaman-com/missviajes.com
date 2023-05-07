@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-21 00:00:00"
 slug: "juegos-de-viaje-12787"
 categories: ["Sin Categoría"]
+tags: ["Consejos","Varios"]
 image: "post-background.jpg"
 ---
 

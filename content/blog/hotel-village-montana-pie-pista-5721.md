@@ -4,6 +4,7 @@ type: "post"
 date: "2014-01-08 09:30:00"
 slug: "hotel-village-montana-pie-pista-5721"
 categories: ["Europa","Hoteles"]
+tags: ["Europa","Francia","Hoteles","Nieve","Tignes"]
 image: "post-images/52cc669cdb9ffs134573.jpg"
 ---
 

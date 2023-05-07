@@ -4,6 +4,7 @@ type: "post"
 date: "2008-03-11 00:00:00"
 slug: "castillos-loira-ruta-renacimiento-58954"
 categories: ["Sin Categoría"]
+tags: ["Europa","Francia","Rutas"]
 image: "post-images/58954-57467.jpg"
 ---
 

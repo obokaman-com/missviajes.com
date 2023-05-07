@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-16 00:00:00"
 slug: "alquiler-coches-9979"
 categories: ["Cosas Varias"]
+tags: ["Alquiler Coches","Varios"]
 image: "post-background.jpg"
 ---
 

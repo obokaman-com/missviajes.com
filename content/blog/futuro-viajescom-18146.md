@@ -4,6 +4,7 @@ type: "post"
 date: "2007-07-20 00:00:00"
 slug: "futuro-viajescom-18146"
 categories: ["Sin Categoría"]
+tags: ["Análisis","Muchoviaje"]
 image: "post-images/18146-17360.jpg"
 ---
 

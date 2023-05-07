@@ -4,6 +4,7 @@ type: "post"
 date: "2006-11-20 00:00:00"
 slug: "costa-rica-5004"
 categories: ["América"]
+tags: ["América","Paises"]
 image: "post-images/5004-5256.jpg"
 ---
 

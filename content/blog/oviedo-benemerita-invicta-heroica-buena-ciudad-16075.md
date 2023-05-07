@@ -4,6 +4,7 @@ type: "post"
 date: "2013-03-08 09:00:00"
 slug: "oviedo-benemerita-invicta-heroica-buena-ciudad-16075"
 categories: ["Europa"]
+tags: ["Asturias","Ciudades","España","Europa"]
 image: "post-images/16075-15341.jpg"
 ---
 

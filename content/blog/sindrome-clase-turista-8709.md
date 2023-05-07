@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-06 00:00:00"
 slug: "sindrome-clase-turista-8709"
 categories: ["Cosas Varias"]
+tags: ["Varios"]
 image: "post-background.jpg"
 ---
 

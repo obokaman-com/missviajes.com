@@ -4,6 +4,7 @@ type: "post"
 date: "2015-04-08 16:00:00"
 slug: "lovaina-ciudad-estudiantil-2384487"
 categories: ["Europa"]
+tags: ["Bélgica","Leuven","Lovaina"]
 image: "post-images/5524fc6dbb871s131436.jpg"
 ---
 

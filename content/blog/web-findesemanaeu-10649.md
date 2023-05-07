@@ -4,6 +4,7 @@ type: "post"
 date: "2007-05-03 00:00:00"
 slug: "web-findesemanaeu-10649"
 categories: ["Sin Categoría"]
+tags: ["Varios","Web"]
 image: "post-background.jpg"
 ---
 

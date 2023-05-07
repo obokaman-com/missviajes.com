@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-07 00:00:00"
 slug: "cataratas-iguazu-13569"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["Argentina","Brasil","Cataratas","Iguazú","Paisaje","Sudamerica"]
 image: "post-images/13569-13851.jpg"
 ---
 

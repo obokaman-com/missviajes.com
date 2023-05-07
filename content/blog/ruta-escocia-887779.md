@@ -4,6 +4,7 @@ type: "post"
 date: "2010-09-21 10:20:00"
 slug: "ruta-escocia-887779"
 categories: ["Europa","Visitas Y Excursiones"]
+tags: ["Diario","Escocia","Reino Unido"]
 image: "post-background.jpg"
 ---
 

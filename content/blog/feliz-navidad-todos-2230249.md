@@ -4,6 +4,7 @@ type: "post"
 date: "2014-12-22 11:05:00"
 slug: "feliz-navidad-todos-2230249"
 categories: ["Actualidad"]
+tags: ["Navidad"]
 image: "post-images/5497eb6a4cea2s118495.jpg"
 ---
 

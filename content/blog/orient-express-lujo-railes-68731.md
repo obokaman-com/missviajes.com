@@ -4,6 +4,7 @@ type: "post"
 date: "2019-03-06 00:00:00"
 slug: "orient-express-lujo-railes-68731"
 categories: ["Cosas Varias","Europa","Hoteles"]
+tags: ["Orient Express","Trenes"]
 image: "post-images/68731-57771.jpg"
 ---
 

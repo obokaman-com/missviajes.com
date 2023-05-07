@@ -4,6 +4,7 @@ type: "post"
 date: "2007-03-22 00:00:00"
 slug: "al-son-santiago-cuba-9115"
 categories: ["América","Visitas Y Excursiones"]
+tags: ["América","Caribe","Ciudades","Cuba"]
 image: "post-images/9115-10328.jpg"
 ---
 

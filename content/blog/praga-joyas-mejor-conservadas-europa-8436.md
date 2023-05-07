@@ -4,6 +4,7 @@ type: "post"
 date: "2018-10-01 00:00:00"
 slug: "praga-joyas-mejor-conservadas-europa-8436"
 categories: ["Europa"]
+tags: ["Ciudades","Europa","Praga","Republica Checa"]
 image: "post-images/52df86fdebe36s410585.jpg"
 ---
 

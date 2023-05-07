@@ -4,6 +4,7 @@ type: "post"
 date: "2010-06-09 09:30:00"
 slug: "extremadura-619136"
 categories: ["Sin Categoría"]
+tags: ["Actualidad","España","Extremadura"]
 image: "post-images/619136-256383.jpg"
 ---
 

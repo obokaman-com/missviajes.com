@@ -4,6 +4,7 @@ type: "post"
 date: "2015-09-07 09:07:00"
 slug: "nueva-ruta-siem-reap-sudeste-asiatico-2397375"
 categories: ["Asia"]
+tags: ["Asia","Camboya","Krabi","Kuala Lumpur","Malasia","Phi Phi","Rutas","Tailandia"]
 image: "post-images/55e9a850b83ces1442844.jpg"
 ---
 

@@ -4,6 +4,7 @@ type: "post"
 date: "2010-07-26 22:44:00"
 slug: "huelga-controladores-791326"
 categories: ["Actualidad"]
+tags: ["Actualidad","Controladores","Huelga"]
 image: "post-background.jpg"
 ---
 

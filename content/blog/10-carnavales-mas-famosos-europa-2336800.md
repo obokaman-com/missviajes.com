@@ -4,6 +4,7 @@ type: "post"
 date: "2019-01-16 02:00:00"
 slug: "10-carnavales-mas-famosos-europa-2336800"
 categories: ["Cosas Varias","Europa","Sin Categoría"]
+tags: ["Actualidad","Carnavales"]
 image: "post-background.jpg"
 ---
 

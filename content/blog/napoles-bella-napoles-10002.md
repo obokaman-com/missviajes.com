@@ -4,6 +4,7 @@ type: "post"
 date: "2007-04-20 00:00:00"
 slug: "napoles-bella-napoles-10002"
 categories: ["En Familia","Europa"]
+tags: ["Ciudades","Europa","Italia","Nápoles"]
 image: "post-images/10002-11307.jpg"
 ---
 

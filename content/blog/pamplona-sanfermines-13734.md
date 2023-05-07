@@ -4,6 +4,7 @@ type: "post"
 date: "2007-06-15 00:00:00"
 slug: "pamplona-sanfermines-13734"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
+tags: ["Ciudades","España","Europa","Fiestas Populares","Navarra"]
 image: "post-images/13734-14271.jpg"
 ---
 

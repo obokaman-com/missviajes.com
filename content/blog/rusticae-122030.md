@@ -4,6 +4,7 @@ type: "post"
 date: "2009-09-07 13:15:00"
 slug: "rusticae-122030"
 categories: ["Hoteles"]
+tags: ["Novedades","Web"]
 image: "post-background.jpg"
 ---
 

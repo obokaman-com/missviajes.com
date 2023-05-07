@@ -4,6 +4,7 @@ type: "post"
 date: "2013-08-28 13:24:00"
 slug: "hotel-fresh-atenas-508640"
 categories: ["Europa","Hoteles"]
+tags: ["Atenas","Europa","Grecia","Hoteles"]
 image: "post-images/508640-216986.jpg"
 ---
 
