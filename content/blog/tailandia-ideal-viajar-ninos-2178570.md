@@ -4,14 +4,14 @@ type: "post"
 date: "2012-10-19 21:20:00"
 slug: "tailandia-ideal-viajar-ninos-2178570"
 categories: ["Asia","En Familia"]
-image: "/post-images/5081a7b6a50f2s3022951.jpg"
+image: "post-images/5081a7b6a50f2s3022951.jpg"
 ---
 
- [![ TAGS:](/post-images/5081a7b6a50f2s3022951.jpg "detalle del Gran Palacio en Bangkok by missviajes")](/post-images/5081a7b6a50f2s3022951.jpg)
+ [![ TAGS:](post-images/5081a7b6a50f2s3022951.jpg "detalle del Gran Palacio en Bangkok by missviajes")](post-images/5081a7b6a50f2s3022951.jpg)
 
  Ya he vuelto. Acabo de regresar de mi aventura tailandesa con mi hija de 4 años y tengo que decir que ha sido todo un éxito. Es un país perfecto para viajar con niños principalmente por tres razones.
 
- [![ - ](/post-images/5081a720f17des1569562.jpg "granja de elefantes en Chiang Mai by missviajes")](/post-images/5081a720f17des1569562.jpg)
+ [![ - ](post-images/5081a720f17des1569562.jpg "granja de elefantes en Chiang Mai by missviajes")](post-images/5081a720f17des1569562.jpg)
 
  La primera es que está **lleno de actividades para hacer con ellos**, es como un Port Aventura. Mi hija ha hecho su propia lista de las cosas que más le han gustado por orden
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2013-11-25 16:30:00"
 slug: "vall-daran-esperando-primeras-nevadas-6929"
 categories: ["Europa"]
-image: "/post-images/528f30bf46946s207214.jpg"
+image: "post-images/528f30bf46946s207214.jpg"
 ---
 
- [ ![ TAGS:](/post-images/528f30bf46946s207214.jpg "La Vall d'Aran by trilanes")](http://www.flickr.com/photos/trilanes/4859118757/sizes/z/in/photostream/)
+ [ ![ TAGS:](post-images/528f30bf46946s207214.jpg "La Vall d'Aran by trilanes")](http://www.flickr.com/photos/trilanes/4859118757/sizes/z/in/photostream/)
 
  [](/wp-content/uploads/2013/11/528f314342430s367304.jpg)Ahora que la nieve empieza a cubrir los Pirineos y que las pistas de esquí y sus instalaciones calientan motores, creo que es buen momento para escribir cuatro líneas sobre la Vall d'Aran. La capital de la comarca es **Vielha**, centro económico, social y turístico de la zona. Detrás le siguen **Arties**, **Salardú** y **Baqueira Beret** con 77 kms de pistas para esquiar y con rutas de esquí nórdico. Todos los pueblecitos de la zona tienen un encanto especial, conservan iglesias románicas, tejados de pizarra, casonas medievales con escudos nobiliarios, y ese olor a chimenea que emerge entre el frío aroma de tierra mojada. Escápate si puedes a ver las poblaciones de **Unha y Bagergue, el valle de Liat, la cascada de Saut deth Pish y el mirador de Vilac**.
 

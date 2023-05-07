@@ -4,14 +4,14 @@ type: "post"
 date: "2015-01-23 15:30:00"
 slug: "notre-dame-mas-catedral-2377917"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/54c257d9ab230s164569.jpg"
+image: "post-images/54c257d9ab230s164569.jpg"
 ---
 
-![ TAGS:undefined](/post-images/54c257d9ab230s164569.jpg "by missviajes")  
+![ TAGS:undefined](post-images/54c257d9ab230s164569.jpg "by missviajes")  
   
 ¿Quien no ha oído hablar de Quasimodo? Aquel personaje dramático de la obra **Nuestra Señora de [París](http://www.missviajes.com/semana-paris-imprescindibles-2369134)** de ***Victor Hugo***, que abandonado desde su nacimiento vivía escondido en una Catedral tocando las campanas. Fue así como la Catedral de Notre Dame se hizo más conocida si cabe en el mundo entero, sin embargo para los parisinos Notre Dame ha sido una pieza importante en muchos de los acontecimientos más importantes de su historia.  
   
-![](/post-images/54c2578bda03bs95974.jpg)Por muchas fotos que hayas visto, cuando llegas al lugar,impresiona mucho. Es una de las catedrales góticas más antiguas y su majestuosidad no te deja indiferente. Sus dos torres de 69 metros en la fachada, los rosetones, los arcobontantes y las gárgolas hacen que inmediatamente la identifiques. La mires desde el punto de mira que sea, te encantará. No te cansarás de hacerle fotos o de admirarla desde el río... o tomando un café. Es una joya !!!  
+![](post-images/54c2578bda03bs95974.jpg)Por muchas fotos que hayas visto, cuando llegas al lugar,impresiona mucho. Es una de las catedrales góticas más antiguas y su majestuosidad no te deja indiferente. Sus dos torres de 69 metros en la fachada, los rosetones, los arcobontantes y las gárgolas hacen que inmediatamente la identifiques. La mires desde el punto de mira que sea, te encantará. No te cansarás de hacerle fotos o de admirarla desde el río... o tomando un café. Es una joya !!!  
   
 **La entrada es gratuita. Subir a las torres cuesta 8.5 euros/adulto****Horarios de visita :** De lunes a viernes: de 8:00 a 18:45 horas. Sábados y domingos de 08.00 a 19.15 hrs  
   

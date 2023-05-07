@@ -4,10 +4,10 @@ type: "post"
 date: "2009-05-21 15:02:00"
 slug: "bacardi-freedom-route-2009-258516"
 categories: ["Sin Categoría"]
-image: "/post-images/258516-144321.jpg"
+image: "post-images/258516-144321.jpg"
 ---
 
-![bacardi freedom route 09](/post-images/258516-144321.jpg "bacardi freedom route 09")
+![bacardi freedom route 09](post-images/258516-144321.jpg "bacardi freedom route 09")
 
 Comienza de nuevo la **tercera edición** del reto que organiza la conocida **marca Bacardi**. T**res amigos** que quieran viajar **durante un mes** persiguiendo las mejores puestas de Sol del Mediterráneo. Este año empieza en Estambul y acaba en Essaouira, un pequeño pueblecito pesquero de Marruecos
 

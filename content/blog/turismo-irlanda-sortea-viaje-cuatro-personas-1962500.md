@@ -17,4 +17,4 @@ image: "post-background.jpg"
 
  Los equipos que completen el desafío entrarán en el **sorteo de un viaje a [Dublín](http://bit.ly/JLakkH) para cuatro personas (desde cualquier ciudad española con vuelos directos hasta Dublín), 2 noches de alojamiento en un hotel de 3 estrellas y un tour guiado por el [Condado de Wicklow](http://bit.ly/JLaicA) (Glendalough y Powerscourt).**
 
- Suerte!!!!![](/post-images/[timestamp])
+ Suerte!!!!![](post-images/[timestamp])

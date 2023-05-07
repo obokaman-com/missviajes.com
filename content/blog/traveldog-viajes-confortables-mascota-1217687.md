@@ -4,10 +4,10 @@ type: "post"
 date: "2011-06-08 15:30:00"
 slug: "traveldog-viajes-confortables-mascota-1217687"
 categories: ["Cosas Varias"]
-image: "/post-images/traveldog.jpg"
+image: "post-images/traveldog.jpg"
 ---
 
- ![ - ](/post-images/traveldog.jpg)
+ ![ - ](post-images/traveldog.jpg)
 
 Antes de ayer, mientras desayunaba, leí un artículo en el Periódico de Catalunya sobre Traveldog. Es una empresa que se dedica **exclusivamente al traslado de mascotas**.
 

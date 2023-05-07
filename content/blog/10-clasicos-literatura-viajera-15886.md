@@ -4,10 +4,10 @@ type: "post"
 date: "2014-12-10 10:00:00"
 slug: "10-clasicos-literatura-viajera-15886"
 categories: ["Cosas Varias"]
-image: "/post-images/15886-18011.jpg"
+image: "post-images/15886-18011.jpg"
 ---
 
- ![15886-18011.jpg](/post-images/15886-18011.jpg "15886-18011.jpg")
+ ![15886-18011.jpg](post-images/15886-18011.jpg "15886-18011.jpg")
 
  Las guias de viaje son la mejor manera de conocer el país o la ciudad que vas a visitar. Te ayudan a organizar tu estancia, a no perder detalle de los lugares más emblemáticos e incluso te dan consejos y recomendaciones. Pero **casi todas** las guias tienen un defecto y es el que no transmiten sensaciones ni experiencias vividas.
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2017-06-19 00:00:32"
 slug: "dos-dias-en-petra-jordania"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
-image: "/post-images/siq-300x300.jpg"
+image: "post-images/siq-300x300.jpg"
 ---
 
 Petra es ..... no hay un lugar comparable con Petra (**[Jordania](http://www.missviajes.com/ruta-por-jordania-en-coche-de-alquiler/)**). Teníamos muy claro que queríamos recorrerlo con calma y disfrutar del lugar así que nos quedamos dos días a dormir
@@ -19,7 +19,7 @@ Desde [Ammán ](http://www.missviajes.com/un-dia-en-amman-que-ver-y-donde-comer/
 
 **Wadi Musa** es la población a los pies de Petra. Está dividida como en dos zonas. Nuestro hotel , el **[Rocky Mountain](http://www.booking.com/hotel/jo/rocky-mountain.html?aid=1294466&no_rooms=1&group_adults=1)**, estaba en el barrio de arriba, un poco más distanciado de la zona más concurrida, pero más barato también.
 
-Ese mismo día, nos fuimos a ver Little Petra a las afueras de la ciudad. Apenas hay gente. Le encuentras el encanto si lo haces el primer día (como nosotros) , no tiene ningún sentido visitarlo si vas a hacerlo después de Petra.![](/post-images/siq-300x300.jpg)
+Ese mismo día, nos fuimos a ver Little Petra a las afueras de la ciudad. Apenas hay gente. Le encuentras el encanto si lo haces el primer día (como nosotros) , no tiene ningún sentido visitarlo si vas a hacerlo después de Petra.![](post-images/siq-300x300.jpg)
 
 A continuación nos acercamo al Visitor Center de Petra para comprar las entradas del Petra by Night (17JOD). En mi opinión, el show en si no vale la pena, pero es bonito el llegar de noche... a través del Siq iluminado..... no voy a desvelar más
 
@@ -43,7 +43,7 @@ Nos levantamos pronto de nuevo y después de desayunar nos vino a buscar un coch
 
 
 
-![](/post-images/IMG_03961-1-1024x227.jpg)
+![](post-images/IMG_03961-1-1024x227.jpg)
 
 
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2011-03-11 10:50:00"
 slug: "parque-nacional-serengeti-polemica-autopista-1177023"
 categories: ["África","Visitas Y Excursiones"]
-image: "/post-images/1177023-336854.jpg"
+image: "post-images/1177023-336854.jpg"
 ---
 
 Es por muchos ya sabido **la temida intención del Gobierno de Tanzania de levantar una autopista atravesando el Parque Nacional del Serengeti con el fin de "mejorar las infraestructuras del país", que en caso ser construida realmente tendría consecuencias devastadoras sobre el ecosistema del Serengeti**.
@@ -13,7 +13,7 @@ La organización [Serengeti Watch ](http://www.savetheserengeti.org) que hace to
 
 El Director Regional en África para la Sociedad Zoológica de Frankfurt, el Sr. Gelrald Bigurube, dijo también que el Banco Mundial y **el gobierno alemán están dispuestos a financiar la ruta sur que uniría la región de Arusha con las regiones del Lago Victoria sin atravesar el Serengeti**.
 
-![carretera Serengeti](/post-images/1177023-336854.jpg "carretera Serengeti")
+![carretera Serengeti](post-images/1177023-336854.jpg "carretera Serengeti")
 
 Para que te hagas una idea, **este mapa muestra el sistema de carreteras alrededor de Serengeti, con la ruta sur propuesta por Serengeti Watch . Marcado en rojo está la polémica carretera . En color verde está marcada la propuesta alemana con la carretera del sur y en color negro las carreteras ya existentes**.
 

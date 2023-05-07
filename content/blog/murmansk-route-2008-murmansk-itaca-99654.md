@@ -4,10 +4,10 @@ type: "post"
 date: "2008-06-23 00:00:00"
 slug: "murmansk-route-2008-murmansk-itaca-99654"
 categories: ["Sin Categoría"]
-image: "/post-images/99654-75914.jpg"
+image: "post-images/99654-75914.jpg"
 ---
 
-![99654-75914.jpg](/post-images/99654-75914.jpg "99654-75914.jpg")
+![99654-75914.jpg](post-images/99654-75914.jpg "99654-75914.jpg")
 
 Comienza la **segunda edición** de este peculiar periplo que organiza la conocida **marca Bacardi**. Se buscan **tres grupos de tres amigos** que quieran viajar **durante un mes** para ir de Murmansk, un pueblecito al norte de Rusia, hasta la isla griega de Itaca.
 

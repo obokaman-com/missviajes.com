@@ -4,10 +4,10 @@ type: "post"
 date: "2012-08-16 20:00:00"
 slug: "hotel-kirini-aguas-mediterraneo-20273"
 categories: ["Europa","Hoteles","Playas"]
-image: "/post-images/502d0187c7027s18548.jpg"
+image: "post-images/502d0187c7027s18548.jpg"
 ---
 
- [![ TAGS:](/post-images/502d0187c7027s18548.jpg)](/post-images/502d0187c7027s18548.jpg)
+ [![ TAGS:](post-images/502d0187c7027s18548.jpg)](post-images/502d0187c7027s18548.jpg)
 
  Este pequeño hotel de apenas 19 habitaciones se encuentra en **Oia (Grecia)**, un hermoso lugar del mundo dónde perderse., más concretamente situado en una de sus islas.
 

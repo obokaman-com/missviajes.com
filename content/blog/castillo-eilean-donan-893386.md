@@ -4,10 +4,10 @@ type: "post"
 date: "2015-05-12 10:00:00"
 slug: "castillo-eilean-donan-893386"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/5551adcca3c88s572544.jpg"
+image: "post-images/5551adcca3c88s572544.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/5551adcca3c88s572544.jpg "Castillo Eilean Donan")
+ ![ TAGS:undefined](post-images/5551adcca3c88s572544.jpg "Castillo Eilean Donan")
 
  Es "el castillo" . Será el maravilloso espacio natural en el que se encuentra, lo bien conservado que está, su historia... no se, pero este castillo tiene un algo que atrapa y de entre el largo listado de castillos que cuenta Escocia, os recomiendo la visita.
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2017-08-14 00:00:00"
 slug: "mar-muerto-sales-aguas-curativas-13771"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
-image: "/post-images/IMG_05551-1024x768.jpg"
+image: "post-images/IMG_05551-1024x768.jpg"
 ---
 
    
@@ -19,9 +19,9 @@ El Mar Muerto es el lugar de más baja altitud del mundo, situado en los límite
   
 El fondo en el mar muerto es oscuro y con piedras. Bañarte es una sensación totalmente diferente. No podrás bañarte más de 10 minutos porque el picor es muy intenso y resulta incomodo. Notas la salitre seca en tu piel y a la vez aceitosa...... Hay unas duchas públicas en las que puedes bañarte.  
   
-\[caption id="attachment\_3693" align="aligncenter" width="505"\]![](/post-images/IMG_05551-1024x768.jpg) Playa del hotel Ramada Dead Sea Resort\[/caption\]  
+\[caption id="attachment\_3693" align="aligncenter" width="505"\]![](post-images/IMG_05551-1024x768.jpg) Playa del hotel Ramada Dead Sea Resort\[/caption\]  
   
-Hay varios bastantes hoteles delante del mar Muerto para todos los bolsillos: [Mövenpick](http://www.booking.com/hotel/jo/moevenpick-resort-spa-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1), [Crowne Plaza Dead Sea Jordan](http://www.booking.com/hotel/jo/crowne-plaza-jordan-dead-sea-resort-amp-spa.html?aid=1294466&no_rooms=1&group_adults=1) ,[ Kempinski hotel Ishtar ......](http://www.booking.com/hotel/jo/kempinski-ishtar-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1) o el[ Ramada Resort Dead Sea](http://www.booking.com/hotel/jo/ramada-resort-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1). Este último es dónde nosotras nos alojamos. El hotel Ramada Resort Dead Sea es una opción económica de 4 estrellas. Se alojan muchos jordanos y turistas de paises próximos en este hotel, así que en las piscinas verás burkinis... (no deja de ser impactante). Las habitaciones son amplias, bien equipadas, cómodas y relativamente nuevas. Para llegar al Mar Muerto tienes que subir a un shuttle que recoge a los huespedes ![](/post-images/IMG_05511-768x1024.jpg)cada 15/20 min. Tardas unos 5 minutos en llegar a la playa, pero como no hay sombras y hace mucho calor.. no piensas en ir andando.  
+Hay varios bastantes hoteles delante del mar Muerto para todos los bolsillos: [Mövenpick](http://www.booking.com/hotel/jo/moevenpick-resort-spa-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1), [Crowne Plaza Dead Sea Jordan](http://www.booking.com/hotel/jo/crowne-plaza-jordan-dead-sea-resort-amp-spa.html?aid=1294466&no_rooms=1&group_adults=1) ,[ Kempinski hotel Ishtar ......](http://www.booking.com/hotel/jo/kempinski-ishtar-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1) o el[ Ramada Resort Dead Sea](http://www.booking.com/hotel/jo/ramada-resort-dead-sea.html?aid=1294466&no_rooms=1&group_adults=1). Este último es dónde nosotras nos alojamos. El hotel Ramada Resort Dead Sea es una opción económica de 4 estrellas. Se alojan muchos jordanos y turistas de paises próximos en este hotel, así que en las piscinas verás burkinis... (no deja de ser impactante). Las habitaciones son amplias, bien equipadas, cómodas y relativamente nuevas. Para llegar al Mar Muerto tienes que subir a un shuttle que recoge a los huespedes ![](post-images/IMG_05511-768x1024.jpg)cada 15/20 min. Tardas unos 5 minutos en llegar a la playa, pero como no hay sombras y hace mucho calor.. no piensas en ir andando.  
   
 En la playa encuentras hamacas y zonas preparadas para embadurnarte de barro que según dicen tienen tantas propiedades. Ahí si que te quedas acartonada a los 10 minutos.  
   

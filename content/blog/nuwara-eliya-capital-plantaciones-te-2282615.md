@@ -4,14 +4,14 @@ type: "post"
 date: "2018-04-16 00:00:00"
 slug: "nuwara-eliya-capital-plantaciones-te-2282615"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/nuwara-eliya-main.jpg"
+image: "post-images/nuwara-eliya-main.jpg"
 ---
 
    
   
 En mi opinión es sin duda una de las **zonas más bonitas de todo [Sri Lanka](http://www.missviajes.com/sri-lanka-pais-eterna-sonrisa-2272853/).** Tras salir de la ruidosa ciudad de [Kandy](http://www.missviajes.com/kandy-festival-perahera-2280195/), la carretera hacia las montañas es una **carretera ancha y asfaltada pero de curvas sinuosas** (no siempre muy cerradas, sólo en algunos tramos) con unas vistas increíbles de las plantaciones de té. La vista se pierde por la ventana del coche por los campos cubiertos de un tapiz verde de rayas. Es fácil ver también como las mujeres ataviadas con vestidos de vistosos colores trabajan el campo. Nos explicaron que en el campo sólo trabajan mujeres porque tienen más sensibilidad en las manos y más facilidad por su tamaño de recoger las hojas de té. 380.000 hectáreas nos explicó el guía que hay actualmente plantadas de té.  
   
-![](/post-images/nuwara-eliya-main.jpg)  
+![](post-images/nuwara-eliya-main.jpg)  
   
 La población de **Nuwara Eliya es una localidad pequeña pero con mucho encanto y mucha vida.** Está salpicada de casas victorianas muy bonitas que formaron parte de la historia colonial británico cómo por ejemplo la Oficina de Correos. El gran lago de Gregory Lake es una de las atracciones turísticas de la población. Construido a finales del siglo XIX, es lugar de práctica de deportes acuáticos e incluye un puerto deportivo.  
   

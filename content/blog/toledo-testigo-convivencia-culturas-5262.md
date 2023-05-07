@@ -4,14 +4,14 @@ type: "post"
 date: "2016-09-22 00:00:00"
 slug: "toledo-testigo-convivencia-culturas-5262"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/5282320bc1fbes332078.jpg"
+image: "post-images/5282320bc1fbes332078.jpg"
 ---
 
 ¿Alguna vez habías pensado encontrar sinagogas con inscripciones hebreas en lengua árabe? Toledo las tiene. La huella del tiempo ha dejado patente la esperanza de la convivencia entre culturas, la adaptación y la tolerancia. Pero no quiero extenderme y filosofar sobre ese complicado tema.
 
 Volviendo a las líneas que estaba escribiendo: Toledo es considerada una **ciudad-museo** por conservar muestras entremezcladas de la cultura romana (como el **circo Romano**), musulmana (como los **baños árabes**), mudéjar (**casa del Temple, Iglesia de San Andrés o la Sinagoga de Sta. María la Blanca**), gótico (la [ **Catedral**](http://www.missviajes.com/catedral-toledo-joya-estilo-gotico-1030187)); barroco (**convento de las Capuchinas**), y renacentistas (**el Alcázar, el Ayuntamiento, la Casa del Cedillo**). He nombrado algunos de ellos sin pretender quitar importancia a los que no he mencionado, que no son pocos. Este conjunto monumental le valió el reconocimiento de **Patrimonio de la Humanidad.**
 
-[ ![ TAGS:](/post-images/5282320bc1fbes332078.jpg "detalle en madera de la Catedral de Toledo by Gerben's Photo")](http://www.flickr.com/photos/breenjones/10644141816/sizes/c/in/photostream/)No cometas el error de muchos turistas al visitar Toledo en 1 día, como una excursión opcional desde Madrid. Las prisas no son buenas y lo mejor está en los detalles. Quédate si puedes una noche en la ciudad. Tanto encanto tiene pasearse de día entre las muchas tiendas de souvernirs de espadas como por las noches a la luz de las farolas.
+[ ![ TAGS:](post-images/5282320bc1fbes332078.jpg "detalle en madera de la Catedral de Toledo by Gerben's Photo")](http://www.flickr.com/photos/breenjones/10644141816/sizes/c/in/photostream/)No cometas el error de muchos turistas al visitar Toledo en 1 día, como una excursión opcional desde Madrid. Las prisas no son buenas y lo mejor está en los detalles. Quédate si puedes una noche en la ciudad. Tanto encanto tiene pasearse de día entre las muchas tiendas de souvernirs de espadas como por las noches a la luz de las farolas.
 
 Quien te lo agradecerá sobretodo será tu estómago. Si Don Quijote de la Mancha alababa los **duelos y quebrantos** (que son una especie de huevos revueltos con jamón, chorizo y todo lo que quieras añadir), por algo sería. Son muchos y riquísimos los platos manchegos que puede deleitar tu paladar. Suelen ser platos muy copiosos , con sabores intensos, muchos platos de caza y que te hacen rápidamente entrar en calor (atascaburras un tipo de puré con patata cocida y bacalao, migas del pastor con panceta y jamón o manitas de cerdo rellenas).
 

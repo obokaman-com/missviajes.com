@@ -4,10 +4,10 @@ type: "post"
 date: "2018-10-08 00:00:00"
 slug: "cuanto-le-costaria-hoy-vuelta-al-mundo-phileas-foggr-2327828"
 categories: ["Cosas Varias"]
-image: "/post-images/52ceb7921020es149785.jpg"
+image: "post-images/52ceb7921020es149785.jpg"
 ---
 
-![ TAGS:](/post-images/52ceb7921020es149785.jpg)  
+![ TAGS:](post-images/52ceb7921020es149785.jpg)  
   
 El famoso personaje Phileas Fogg protagonista de la adorable novela de aventuras de Julio Verne, se gastaba 20.000 libras (unos 23.000 euros) en dar la vuelta al mundo en 80 días. La historia explica las muchas aventuras que vive el emblemático caballero inglés, dejando su disciplinada vida para mirar de ganar una apuesta allá por el siglo XIX con sus colegas del Reform Club.  
   

@@ -4,10 +4,10 @@ type: "post"
 date: "2010-09-27 20:39:00"
 slug: "salamanca-ciudad-universataria-893379"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/893379-298850.jpg"
+image: "post-images/893379-298850.jpg"
 ---
 
-![plaza mayor by marcp_dmoz](/post-images/893379-298850.jpg "plaza mayor by marcp_dmoz")
+![plaza mayor by marcp_dmoz](post-images/893379-298850.jpg "plaza mayor by marcp_dmoz")
 
 A orillas del río Tormes, la ciudad de Salamanca (Castilla y León) es la ciudad universitaria por excelencia. El patrimonio artístico y arquitectonico de la ciudad es brutal. Verás en sus palacios, iglesias y catedrales una fusión de estilos románicos, góticos, platerescos y barrocos. No en vano es Patrimonio de la Humanidad desde 1988
 

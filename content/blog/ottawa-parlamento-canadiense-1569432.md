@@ -4,10 +4,10 @@ type: "post"
 date: "2015-07-28 09:00:00"
 slug: "ottawa-parlamento-canadiense-1569432"
 categories: ["América"]
-image: "/post-images/55b63cd161e38s131860.jpg"
+image: "post-images/55b63cd161e38s131860.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/55b63cd161e38s131860.jpg "panoramica de Ottawa")
+ ![ TAGS:undefined](post-images/55b63cd161e38s131860.jpg "panoramica de Ottawa")
 
  Ottawa junto con Quebec fueron las dos capitales de la Costa Este de Canadá que más me gustaron. Es la **capital de Canadá,** eso le otorga cierto señorio que las otras ciudades no tienen y está salpicada de edificios históricos, muchos museos interesantes y parques públicos. La ciudad bordea el río que lleva el mismo nombre.
 
@@ -16,7 +16,7 @@ image: "/post-images/55b63cd161e38s131860.jpg"
 
  Entre los museos, como ya te comenté en un post anterior, el mejor es **[Museo de la Civilización](http://www.missviajes.com/museo-civilizacion-ottawa-1430467).** También destacan **el Museo de la Guerra,** el **National Gallery o el Royal Mint.**
 
- Un buen sitio dónde encontrar restaurantes de todos los precios y tipos de cocina, así como los locales más de moda de de vida nocturna es el [Byward Market](http://www.byward-market.com/). Además es una zona de tiendas muy trendy con boutiques de diseñadores y piezas únicas. Hay alojamientos bed and breakfast.... No te faltará de nada. ![ TAGS:undefined](/post-images/55b63ccf79f25s169736.jpg "Byward Market ")
+ Un buen sitio dónde encontrar restaurantes de todos los precios y tipos de cocina, así como los locales más de moda de de vida nocturna es el [Byward Market](http://www.byward-market.com/). Además es una zona de tiendas muy trendy con boutiques de diseñadores y piezas únicas. Hay alojamientos bed and breakfast.... No te faltará de nada. ![ TAGS:undefined](post-images/55b63ccf79f25s169736.jpg "Byward Market ")
 
  **RECOMENDACIONES**
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2018-03-02 00:00:00"
 slug: "hotel-pullman-barcelona-skipper-2279808"
 categories: ["Cosas Varias","Europa"]
-image: "/post-images/51d6d7002c5ccs115923.jpg"
+image: "post-images/51d6d7002c5ccs115923.jpg"
 ---
 
    
@@ -15,11 +15,11 @@ Esta es mi recomendación si no sabes dónde alojarte todavía. El hotel Pullman
   
 Es un hotel de 5 estrellas situado delante del mar, al lado del **Puerto Olímpico de Barcelona,** y muy bien comunicado con el resto de la ciudad. Sin ser un lujo, sus instalaciones están impecables y todavía se respira a "nuevo". Un personal entusiasta y muy amable te da la bienvenida.  
   
-![ - ](/post-images/51d6d7002c5ccs115923.jpg "habitación hotel Pullman Barcelona Skipper")Las **habitaciones** son luminosas, espaciosas y con una cama muy muy comfortable. En mi caso, alojados en una **habitación superior** una cama king size presidia la estancia junto con un balcón con vistas al mar. Ni que decir tiene que los amenities del hotel eran muy completos y no faltaba de nada.  
+![ - ](post-images/51d6d7002c5ccs115923.jpg "habitación hotel Pullman Barcelona Skipper")Las **habitaciones** son luminosas, espaciosas y con una cama muy muy comfortable. En mi caso, alojados en una **habitación superior** una cama king size presidia la estancia junto con un balcón con vistas al mar. Ni que decir tiene que los amenities del hotel eran muy completos y no faltaba de nada.  
   
 El hotel cuenta con spa, sala fitness y **dos piscinas**: una en la planta baja más grande y otra en la terraza, que aunque es pequeña, es más agradable. Si prefieres ir a la playa sólo tienes que cruzar la calle.  
   
-![ - ](/post-images/51d6d787915b7s220577.jpg "zona de desayunos by missviajes")El **desayuno** es buffet libre, muy variado, con un gran surtido de panes, embutidos, cereales, platos calientes y bolleria.  
+![ - ](post-images/51d6d787915b7s220577.jpg "zona de desayunos by missviajes")El **desayuno** es buffet libre, muy variado, con un gran surtido de panes, embutidos, cereales, platos calientes y bolleria.  
   
 **RECOMENDACIONES**
 

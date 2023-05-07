@@ -4,7 +4,7 @@ type: "post"
 date: "2018-10-15 00:00:24"
 slug: "cruzando-los-andes-de-atacama-a-salta"
 categories: ["América"]
-image: "/post-images/buenos-aires.jpg"
+image: "post-images/buenos-aires.jpg"
 ---
 
 Estoy tan contenta que no sé por dónde empezar. Con este titular con contundente te explico mi próxima aventura. Es una escapada corta pero estoy segura de que va a ser increíble. Muchos kilómetros en pocos días. **Entrando por Chile y saliendo por Argentina conoceré [Santiago de Chile](http://www.missviajes.com/un-dia-en-santiago-de-chile-visitas-imprescindibles/), el Desierto de Atacama, Salta y Buenos Aires**.  
@@ -17,7 +17,7 @@ Después de Atacama y San Pedro, durante una larga jornada de curvas y carretera
   
 Desde allí visitaré la Quebrada de Humahuaca, Purmamarca desde dónde se ve el Cerro de los Siete Colores, Cafayate y pueblitos como Tilcara y Pucará, Me encantaría ver la Quebrada de las Conchas.  
   
-![](/post-images/buenos-aires.jpg)  
+![](post-images/buenos-aires.jpg)  
   
 Y por último, y como postre ... Buenos Aires. Tengo una lista de todos los sitios y cosas que quiero hacer y ver en la ciudad. Se aceptan más sugerencias
 

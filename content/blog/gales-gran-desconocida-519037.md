@@ -4,12 +4,12 @@ type: "post"
 date: "2019-05-06 00:00:00"
 slug: "gales-gran-desconocida-519037"
 categories: ["Europa"]
-image: "/post-images/519037-221046.jpg"
+image: "post-images/519037-221046.jpg"
 ---
 
 Gales se encuentra **en la franja occidental de Gran Bretaña**. Aunque la distancia entre ambas es mínima son muy distintas, con un **paisaje dónde predomina una extensa campiña, pueblos pesqueros con mucho encanto y más de 400 castillos**. Se podría comparar un poco con Escocia, pero quizás sin tanto carisma ni los paisajes tan indómitos. En Gales encontrarás uno de los idiomas más antiguos de Europa, el galés y una cultura llena de mitos y leyendas (sobretodo de el **Rey Arturo y Merlín**),  
   
-![ TAGS:undefined](/post-images/519037-221046.jpg "Rhuddle castle by Richard0")La capital es **Cardiff**, moderna y cosmopolita con mucha vida nocturna y una de las capitales más "verdes" de toda Europa. **Bute Park** (del tamaño de 75 campos de fútbol) es el pulmón de la ciudad. Es posible subirse a un taxi acuático, recorrer el río Taff hasta la misma Bahía de Cardiff. El **Castillo de Cardiff y Castell Coch** son los dos castillos que no puedes dejar de visitar en la ciudad.  
+![ TAGS:undefined](post-images/519037-221046.jpg "Rhuddle castle by Richard0")La capital es **Cardiff**, moderna y cosmopolita con mucha vida nocturna y una de las capitales más "verdes" de toda Europa. **Bute Park** (del tamaño de 75 campos de fútbol) es el pulmón de la ciudad. Es posible subirse a un taxi acuático, recorrer el río Taff hasta la misma Bahía de Cardiff. El **Castillo de Cardiff y Castell Coch** son los dos castillos que no puedes dejar de visitar en la ciudad.  
   
 Desde esta ciudad, puedes ir moviéndote en ruta por ejemplo en coche de alquiler. Te recomiendo que te acerques hasta **Conwy** ( una pequeña localidad con mucho sabor tradicional, con la mansión renacentista de **[ ](http://www.google.com/translate?u=http%3A%2F%2Fplas-mawr.co.uk&langpair=en%7Ces&hl=en&ie=UTF8)Plas Mawr** y un [imponente castillo](http://www.castlewales.com/conwy.html)). Puedes ir también hasta el **castillo de Caernarfon**, otro impresionante castillo conocido porque es dónde se celebra la investidura del Príncipe de Gales (actualmente título que ostenta el príncipe Carlos).  
   

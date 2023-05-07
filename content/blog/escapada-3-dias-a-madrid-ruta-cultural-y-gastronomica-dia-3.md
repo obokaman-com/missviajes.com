@@ -4,18 +4,18 @@ type: "post"
 date: "2020-01-20 00:00:23"
 slug: "escapada-3-dias-a-madrid-ruta-cultural-y-gastronomica-dia-3"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/IMG_6485.jpg"
+image: "post-images/IMG_6485.jpg"
 ---
 
 Seguimos con la escapada a Madrid, y después de la intensidad del [primer](http://www.missviajes.com/escapada-3-dias-a-madrid-ruta-cultural-y-gastronomica-dia-1/) y el segundo día, el último apetecía pasear con más calma y aprovechar el buen tiempo. Así que después de desayunar fuimos directos a la **Casa de Campo**. Es un espectacular parque público urbano de más 1500 hectáreas con un espacio forestal y un lago que hace que sea uno de los lugares favoritos de los madrileños para pasear , hacer remo, kayak, correr ,hacer yoga, o simplemente pasear y respirar tranquilo.  
   
-![](/post-images/IMG_6485.jpg)  
+![](post-images/IMG_6485.jpg)  
   
 Después de dar una vuelta al lago, nos acercamos hasta el puente de Segovia y caminando 5 minutos más entramos en la [***Taberna del Chacón***](https://www.tripadvisor.es/Restaurant_Review-g187514-d4060317-Reviews-El_Chacon-Madrid.html). Es una taberna gallega dónde hacer el mejor pulpo de la ciudad. Antes de animarte a pedir, tienes que saber que con cada bebida te dan una tapa como puede ser un trozo de empanada gallega y que los platos son muy muy copiosos.  
   
 Una vez repuestas las energías y aprovechando el día, nos vamos en una moto eléctrica hasta el **parque del Retiro**, otro de los parques más importantes de la ciudad. Es el pulmón de Madrid. Es más grande que el Central Park de New york. El origen de este parque eran ser los jardines de un nuevo palacio que Felipe IV, animado por su valido el Conde Duque de Olivares, con el nombre de el Buen Retiro. Este palacio fue derruido en su mayoría, apenas quedan algunas edificaciones, pero quedó el Retiro como mayor testimonio de su esplendor. Su ubicación en el centro de la ciudad hace de este parque otro de los remansos de paz favoritos de la ciudad. Mientras paseas podrás visitar la **Casa de Cristal** que personalmente me recuerda a un invernadero, subirte a una de las barcas que recorren el lago o **dormirte en las escaleras del Monumento a Alfonso XII**.  
   
-![](/post-images/IMG_6487-225x300.jpg)Un ***café para despejarte en el Círculo de Bellas Artes** , en La Pecera.* Es un café de estilo neoclásico que con pinturas en sus paredes, grandes columnas y una enorme lámpara central.  
+![](post-images/IMG_6487-225x300.jpg)Un ***café para despejarte en el Círculo de Bellas Artes** , en La Pecera.* Es un café de estilo neoclásico que con pinturas en sus paredes, grandes columnas y una enorme lámpara central.  
   
 Y es cuando oscurece, el mejor momento para caminar por la Gran Via. Esta calle es la avenida de los teatros. Las luces de los teatros y cines inundan la calle de leds de colores y sus aceras se llenan de vida. Es muy bonita verla de noche. Paseando puedes ir hasta Callao, plaza de España (que ahora está en obras) la plaza de los Cubos y como guinda del pastel, junto a la calle Pintor Rosales, el Templo de Debod.  
   

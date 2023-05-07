@@ -4,7 +4,7 @@ type: "post"
 date: "2018-11-14 00:00:51"
 slug: "un-dia-en-santiago-de-chile-visitas-imprescindibles"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/las_tarrias_.jpg"
+image: "post-images/las_tarrias_.jpg"
 ---
 
 Recién aterrizada de mi último viaje por[ Chile y Argentina](http://www.missviajes.com/cruzando-los-andes-de-atacama-a-salta/), no quiero demorar más tiempo para explicar todo lo vivido. Así que comenzaré por la primera parada, Santiago de Chile.
@@ -23,7 +23,7 @@ Desde allí puedes ir caminando por la **Avenida Providencia** llena de tiendeci
 
 
 
-![](/post-images/las_tarrias_.jpg)
+![](post-images/las_tarrias_.jpg)
 
 
 
@@ -39,7 +39,7 @@ Y que mejor manera para acabar el día que tomando una cervecita **Kunstmann en 
 
  
 
-![](/post-images/pubs-bellavista-santiago-chile.jpg)
+![](post-images/pubs-bellavista-santiago-chile.jpg)
 
 
 

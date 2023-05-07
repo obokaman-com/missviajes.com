@@ -4,10 +4,10 @@ type: "post"
 date: "2013-05-01 09:30:00"
 slug: "korean-air-apostando-futuro-2268633"
 categories: ["Actualidad","Cosas Varias"]
-image: "/post-images/517fd00260496s12358.jpg"
+image: "post-images/517fd00260496s12358.jpg"
 ---
 
- ![ TAGS:](/post-images/517fd00260496s12358.jpg "korean air")
+ ![ TAGS:](post-images/517fd00260496s12358.jpg "korean air")
 
  Ayer fuí a una presentación de Korean Air y salí gratamente sorprendida del encuentro. Hasta ayer para mí era una gran desconocida, no he trabajado nunca con ellos y tampoco me había molestado en informarme ni por curiosidad. Antes de crear dudas, es la cía aérea de Corea del Sur, porque la del norte utiliza los aviones más bien para desunir en lugar de unir.
 

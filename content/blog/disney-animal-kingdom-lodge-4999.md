@@ -4,14 +4,14 @@ type: "post"
 date: "2006-11-29 00:00:00"
 slug: "disney-animal-kingdom-lodge-4999"
 categories: ["América","En Familia","Hoteles"]
-image: "/post-images/4999-5615.jpg"
+image: "post-images/4999-5615.jpg"
 ---
 
-![lobby del hotel](/post-images/4999-5615.jpg "lobby del hotel")Este hotel situado en **Walt Disney Orlando**, más concretamente en el área de **Disney Animal Kingdom**, es uno de los más espectaculares. De categoría lujo hay unos cuantos, pero si el presupuesto te llega, vale la pena poder alojarte en este resort, sobretodo si viajas con niños.  
+![lobby del hotel](post-images/4999-5615.jpg "lobby del hotel")Este hotel situado en **Walt Disney Orlando**, más concretamente en el área de **Disney Animal Kingdom**, es uno de los más espectaculares. De categoría lujo hay unos cuantos, pero si el presupuesto te llega, vale la pena poder alojarte en este resort, sobretodo si viajas con niños.  
   
 Nada más entrar en el recinto del hotel, la ambientación creada te transporta a la sabana africana. Esta reserva es propiedad del hotel y hace posible despertarte y ver desde tu habitación animales en libertad (en mi caso fue una jirafa).  
   
-![jabones de la habitación](/post-images/4999-5616.jpg "jabones de la habitación")Una gigantesca e impresionante cristalera proporciona al **hall del hotel** mucha luz natural y luminosidad. El alto techo simulando troncos propios de una cabaña, las rocas a modo de asiento o los cuernos y escudos tribales que cuelgan de los balcones interiores son algunos de los elementos decorativos de este salón.  
+![jabones de la habitación](post-images/4999-5616.jpg "jabones de la habitación")Una gigantesca e impresionante cristalera proporciona al **hall del hotel** mucha luz natural y luminosidad. El alto techo simulando troncos propios de una cabaña, las rocas a modo de asiento o los cuernos y escudos tribales que cuelgan de los balcones interiores son algunos de los elementos decorativos de este salón.  
   
 Las **habitaciones** son muy amplias y completas, aunque a mi humilde parecer tal vez un poco recargadas. Demasiados estampados y colores en unos cuantos metros cuadrados.  
   

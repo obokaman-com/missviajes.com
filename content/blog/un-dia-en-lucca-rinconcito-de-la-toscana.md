@@ -4,7 +4,7 @@ type: "post"
 date: "2016-11-04 15:18:19"
 slug: "un-dia-en-lucca-rinconcito-de-la-toscana"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/FullSizeRender-2-226x300.jpg"
+image: "post-images/FullSizeRender-2-226x300.jpg"
 ---
 
    
@@ -15,7 +15,7 @@ En tren desde la estación de Sta Maria Novella es 1 hora. El billete de tren cu
   
 Nada más llegar al destino puedes ver que para llegar al centro de Lucca tienes que cruzar una muralla del siglo XVI bien conservada que rodea toda la población con sus calles medievales. Tres kilometros de muralla que hoy en día hacen las delicias de los vecinos de Lucca que quieren pasear o ponerse en forma mientras corren.  
   
-![fullsizerender-2](/post-images/FullSizeRender-2-226x300.jpg)El centro tiene el tráfico restringido así que es ideal para pasear o bien recorrerla en bicicleta. Sin plano y sin guía, sólo caminando por la ciudad , me fui encontrando con cada uno de sus tesoros, casi todo iglesias, campanarios y torres como la **torre Ginigui** , fácil de reconocer porque en la parte superior de la torre tiene un jardín arbolado, la **Basílica de San Frediano** (una de las más antiguas de la ciudad y con un mosaico en la fachada fácil de identificar), la Catedral de San Martin (Duomo) , la **Torre de las Horas** (la torre más alta y que a medida que vas subiendo puedes ver el mecanismo manual del reloj), la **Iglesia de San Michelle in Foro** , la **Piazza Verdi**, la **calle comercial de Via Fillolungo**  
+![fullsizerender-2](post-images/FullSizeRender-2-226x300.jpg)El centro tiene el tráfico restringido así que es ideal para pasear o bien recorrerla en bicicleta. Sin plano y sin guía, sólo caminando por la ciudad , me fui encontrando con cada uno de sus tesoros, casi todo iglesias, campanarios y torres como la **torre Ginigui** , fácil de reconocer porque en la parte superior de la torre tiene un jardín arbolado, la **Basílica de San Frediano** (una de las más antiguas de la ciudad y con un mosaico en la fachada fácil de identificar), la Catedral de San Martin (Duomo) , la **Torre de las Horas** (la torre más alta y que a medida que vas subiendo puedes ver el mecanismo manual del reloj), la **Iglesia de San Michelle in Foro** , la **Piazza Verdi**, la **calle comercial de Via Fillolungo**  
   
 Mi rincón preferido fue la **Piazza del Amfiteatro**, con forma ovalada y construida sobre las ruinas de un Amfiteatro romano. Se accede a través de 4 puertas y el interior está lleno de restaurantes y terracitas para descansar.  
   

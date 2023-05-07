@@ -4,10 +4,10 @@ type: "post"
 date: "2012-01-03 09:35:00"
 slug: "truecalia-intercambiando-billetes-tren-1350822"
 categories: ["Cosas Varias"]
-image: "/post-images/4efb3b964b919s58260.jpg"
+image: "post-images/4efb3b964b919s58260.jpg"
 ---
 
- [![ TAGS:](/post-images/4efb3b964b919s58260.jpg)](/post-images/4efb3b964b919s58260.jpg)
+ [![ TAGS:](post-images/4efb3b964b919s58260.jpg)](post-images/4efb3b964b919s58260.jpg)
 
  Ha llegado a mi correo un email con información sobre una web llamada Truecalia. Es una iniciativa creo que muy interesante que propone exclusivamente el intercambio gratuito o la reventa de billetes de tren. **La idea surge como consecuencia de las condiciones de las tarifas promocionales de Renfe, como la tarifa Web, Estrella y Mesa que permiten descuentos de hasta el 70% del precio, pero tienen importantes penalizaciones tanto para realizar cambios como para solicitar el reembolso del billete**
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2007-09-06 00:00:00"
 slug: "novedades-american-airlines-25087"
 categories: ["Sin Categoría"]
-image: "/post-images/25087-24263.jpg"
+image: "post-images/25087-24263.jpg"
 ---
 
-![american airlines](/post-images/25087-24263.jpg "american airlines") A **partir del 01 Mayo,**  la compañia aérea **American Airlines** amplia sus rutas y tendrá vuelos directos diarios entre New York (más concretamente con el aeropuerto de JFK) y **Barcelona** como punto importante de conexión en el Mediterraneo y a **Milan** como centro neuralgico de negocios en el Norte de Italia y los Bajo Alpes.
+![american airlines](post-images/25087-24263.jpg "american airlines") A **partir del 01 Mayo,**  la compañia aérea **American Airlines** amplia sus rutas y tendrá vuelos directos diarios entre New York (más concretamente con el aeropuerto de JFK) y **Barcelona** como punto importante de conexión en el Mediterraneo y a **Milan** como centro neuralgico de negocios en el Norte de Italia y los Bajo Alpes.
 
 Seran **Boeing 747** con clases turista y en Business los encargados de enlazar los dos continentes. A continuación detallamos los **horarios estimados**
 

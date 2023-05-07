@@ -4,12 +4,12 @@ type: "post"
 date: "2007-12-14 00:00:00"
 slug: "alquileres-vacaciones-panama-46140"
 categories: ["Sin Categoría"]
-image: "/post-images/46140-41791.jpg"
+image: "post-images/46140-41791.jpg"
 ---
 
 Cada vez somos más los que nos aventuramos a viajar por nuestra cuenta fuera de los circuitos organizados y acompañados de nuestra guia Lonely Planet. En ocasiones incluso algunos pueden permitirse el lujo de ampliar el tiempo medio destinado a las vacaciones y prolongar el viaje durante más de 3 semanas. Este privilegio de unos pocos o de unos muchos estudiantes (cuando tienes un trabajo con horarios, un jefe y vacaciones anuales concertadas se te acabó el chollo) ayuda a plantear el viaje desde otra perspectiva.
 
-![Bienes raíces Panamá](/post-images/46140-41791.jpg "Bienes raíces Panamá")
+![Bienes raíces Panamá](post-images/46140-41791.jpg "Bienes raíces Panamá")
 
 Alquilar un apartamento o un piso durante un periodo de 3 semanas o 1 mes puede suponer una buena inversión para tu bolsillo.
 

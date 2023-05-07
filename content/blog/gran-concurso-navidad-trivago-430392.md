@@ -4,10 +4,10 @@ type: "post"
 date: "2009-12-04 09:31:00"
 slug: "gran-concurso-navidad-trivago-430392"
 categories: ["Sin Categoría"]
-image: "/post-images/430392-203641.jpg"
+image: "post-images/430392-203641.jpg"
 ---
 
-![trivago](/post-images/430392-203641.jpg "trivago")
+![trivago](post-images/430392-203641.jpg "trivago")
 
 En la red social de [Trivago](http://www.trivago.es) han preparado un **nuevo concurso** que ya está online. Hay **más de 200 premios** en juego y todos ellos son **2 noches de alojamiento en hotel con desayuno incluido**, así los internautas podrán visitar lugares nuevos.
 

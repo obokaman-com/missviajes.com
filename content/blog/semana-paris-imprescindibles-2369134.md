@@ -4,14 +4,14 @@ type: "post"
 date: "2017-06-12 09:35:00"
 slug: "semana-paris-imprescindibles-2369134"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
-image: "/post-images/543f9f93812f7s225271.jpg"
+image: "post-images/543f9f93812f7s225271.jpg"
 ---
 
 A pesar de que seguiré explicando más detalladamente las excursiones y las visitas que fui haciendo durante mi estancia, no quería dejar pasar más tiempo, sin hacer un pequeño resumen de como nos distribuimos los días para poder aprovechar al máximo la visita a París. Teníamos claro que necesitábamos un **Paris Visit** que te proporciona un numero ilimitado de viajes en metro, bus, tranvía y RER . Los hay desde 1 a 5 días,  
   
 Una vez tuvimos el transporte solucionado, este fue el planning,  
   
-![](/post-images/543f9f93812f7s225271.jpg)**DIA 1:** Contratamos una **visita panorámica** en Pariscitytours (59 euros/persona.)que incluía la visita de la **[Torre Eiffel](http://www.missviajes.com/torre-eiffel-icono-paris-2367057) (imprescindible y un paseo en uno de los bateaus que cruzan el Sena.** Bien por la Torre Eiffel y el crucerito, pero muy floja la visita panorámica**. Al acabar fuimos caminando hasta los Champs Elysees**, lleno de tiendas de super lujo y de marcas no tan caras también muy conocidas  
+![](post-images/543f9f93812f7s225271.jpg)**DIA 1:** Contratamos una **visita panorámica** en Pariscitytours (59 euros/persona.)que incluía la visita de la **[Torre Eiffel](http://www.missviajes.com/torre-eiffel-icono-paris-2367057) (imprescindible y un paseo en uno de los bateaus que cruzan el Sena.** Bien por la Torre Eiffel y el crucerito, pero muy floja la visita panorámica**. Al acabar fuimos caminando hasta los Champs Elysees**, lleno de tiendas de super lujo y de marcas no tan caras también muy conocidas  
   
 **DIA 2**. Nos llevó toda la mañana caminar por los rincones de **[Montmatre](http://www.missviajes.com/montmatre-paseando-pintores-2368195). Luego hicimos un picnic en los Jardines de Luxemburgo (imprescindible)**. Tras el descanso tan agradecido fuimos caminando por el **Boulevard Sant Geman** hasta **Saint Michel (Barrio Latino)** dónde pudimos ver la Sorbone y el barrio estudiantil.  
   

@@ -4,7 +4,7 @@ type: "post"
 date: "2019-10-11 00:00:54"
 slug: "luna-de-miel-destinos-y-tendencias"
 categories: ["Actualidad","Cosas Varias"]
-image: "/post-images/plaka-de-atenas.jpg"
+image: "post-images/plaka-de-atenas.jpg"
 ---
 
 Siempre se ha asociado a los viajes de novios en un porcentaje más alto al viaje de novios destinos de playas paradisíacas, palmeras y cocos que a un circuito por un país culturamente intenso y con muchas visitas. Supongo que debe ser por el stress de los preparativos de la boda: las flores, el fotógrafo, los últimos retoques del vestido de la novia en [Pronovias España](https://www.pronovias.com/es/), dejar listo el banquete y la fiesta de después, buscar alojamiento a los familiares que viajan de fuera..... ufff me estoy agobiando sólo de escribirlo. Por todas estas razones, después de la boda viene el viaje de la luna de miel.  
@@ -15,7 +15,7 @@ Las oficinas de turismo también son las que desvían la atención de los novios
   
 Así mismo hay destinos con tanta variedad de ofertas y touroperadores como [vestidos cortos de fiesta online](https://www.pronovias.com/es/vestidos-fiesta/). Con el fin de poder ayudar a todos esos indecisos, te dejo aquí los 5 destinos que más vas a escuchar en el 2020 para los novios teniendo en cuenta todas las razones que antes te he indicado.  
   
-![](/post-images/plaka-de-atenas.jpg)
+![](post-images/plaka-de-atenas.jpg)
 
 1. **Grecia**. Es sin duda uno de los países a mi parecer más agradecidos de Europa. Agradecido en el sentido de que tanto el paisaje, como su comida, como su luz, como sus ruinas, su historia o como sus playas te van a gustar
 2. **Sri Lanka y Maldivas.** Sri Lanka por desgracia fue noticia el pasado mayo por los atentados que hubo. Eso hizo que su popularidad disminuyera considerablemente. Teniendo en cuenta que los miedos de los viajeros se van moviendo a otros lugares como ahora puede ser Hong Kong y las fuertes protestas... este año lo vas a escuchar mucho de nuevo con fuerza. Es un destino maravilloso que recomiendo. Sobre Maldivas no hace falta añadir nada que todos no sepamos ya. Aguas cristalinas, palmeras, playas de ensueño y auténticas locuras de resorts.

@@ -4,12 +4,12 @@ type: "post"
 date: "2020-02-27 00:00:00"
 slug: "malinas-catedral-carrillon-2383132"
 categories: ["Europa"]
-image: "/post-images/550f3c96df6fbs196898.jpg"
+image: "post-images/550f3c96df6fbs196898.jpg"
 ---
 
 A tan **sólo 30 minutos en tren desde la estación de tren Bruselas Zuid**, se encuentra Malinas, un pueblecito con mucho encanto. No es de las ciudades que más resuenan cuando piensas en [visitar Bélgica](http://www.missviajes.com/escapada-a-belgica-en-4-dias/), por eso insisto en que lo tengas en cuenta y lo incluyas en tu lista de pendientes.  
   
-Su casco antiguo tiene mucho encanto y paseando en una mañana lo recorres, pero tiene tantos museos y sus ocho iglesias alargan la visita un poco más. ![by missviajes ](/post-images/550f3c96df6fbs196898.jpg)  
+Su casco antiguo tiene mucho encanto y paseando en una mañana lo recorres, pero tiene tantos museos y sus ocho iglesias alargan la visita un poco más. ![by missviajes ](post-images/550f3c96df6fbs196898.jpg)  
   
 Lo primero que llama la atención son los escasos coches que circulan por sus calles a favor de las bicicletas. **Todo el mundo se mueve en bicicleta**. No hay verjas en las ventanas de las casas y nadie ata con cadenas las bicicleta, las dejan en las puertas de sus casas o apoyadas en una pared incluso con la compra..... no existe ningún tipo de desconfianza a que se la lleven, aunque lleven las bolsa. Tampoco hay contenedores de basura, los cívicos malineses saben que es por la noche cuando pasan los camiones de la basura a recoger los restos.  
   
@@ -23,7 +23,7 @@ Las vistas desde arriba son un poco decepcionantes porque entre la barrera de se
   
 No te pierdas tampoco el fabuloso púlpito de la Catedral. Maravilloso  
   
-![](/post-images/550f3faf72ef2s164815.jpg)**RECOMENDACIONES**
+![](post-images/550f3faf72ef2s164815.jpg)**RECOMENDACIONES**
 
 - En la **Abadía de San Juan** hay pinturas de Rubens,
 - La mayoria de monumentos abren de 13.00 a 16.00hrs. Asegúrate antes de organizar la visita. La Oficina de Turismo está en la misma plaza del Mercado. No tiene pérdida.

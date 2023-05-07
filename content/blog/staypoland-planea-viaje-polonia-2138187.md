@@ -4,14 +4,14 @@ type: "post"
 date: "2012-08-27 10:05:00"
 slug: "staypoland-planea-viaje-polonia-2138187"
 categories: ["Cosas Varias","Europa"]
-image: "/post-images/503cc9bc57411s5240.jpg"
+image: "post-images/503cc9bc57411s5240.jpg"
 ---
 
  Este año son muchos los que, apretados por la crisis o bien por precaución, no nos gastamos mucho dinero en las vacaciones. O bien optas por quedarte por España y hacer país, o bien relativamente cerca, en Europa.
 
  La ventaja de viajar por el viejo continente si vives en él es que según como puedes utilizar tu propio vehículo para los desplazamientos, o comprar un billete de avión low cost, y reservas los servicios por internet.
 
- ![ TAGS:](/post-images/503cc9bc57411s5240.jpg "StayPoland")
+ ![ TAGS:](post-images/503cc9bc57411s5240.jpg "StayPoland")
 
  Si todavía ultimas tus [viajes en Polonia](http://www.staypoland.com/index_es.aspx) puedes encontrar una buena opción. Hay una web, Stay Poland que puede interesarte. Es una agencia de viajes receptiva de turismo extranjero a Polonia que funciona desde casi 10 años con la garantía de Turismo Polska y American Sociaty of Travel Agents. Quizás fue una de las primeras webs en publicar todos y cada uno de los comentarios de los usuarios.
 

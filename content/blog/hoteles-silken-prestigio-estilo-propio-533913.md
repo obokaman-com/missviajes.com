@@ -4,10 +4,10 @@ type: "post"
 date: "2010-04-01 22:17:00"
 slug: "hoteles-silken-prestigio-estilo-propio-533913"
 categories: ["Hoteles"]
-image: "/post-images/533913-233346.jpg"
+image: "post-images/533913-233346.jpg"
 ---
 
- ![INTERIOR hotel Gran Domine de Bilbao](/post-images/533913-233346.jpg "INTERIOR hotel Gran Domine de Bilbao")
+ ![INTERIOR hotel Gran Domine de Bilbao](post-images/533913-233346.jpg "INTERIOR hotel Gran Domine de Bilbao")
 
  La **cadena Silken** define los hoteles como un lugar con personalidad propia, con carácter y cierta ternura que haga acogedor el lugar, que te haga sentir a gusto, como en casa de unos amigos, que te cuiden y sepan tus gustos. Me parece una utopía difícil de conseguir que depende de las instalaciones pero sobre todo del factor humano del personal, pero también creo que es acertado tener este fin como referente.
 

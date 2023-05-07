@@ -4,10 +4,10 @@ type: "post"
 date: "2015-09-07 09:07:00"
 slug: "nueva-ruta-siem-reap-sudeste-asiatico-2397375"
 categories: ["Asia"]
-image: "/post-images/55e9a850b83ces1442844.jpg"
+image: "post-images/55e9a850b83ces1442844.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/55e9a850b83ces1442844.jpg "Templos de Angkor ")
+ ![ TAGS:undefined](post-images/55e9a850b83ces1442844.jpg "Templos de Angkor ")
 
  Qué poco me queda para las vacaciones !!. Mientras unos regresan otros comenzamos a hacer los preparativos para tenerlo todo a punto... billetes, pasaportes, vacunas, botiquín, maletas....
 

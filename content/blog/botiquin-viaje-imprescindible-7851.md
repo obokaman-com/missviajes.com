@@ -4,10 +4,10 @@ type: "post"
 date: "2015-09-22 10:00:00"
 slug: "botiquin-viaje-imprescindible-7851"
 categories: ["Cosas Varias"]
-image: "/post-images/56010ad47e437s19718.jpg"
+image: "post-images/56010ad47e437s19718.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/56010ad47e437s19718.jpg)
+ ![ TAGS:undefined](post-images/56010ad47e437s19718.jpg)
 
  El botiquín, junto al seguro de viaje, es una de las deudas pendientes a la hora de viajar con responsabilidad. El gelocatil y las tiritas no solucionan los problemas y dependiendo dónde vayas a pasar tus vacaciones es importante ir preparado.
 

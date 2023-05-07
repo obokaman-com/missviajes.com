@@ -4,12 +4,12 @@ type: "post"
 date: "2013-07-08 09:30:00"
 slug: "empire-state-simbolo-nueva-york-112053"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/112053-83257.jpg"
+image: "post-images/112053-83257.jpg"
 ---
 
 ¿Hay alguna película de New York en la que no aparezca este emblemático edificio ? Tú y yo, King Kong, Algo para recordar, Superman, Independence Day, Annie Hall, Melodias de Broadway.... La lista no se acaba. Las vistas de la ciudad desde los miradores de la planta 86 y 102 son increibles.  
   
-![empire state by jof](/post-images/112053-83257.jpg "empire state by jof")El acceso al edificio más popular es el de la **Quinta Avenida (entre las calles 33 y 34)** , con el vestíbulo de mármol de estilo Art Deco. Si tienes la entrada ya comprada,mejor, evitaras un tramo de cola importante. Puedes [ comprarlas por internet](http://www.esbnyc.com/tickets/index.cfm?CFID=578640&CFTOKEN=55510749) . No olvides hacer la foto al cuadro de botones del ascensor. (es un clásico).  
+![empire state by jof](post-images/112053-83257.jpg "empire state by jof")El acceso al edificio más popular es el de la **Quinta Avenida (entre las calles 33 y 34)** , con el vestíbulo de mármol de estilo Art Deco. Si tienes la entrada ya comprada,mejor, evitaras un tramo de cola importante. Puedes [ comprarlas por internet](http://www.esbnyc.com/tickets/index.cfm?CFID=578640&CFTOKEN=55510749) . No olvides hacer la foto al cuadro de botones del ascensor. (es un clásico).  
   
 Existe toda una programación anual sobre la iluminación del edificio. Dependiendo de las fiestas nacionales o eventos especiales, aunque no sé si el corazón del día de San Valentín es más bien el efecto de una película o sucede en la realidad.  
   

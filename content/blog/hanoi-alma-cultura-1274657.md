@@ -4,7 +4,7 @@ type: "post"
 date: "2016-08-30 06:00:00"
 slug: "hanoi-alma-cultura-1274657"
 categories: ["Asia"]
-image: "/post-images/10647-11771.jpg"
+image: "post-images/10647-11771.jpg"
 ---
 
    
@@ -13,7 +13,7 @@ Hanoi es sin duda la representación comunista de un Vietnam que se abre cada d�
   
 Lo primero que sorprende nada más llegar es el **gran número de motos que invade la ciudad, motos que circulan al lado de carros tirados por caballos y campesinos con sombrero típico de paja, motos que llevan de carga colchones, pollos y otros tipos de animales, 4 pasajeros-**-(no se cómo ¿?). Otro detalle que te dejará alucinado es lo **extremadamente complaciente que son sus gentes.** Todo se arregla con una sonrisa y una reverencia.  
   
-Su **parte antigua esta llena de calles estrechas y tiendas pequeñas en las cuales puedes encontrar de todo**. El **Templo de la Literatura** es un lugar tranquilo por dónde pasear. ![tráfico en Hanoi by missviajes](/post-images/10647-11771.jpg)  
+Su **parte antigua esta llena de calles estrechas y tiendas pequeñas en las cuales puedes encontrar de todo**. El **Templo de la Literatura** es un lugar tranquilo por dónde pasear. ![tráfico en Hanoi by missviajes](post-images/10647-11771.jpg)  
   
 El **Mausoleo de Ho Chi Minh** es visita obligada, así como **la pagoda del Pilar Unico** (de 1049), y el **Museo del Ejército** dónde podrás ver otra versión de la Guerra de Vietnam.  
   

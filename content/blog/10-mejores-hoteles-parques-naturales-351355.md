@@ -4,10 +4,10 @@ type: "post"
 date: "2009-10-02 22:39:00"
 slug: "10-mejores-hoteles-parques-naturales-351355"
 categories: ["Hoteles"]
-image: "/post-images/351355-188055.jpg"
+image: "post-images/351355-188055.jpg"
 ---
 
-![habitacion con vistas a Torres del Paine, hotel Salto Chico](/post-images/351355-188055.jpg "habitacion con vistas a Torres del Paine, hotel Salto Chico")
+![habitacion con vistas a Torres del Paine, hotel Salto Chico](post-images/351355-188055.jpg "habitacion con vistas a Torres del Paine, hotel Salto Chico")
 
 Según un estudio de[ ](http://www.trivago.es)[Trivago](http://imgpe.trivago.com/contentimages/press/texts/np_top10_hoteles_parquesn.pdf) basado en los motores de búsqueda de sus clientes, han elaborado un listado con los 10 hoteles más valorados situados en Parques Naturales. Desde junio y septiembre estos son los hoteles más buscados de su web.
 

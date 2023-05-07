@@ -4,12 +4,12 @@ type: "post"
 date: "2007-02-19 00:00:00"
 slug: "hotel-gorakadan-7570"
 categories: ["Asia","Hoteles"]
-image: "/post-images/7570-9695.jpg"
+image: "post-images/7570-9695.jpg"
 ---
 
-![monte Fuji](/post-images/7570-9695.jpg "monte Fuji")
+![monte Fuji](post-images/7570-9695.jpg "monte Fuji")
 
-![habitacion con jardin](/post-images/7570-9697.jpg "habitacion con jardin")Hoy es lunes así que para no estresarme mucho voy a soñar un poco. ¿Te apetece viajar al lejano oriente , alojarte en una auténtica habitación tipo tatami con futón y paredes de papel ?? El hotel Gora kadan te transporta al **viejo Japón**. Está situado en el **parque nacional de Hakone**; era la antigua residencia de verano de la familia imperial "Kanin-no-maya".
+![habitacion con jardin](post-images/7570-9697.jpg "habitacion con jardin")Hoy es lunes así que para no estresarme mucho voy a soñar un poco. ¿Te apetece viajar al lejano oriente , alojarte en una auténtica habitación tipo tatami con futón y paredes de papel ?? El hotel Gora kadan te transporta al **viejo Japón**. Está situado en el **parque nacional de Hakone**; era la antigua residencia de verano de la familia imperial "Kanin-no-maya".
 
 Con un **minimalismo puro, sin adornos innecesarios, lineas sobrias, mobilirario tradicional y espacios diafanos consiguen todo el comfort que un hotel de lujo exige**.
 
@@ -24,7 +24,7 @@ Las habitaciones parecen más apartamentos que no la clásica habitacNo hay que 
 
 **CURIOSIDADES**
 
-- ![piscina y spa exterior](/post-images/7570-9696.jpg "piscina y spa exterior") A cada habitacion se le asigna una "asistente personal" que se encarga de todo aquello que puedas necesitar aparte de traerte el desayuno y hacer la cama. Es como tu "mary poppins" privada y lo más sorprendente es su discreción y buen hacer.
+- ![piscina y spa exterior](post-images/7570-9696.jpg "piscina y spa exterior") A cada habitacion se le asigna una "asistente personal" que se encarga de todo aquello que puedas necesitar aparte de traerte el desayuno y hacer la cama. Es como tu "mary poppins" privada y lo más sorprendente es su discreción y buen hacer.
 - El **monte Fuji** siempre ha sido un elemento de la tradición y de la cultura japonesa muy especial. Si te fijas, lo verás representado muy a menudo en pinturas, ilustraciones, grabados e incluso en el dinero. Para subir a la cima se tiene que hacer a pie porque con el coche no hay acceso. Es un recorrido de unas 7 horas y hay que estar preparado físicamente. Es costumbre hacerlo de noche para llegar a la puesta de sol y gozar del espectaculo.
 
 **INFORMACIÓN ADICIONAL**

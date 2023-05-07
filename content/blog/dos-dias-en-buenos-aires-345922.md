@@ -4,7 +4,7 @@ type: "post"
 date: "2019-01-08 09:00:00"
 slug: "dos-dias-en-buenos-aires-345922"
 categories: ["América"]
-image: "/post-images/recoleta-240x300.jpg"
+image: "post-images/recoleta-240x300.jpg"
 ---
 
 Buenos Aires es una ciudad carismática, sorprendente y adictiva. Es una ciudad de contrastes con zonas de un estilo muy europeo a cuatro calles de barrios más "complicados" , dónde mejor no adentrarse. Su centro es elegante, lujoso, con grandes avenidas y testimonio de décadas de gloria y esplendor ... pero no te engañes, los suburbios por desgracia esta llena de miseria, chabolas y desempleo. El contraste es brutal.
@@ -13,7 +13,7 @@ Quizás por eso cuando se encuentran dos personas de Buenos Aires en una ciudad 
 
  La **plaza de Mayo** (conocida por el movimiento de las "madres de niños desaparecidos durante la dictadura) y la **Avenida 9 de Julio** (la más grande del mundo) son el núcleo de la ciudad. El Cementerio de Recoleta es uno de los lugares más visitados, así como el **barrio de La Boca y** **"La Bombonera"** dónde juega el **Boca Juniors (**aunque no es muy seguro, mejor no salir de las cuatro calles turísticas... por si acaso).
 
-![](/post-images/recoleta-240x300.jpg)El **barrio de Palermo** es el lugar dónde pasear entre cafeterías y tiendas de nuevos diseñadores durante el día. Por las noches se llena de lucecitas, farolillos y los bares se llenan de ambiente.
+![](post-images/recoleta-240x300.jpg)El **barrio de Palermo** es el lugar dónde pasear entre cafeterías y tiendas de nuevos diseñadores durante el día. Por las noches se llena de lucecitas, farolillos y los bares se llenan de ambiente.
 
 Otro de los barrios más famosos es **San Telmo,** el de los artistas y quizás más bohemio de todos. Los domingos hacen un mercadillo de antigüedades, objetos de segunda mano o/y paradetas de souvenirs... y sin buscarlo en la **plaza Dorrego (en el corazón de San Telmo)** suele haber un espectáculo de tango con banda en directo. Aquí también tendrás locales dónde tomar algo por la noche si quieres.
 

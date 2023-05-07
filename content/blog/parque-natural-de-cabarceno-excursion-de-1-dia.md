@@ -4,14 +4,14 @@ type: "post"
 date: "2017-08-29 11:00:36"
 slug: "parque-natural-de-cabarceno-excursion-de-1-dia"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/cabar01.jpg"
+image: "post-images/cabar01.jpg"
 ---
 
 El **Parque de Naturaleza de Cabárceno se encuentra a unos 20 kilómetros de Santander.**  
   
 Se puede decir que es una especie de **zoológico en condiciones de semi-libertad**. Los animales viven en una enorme extensión, con medidas de seguridad, pero no son jaulas. Te vas desplazando en coche, a lo largo de casi 20kms de tramos de carretera. Vas parando a medida que recorres el parque y llegas a las zonas reservadas para cada especie. El entorno del parque es un paisaje muy muy bonito , muy verde con algunas rocas y montañas fruto de la erosión ... espectacular, para mi sorprendente porque no me imaginaba para nada el paraje en el que estaba ubicado en sí el parque.  
   
-![](/post-images/cabar01.jpg)  
+![](post-images/cabar01.jpg)  
   
 Hay miradores, zonas de picnic dónde comer, algunas tiendas y restaurantes, zonas de recreo infantil... Está súper bien cuidado y acondicionado. Hay muchos rincones desde dónde sacar fotografías de infarto.  
   

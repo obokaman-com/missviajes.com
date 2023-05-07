@@ -4,7 +4,7 @@ type: "post"
 date: "2017-08-23 00:00:00"
 slug: "barcelona-musa-gaudi-16070"
 categories: ["Europa"]
-image: "/post-images/568a749cc2d23s171525.jpg"
+image: "post-images/568a749cc2d23s171525.jpg"
 ---
 
    
@@ -17,13 +17,13 @@ Este es mi homenaje y me apoyo personal a las familias y a la ciudad, una ciudad
   
 Lo reconozco, no puedo ser objetiva. La [Sagrada Familia](http://www.missviajes.com/sagrada-familia-122034), la **Pedrera y la [Casa Batlló](http://www.missviajes.com/la-casa-batllo-528424)**[ ](http://www.missviajes.com/la-casa-batllo-528424), el encanto del **barrio marinero de la Barceloneta**, el ambiente del **Born o Poble Nou**, los colores de la **Rambla de Catalunya**, los callejones del B**arrio Gótico y el Raval**, las **fachadas del Eixample**, el **parc Güell,** las vistas desde **Montjuïc** ... cuenta una estancia mínima de 3 noches para poder descubrir la ciudad. En pocos años, el número de alojamientos en la ciudad Condal se ha disparado.  
   
-![ TAGS:undefined](/post-images/568a749cc2d23s171525.jpg "panorámica del barrio de la Barceloneta")  
+![ TAGS:undefined](post-images/568a749cc2d23s171525.jpg "panorámica del barrio de la Barceloneta")  
   
 Tienes desde los más lujosos como [ Mandarin Oriental](http://www.missviajes.com/hotel-mandarin-oriental-barcelona-2256373), el [ Hotel Arts](http://www.missviajes.com/hotel-arts-barcelona-5-lujo-vistas-mar-1222334) o el W Barcelona, de diseño como el hotel Omm o el hotel Cramm , los clásicos como Casa Fuster (dónde tocaba Woody Allen), el Clarís o el Gran Florida; y económicos para todos los bolsillos  
   
 Las terrazas es otro de los puntos fuertes de la ciudad. La gran mayoria de hoteles de Barcelona descubrieron el filón que suponia tener su bar o lounge club en las noches de verano y se subieron al tren de esta tendencia. Además las vistas no dejan de ser un valor añadido.  
   
-**RECOMENDACIONES**![ TAGS:undefined](/post-images/16070-17764.jpg "plaza real by notarivs")
+**RECOMENDACIONES**![ TAGS:undefined](post-images/16070-17764.jpg "plaza real by notarivs")
 
 - Si quieres conocer la **auténtica Rambla de Catalunya** madruga un poquito y siéntate en uno de los bancos a mirar. Símbolo de la ciudad, ahora más que nunca.
 - Un buen restaurante ? El [merendero de la Mari](http://www.merenderodelamari.com/) en Port Vell

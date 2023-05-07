@@ -4,7 +4,7 @@ type: "post"
 date: "2017-05-15 08:24:04"
 slug: "un-dia-en-amman-que-ver-y-donde-comer"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
-image: "/post-images/IMG_01401-e1494585030261-768x1024.jpg"
+image: "post-images/IMG_01401-e1494585030261-768x1024.jpg"
 ---
 
 Ammán, la capital de [Jordania,](http://www.missviajes.com/ruta-por-jordania-en-coche-de-alquiler/) es lugar de paso en casi todos los programas que puedas ver del país. Sin embargo, tiene sus lugares de interés y como iniciación para conocer el carácter de los jordanos y sus costumbres, es perfecto.
@@ -17,7 +17,7 @@ Y en segundo lugar los **edificios son todos del mismo color crema**. Están obl
 
 Los lugares de interés básicos son el **Teatro Romano de Ammán, la Ciudadela** ( ambas entradas no tendrás que comprar si tienes el Jordan Pass) y la Mezquita del Rey Abdalá I.
 
- ![](/post-images/IMG_01401-e1494585030261-768x1024.jpg)
+ ![](post-images/IMG_01401-e1494585030261-768x1024.jpg)
 
 
 
@@ -40,7 +40,7 @@ Desde allí nos acercamos hasta la zona más moderna de **Al Rainbow**, llena de
 **RECOMENDACIONES**
 
 - ¿Dónde comer? **Restaurante Jafra** (situado en la avenida principal del centro) y el **restaurante Zorba**, también en el centro. Rico y bien de precio.
-- \[caption id="attachment\_3465" align="alignright" width="374"\]![](/post-images/IMG_00721-e1494585058122-768x1024.jpg) Jerash by missviajes\[/caption\]  
+- \[caption id="attachment\_3465" align="alignright" width="374"\]![](post-images/IMG_00721-e1494585058122-768x1024.jpg) Jerash by missviajes\[/caption\]  
       
     Tienes que ir a probar un postre delicioso que se llama QNAFA en un puestecito que se llama [Habibah](https://www.tripadvisor.es/Restaurant_Review-g293986-d2084697-Reviews-Habibah_Sweets-Amman_Amman_Governorate.html). Está en un pequeño callejón del centro, pero en cuanto veas la cola, sabrás que lo has encontrado. El Qnafa (o Kunafa) es un dulce hecho de queso frito con caramelo o miel por encima y trocitos de pistacho.
 - Asegúrate **cuando subas a un taxi que encienda el taxímetro** o pregunta antes de subir si tiene. Es una práctica muy habitual que algunos taxistas te pidan el doble por el viaje con un precio cerrado antes de subir al coche por el mero hecho de ser turista.

@@ -4,10 +4,10 @@ type: "post"
 date: "2010-12-23 10:15:00"
 slug: "feliz-navidad-1090772"
 categories: ["Cosas Varias"]
-image: "/post-images/1090772-324187.jpg"
+image: "post-images/1090772-324187.jpg"
 ---
 
-![navidad by missviajes](/post-images/1090772-324187.jpg "navidad by missviajes")
+![navidad by missviajes](post-images/1090772-324187.jpg "navidad by missviajes")
 
 Como vengo haciendo desde que empecé este blog hace ya 4 años, no quiero faltar a la ronda de felicitaciones. Ha sido un 2010 un poco difícil pero con la alegría de un Mundial de Fútbol. Ahora no sabría hacerte un resumen exacto de todas las notícias más relevantes de este año, pero si puedo decirte que ha sido un año en el que los números de las economias se han tenido que revisar varias veces.
 

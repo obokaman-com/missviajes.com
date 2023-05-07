@@ -4,10 +4,10 @@ type: "post"
 date: "2012-11-16 16:00:00"
 slug: "liligo-buscador-viajero-2187039"
 categories: ["Cosas Varias"]
-image: "/post-images/50a63130aea3cs18428.jpg"
+image: "post-images/50a63130aea3cs18428.jpg"
 ---
 
- [![ TAGS:](/post-images/50a63130aea3cs18428.jpg)](/post-images/50a63130aea3cs18428.jpg)
+ [![ TAGS:](post-images/50a63130aea3cs18428.jpg)](post-images/50a63130aea3cs18428.jpg)
 
  ¿Conoces Liligo? Es un **buscador de vuelos, así como de hoteles y hoteles y coches de alquiler**. Ofrece resultados de **más de 250 proveedores ordenados** según utilices el filtro (por precio, duración de vuelos, categoria de hoteles....). Cuando abres una búsqueda, Liligo te muestra la información de una manera fácil y clara. Hasta aquí creo que es más o menos funciona igual que la competencia. Su fiabilidad está respaldada por un millón de visitantes al mes en total por sus 10 versiones locales (Francia, España, Reino Unido...).
 
@@ -25,4 +25,4 @@ image: "/post-images/50a63130aea3cs18428.jpg"
 
 - [Liligo](http://www.liligo.es)
 
- ![](/post-images/[timestamp]?%E2%80%9D)
+ ![](post-images/[timestamp]?%E2%80%9D)

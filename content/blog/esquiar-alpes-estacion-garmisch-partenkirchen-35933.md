@@ -4,14 +4,14 @@ type: "post"
 date: "2008-01-18 00:00:00"
 slug: "esquiar-alpes-estacion-garmisch-partenkirchen-35933"
 categories: ["Sin Categoría"]
-image: "/post-images/35933-46115.jpg"
+image: "post-images/35933-46115.jpg"
 ---
 
-![Garmisch by brend brägelmann](/post-images/35933-46115.jpg "Garmisch by brend brägelmann")
+![Garmisch by brend brägelmann](post-images/35933-46115.jpg "Garmisch by brend brägelmann")
 
 La **estación de esquí de Garmisch-Paterkirchen** se encuentra en el **sur de Alemania**, en el estado de Baviera, tocando con la **frontera austriaca**. Este pueblo, a pesar de ser el más concurrido de Alemania en cuanto a nieve se refiere, no ha perdido ese puntito de turismo rural y el pueblo conserva su encanto alpino, así lo confirmarás cuando veas las fachadas de las casas pintadas con esos peculiares dibujos llamados *trampantojos*.
 
-![pista esqui fondo garmisch-patenkirchen](/post-images/35933-46114.jpg "pista esqui fondo garmisch-patenkirchen")La estación cuenta con **200 kms de pistas de esquí, senderos de esquí de fondo y pistas de patinaje sobre hielo**. La nieve está asegurada de noviembre a mayo.
+![pista esqui fondo garmisch-patenkirchen](post-images/35933-46114.jpg "pista esqui fondo garmisch-patenkirchen")La estación cuenta con **200 kms de pistas de esquí, senderos de esquí de fondo y pistas de patinaje sobre hielo**. La nieve está asegurada de noviembre a mayo.
 
 Aprovecha para visitar **Mittenwald** famoso por los violines, **Oberammergau** dónde los frescos en las fachadas de las casas son más auténticos aún si cabe, acercate con el tren cremallera hasta la **estación de esquí de Zugspitze** o bien recreate con el lujo de Linderhof (antigua residencia de Luis II ).
 
@@ -23,7 +23,7 @@ Aprovecha para visitar **Mittenwald** famoso por los violines, **Oberammergau** 
 
 **CURIOSIDADES**
 
-- ![mittenwald by beuel sued](/post-images/35933-46116.jpg "mittenwald by beuel sued")Garmisch y Paterkirchen eran dos localidades independientes que se unificaron para celebrar los **Juegos Olímpicos de Invierno en 1936** para levantar el Estadio Olimpico.
+- ![mittenwald by beuel sued](post-images/35933-46116.jpg "mittenwald by beuel sued")Garmisch y Paterkirchen eran dos localidades independientes que se unificaron para celebrar los **Juegos Olímpicos de Invierno en 1936** para levantar el Estadio Olimpico.
 - Cada Año Nuevo se celebra el famoso **Campeonato de Salto** en esta estación con tres grandes trampolines.
 
 **INFORMACIÓN ADICIONAL**

@@ -4,10 +4,10 @@ type: "post"
 date: "2013-12-01 11:43:00"
 slug: "fashion-travel-bloggers-2329145"
 categories: ["Cosas Varias"]
-image: "/post-images/52d7c7e4a9902s105576.jpg"
+image: "post-images/52d7c7e4a9902s105576.jpg"
 ---
 
- ![ - ](/post-images/52d7c7e4a9902s105576.jpg)**FASHION TRAVEL BLOGGERS** es el único grupo de influenciadoras en España que comparte experiencias chic sobre turismo, moda y ocio.
+ ![ - ](post-images/52d7c7e4a9902s105576.jpg)**FASHION TRAVEL BLOGGERS** es el único grupo de influenciadoras en España que comparte experiencias chic sobre turismo, moda y ocio.
 
  Somos 7 bloggeras con una larga experiencia individual en redes sociales y blogs, unidas ahora para dar a conocer servicios y productos únicos.
 

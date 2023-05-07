@@ -4,20 +4,20 @@ type: "post"
 date: "2006-12-29 00:00:00"
 slug: "hotel-luxor-vegas-5946"
 categories: ["América","Hoteles"]
-image: "/post-images/5946-6494.jpg"
+image: "post-images/5946-6494.jpg"
 ---
 
-![exterior hotel Luxor](/post-images/5946-6494.jpg "exterior hotel Luxor")
+![exterior hotel Luxor](post-images/5946-6494.jpg "exterior hotel Luxor")
 
 Este es uno de los hoteles más conocidos de toda **Las Vegas**. Sin ser de los mejores, despierta el interés de todos los visitantes y se posiciona como uno de los más solicitados. Una gran pirámide y la esfinge de Tutankamon hacen el edificio inconfundible.
 
-![hall hotel Luxor](/post-images/5946-6495.jpg "hall hotel Luxor")
+![hall hotel Luxor](post-images/5946-6495.jpg "hall hotel Luxor")
 
 Las **habitaciones** se distribuyen entre el **edificio de la pirámide y la torre anexa**. El elevado numero de habitaciones impide finalizar las continuas renovaciones, con lo que no todas están amuebladas y vestidas con el mismo diseño actualizado. Son grandes y espaciosas, igual que el baño.
 
 Las dos peculiaridades que identifican un hotel de Las Vegas son los casinos y los teatros con innumerables shows. El **casino del hotel Luxor** cuenta con más de 1700 máquinas tragaperras o ***slots***, **mesa de apuestas** (para NBA, carreras de coches, caballos, hockey, golf, tenis, boxeo...), **poker y mesa de juegos** ( como el blackjack, el craps, la ruleta...).
 
-![exterior noche hotel Luxor](/post-images/5946-6496.jpg "exterior noche hotel Luxor") Dentro del mundo del espectáculo, son muchos los artistas famosos invitados a ofrecer conciertos en los diferentes hoteles (Elton Jonh , Celine Dion... ). Hoy por hoy los *Beach Boys* y *Earth Win and Fire* son los encargados de amenizar las noches del Luxor Las Vegas. Si el plan no te convence, puedes ir al **Imax** del hotel, asistir a la comedia del momento: " Carrot Top" o escoger el programa de cualquier otro hotel de la ciudad.
+![exterior noche hotel Luxor](post-images/5946-6496.jpg "exterior noche hotel Luxor") Dentro del mundo del espectáculo, son muchos los artistas famosos invitados a ofrecer conciertos en los diferentes hoteles (Elton Jonh , Celine Dion... ). Hoy por hoy los *Beach Boys* y *Earth Win and Fire* son los encargados de amenizar las noches del Luxor Las Vegas. Si el plan no te convence, puedes ir al **Imax** del hotel, asistir a la comedia del momento: " Carrot Top" o escoger el programa de cualquier otro hotel de la ciudad.
 
 **RECOMENDACIONES**
 

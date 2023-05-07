@@ -4,18 +4,18 @@ type: "post"
 date: "2009-11-03 20:00:00"
 slug: "blog-experience-encuentro-bloggers-javier-reverte-374382"
 categories: ["Sin Categoría"]
-image: "/post-images/374382-196089.jpg"
+image: "post-images/374382-196089.jpg"
 ---
 
-![encuentro con Javier Reverte](/post-images/374382-196089.jpg "encuentro con Javier Reverte")
+![encuentro con Javier Reverte](post-images/374382-196089.jpg "encuentro con Javier Reverte")
 
 Ayer **02 de noviembre** asistí invitada al **Blog Experience**, un evento que pretendía reunir a bloggers de viajes y organizar un taller de literatura de viajes con uno de los escritores más importantes en la actualidad de este estilo: **Javier Reverte**. Su último libro, *El rio de la luz: un viaje por Alaska y Canada*, es una de las apuestas seguras está en todas las librerías.
 
-![hotel kafka](/post-images/374382-196087.jpg "hotel kafka")El lugar de encuentro fue el [Hotel Kafka](http://hotelkafka.com/) de Madrid, un centro dónde diferentes agrupaciones de artistas, escritores o fotógrafos pueden presentar su obra y dónde tienen cabida todas las orientaciones artísticas.
+![hotel kafka](post-images/374382-196087.jpg "hotel kafka")El lugar de encuentro fue el [Hotel Kafka](http://hotelkafka.com/) de Madrid, un centro dónde diferentes agrupaciones de artistas, escritores o fotógrafos pueden presentar su obra y dónde tienen cabida todas las orientaciones artísticas.
 
 Desde aquí doy las gracias por reunirnos al coordinador del evento Juan Soto de [Addor](http://addoor.net/), empresa líder en publicidad gráfica para sitios medianos y pequeños además de ser expertos en encontrar nuevas formulas de publicidad sin invadir los medios sociales con molestos mensajes.
 
-![addor ](/post-images/374382-196088.jpg "addor ")
+![addor ](post-images/374382-196088.jpg "addor ")
 
 Fue un lujo poder escuchar a Javier Reverte. Los 50 minutos de la charla pasaron volando, su facilidad de palabra nos enganchó a todos desde el primer momento y la idea preconcebida de taller con la que yo iba se rompió en añicos. El periodista se abrió a nosotros y nos explicó de tu a tu la experiencia de sus viajes y los secretos de su escritura. Me pareció una persona muy cercana, inteligente y transparente. **Destacaría dos grandes verdades que Javier dijo**:
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2008-08-08 00:00:00"
 slug: "viajar-ninos-club-imaginarium-90346"
 categories: ["Sin Categoría"]
-image: "/post-images/90346-84012.jpg"
+image: "post-images/90346-84012.jpg"
 ---
 
-![imaginarium](/post-images/90346-84012.jpg "imaginarium")
+![imaginarium](post-images/90346-84012.jpg "imaginarium")
 
 Visto y comprobado que el mundo de los niños es un negocio redondo, tiendas como **Imaginarium** ([Itsimagical ](http://www.itsimagical.com.hk/)es el nombre que tiene en otros paises) reconfirman esta afirmación. Empezó siendo una tienda de juguetes de todo tipo, para todas las edades con libros, peluches, bicicletas, muñecos o juegos de estimulación infantil . Poco a poco ha ido ampliando su oferta a complementos de playa, montaña, disfraces, kits para alimentación (platos, cuchara...) , kits para el coche ( muñequitos para la sillita del coche, parasol para los cristales..) mobiliario infantil, música y cine, ropa y calzado... no acabaría nunca la lista.
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2009-02-09 20:00:00"
 slug: "carnaval-cadiz-103613"
 categories: ["Sin Categoría"]
-image: "/post-images/103613-120287.jpg"
+image: "post-images/103613-120287.jpg"
 ---
 
-![carnaval de Cádiz 1904](/post-images/103613-120287.jpg "carnaval de Cádiz 1904")
+![carnaval de Cádiz 1904](post-images/103613-120287.jpg "carnaval de Cádiz 1904")
 
 La maquinaria de los carnavales ya está acelerando turbinas porque dentro de poco inundará las calles. Este año del **19 de Febrero al 01 de marzo** los gaditanos disfrutaran de sus **chirigotas**, la alegria que todo el mundo les reconoce. Durante todo el año dedican esfuerzos y horas a la que serán canciones "chirigotas" en las que se parodia la actualidad política, cultural e informativa del país. Nadie queda libre de broma ni alusión. Con la virtud de sus voces y el acompañamiento de palmas y una especia de "pitos" (como los infantiles) los coros concursan para ganar el reconomiento de su gente. Es un espectáculo único que se mezcla con la alegria del carnaval en las calles.
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2019-10-02 00:00:17"
 slug: "figueres-y-el-teatro-museo-dali"
 categories: ["Europa","Playas","Visitas Y Excursiones"]
-image: "/post-images/castell-sant-ferran.jpg"
+image: "post-images/castell-sant-ferran.jpg"
 ---
 
 Después de una agradecida estancia en la Costa Brava, teníamos claro que queríamos visitar el Museo Dalí de Figueres. Las pocas referencias que tenía de la ciudad es de albergar el museo y de ser la ciudad natal del famoso y escéntrico pintor. No conocía a nadie que hubiera visitado la ciudad expresamente sino era para ir al Museo. Su situación en Girona, capital de comarca de l'Alt Empordà y a 1 hora de [Cadaqués](http://www.missviajes.com/cadaques-joya-costa-brava-7731/) y a unos 30 minutos de Roses, d'[Empuriabrava](http://www.missviajes.com/empuriabrava-y-el-parque-natural-dels-aiguamolls-de-lemporda/) o l'Escala hace que las visitas de Figueres sean de 1 día , ver el museo y regresar a la Costa Brava.
@@ -15,13 +15,13 @@ Para no ir con prisas, decidimos quedarnos una noche y dar un paseo. Es una ciud
 
 
 
-![](/post-images/castell-sant-ferran.jpg)
+![](post-images/castell-sant-ferran.jpg)
 
 
 
 Nos alojamos en el centro, en el **[Hotel Pirineos](https://www.booking.com/hotel/es/pirineos.en.html?aid=1294466&no_rooms=1&group_adults=1),** a 10 minutos caminando del Museo Dalí. Es un hotel de 4 estrellas, pequeño, de estilo moderno y acogedor. Las habitaciones son amplias, la nuestra con una confortable cama King Size. Destacaría de este hotel sobretodo el personal, realmente encantador y servicial, la cercanía del hotel al centro histórico de Figueres, la comodidad de tener parking y sobretodo su restaurante El Pelegrí del que te hablaré luego.
 
-![](/post-images/rambla-de-figueres.jpg)
+![](post-images/rambla-de-figueres.jpg)
 
 La visita al Teatro-Museo Dalí la teníamos programada a las 15.00.
 

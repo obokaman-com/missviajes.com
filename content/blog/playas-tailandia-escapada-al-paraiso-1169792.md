@@ -4,10 +4,10 @@ type: "post"
 date: "2011-03-03 09:22:00"
 slug: "playas-tailandia-escapada-al-paraiso-1169792"
 categories: ["Asia","Playas"]
-image: "/post-images/1169792-335055.jpg"
+image: "post-images/1169792-335055.jpg"
 ---
 
- [ ![phi phi by mynameisharsha](/post-images/1169792-335055.jpg "phi phi by mynameisharsha")](http://www.flickr.com/photos/mynameisharsha/4345763438/sizes/z/in/photostream/)
+ [ ![phi phi by mynameisharsha](post-images/1169792-335055.jpg "phi phi by mynameisharsha")](http://www.flickr.com/photos/mynameisharsha/4345763438/sizes/z/in/photostream/)
 
  Thailandia es uno de los países asiáticos con mayor movimiento turístico. Es el país de los mochileros por antonomasia. El año pasado, a causa de las manifestaciones y revueltas vividas en la ciudad de Bangkok, el país se quedó sin turistas. Pero parece que este verano va a ser un buen 2011 para el turismo de este país.
 

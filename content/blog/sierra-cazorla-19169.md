@@ -4,10 +4,10 @@ type: "post"
 date: "2016-04-07 13:30:00"
 slug: "sierra-cazorla-19169"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/19169-21162-1-300x190.jpg"
+image: "post-images/19169-21162-1-300x190.jpg"
 ---
 
-![19169-21162](/post-images/19169-21162-1-300x190.jpg)
+![19169-21162](post-images/19169-21162-1-300x190.jpg)
 
 El **Parque Natural de las Sierras de Cazorla, Segura y Villas** es la reserva protegida de mayor extensión de España. Se encuentra **limitado por las provincias de Jaén, Albacete y Granada.**   
   
@@ -15,7 +15,7 @@ Salvando el grave incendio que sufrió el parque Natural hará unos años (ahora
   
 Los amantes del deporte podrán soltar adrenalina con el **parapente, la escalada, descenso de cañones, rafting o incluso piragüismo**. Si prefieres disfrutar del paisaje caminando, hay numerosas rutas de senderismo señalizadas.  
   
-**RECOMENDACIONES**- Dentro de las rutas de senderismo destacaría la **Ruta del Río Borosa** de unas 3 horas de duración y unos 12 kms. Comienza en la Piscifactoría y acaba en el embalse de FEDA ![cazorla](/post-images/cazorla-300x153.jpg)
+**RECOMENDACIONES**- Dentro de las rutas de senderismo destacaría la **Ruta del Río Borosa** de unas 3 horas de duración y unos 12 kms. Comienza en la Piscifactoría y acaba en el embalse de FEDA ![cazorla](post-images/cazorla-300x153.jpg)
 - Son muy variados los alojamientos que encontrarás en la zona (apartamentos, casas rurales, hoteles , Parador...).Mi propuesta es La [Casa Rural Convento Santa Maria de la Sierra](http://crsantamaria.com/) situado en pleno parque a 4 kms de Arroyo Frío. Tienen habitaciones de diferentes precios bastante económicos en general (e incluso unas *habitaciones nido* que son casetas en la copa de los árboles).
 - Es muy usual si te desplazas en coche por las carreteras del parque, cruzarte con todo tipo de animales (desde conejos hasta ciervos). Así que conduce despacio si no quieres llevarte un susto.
 

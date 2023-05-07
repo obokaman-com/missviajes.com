@@ -4,14 +4,14 @@ type: "post"
 date: "2018-10-29 00:00:00"
 slug: "ginebra-cozaron-europa-502299"
 categories: ["Europa"]
-image: "/post-images/geneva.jpg"
+image: "post-images/geneva.jpg"
 ---
 
    
   
 Se encuentra **en el corazón de Europa** y además de los relojes y bancos, dejando de lado los tópicos, es una ciudad que merece la pena visitar. Su **historia está marcada por la tolerancia de sus gentes**, motivo entre otros d**í**gase de paso que justifica las **más de 200 sedes de organismos internacionales**. ¿Y porque hablo de tolerancia? Pues porque desde que ya en el siglo de Oro acogieron a políticos y religiosos perseguidos convertidos al protestantismo, siguieron cursando el rol de tierra de acogida y condescendencia hasta hoy.... ojalá todas pudieran decir lo mismo, verdad ? Que maravilla.  
   
-![](/post-images/geneva.jpg)  
+![](post-images/geneva.jpg)  
   
 La ciudad está a orillas del Lago Leman. La visita debes comenzarla por la **orilla izquierda, desde la colina. Allí está la catedral protestante de San Pedro y la plaza Bourg-de-Four.** Desde allí puedes callejear por el **casco antiguo y sus calles estrechas, la casa Tavel y seguir por el Ayuntamiento, el Museo de Arte e Historia hasta el parque Promenade des Bastions**. En la orilla derecha están la gran mayoría de hoteles y restaurantes.  
   

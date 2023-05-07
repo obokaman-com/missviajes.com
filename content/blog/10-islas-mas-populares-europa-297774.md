@@ -4,7 +4,7 @@ type: "post"
 date: "2009-07-31 12:40:00"
 slug: "10-islas-mas-populares-europa-297774"
 categories: ["Europa","Hoteles"]
-image: "/post-images/LIndos-Rodas.jpg"
+image: "post-images/LIndos-Rodas.jpg"
 ---
 
 [Trivago](http://www.trivago.es) ha hecho público un listado con las 10 islas más populares de Europa, entre las cuales 7 son españolas. Los datos provienen de las búsquedas realizadas por los integrantes de su red social en todos los países, 17 actualmente. Cada una destaca por su belleza o por su personalidad cultural. Aunque todas tienen obviamente playas bonitas y carácter mediterréneo, la oferta de precios no es siempre amplia en cada una de ellas.  
@@ -17,11 +17,11 @@ Estas son las diez islas finalistas, - **Mallorca**. Sus **calas de agua azul tu
 
    
   
-![](/post-images/LIndos-Rodas.jpg)- **Tenerife**. Es la isla más grande de las Canarias . El volcán Teide y sus coloridos carnavales son símbolos de los tinerfeños. Además de sus playas, su geología volcánica ofrece paisajes que no puedes dejar de ver como la **costa accidentada** del parque Nacional del Teide, el **bosque de la Era Terciaria de Macizo Anaga**, y por supuesto el **cielo estrellado de las noches del Teide**.
+![](post-images/LIndos-Rodas.jpg)- **Tenerife**. Es la isla más grande de las Canarias . El volcán Teide y sus coloridos carnavales son símbolos de los tinerfeños. Además de sus playas, su geología volcánica ofrece paisajes que no puedes dejar de ver como la **costa accidentada** del parque Nacional del Teide, el **bosque de la Era Terciaria de Macizo Anaga**, y por supuesto el **cielo estrellado de las noches del Teide**.
 
 - **Ibiza**. Es la isla de la fiesta por excelencia. Muchos son los que viajan por primera vez a [Ibiza](https://www.missviajes.com/escapada-a-ibiza-de-3-dias/) en busca de la noche en Pachá, Privilege y un atardecer en el Café del Mar y sin embargo vuelven a visitarla enamorados por su belleza, las puestas de sol como en Cala Compte, sus caminos de tierra a calas escondidas y sus aguas turquesa.
 
-![](/post-images/cala-compte-.jpg)- **Fuerteventura**. Esta isla es una de mis preferidas. Naturaleza salvaje, carnavales muy auténticos, playas kilométricas de arena negra y la sensación de que el tiempo va más despacio.... así es [Fuerteventura](https://www.missviajes.com/fuerteventura-isla-tranquila-6840/). El parque Natural de la Isla de Lobos, parque Nacional de Jandía, Cofete o Corralejo son algunos de los nombres que te recomiendo recuerdes.
+![](post-images/cala-compte-.jpg)- **Fuerteventura**. Esta isla es una de mis preferidas. Naturaleza salvaje, carnavales muy auténticos, playas kilométricas de arena negra y la sensación de que el tiempo va más despacio.... así es [Fuerteventura](https://www.missviajes.com/fuerteventura-isla-tranquila-6840/). El parque Natural de la Isla de Lobos, parque Nacional de Jandía, Cofete o Corralejo son algunos de los nombres que te recomiendo recuerdes.
 
 - **Corfú**. De esta isla griega muy verde destaca la espectacular **playa del Lago Korissia** y sus inmensos olivos de hasta 20m de altura. Además ir a Grecia, a cualquiera de sus islas, es siempre garantía de buen comer y de dar un paseo por la historia de los cimientos de nuestra civilización.
 

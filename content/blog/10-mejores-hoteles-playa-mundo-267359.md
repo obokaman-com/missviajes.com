@@ -4,10 +4,10 @@ type: "post"
 date: "2009-05-28 10:00:00"
 slug: "10-mejores-hoteles-playa-mundo-267359"
 categories: ["Sin Categoría"]
-image: "/post-images/267359-146325.jpg"
+image: "post-images/267359-146325.jpg"
 ---
 
-![beach villa en el Reetih Rah](/post-images/267359-146325.jpg "beach villa en el Reetih Rah")
+![beach villa en el Reetih Rah](post-images/267359-146325.jpg "beach villa en el Reetih Rah")
 
 Ahora que se acerca el verano, nuestros amigos de **Trivago** han publicado un nuevo estudio resultado de las valoraciones de sus usuarios de internet así como de las webs afiliadas [**Tripadvisor.es**](http://www.tripadvisor.es) **y** [**Booking.com**](http://www.booking.com)**.** Con más de 400.000 hoteles en su bases de datos, tan sólo **10 han sido los seleccionados como la élite del sector hotelero especializado en playa**. Por si no conoces **Trivago**, es un especialista en comparar precios de entre unas 40 agencias de viajes online. Buscan las mejores ofertas y comparan también las condiciones de reserva (si incluye desayuno, si es posible cancelar...etc )
 

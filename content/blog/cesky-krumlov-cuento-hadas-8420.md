@@ -4,10 +4,10 @@ type: "post"
 date: "2014-07-28 09:07:00"
 slug: "cesky-krumlov-cuento-hadas-8420"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/53d375be69407s206308.jpg"
+image: "post-images/53d375be69407s206308.jpg"
 ---
 
-[ ![ TAGS:undefined](/post-images/53d375be69407s206308.jpg "panorámica by Alex E. Proimos")](https://www.flickr.com/photos/proimos/13994737802/sizes/c/in/photostream/)
+[ ![ TAGS:undefined](post-images/53d375be69407s206308.jpg "panorámica by Alex E. Proimos")](https://www.flickr.com/photos/proimos/13994737802/sizes/c/in/photostream/)
 
 Este pequeño pueblo de cuento de hadas en la República Checa es Patrimonio de la Humanidad en 1992. Praga me encantó pero ya sabía que me iba a gustar, sabía que me iba a encontrar. Sin embargo, aparecí en Cesky Krumlov al azar y fue tal la sorpresa y la impresión que me llevé, que considero de ley dedicarle unas líneas.
 

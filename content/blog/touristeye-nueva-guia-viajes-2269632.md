@@ -4,10 +4,10 @@ type: "post"
 date: "2013-05-07 09:37:00"
 slug: "touristeye-nueva-guia-viajes-2269632"
 categories: ["Cosas Varias"]
-image: "/post-images/5187641226b54s941136.jpg"
+image: "post-images/5187641226b54s941136.jpg"
 ---
 
- ![ TAGS:](/post-images/5187641226b54s941136.jpg "touristeye")
+ ![ TAGS:](post-images/5187641226b54s941136.jpg "touristeye")
 
  Como no podía ser de otra manera, las guías de viajes clásicas en formato papel están viendo como las nuevas aplicaciones les comen terreno. Una buena prueba de ello es la proliferación de diferentes aplicaciones entorno a los viajes utilizables desde la tablette o desde tu móvil. Hace unas semanas ya hablamos de una. Hoy toca **Tourist Eye,** uno de estos proyectos, con sello español. Es una nueva herramienta que puede ayudarte a **crear tu propía guía de viajes online** que además cubra todas las necesidades que como viajero te puedan surgir. Como viajeros con gustos diferentes que somos cada uno de nosotros,TouristEye **permite organizar tu viaje a medida**. Una de las particularidades que más me gusta de esta aplicación es que desde la memoria de tus viajes pasados, la aplicación te **sugiere recomendaciones en sintonia con las actividades anteriores.**
 

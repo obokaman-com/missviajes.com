@@ -4,14 +4,14 @@ type: "post"
 date: "2017-11-27 00:00:00"
 slug: "guia-rapida-sicilia-28275"
 categories: ["Europa"]
-image: "/post-images/517066fe58f69s163745.jpg"
+image: "post-images/517066fe58f69s163745.jpg"
 ---
 
 El **estrecho de Messina** que separa Sicilia del resto de Italia ha hecho de frontera natural de esta isla tan carismática, llena de secretos y puritanismo religioso.  
   
 La geografía de la isla viene marcada por un volcán en continua erupción, el **Etna**, y un sinfín de pueblos pesqueros con playas de arena pedregosa y otras de arena fina (**Cefalú, Giardini Naxos y Taormina**....).  
   
-![](/post-images/517066fe58f69s163745.jpg)  
+![](post-images/517066fe58f69s163745.jpg)  
   
 En su interior, **templos griegos y romanos** escondidos y solitarios en medio de la nada que harán las delicias de los que buscamos *la fotografía* sin turistas paseándose entre las ruinas (**Agrigento, Segesta, Selinunte**...). Pero para mi lo más impactante es el caos de las ciudades más importantes (**Palermo, Catania, Messina**...), la vida que se respira en ellas. Es como sumergirse en una película de los años 50 cuando Marcelo Mastroiani y Sofia Loren rodaban aquellas míticas escenas.  
   

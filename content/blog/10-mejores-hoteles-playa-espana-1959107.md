@@ -4,10 +4,10 @@ type: "post"
 date: "2012-06-02 12:28:00"
 slug: "10-mejores-hoteles-playa-espana-1959107"
 categories: ["Hoteles"]
-image: "/post-images/4fc9d6a01a9ccs1187659.jpg"
+image: "post-images/4fc9d6a01a9ccs1187659.jpg"
 ---
 
- [![ TAGS:](/post-images/4fc9d6a01a9ccs1187659.jpg "piscina del hotel St. Regis (Mallorca)")](/post-images/4fc9d6a01a9ccs1187659.jpg)
+ [![ TAGS:](post-images/4fc9d6a01a9ccs1187659.jpg "piscina del hotel St. Regis (Mallorca)")](post-images/4fc9d6a01a9ccs1187659.jpg)
 
  Se acerca el verano, y tal vez te estés planteado que hacer en tus vacaciones. Tal y como está el panorama una buena opción es hacer caja en casa, porque no ..?? Como nos tienen acostumbrados el equipo de Trivago, han sacado una selección **de los mejores 10 hoteles de playa,** uno por Comunidad Autónoma. El ránking es resultado de las valoraciones que dia a dia los clientes de [www.trivago.es](http://www.trivago.com) van haciendo de sus estancias.
 
@@ -15,7 +15,7 @@ image: "/post-images/4fc9d6a01a9ccs1187659.jpg"
 
 - **Andalucía: Vincci Selección Aleysa Playa (Benalmádena, Málaga).** En primera línea de playa y muy cerca de la zona de ocio de Puerto Marina, es el único hotel boutique 5 estrellas de la zona. Ofrece acceso directo a la playa, y sus amplias y luminosas habitaciones cuentan con **carta de almohadas** (que sibaritas !!!) y terraza, desde la que se pueden contemplar unas preciosas vistas sobre el mar Mediterráneo
 
-- **[![ TAGS:](/post-images/4fc9d1c34971cs156557.jpg "habitación de El Castillo (Suances)")](/post-images/4fc9d1c34971cs156557.jpg)Cantabria: El Castillo (Suances).**  Situado en un acantilado sobre la playa de Los Locos de Suances, es un pequeño **hotel de tan solo 9 habitaciones con mucho encanto**, pues cada una de ellas está decorada de manera diferente.
+- **[![ TAGS:](post-images/4fc9d1c34971cs156557.jpg "habitación de El Castillo (Suances)")](post-images/4fc9d1c34971cs156557.jpg)Cantabria: El Castillo (Suances).**  Situado en un acantilado sobre la playa de Los Locos de Suances, es un pequeño **hotel de tan solo 9 habitaciones con mucho encanto**, pues cada una de ellas está decorada de manera diferente.
 
 - **Cataluña: Sallés Hotel &amp; Spa Cala del Pi (Platja d’Aro, Girona).** Cuenta con acceso directo a la pequeña cala del Pi, un bonito rincón del Mediterráneo en el que disfrutar del mar lejos de las aglomeraciones. Una de las señas de identidad de este hotel es su spa. Los huéspedes pueden disfrutar de forma gratuita de la zona de aguas, la cual cuenta con baño turco, pediluvio y bancos lumbares, entre otras cosas. Además, es posible relajarse con diversos tratamientos faciales, corporales y masajes de la mano de los mejores terapeutas.
 
@@ -29,7 +29,7 @@ image: "/post-images/4fc9d6a01a9ccs1187659.jpg"
 
 - **País Vasco: Saiaz Getaria (Getaria, Guipúzcoa).** Una de sus particularidades es que **se sitúa en lo que fueron las casas góticas de Getaria**, que datan del siglo XV. Cada una de sus habitaciones está decorada de manera diferente, y algunas de ellas recuerdan a la época medieval con sus paredes de piedra. Tienen vistas tanto al mar como al casco antiguo de la localidad y, al situarse sobre el acantilado de la playa de Gaztetape, es posible admirar el Cantábrico desde cualquiera de los miradores con los que cuenta el hotel. Getaria cuenta además con la playa de Malkorbe, también a escasos metros del hotel.
 
-- **[![ TAGS:](/post-images/4fc9da2e370a9s5254327.jpg "panoramica de Ribadesella")](/post-images/4fc9da2e370a9s5254327.jpg)Principado de Asturias: Ribadesella Playa (Ribadesella)** Este es un hotel muy especial, **un palacete con historia. Data de principios del siglo XX, cuando la Marquesa de Argüelles decidió construirlo y utilizarlo como villa de veraneo de amigos y familiares**. . Su situación entre el mar y la montaña hacen que sea ideal para todo tipo de vacaciones, ya que además de estar en primera línea de playa, ofrece descuentos a los huéspedes que quieran practicar turismo activo o golf. Algunas de sus habitaciones cuentan con vistas al mar y a la desembocadura del río Sella, y el Wi-Fi es gratuito en todo el hotel.
+- **[![ TAGS:](post-images/4fc9da2e370a9s5254327.jpg "panoramica de Ribadesella")](post-images/4fc9da2e370a9s5254327.jpg)Principado de Asturias: Ribadesella Playa (Ribadesella)** Este es un hotel muy especial, **un palacete con historia. Data de principios del siglo XX, cuando la Marquesa de Argüelles decidió construirlo y utilizarlo como villa de veraneo de amigos y familiares**. . Su situación entre el mar y la montaña hacen que sea ideal para todo tipo de vacaciones, ya que además de estar en primera línea de playa, ofrece descuentos a los huéspedes que quieran practicar turismo activo o golf. Algunas de sus habitaciones cuentan con vistas al mar y a la desembocadura del río Sella, y el Wi-Fi es gratuito en todo el hotel.
 
 - **Región de Murcia: Hotel Costa Narejos (Los Alcázares)**Su situación en primera línea de la playa de los Narejos, en el mar Menor, sus programas de animación para niños y su spa, hacen que sea un hotel perfecto para pasar unas vacaciones en familia. Además, cuenta con buenas conexiones con ciudades cercanas, como Cartagena, donde disfrutar de un día de turismo cultural, y se sitúa muy cerca del centro de alto rendimiento Infanta Cristina, donde los viajeros pueden practicar su deporte favorito, tanto en tierra como en el mar.
 

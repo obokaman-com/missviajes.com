@@ -4,10 +4,10 @@ type: "post"
 date: "2012-07-18 17:05:00"
 slug: "galicia-mar-tradiciones-2045268"
 categories: ["Europa"]
-image: "/post-images/5006d6773c334s151538.jpg"
+image: "post-images/5006d6773c334s151538.jpg"
 ---
 
-[ ![ TAGS:](/post-images/5006d6773c334s151538.jpg "Rias Baixas by Mazintosh ")](http://www.flickr.com/photos/mazintosh/224477492/sizes/l/in/photostream/)  
+[ ![ TAGS:](post-images/5006d6773c334s151538.jpg "Rias Baixas by Mazintosh ")](http://www.flickr.com/photos/mazintosh/224477492/sizes/l/in/photostream/)  
   
 Galicia es una tierra maravillosa de paisajes deslumbrantes, tierra histórica de pescadores, de una enriquecedora cultura gastronómica y una gente muy especial.  
   

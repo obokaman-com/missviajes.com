@@ -4,16 +4,16 @@ type: "post"
 date: "2010-03-24 16:09:00"
 slug: "hostelbookers-1-edicion-premios-excelencia-540544"
 categories: ["Hoteles"]
-image: "/post-images/540544-231377.jpg"
+image: "post-images/540544-231377.jpg"
 ---
 
- ![academy hostel](/post-images/540544-231377.jpg "academy hostel")
+ ![academy hostel](post-images/540544-231377.jpg "academy hostel")
 
  El pasado 11 de febrero, la empresa de reservas online HostelBookers entregó sus primeros ***Premios a la excelencia*** para galardonar las propiedades con mejor valoración por parte de los clientes. Estos son los algunos de los alojamientos premiados
 
  **Dubrovnik, Croacia: Guesthouse S&amp;L** **Premio a la limpieza**. La casa está rodeada de un bonito jardín y dispone de dos terrazas y un balcón, desde donde se pueden contemplar unas vistas muy bonitas al mar y a las Islas Elafiti. El precio incluye acceso a Internet, televisión vía satélite, uso de cocina, aire acondicionado, toallas, ropa de cama y servicio de recogida. Además, está situado prácticamente en el centro de la ciudad. Es el lugar ideal para visitar Dubrovnik, la perla de la Costa Adriática.
 
- ![hostelbookers](/post-images/540544-231378.jpg "hostelbookers")
+ ![hostelbookers](post-images/540544-231378.jpg "hostelbookers")
 
  **Cracovia, Polonia: Greg &amp; Tom** Premio **Mejor relación calidad-precio**, el Greg&amp;Tom. Lleva en funcionamiento más de cinco años. El hostal permite hacer el check-in las 24 horas, y ofrece desayuno, fruta, dos cocinas, café, acceso a Internet, impresora, grabadora de CDs, sala de televisión, toallas, ropa de cama, taquillas, … Y la lista no termina aquí. Además, el personal es muy agradable y eficiente.
 

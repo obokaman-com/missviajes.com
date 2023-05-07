@@ -4,10 +4,10 @@ type: "post"
 date: "2010-06-09 09:30:00"
 slug: "extremadura-619136"
 categories: ["Sin Categoría"]
-image: "/post-images/619136-256383.jpg"
+image: "post-images/619136-256383.jpg"
 ---
 
-![marca extremadura](/post-images/619136-256383.jpg "marca extremadura")
+![marca extremadura](post-images/619136-256383.jpg "marca extremadura")
 
 Ahora que llega el tiempo estival y en el que decidimos dónde ir estas vacaciones, si es que ya no lo hemos hecho ya, llegan las campañas publicitarias de las Oficinas de Turismo. Quiero destacar una en concreto que me ha llamado mucho la atención. Se trama de la realizada por **Marca Extremadura** y su "***Somos Extremadura***".
 

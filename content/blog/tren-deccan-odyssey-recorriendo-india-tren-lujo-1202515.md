@@ -4,14 +4,14 @@ type: "post"
 date: "2011-07-21 16:33:00"
 slug: "tren-deccan-odyssey-recorriendo-india-tren-lujo-1202515"
 categories: ["Asia","Hoteles"]
-image: "/post-images/one.jpg"
+image: "post-images/one.jpg"
 ---
 
-![](/post-images/one.jpg)
+![](post-images/one.jpg)
 
 El Tren **Deccan Odyssey** es uno de los trenes de lujo de la India. Con un estilo que recuerda las películas de Bollywood, recorre **la costa oeste de India durante una semana**. Bombay, Goa, Kolhapur, Tarkali, Aurangabad y Nasik son algunas de las paradas en las cuales los pasajeros podrán hacer visitas durante el dia antes de partir por la tarde -noche hasta el dia siguiente. Es un viaje a través del tiempo por las playas de Goa, dónde descubrirás hermosos palacios de antiguos marahas y paisajes y tesoros con mucho embrujo.
 
-![](/post-images/4064235071_39422b7e36.jpg)
+![](post-images/4064235071_39422b7e36.jpg)
 
 **Hay 21 vagones de los cuales** 11 son alojamientos y el resto incluye spa, gimnasio, servicio de masajes, 2 restaurantes con cocina propia del país, business center y biblioteca.
 

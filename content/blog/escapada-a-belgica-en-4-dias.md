@@ -4,7 +4,7 @@ type: "post"
 date: "2019-04-01 00:00:27"
 slug: "escapada-a-belgica-en-4-dias"
 categories: ["Europa"]
-image: "/post-images/cisnes-mejorada.jpg"
+image: "post-images/cisnes-mejorada.jpg"
 ---
 
 "Mama, ¿porqué no nos vamos de viaje las dos? Hace tiempo que no cogemos un avión juntas." Sólo hizo falta que me dijera eso mi hija para que mis insaciables ganas de viajar empezaran a buscar vuelos. Tenía que ser un destino relativamente cerca, en Europa, porque iban a ser apenas 3/4 días.  
@@ -22,7 +22,7 @@ Nos quedamos durmiendo:
 
 Desde Gante y aprovechando la proximidad (media hora en tren), fuimos a pasar un día a [Brujas, ](http://www.missviajes.com/brujas-viejo-flandes-7014/)una de las ciudades con más bonitas que conozco. No pudimos llegar hasta Amberes por falta de tiempo. Tal vez en otra ocasión.  
   
-![](/post-images/cisnes-mejorada.jpg)  
+![](post-images/cisnes-mejorada.jpg)  
   
 El país dispone de una **red de transportes muy cómoda, eficaz, fácil y barata**. Básicamente nos movimos en tren.  
   
@@ -34,7 +34,7 @@ Sus gentes son tranquilas, amables, cívicas y siempre con cerveza en la mano. L
   
 **RECOMENDACIONES**- No podíamos viajar sin seguro de viaja. Esta vez lo hicimos con [Chapka](https://www.chapkadirect.es/?app=cd_missvi) , y la verdad es que a pesar de no necesitarlo por suerte, me resultó fácil y económico.
 
-![](/post-images/bruselas.jpg)**CURIOSIDADES**- ¿ sabías que los menores de 12 años viajan gratis en tren? Importante dato si piensas viajar con niños.
+![](post-images/bruselas.jpg)**CURIOSIDADES**- ¿ sabías que los menores de 12 años viajan gratis en tren? Importante dato si piensas viajar con niños.
 - Si compras los billetes de autobús de **Flibco** online sale bastante más económico que si lo haces directamente en el bus. Pasa cada 30 minutos y el recorrido de Bruselas hasta **Charleroi** dura 1 hora.
 
 **INFORMACIÓN ADICIONAL**- [Visit Flandes](https://www.visitflanders.com/es/)

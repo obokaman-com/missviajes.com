@@ -4,10 +4,10 @@ type: "post"
 date: "2014-11-05 15:30:00"
 slug: "pipa-playa-secreta-brasil-11733"
 categories: ["América","Playas"]
-image: "/post-images/11733-12668.jpg"
+image: "post-images/11733-12668.jpg"
 ---
 
-![praia de Pipa by erik moreno](/post-images/11733-12668.jpg "praia de Pipa by erik moreno")Siempre me había hecho a la idea que como Rio de Janeiro o Bahia no podía haber ningun otro lugar inigualable en todo **Brasil**. Me equivoqué.  
+![praia de Pipa by erik moreno](post-images/11733-12668.jpg "praia de Pipa by erik moreno")Siempre me había hecho a la idea que como Rio de Janeiro o Bahia no podía haber ningun otro lugar inigualable en todo **Brasil**. Me equivoqué.  
   
 A **80kms al sur de Natal**, se esconde este pueblo colorido, vital y tranquilo durante el dia que posee un encanto especial. Muchos son los extranjeros que decidieron aposentarse un tiempo y huir del ruido de las grandes ciudades. Con una tienda de artesanía para turistas, un puesto de bebida, o una tienda para surfers (que hay muchos) han tenido más que suficiente para vivir y descansar.  
   

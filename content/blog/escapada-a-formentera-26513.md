@@ -4,14 +4,14 @@ type: "post"
 date: "2017-09-19 00:00:00"
 slug: "escapada-a-formentera-26513"
 categories: ["En Familia","Europa","Playas","Visitas Y Excursiones"]
-image: "/post-images/faro-formentera.jpg"
+image: "post-images/faro-formentera.jpg"
 ---
 
 Formentera es la cuarta **isla del archipiélago Balear (España)**. Destaca por su belleza salvaje, la tranquilidad y ese equilibrio justo entre el turismo y la tradición que tantos otros destinos no consiguen encontrar.  
   
 El **clima** es cálido y seco en verano y los inviernos suaves. Apenas llueve y los vientos suelen ser fuertes especialmente de Diciembre a Enero y de Abril a Mayo.  
   
-![](/post-images/faro-formentera.jpg)**Las playas** de Formentera son de escándalo. Algunas de las más bonitas son **Ses Illetes** es una de las más conocidas (se recomienda acceder en bicicleta o a pie para disfrutar mejor del paisaje), **Cala Saona** es pequeña pero una de las más bonitas, **Migjorn** es una de las más grandes, **Es Racó de S'Alga** con una agua muy transparente y que recuerda a una playa del Caribe, o la **Cala des Mort** ( una calita pequeña también de arena blanca y aguas cristalinas.  
+![](post-images/faro-formentera.jpg)**Las playas** de Formentera son de escándalo. Algunas de las más bonitas son **Ses Illetes** es una de las más conocidas (se recomienda acceder en bicicleta o a pie para disfrutar mejor del paisaje), **Cala Saona** es pequeña pero una de las más bonitas, **Migjorn** es una de las más grandes, **Es Racó de S'Alga** con una agua muy transparente y que recuerda a una playa del Caribe, o la **Cala des Mort** ( una calita pequeña también de arena blanca y aguas cristalinas.  
   
 Si buscas playas pequeñitas y poco concurrida tienes por ejemplo **Es Caló o Ses Plagetes**. Como puedes ver hay playas para todos los gustos.  
   

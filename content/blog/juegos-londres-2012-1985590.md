@@ -4,14 +4,14 @@ type: "post"
 date: "2012-07-06 15:35:00"
 slug: "juegos-londres-2012-1985590"
 categories: ["Sin Categoría"]
-image: "/post-images/4ff6c04719c99s138269.jpg"
+image: "post-images/4ff6c04719c99s138269.jpg"
 ---
 
- [ ![ TAGS:](/post-images/4ff6c04719c99s138269.jpg "Londres by Taboada Testa ")](http://www.flickr.com/photos/taboadatesta/1443805880/sizes/z/in/photostream/)
+ [ ![ TAGS:](post-images/4ff6c04719c99s138269.jpg "Londres by Taboada Testa ")](http://www.flickr.com/photos/taboadatesta/1443805880/sizes/z/in/photostream/)
 
  Queda menos de un mes para que comiencen las Olimpiadas de Londres 2012. Del 27 de julio al 12 de agosto todo el mundo fijará su mirada en la ciudad que orgullosa mirará de lucir sus mejores galas.
 
- [ ![ TAGS:](/post-images/4ff6c12236a19s75480.jpg "atleta by kathiemcl_pty")](http://www.flickr.com/photos/kathiemcl_pty/2775385573/sizes/m/in/photostream/)Son muchas las principales atracciones de Londres pero si me tuviera que quedar con algo creo que sería sus grandes **parques abiertos, la Torre de Londres, el Big Ben, Pciadilly Circus, y las calles del Soho**. No hay que olvidar **Buckingham Palace, el Parlamento, la abadía de Westminster (el templo más antiguo de la ciudad), el mercado de Covent Garden, Shakespeare Globe Theatre, la plaza de Trafalgar Square, Kesington Palace**,....... no acabaría nunca.
+ [ ![ TAGS:](post-images/4ff6c12236a19s75480.jpg "atleta by kathiemcl_pty")](http://www.flickr.com/photos/kathiemcl_pty/2775385573/sizes/m/in/photostream/)Son muchas las principales atracciones de Londres pero si me tuviera que quedar con algo creo que sería sus grandes **parques abiertos, la Torre de Londres, el Big Ben, Pciadilly Circus, y las calles del Soho**. No hay que olvidar **Buckingham Palace, el Parlamento, la abadía de Westminster (el templo más antiguo de la ciudad), el mercado de Covent Garden, Shakespeare Globe Theatre, la plaza de Trafalgar Square, Kesington Palace**,....... no acabaría nunca.
 
  **RECOMENDACIONES**
 

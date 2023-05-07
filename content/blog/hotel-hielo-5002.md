@@ -4,10 +4,10 @@ type: "post"
 date: "2006-12-01 00:00:00"
 slug: "hotel-hielo-5002"
 categories: ["Hoteles"]
-image: "/post-images/5002-5619.jpg"
+image: "post-images/5002-5619.jpg"
 ---
 
-![vista exterior](/post-images/5002-5619.jpg "vista exterior")
+![vista exterior](post-images/5002-5619.jpg "vista exterior")
 
   
 
@@ -22,7 +22,7 @@ Situado en Suecia, a 200 km del Círculo Polar Ártico, se encuentra este hotel 
 
 
 
-![5002-5618.jpg](/post-images/5002-5618.jpg "5002-5618.jpg")Si quieres vivir una experiencia única puedes soñar en sacos de dormir sobre una cama de nieve y hielo. Si por el contrario, te conformas con disfrutar de las instalaciones y descansar sobre colchón y mantas, el hotel dispone también de habitaciones "standard" y chalets anexos que permanecen abiertos el resto del año. 
+![5002-5618.jpg](post-images/5002-5618.jpg "5002-5618.jpg")Si quieres vivir una experiencia única puedes soñar en sacos de dormir sobre una cama de nieve y hielo. Si por el contrario, te conformas con disfrutar de las instalaciones y descansar sobre colchón y mantas, el hotel dispone también de habitaciones "standard" y chalets anexos que permanecen abiertos el resto del año. 
 
 
 

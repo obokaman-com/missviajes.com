@@ -4,7 +4,7 @@ type: "post"
 date: "2016-08-08 07:57:58"
 slug: "koyasan-y-el-cementerio-okuno-in"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/FamTrip-Japon16-117-300x200.jpg"
+image: "post-images/FamTrip-Japon16-117-300x200.jpg"
 ---
 
 Siguiendo la [ruta por Japón](http://www.missviajes.com/la-ruta-kumano-perdida-en-japon/), después de [Yoshino](http://www.missviajes.com/parque-nacional-de-yoshino-escapada-de-2-dias/), nuestra siguiente parada fue Koyasan.
@@ -13,11 +13,11 @@ Koyasan es el nombre que recibe la cuenca de una montaña , dónde un monje llam
 
 
 
-**![](/post-images/FamTrip-Japon16-117-300x200.jpg)La Puerta Daimon** (es una puerta gigante ) indica la entrada al recinto Koyasan. Hace 25 metros de altura y se pueden ver diferentes divinidades protectoras. Tras un cortito y agradable paseo llegas al **Danjo Garan** , que es un completo de templos sagrados a cual de ellos más bonito. Te volverás loco haciendo fotos. Este complejo fue fundado por el famoso monje para esl estudio del budismo Shingon. ![Monte Koya](/post-images/IMG_1044-300x169.jpg)Algunos de los edificios son reproducciones de los originales que debido a numerosos incendios fueron destruidos. Prepárate para ver el **Konpon Daito (pagoda principal) de color rojo bermellón , el Templo Kongobuji, el Kondo o el Mie-do Hall.**
+**![](post-images/FamTrip-Japon16-117-300x200.jpg)La Puerta Daimon** (es una puerta gigante ) indica la entrada al recinto Koyasan. Hace 25 metros de altura y se pueden ver diferentes divinidades protectoras. Tras un cortito y agradable paseo llegas al **Danjo Garan** , que es un completo de templos sagrados a cual de ellos más bonito. Te volverás loco haciendo fotos. Este complejo fue fundado por el famoso monje para esl estudio del budismo Shingon. ![Monte Koya](post-images/IMG_1044-300x169.jpg)Algunos de los edificios son reproducciones de los originales que debido a numerosos incendios fueron destruidos. Prepárate para ver el **Konpon Daito (pagoda principal) de color rojo bermellón , el Templo Kongobuji, el Kondo o el Mie-do Hall.**
 
 Te encantará.
 
-![IMG_7519](/post-images/IMG_7519-3-300x300.jpg)Pero si hay algo en Koyasan que me impactó y con lo que sin duda me quedo, es el Cementerio **Okuno-in**. Un camino de aproximadamente 2 kilómetros, rodeado de cedros centenarios y más de 200.000 tumbas (que son pequeñas columnas de piedra) y memoriales budistas. Aquí descansan personajes muy famosos del Japón. Para mi fue muy muy especial, y lo recorrí dos veces. !
+![IMG_7519](post-images/IMG_7519-3-300x300.jpg)Pero si hay algo en Koyasan que me impactó y con lo que sin duda me quedo, es el Cementerio **Okuno-in**. Un camino de aproximadamente 2 kilómetros, rodeado de cedros centenarios y más de 200.000 tumbas (que son pequeñas columnas de piedra) y memoriales budistas. Aquí descansan personajes muy famosos del Japón. Para mi fue muy muy especial, y lo recorrí dos veces. !
 
 
 

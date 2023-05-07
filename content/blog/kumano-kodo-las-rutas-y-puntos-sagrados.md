@@ -4,7 +4,7 @@ type: "post"
 date: "2016-09-13 10:34:05"
 slug: "kumano-kodo-las-rutas-y-puntos-sagrados"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/13266714_1725457327743839_691494603_n-300x300.jpg"
+image: "post-images/13266714_1725457327743839_691494603_n-300x300.jpg"
 ---
 
 Seguimos con la [Ruta por Japón, ](http://www.missviajes.com/la-ruta-kumano-perdida-en-japon/)después de[ **Koyasan y el Cementerio Okunoin**, ](http://www.missviajes.com/koyasan-y-el-cementerio-okuno-in/#0) y hoy toca la visita estrella o mejor dicho la experiencia estrella, la que daba sentido al viaje: el Kumano Kodo, un conjunto de rutas que durante miles de años los peregrinos recorrían para llegar a su lugares sagrados. Gran parte del camino desapareció con la construcción de carreteras y autopistas, pero todavía se encuentran muchos de los ***santuarios Oji*** (alrededor de unos 100 en total) a lo largo de las rutas que en su momento se levantaron para dar descanso y para marcar el camino a los peregrinos que hacían el Camino Kumano.
@@ -13,7 +13,7 @@ Los tres puntos sagrados son **Kumano Hongu Taisha, Kumano Haytama Taisha y Kuma
 
 
 
- ![13266714_1725457327743839_691494603_n](/post-images/13266714_1725457327743839_691494603_n-300x300.jpg)Son varios itinerarios que te acercan a alguno de los tres puntos sagrados.
+ ![13266714_1725457327743839_691494603_n](post-images/13266714_1725457327743839_691494603_n-300x300.jpg)Son varios itinerarios que te acercan a alguno de los tres puntos sagrados.
 
 Las rutas principales son:
 
@@ -29,7 +29,7 @@ La **Ruta Nakahechi** es una de las más populares y se tiene constancia que ya 
 
   
   
-El camino es espectacular... montañas verdes, con una tupida manta de árboles frondosos, caminos estrechos, tramos por arrozales o pequeños pueblecitos. No vi apenas peregrinos y el recorrido es tranquilo. Mientras la luz se filtra por los árboles y escuchas los sonidos que te acompañan por el camino, te relajas y disfrutas del momento. Por un tema de horarios y de viaje programado yo sólo pude hacer un tramo muy corto, pero me quedé con ganas de más. Quien sabe.... tal vez pueda volver.![kumano](/post-images/kumano-300x274.jpg)
+El camino es espectacular... montañas verdes, con una tupida manta de árboles frondosos, caminos estrechos, tramos por arrozales o pequeños pueblecitos. No vi apenas peregrinos y el recorrido es tranquilo. Mientras la luz se filtra por los árboles y escuchas los sonidos que te acompañan por el camino, te relajas y disfrutas del momento. Por un tema de horarios y de viaje programado yo sólo pude hacer un tramo muy corto, pero me quedé con ganas de más. Quien sabe.... tal vez pueda volver.![kumano](post-images/kumano-300x274.jpg)
 
 
 
@@ -41,7 +41,7 @@ El camino es espectacular... montañas verdes, con una tupida manta de árboles 
 
 - En Tanabe no hay muchos alojamientos (más hostales que hoteles) y están muy solicitados. Además apenas hablan inglés, y como culturalmente lo tienen que tener todo súper bien preparado, aunque tengan una cama libre, no te la darán si no está lista.
 - Otro consejo, los hoteles y restaurantes cierran pronto, así que hace falta controlar horarios si no quieres quedarte sin cenar
-- Un hotel dónde dormir : **Hotel Kawayu Midoriya**. Más información en el próximo post. ![img_7486](/post-images/IMG_7486-300x300.jpg)
+- Un hotel dónde dormir : **Hotel Kawayu Midoriya**. Más información en el próximo post. ![img_7486](post-images/IMG_7486-300x300.jpg)
 
 
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2008-10-17 00:00:00"
 slug: "jardines-luxemburgo-foto-mes-122010"
 categories: ["Sin Categoría"]
-image: "/post-images/122010-97240.jpg"
+image: "post-images/122010-97240.jpg"
 ---
 
-![jardines de luxemburgo by fotomaf](/post-images/122010-97240.jpg "jardines de luxemburgo by fotomaf")
+![jardines de luxemburgo by fotomaf](post-images/122010-97240.jpg "jardines de luxemburgo by fotomaf")
 
 *" Era una tarde de otoño. El parque de Luxemburgo es un lugar de esparcimiento de los parisinos sumamente tranquilo dentro de una ciudad normalmente ruidosa, me llamó la atención una pareja de amigas que charlaban en un banco rodeadas de arboles otoñales, reflejo de la serenidad del lugar"*. Así es como describía [**Mauro**](http://www.fotomaf.com/blog/16/12/2006/parque-de-luxemburgo-paris/), el autor, la fotografía seleccionada este mes.
 

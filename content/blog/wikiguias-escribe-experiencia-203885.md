@@ -4,10 +4,10 @@ type: "post"
 date: "2009-03-11 09:30:00"
 slug: "wikiguias-escribe-experiencia-203885"
 categories: ["Sin Categoría"]
-image: "/post-images/203885-124796.jpg"
+image: "post-images/203885-124796.jpg"
 ---
 
- ![wikiguias](/post-images/203885-124796.jpg "wikiguias")
+ ![wikiguias](post-images/203885-124796.jpg "wikiguias")
 
  Hoy quiero voy a hablar de **Wikiguias**. Es un proyecto que me parece muy interesante y del que se pueden aprovechar muchos viajeros. Con una imagen y una distribución similar a Wikipedia, Wikiguias pretende ser un lugar dónde "comenzar" a fabricar las ilusiones de un viaje. Todas **las guias están escritas por viajeros expertos del destino y que conocen lugares que uno no puede perderse**.
 

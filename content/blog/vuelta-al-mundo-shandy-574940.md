@@ -4,10 +4,10 @@ type: "post"
 date: "2010-04-30 16:59:00"
 slug: "vuelta-al-mundo-shandy-574940"
 categories: ["Sin Categoría"]
-image: "/post-images/574940-242866.jpg"
+image: "post-images/574940-242866.jpg"
 ---
 
-**![/post-images/574940-242866.jpg](/post-images/574940-242866.jpg "/post-images/574940-242866.jpg")La vuelta al mundo Shandy** es una iniciativa de [Shandy Cruz Campo](http://www.shandycruzcampo.com) para que una **persona pueda disfrutar de un viaje alrededor del mundo con todos los gastos pagados durante seis meses**. Lo único que piden al ganador es que **durante esos seis meses cuente sus experiencias en un blog que crearan exclusivamente para él**.
+**![post-images/574940-242866.jpg](post-images/574940-242866.jpg "post-images/574940-242866.jpg")La vuelta al mundo Shandy** es una iniciativa de [Shandy Cruz Campo](http://www.shandycruzcampo.com) para que una **persona pueda disfrutar de un viaje alrededor del mundo con todos los gastos pagados durante seis meses**. Lo único que piden al ganador es que **durante esos seis meses cuente sus experiencias en un blog que crearan exclusivamente para él**.
 
 Buscan personas dispuestas a conocer nuevas culturas, gentes y lugares. Londres, París, Estambul, Tokio o Buenos Aires son sólo algunos de los destinos que visitará.
 

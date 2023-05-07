@@ -4,16 +4,16 @@ type: "post"
 date: "2007-01-19 00:00:00"
 slug: "treetops-hotel-6328"
 categories: ["África","Hoteles"]
-image: "/post-images/6328-8727.jpg"
+image: "post-images/6328-8727.jpg"
 ---
 
-![exterior Treetops](/post-images/6328-8727.jpg "exterior Treetops")Este hotel es el más singular y famoso de **Kenya.** Originalmente era una cabaña con dos habitaciones construida sobre la copa de una higuera. Los viajeros más aventureros pasaban allí la noche con una cena picnic y unas lámparas de aceite. La finalidad era ver la fauna salvaje en su hábitat y tener unas cuantas batallitas que explicar a los amigos.
+![exterior Treetops](post-images/6328-8727.jpg "exterior Treetops")Este hotel es el más singular y famoso de **Kenya.** Originalmente era una cabaña con dos habitaciones construida sobre la copa de una higuera. Los viajeros más aventureros pasaban allí la noche con una cena picnic y unas lámparas de aceite. La finalidad era ver la fauna salvaje en su hábitat y tener unas cuantas batallitas que explicar a los amigos.
 
 Es una edificación de madera sobre unos grandes pilares cerca de unas charcas que facilitan el avistamiento de animales salvajes que se acercan a beber.
 
 Como se hacen estancias de una sóla noche, las **habitaciones** son muy pequeñas y se aconseja llevar una mochila con la muda justa y necesaria. De hecho, solo te permiten subir con una bolsa de mano. No todas tienen el lavabo dentro de la habitación; algunos son compartidos.
 
-![charca Treetops by javicphotostream](/post-images/6328-8728.jpg "charca Treetops by javicphotostream")Como ves las comodidades son limitadadas, pero la experiencia es única. Podrás ver animales en su hábitat natural con las luces del atardecer y unos reflectores de noche. Aunque no es habitual hacer un safari con crios pequeños , es importante saber que **no se admiten niños menores de 7 años**.
+![charca Treetops by javicphotostream](post-images/6328-8728.jpg "charca Treetops by javicphotostream")Como ves las comodidades son limitadadas, pero la experiencia es única. Podrás ver animales en su hábitat natural con las luces del atardecer y unos reflectores de noche. Aunque no es habitual hacer un safari con crios pequeños , es importante saber que **no se admiten niños menores de 7 años**.
 
 **RECOMENDACIONES**
 

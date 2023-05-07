@@ -4,16 +4,16 @@ type: "post"
 date: "2013-03-18 09:48:00"
 slug: "me-llevo-viajer-2257063"
 categories: ["Cosas Varias"]
-image: "/post-images/5141dd375ebe4s39984.jpg"
+image: "post-images/5141dd375ebe4s39984.jpg"
 ---
 
- [![ TAGS:](/post-images/5141dd375ebe4s39984.jpg)](/post-images/5141dd375ebe4s39984.jpg)
+ [![ TAGS:](post-images/5141dd375ebe4s39984.jpg)](post-images/5141dd375ebe4s39984.jpg)
 
  Tan importante es organizar un viaje cómo saber escoger que llevarte en la maleta. Personalmente he ido aprendiendo que cuanto menos ropa lleve, mejor.
 
  Siempre viajo con la ropa más vieja y desgastada, si la pierdo no pasa nada y si me molesta la tiro a la basura sin remordimientos a medida que voy viajando. Si me hace falta algo me lo compro (en lugar de un souvenir absurdo que ocupa sitio en un estante). Si me llevo un par de pantalones y necesito lavarlos, pues tiro de lavandería... pero lo prefiero antes de ir cargada como una mula de ropa que luego no voy a ponerme.
 
- ![ TAGS:](/post-images/5141dafe1ca56s97637.jpg)
+ ![ TAGS:](post-images/5141dafe1ca56s97637.jpg)
 
  Para mí es primordial un buen [botiquín de viaje](http://www.missviajes.com/botiquin-viaje-7851), la cámara de fotos y desde hace un tiempo los juquetes o el Ipad para distraer a mi hija en casos de emergencia. Dicho esto con una maleta mediana para nosotros y una pequeña de cabina para la peque, suficiente. Porque no hay que olvidar que falta una mochila de mano y la de la cámara. Total no más de 2 maletas y dos bultos de mano fáciles de llevar.
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2017-08-04 00:01:00"
 slug: "ocho-llaves-aquitania-1594542"
 categories: ["Europa"]
-image: "/post-images/jardines-de-1024x680.jpg"
+image: "post-images/jardines-de-1024x680.jpg"
 ---
 
 Aquitania se encuentra **en el sur de Francia** y es una de las regiones más grandes de Francia y con mayor diversidad de paisajes y atracciones turística.  
   
 En Aquitania podrás encontrar **grandes playas,** 30 kilómetros de costa salpicada de puertos pesqueros y calas protegidas; **tierras de viñedos**, **bosques** (como el bosque de Las Landas de Gascuña repleto de carriles bici, caminos de senderismo y casas típicas con estructura de madera), **las montañas de los Pirineos;**  pueblos fortificados en el Valle del Dordoña; **castillos en bonitos parajes**, como el de Bonaguil y el valle bajo del Lot d'Aiguillon en Fumel, abierto al turismo fluvial y al cicloturismo, bordeada de pueblos colgantes; ciudades como Bayona, Burdeos, Pau y Perigueux si eres más urbanita.  
   
-![](/post-images/jardines-de-1024x680.jpg)  
+![](post-images/jardines-de-1024x680.jpg)  
   
 La zona de Lot-et-Garonne concentra gran parte de estos paisajes. De ahí el éxito que tiene con el turismo rural. Los amantes del ecoturismo y del turismo fluvial tienen una apuesta segura en sus vacaciones.  
   
@@ -24,7 +24,7 @@ En **Lot-et-Garonne** puedes disfrutar de **rutas a pie** como los 107 circuitos
 
   
   
-[caption id="attachment_3671" align="aligncenter" width="1237"]![](/post-images/biarritz-surf-4.jpg) Biarritz[/caption]  
+[caption id="attachment_3671" align="aligncenter" width="1237"]![](post-images/biarritz-surf-4.jpg) Biarritz[/caption]  
   
 **CURIOSIDADES**
 
@@ -33,4 +33,4 @@ En **Lot-et-Garonne** puedes disfrutar de **rutas a pie** como los 107 circuitos
 
 
 
-![](/post-images/[timestamp])
+![](post-images/[timestamp])

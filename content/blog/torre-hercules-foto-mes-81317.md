@@ -4,16 +4,16 @@ type: "post"
 date: "2008-05-23 00:00:00"
 slug: "torre-hercules-foto-mes-81317"
 categories: ["Sin Categoría"]
-image: "/post-images/81317-64249.jpg"
+image: "post-images/81317-64249.jpg"
 ---
 
 [](/wp-content/uploads/2008/05/81317-64250.jpg)
 
 La foto escogida este mes es la que **[Luis Lamela](http://www.flickr.com/photos/luislamela/)** hizo de **la Torre de Hércules**.
 
-![playa riazor by dr. prat](/post-images/81317-64249.jpg "playa riazor by dr. prat")Este mítico faro se encuentra en la Coruña, una de las capitales más interesantes de España. Su tradición pesquera marca la historia de esta ciudad llena de leyendas y tradiciones. Su origen se remonta a la tribu de los ártabros, aunque fueron los romanos los que dejarían la huella más marcada, la **Torre de Hércules**, el único faro romano que sigue funcionando como tal.
+![playa riazor by dr. prat](post-images/81317-64249.jpg "playa riazor by dr. prat")Este mítico faro se encuentra en la Coruña, una de las capitales más interesantes de España. Su tradición pesquera marca la historia de esta ciudad llena de leyendas y tradiciones. Su origen se remonta a la tribu de los ártabros, aunque fueron los romanos los que dejarían la huella más marcada, la **Torre de Hércules**, el único faro romano que sigue funcionando como tal.
 
-![ventanas de la marina by fspugna](/post-images/81317-64251.jpg "ventanas de la marina by fspugna")El **casco antiguo** de la ciudad es perfecto para pasear entre sus tiendas, antiguas iglesias como la de **Santiago o la de Santa María del Campo**. La **plaza de Maria Pita** es uno de los rincones más bonitos de la ciudad. Tampoco puedes dejar de pasear por los **Jardines de San Carlos**, entretenerte mirando las ventanas de la marina, pisar la arena de la **playa de Riazor**, oler la brisa salada del puerto y sobretodo.... lo mejor, el **mercado**. Para conocer un poquito más al coruñes nada mejor que pasearte por los puestos de marisco, pan artesano, queso "de tetilla".... que rico !!!!
+![ventanas de la marina by fspugna](post-images/81317-64251.jpg "ventanas de la marina by fspugna")El **casco antiguo** de la ciudad es perfecto para pasear entre sus tiendas, antiguas iglesias como la de **Santiago o la de Santa María del Campo**. La **plaza de Maria Pita** es uno de los rincones más bonitos de la ciudad. Tampoco puedes dejar de pasear por los **Jardines de San Carlos**, entretenerte mirando las ventanas de la marina, pisar la arena de la **playa de Riazor**, oler la brisa salada del puerto y sobretodo.... lo mejor, el **mercado**. Para conocer un poquito más al coruñes nada mejor que pasearte por los puestos de marisco, pan artesano, queso "de tetilla".... que rico !!!!
 
 Por último te animo a que cuelgues tus fotos. Tal vez sea el mes que viene una de tus fotos la escogida para publicarse en un post.
 

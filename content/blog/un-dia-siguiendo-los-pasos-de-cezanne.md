@@ -4,10 +4,10 @@ type: "post"
 date: "2016-04-11 07:45:30"
 slug: "un-dia-siguiendo-los-pasos-de-cezanne"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/atelier-paul-cezanne-01-300x196.jpg"
+image: "post-images/atelier-paul-cezanne-01-300x196.jpg"
 ---
 
-![atelier-paul-cezanne-01](/post-images/atelier-paul-cezanne-01-300x196.jpg)
+![atelier-paul-cezanne-01](post-images/atelier-paul-cezanne-01-300x196.jpg)
 
 Tal y como expliqué el en post de[ Aix-en-Provence](http://www.missviajes.com/2695-2/), Cézanne vivió y murió en esta población. Vayas por dónde vayas siempre encontrarás un guiño o una referencia a su conciudadano ilustre.
 
@@ -34,4 +34,4 @@ La **Carrière de Bibemus**, a las afueras de Aix-en-Provence, son las canteras 
 
 
 
-![](/post-images/cleardot.gif)
+![](post-images/cleardot.gif)

@@ -4,14 +4,14 @@ type: "post"
 date: "2020-06-08 00:00:45"
 slug: "ruta-modernista-de-1-dia-por-barcelona"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/Palau_Gueell_-_Forjats_entrada.jpg"
+image: "post-images/Palau_Gueell_-_Forjats_entrada.jpg"
 ---
 
 Cuando a finales del siglo XIX, la Revolución Industrial transformaba las sociedades y los valores hacia una Sociedad Moderna, empujada por fuertes movimientos culturales y literarios (la llamada Renaixença), [Barcelona](http://www.missviajes.com/barcelona-musa-gaudi-16070/) se convierte en una de las potencias del Modernismo gracias a la Primera Exposición Universal de 1888.
 
 Con motivo de este evento, la ciudad sufre un fuerte crecimiento económico con la construcción de edificios, cambios urbanísticos y/o inversiones en cultura de los indianos que regresaban de Latinoamerica con grandes fortunas.
 
-![](/post-images/Palau_Gueell_-_Forjats_entrada.jpg)Es el nacimiento del Modernismo. Un movimiento cultural y de pensamiento pero que será en la arquitectura dónde llegará a su máximo esplendor.
+![](post-images/Palau_Gueell_-_Forjats_entrada.jpg)Es el nacimiento del Modernismo. Un movimiento cultural y de pensamiento pero que será en la arquitectura dónde llegará a su máximo esplendor.
 
 
 

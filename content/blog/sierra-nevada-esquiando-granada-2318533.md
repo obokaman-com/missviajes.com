@@ -4,10 +4,10 @@ type: "post"
 date: "2013-12-21 09:29:00"
 slug: "sierra-nevada-esquiando-granada-2318533"
 categories: ["Europa"]
-image: "/post-images/52b06814d7ee5s124926.jpg"
+image: "post-images/52b06814d7ee5s124926.jpg"
 ---
 
-[ ![ TAGS:](/post-images/52b06814d7ee5s124926.jpg "atardecer en Sierra Nevada by RaMaOrli")](http://www.flickr.com/photos/fotografias-08/2429387818/sizes/z/in/photostream/)La nueva temporada de esquí ha empezado con buenos augurios, las montañas están cubiertas de nieve y los más ansiasos de los amantes de este deporte de invierno ya has sacado los equipos de su armario.  
+[ ![ TAGS:](post-images/52b06814d7ee5s124926.jpg "atardecer en Sierra Nevada by RaMaOrli")](http://www.flickr.com/photos/fotografias-08/2429387818/sizes/z/in/photostream/)La nueva temporada de esquí ha empezado con buenos augurios, las montañas están cubiertas de nieve y los más ansiasos de los amantes de este deporte de invierno ya has sacado los equipos de su armario.  
   
 El **Parque Natural de Sierra Nevada (a 40 minutos de** [Granada](http://www.missviajes.com/granada-alhambra-siete-maravillas-12402)), situado a unos 3.000 metros sobre el nivel del mar y en el centro de Andalucía, es Reserva de la Biosfera en la Unesco desde 1986. Su amplia diversidad de espacios permiten disfrutar a los excursiones, esquiadores, y niños de uno de los enclaves naturales más importantes del país.  
   

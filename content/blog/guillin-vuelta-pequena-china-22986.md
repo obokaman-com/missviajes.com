@@ -4,10 +4,10 @@ type: "post"
 date: "2012-09-09 09:00:00"
 slug: "guillin-vuelta-pequena-china-22986"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/5048770121e42s241381.jpg"
+image: "post-images/5048770121e42s241381.jpg"
 ---
 
- [![ - ](/post-images/5048770121e42s241381.jpg "Guilin by Stuck in Customs")](/post-images/5048770121e42s241381.jpg)
+ [![ - ](post-images/5048770121e42s241381.jpg "Guilin by Stuck in Customs")](post-images/5048770121e42s241381.jpg)
 
  **Guilin (China)** se encuentra a las orillas del **río Lijiang**, al noreste de la región de Guangxi, en una zona montañosa. Su fama le precede por sus bellas colinas, aguas cristalinas y un paisaje bucólico en un entorno todavía de momento "protegido".
 

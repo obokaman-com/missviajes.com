@@ -4,10 +4,10 @@ type: "post"
 date: "2011-07-29 20:59:00"
 slug: "concurso-trivago-vete-viaje-face-book-1249184"
 categories: ["Sin Categoría"]
-image: "/post-images/5984534250_4a996d24cb.jpg"
+image: "post-images/5984534250_4a996d24cb.jpg"
 ---
 
-![](/post-images/5984534250_4a996d24cb.jpg)
+![](post-images/5984534250_4a996d24cb.jpg)
 
 Con este emblema tan conseguido, ha empezado el nuevo concurso en Trivago con motivo de su nuevo perfil en [Facebook](http://www.facebook.com/pages/trivago/137633439645541).
 

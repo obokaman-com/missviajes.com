@@ -4,7 +4,7 @@ type: "post"
 date: "2010-02-09 20:07:00"
 slug: "ampliacion-conclusiones-concurso-altair-510566"
 categories: ["Sin Categoría"]
-image: "/post-images/510566-217419.jpg"
+image: "post-images/510566-217419.jpg"
 ---
 
  Este es una amplicación de las opiniones plasmadas en la encuesta que era necesaria rellenar para participar en el [ Concurso Altair](http://www.missviajes.com/concurso-altair-cumpleanos-missviajes-374384).
@@ -27,35 +27,35 @@ image: "/post-images/510566-217419.jpg"
 
  **¿Con que frecuencia visitas Miss Viajes?**
 
- ![/post-images/510566-217419.jpg](/post-images/510566-217419.jpg "/post-images/510566-217419.jpg")Esta gráfica es bastante explícita. Una vez a la semana es el porcentaje más alto de visitas entre los encuestados. En menor grado con un 29% menos de una vez a la semana, el 20% de los participantes del concurso leen nuestro blog más de una vez a la semana y finalmente el 16% ha contestado una vez al mes.
+ ![post-images/510566-217419.jpg](post-images/510566-217419.jpg "post-images/510566-217419.jpg")Esta gráfica es bastante explícita. Una vez a la semana es el porcentaje más alto de visitas entre los encuestados. En menor grado con un 29% menos de una vez a la semana, el 20% de los participantes del concurso leen nuestro blog más de una vez a la semana y finalmente el 16% ha contestado una vez al mes.
 
  **¿Has recomendado algún artículo de Miss Viajes a tus amigos? ¿A través de que canales ?**
 
- ![/post-images/510566-217423.jpg](/post-images/510566-217423.jpg "/post-images/510566-217423.jpg")De mayor a menor grado, los encuestados no han recomendado nunca un post de Miss Viajes. Los que lo han hecho lo recomendaron principalmente a través del correo electrónico. En menor grado a través de Facebook, Menéame y Twitter .
+ ![post-images/510566-217423.jpg](post-images/510566-217423.jpg "post-images/510566-217423.jpg")De mayor a menor grado, los encuestados no han recomendado nunca un post de Miss Viajes. Los que lo han hecho lo recomendaron principalmente a través del correo electrónico. En menor grado a través de Facebook, Menéame y Twitter .
 
  **¿Que tipos de contenidos en Miss Viajes te parecen más interesantes ?**
 
-  **Foto del mes**![grafica articulos de actualidad y opinión](/post-images/510566-217509.jpg "grafica articulos de actualidad y opinión")
+  **Foto del mes**![grafica articulos de actualidad y opinión](post-images/510566-217509.jpg "grafica articulos de actualidad y opinión")
 
- **Artículos sobre destinos**![gráfica articulos de destinos](/post-images/510566-217510.jpg "gráfica articulos de destinos")
+ **Artículos sobre destinos**![gráfica articulos de destinos](post-images/510566-217510.jpg "gráfica articulos de destinos")
 
- **Rutas y salidas de fin de semana**![gráfica rutas y escapadas de fin de semana](/post-images/510566-217508.jpg "gráfica rutas y escapadas de fin de semana")
+ **Rutas y salidas de fin de semana**![gráfica rutas y escapadas de fin de semana](post-images/510566-217508.jpg "gráfica rutas y escapadas de fin de semana")
 
  **Reseñas de hoteles**
 
- ![gráfica reseñas de hoteles](/post-images/510566-217511.jpg "gráfica reseñas de hoteles")
+ ![gráfica reseñas de hoteles](post-images/510566-217511.jpg "gráfica reseñas de hoteles")
 
  **Viajes con niños**
 
- ![gráfica viajar con niños](/post-images/510566-217506.jpg "gráfica viajar con niños")
+ ![gráfica viajar con niños](post-images/510566-217506.jpg "gráfica viajar con niños")
 
  **Artículos estacionales**
 
- ![gráfica art. estacionales](/post-images/510566-217507.jpg "gráfica art. estacionales")
+ ![gráfica art. estacionales](post-images/510566-217507.jpg "gráfica art. estacionales")
 
  **Actualidad y opinión**
 
- ![gráfica articulos de opinión y actualidad](/post-images/510566-217505.jpg "gráfica articulos de opinión y actualidad")
+ ![gráfica articulos de opinión y actualidad](post-images/510566-217505.jpg "gráfica articulos de opinión y actualidad")
 
  **¿ Qué tipo de evento echas en falta en Miss Viajes ?**
 

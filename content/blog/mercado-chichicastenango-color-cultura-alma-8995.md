@@ -4,12 +4,12 @@ type: "post"
 date: "2019-04-29 00:00:00"
 slug: "mercado-chichicastenango-color-cultura-alma-8995"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/8995-10311.jpg"
+image: "post-images/8995-10311.jpg"
 ---
 
 Ahora que estas leyendo estas líneas, y si acostumbras a hacerlo, te habrás dado cuenta que me gusta etiquetar los lugares con tres o cuatro palabras bastante descriptivas por si solas. De **Chichicastenango** digo: color, cultura y alma. Sin duda es una de las joyas de **Guatemala**, y aunque la carretera de acceso es un poco pesada (en buen estado, pero pesada) es un regalo para los sentidos.  
   
-[](https://www.flickr.com/photos/lupos/2812226181/)![ TAGS:undefined](/post-images/8995-10311.jpg "mercado indigena by jdlasica")¿Que tiene de especial ? El mercado que se celebra **los jueves y domingos**. Todo el pueblo indígena del altiplano se reúne en esta plaza para vender y comprar. Es enorme y encontrarás desde productos básicos de consumo propia y todo tipo de artesanía (tapices, tallas de madera, talismanes, máscaras,... ).  
+[](https://www.flickr.com/photos/lupos/2812226181/)![ TAGS:undefined](post-images/8995-10311.jpg "mercado indigena by jdlasica")¿Que tiene de especial ? El mercado que se celebra **los jueves y domingos**. Todo el pueblo indígena del altiplano se reúne en esta plaza para vender y comprar. Es enorme y encontrarás desde productos básicos de consumo propia y todo tipo de artesanía (tapices, tallas de madera, talismanes, máscaras,... ).  
   
 Desde las escaleras de la **Catedral de Santo Tomás**, en la misma plaza tendrás las mejores vistas. A medida que vayas caminando entre los puestos, irás percibiendo la mezcla de olores entre comida, y una especie de incienso que queman para sus peticiones religiosas en altares improvisados.  
   

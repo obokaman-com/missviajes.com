@@ -4,14 +4,14 @@ type: "post"
 date: "2016-07-18 11:20:56"
 slug: "ryokan-kato-parque-nacional-de-yoshino"
 categories: ["Asia","Hoteles"]
-image: "/post-images/ryokan-kato-225x300.jpg"
+image: "post-images/ryokan-kato-225x300.jpg"
 ---
 
 Este es sin dudarlo el segundo alojamiento más especial de mi viaje por [Japón](http://www.missviajes.com/la-ruta-kumano-perdida-en-japon/). El otro te lo explicaré más adelante. La página web que tienes indicada más abajo, no le hace justicia ni al establecimiento ni al lugar dónde se encuentra.
 
 
 
-Está ubicado en medio del[ Parque Nacional de Yoshino](http://www.missviajes.com/parque-nacional-de-yoshino-escapada-de-2-dias/) , entre unos bosques de película y montañas escondidas por la bruma, a 15 minutos caminando del Templo Zaodo.![ryokan-kato](/post-images/ryokan-kato-225x300.jpg)
+Está ubicado en medio del[ Parque Nacional de Yoshino](http://www.missviajes.com/parque-nacional-de-yoshino-escapada-de-2-dias/) , entre unos bosques de película y montañas escondidas por la bruma, a 15 minutos caminando del Templo Zaodo.![ryokan-kato](post-images/ryokan-kato-225x300.jpg)
 
 
 
@@ -21,7 +21,7 @@ Las habitaciones son minimalistas combinando TV, enchufes y máquina de té con 
 
 El Ryokan es todo de madera. Llaman la atención uno de sus amplios amplios salones con unas espectaculares vistas en plena natura y terrazas dónde relajarse después de una sesión de aguas termales en los onsen.
 
-Los baños son compartidos (hay uno para hombres y otro para mujeres) y cuentan con diferentes duchas, todo tipo de productos de aseo, una piscina de agua caliente interior y otra exterior.![desayuno Ryokan Kato](/post-images/DSCF1658-1-300x225.jpg)
+Los baños son compartidos (hay uno para hombres y otro para mujeres) y cuentan con diferentes duchas, todo tipo de productos de aseo, una piscina de agua caliente interior y otra exterior.![desayuno Ryokan Kato](post-images/DSCF1658-1-300x225.jpg)
 
 
 

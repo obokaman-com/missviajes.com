@@ -7,7 +7,7 @@ categories: ["Sin Categoría"]
 image: "post-background.jpg"
 ---
 
-Si eres de los míos, que ves como todos a tu alrededor se marchan de vacaciones mientras tu cuentas los días ansioso por que lleguen, sería muy raro que no tuvieras claro que hacer este año... me extrañaría !!! Pero, tal vez seas de los indecisos, o de los que lo dejan todo para el último momento... o de los que esperan el ofertón de última hora. ![](/post-images/images?q=tbn:ANd9GcSmE5W-85q7ZgxkbpgC4xjzYHVtHy919vih7PmPe8nhc0MlpzWw1CaXKY7Xmg)
+Si eres de los míos, que ves como todos a tu alrededor se marchan de vacaciones mientras tu cuentas los días ansioso por que lleguen, sería muy raro que no tuvieras claro que hacer este año... me extrañaría !!! Pero, tal vez seas de los indecisos, o de los que lo dejan todo para el último momento... o de los que esperan el ofertón de última hora. ![](post-images/images?q=tbn:ANd9GcSmE5W-85q7ZgxkbpgC4xjzYHVtHy919vih7PmPe8nhc0MlpzWw1CaXKY7Xmg)
 
 Bueno, el caso es que navegando por los blogs de viajes he encontrado este post muy interesante (es pura casualidad que mi anterior post fuera sobre Toulouse; no es ninguna fase obsesiva por la el país francés... aunque reconozco que me atrae mucho)
 

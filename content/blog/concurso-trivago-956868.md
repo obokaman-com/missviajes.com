@@ -4,10 +4,10 @@ type: "post"
 date: "2010-11-10 10:00:00"
 slug: "concurso-trivago-956868"
 categories: ["Sin Categoría"]
-image: "/post-images/956868-312399.jpg"
+image: "post-images/956868-312399.jpg"
 ---
 
-![concurso Trivago "tu hotel ideal"](/post-images/956868-312399.jpg "concurso Trivago "tu hotel ideal"")
+![concurso Trivago "tu hotel ideal"](post-images/956868-312399.jpg "concurso Trivago "tu hotel ideal"")
 
 Como ya nos vienen acostumbrando en Trivago, ahora nos sorprenden con una nueva propuesta en formato concurso. Deja tu mente en blanco, relájate e imagina que estás disfrutando de esas placenteras vacaciones que tanto te mereces. Te alojas en el hotel de tus sueños... ¿serías capaz de describir cómo es en 140 caracteres?
 

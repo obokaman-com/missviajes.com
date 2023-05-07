@@ -4,7 +4,7 @@ type: "post"
 date: "2019-02-25 00:00:00"
 slug: "roma-escapada-fecha-regreso-2339722"
 categories: ["Europa"]
-image: "/post-images/IMG_2337-EFFECTS.jpg"
+image: "post-images/IMG_2337-EFFECTS.jpg"
 ---
 
    
@@ -19,7 +19,7 @@ Cuando llegas a Termini , la zona de la estación central, te entran las dudas..
   
 La primera vez me alojé en la Avenida del Corso, una calle llena de tiendas, peatonal durante el día y cerca de todo entre Piazza Spagna y Piazza del Popolo. El alojamiento disponía de apartamentos de todo tipo y calidades. En el que yo dormí era correcto y amplio con una ubicación inmejorable.  
   
-![](/post-images/IMG_2337-EFFECTS.jpg)  
+![](post-images/IMG_2337-EFFECTS.jpg)  
   
 En cuanto a lo que respecta a Roma.... por dónde empiezo ?? **Piazza Spagna, la piazza Navonna, la Fontana di Trevi, la Bocca della Verità y el Panteón** me robaron el corazón (reconozco que quizás un poco influencia por Audrey Hephurn y muchas otras películas). Esta segunda vez, volví de nuevo ... Piazza Spagna, Pantheon y piazza Navona y esta vez me senté en un banquito o en unas escaleras y dejé que pasara el tiempo observando el lugar.  
   

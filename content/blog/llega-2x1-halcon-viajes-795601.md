@@ -4,10 +4,10 @@ type: "post"
 date: "2010-07-23 16:01:00"
 slug: "llega-2x1-halcon-viajes-795601"
 categories: ["Actualidad","Cosas Varias"]
-image: "/post-images/795601-273484.jpg"
+image: "post-images/795601-273484.jpg"
 ---
 
-![halcon viajes 2x1](/post-images/795601-273484.jpg "halcon viajes 2x1")
+![halcon viajes 2x1](post-images/795601-273484.jpg "halcon viajes 2x1")
 
 Para los que se despiertan a última hora y quieren irse de vacaciones, no importa dónde, hay buenas noticias. Llega el famoso [2X1 de Viajes Halcon](http://www.halconviajes.com/viajes_mp/servlet/vacaciones?metodo=doHome&login=NEWHALCON&tipoProducto=2X1&apartado=1082&pagina=4064&utm_source=publirreportaje&utm_medium=missviajesGDes&utm_campaign=2X1).
 

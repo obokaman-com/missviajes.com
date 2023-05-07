@@ -4,16 +4,16 @@ type: "post"
 date: "2008-11-24 00:00:00"
 slug: "puente-triana-sevilla-foto-mes-93764"
 categories: ["Sin Categoría"]
-image: "/post-images/93764-105115.jpg"
+image: "post-images/93764-105115.jpg"
 ---
 
-![puente de triana by albert lopez](/post-images/93764-105115.jpg "puente de triana by albert lopez")
+![puente de triana by albert lopez](post-images/93764-105115.jpg "puente de triana by albert lopez")
 
 La foto que he escogido este mes es una nocturna del **[puente de Triana en Sevilla](http://www.flickr.com/photos/albertlg/2095161825/in/set-72157604024152652/)**. Me encanta la simetria y el reflejo del puente con las luces de las farolas sobre el rio. No hay nada más, el puente y la noche. Pero no me voy a poner poética.
 
 Su autor [Albert López](http://www.flickr.com/photos/albertlg/) nos cuenta:
 
-> *![la giralda y los naranjos by laullon](/post-images/93764-105116.jpg "la giralda y los naranjos by laullon")*"*Fue una escapada de fin de semana en noviembre de 2007 con motivo de la celebración del cumpleaños de Charo (mi suegra) y los gemelos Javi y Jordi (mis cuñados). Tras salir una noche de tapeo por el barrio de Triana (pescaíto frito, manzanilla...), ese era el aspecto que tenía el Puente de Isabel II reflajado en el río Guadalquivir*".
+> *![la giralda y los naranjos by laullon](post-images/93764-105116.jpg "la giralda y los naranjos by laullon")*"*Fue una escapada de fin de semana en noviembre de 2007 con motivo de la celebración del cumpleaños de Charo (mi suegra) y los gemelos Javi y Jordi (mis cuñados). Tras salir una noche de tapeo por el barrio de Triana (pescaíto frito, manzanilla...), ese era el aspecto que tenía el Puente de Isabel II reflajado en el río Guadalquivir*".
 
 Y es que Sevilla es un clásico español, con un sello de identidad propio. La alegría y el bullicio pasea por sus calles con magnificas edificaciones árabes herederos de un pasado de oro. Empezando por la Giralda y la Catedral, no puedes dejar de ver el parque de Maria Luisa, los Reales Alcázares, la Torre del Oro o el Archivo de Indias.
 

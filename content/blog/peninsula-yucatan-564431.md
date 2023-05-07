@@ -4,10 +4,10 @@ type: "post"
 date: "2010-04-21 17:06:00"
 slug: "peninsula-yucatan-564431"
 categories: ["América"]
-image: "/post-images/564431-240253.jpg"
+image: "post-images/564431-240253.jpg"
 ---
 
-![tulum by guanatos gwyn](/post-images/564431-240253.jpg "tulum by guanatos gwyn")
+![tulum by guanatos gwyn](post-images/564431-240253.jpg "tulum by guanatos gwyn")
 
 Quien iba decir hace 30 años a los habitantes de un pequeño pueblo de pescadores llamado Cancún que vivian en uno de los referentes a nivel mundial del turismo de sol y playa. Cuando dices Yucatán lo primero que piensas es Cancún, [Chichen Itzá ](http://www.missviajes.com/chichen-itza-231709)y playa. Y lo cierto es que aunque sabes que es un destino masificado, si te dijeran que te ibas 4 dias .... no te importaría descansar y tomar el sol tranquilamente.. verdad ??? Claro que te ibas.
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2010-03-29 09:45:00"
 slug: "ii-edicion-concurso-fotografia-viajar-al-atardecer-539705"
 categories: ["Sin Categoría"]
-image: "/post-images/539705-232333.jpg"
+image: "post-images/539705-232333.jpg"
 ---
 
  El blog de Viajar al Atardecer ha puesto en marcha la II Edición del concurso de Fotografía.
 
 ¿Que hay que hacer para participar ? Enviar **UNA** **fotografía** o bien, de un **atardecer u ocaso** *(no son válidos los amaneceres)*, o de **Fuerteventura** o de **Bélgica***,* así habrá más posibilidades de participar.
 
-![concurso de fotografía](/post-images/539705-232333.jpg "concurso de fotografía")
+![concurso de fotografía](post-images/539705-232333.jpg "concurso de fotografía")
 
 Condiciones:
 

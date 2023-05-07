@@ -4,10 +4,10 @@ type: "post"
 date: "2012-09-15 13:00:00"
 slug: "demediterraningcom-especialistas-cataluna-andorra-2166932"
 categories: ["Cosas Varias"]
-image: "/post-images/505454b86f79as49323.jpg"
+image: "post-images/505454b86f79as49323.jpg"
 ---
 
- [![ TAGS:](/post-images/505454b86f79as49323.jpg "logo de DeMediterràning")](/post-images/505454b86f79as49323.jpg)
+ [![ TAGS:](post-images/505454b86f79as49323.jpg "logo de DeMediterràning")](post-images/505454b86f79as49323.jpg)
 
  Esta nueva agencia de viajes online, nacida hace apenas unos meses, es el resultado del proyecto de dos jóvenes emprendedores que pretenden convertirla en la **agencia online de referencia sobre la oferta turística de Cataluña y Andorra.**
 

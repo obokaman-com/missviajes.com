@@ -4,10 +4,10 @@ type: "post"
 date: "2013-11-29 09:30:00"
 slug: "auckland-ciudad-velas-2303614"
 categories: ["Oceania"]
-image: "/post-images/529658c721dbfs286718.jpg"
+image: "post-images/529658c721dbfs286718.jpg"
 ---
 
-[ ![ TAGS:](/post-images/529658c721dbfs286718.jpg "playa de Kare Kare by Slightly Pear Shaped")](http://www.flickr.com/photos/slightlypearshaped/9227309518/sizes/c/in/photostream/)  
+[ ![ TAGS:](post-images/529658c721dbfs286718.jpg "playa de Kare Kare by Slightly Pear Shaped")](http://www.flickr.com/photos/slightlypearshaped/9227309518/sizes/c/in/photostream/)  
   
 Auckland es la puerta de entrada a Nueva Zelanda. Es una ciudad pequeña, moderna, con una zona antigua simbólica y una bonita marina con un puerto deportivo lleno de veleros. Recuerda a una de esas ciudades californianas con el paseo de madera al lado del mar. Su ubicación en una estrecha lengua de tierra rodeada de agua hace que sea una ciudad perfecta para practicar deportes acuáticos.  
   

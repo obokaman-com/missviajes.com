@@ -4,10 +4,10 @@ type: "post"
 date: "2011-07-26 23:40:00"
 slug: "10-mejores-hoteles-practicar-golf-espana-1245706"
 categories: ["Europa","Hoteles"]
-image: "/post-images/golf_course_8.jpg"
+image: "post-images/golf_course_8.jpg"
 ---
 
-![](/post-images/golf_course_8.jpg)
+![](post-images/golf_course_8.jpg)
 
 España es uno de los destinos favoritos en Europa para practicar golf, tanto por sus buenas condiciones climatológicas como por la calidad de sus campos. Para el sector hotelero ha sido siempre además uno de los productos más cuidados ya que el turista interesado en jugar al golf, tiene un nivel adquisitivo superior a la media y por lo tanto gasta más. Consciente de su importancia, Trivago ha elaborado una lista con los 10 hoteles mejor valorados por sus clientes
 

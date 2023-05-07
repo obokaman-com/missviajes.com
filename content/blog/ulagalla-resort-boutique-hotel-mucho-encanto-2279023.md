@@ -4,14 +4,14 @@ type: "post"
 date: "2018-05-14 00:00:00"
 slug: "ulagalla-resort-boutique-hotel-mucho-encanto-2279023"
 categories: ["Asia","Hoteles"]
-image: "/post-images/51caae577c886s97169.jpg"
+image: "post-images/51caae577c886s97169.jpg"
 ---
 
    
   
 Este es sin duda uno de los más bonitos hoteles que he visto en Sri Lanka. Es un **super hotel boutique de 5\* muy exclusivo** que hace de los detalles una religión. Es un [Small Luxury Hotel of the World](http://www.slh.com/hotels/ulagalla-resort/). **A unos 25 kms de de [ Anuradhapura](http://www.missviajes.com/anuradhapura-arbol-sagrado-bo-2277111)** y a medio camino de Sigiriya, este hotel cuenta con únicamente 20 chalets y un terreno inmenso del que disfrutar.  
   
-![](/post-images/51caae577c886s97169.jpg)  
+![](post-images/51caae577c886s97169.jpg)  
   
 El camino de llegada, es un desvío de una carretera principal, sin asfaltar, se diría que es un camino de cabras, rodeado de arrozales. Las dudas te invaden sobre lo que te vas a encontrar porque piensas ..madre mía dónde me estoy metiendo.!!! Sin embargo, cuando llegas al recinto, los temores desaparecen.  
   

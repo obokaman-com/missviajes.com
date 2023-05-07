@@ -4,10 +4,10 @@ type: "post"
 date: "2007-12-06 00:00:00"
 slug: "nuevos-productos-higienicos-viaje-44105"
 categories: ["Sin Categoría"]
-image: "/post-images/44105-40527.jpg"
+image: "post-images/44105-40527.jpg"
 ---
 
-![champ� papel](/post-images/44105-40527.jpg "champ� papel")Ya ha pasado algún tiempo desde que las nuevas normativas de equipaje marcaron un antes y un después a la hora de hacer las maletas y de pensar muy concienzudamente que llevar en nuestra bolsa de mano.
+![champ� papel](post-images/44105-40527.jpg "champ� papel")Ya ha pasado algún tiempo desde que las nuevas normativas de equipaje marcaron un antes y un después a la hora de hacer las maletas y de pensar muy concienzudamente que llevar en nuestra bolsa de mano.
 
 Sabemos que los líquidos no son permitidos, los medicamentos necesitan receta para poder embarcarlos y nada de cremitas ni pastas de dientes. Lo aceptamos, pero si encontrasemos una alternativa que nos facilitara el tema de las restricciones la adoptariamos... verdad ??
 

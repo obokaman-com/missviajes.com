@@ -4,14 +4,14 @@ type: "post"
 date: "2018-03-22 00:00:00"
 slug: "grand-canyon-icono-americano-6764"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/52974fd90e29bs411515.jpg"
+image: "post-images/52974fd90e29bs411515.jpg"
 ---
 
    
   
 El **Parque Nacional del Grand Canyon** se encuentra en el estado de **Arizona** y es uno de los parajes más significativos de **Estados Unidos**. Se trata de un laberinto de cañones, por dónde cruza también el Rio Colorado, es de un tipo de roca que según la luz del sol adquiere un aspecto rojizo. Las capas sedimentarias acumuladas durante millones de años han sido moldeadas y pulidas por el tiempo formando mesetas, inmensos barrancos, fisuras en la roca y grandes torres de piedra.  
   
-[ ![ TAGS:](/post-images/52974fd90e29bs411515.jpg "Havasu Creek by Al_Hikes_AZ")](http://www.flickr.com/photos/alanenglish/6625304571/sizes/z/in/photostream/)No sé si ha habido alguna inauguración hotelera reciente, sino es así en general los **hoteles** de la zona son muy justitos (de las cadenas hoteleras Quality Inn, Best Western o Holiday Inn) pero como con una noche de alojamiento es suficiente para conocer el parque no tendría que importarte mucho.  
+[ ![ TAGS:](post-images/52974fd90e29bs411515.jpg "Havasu Creek by Al_Hikes_AZ")](http://www.flickr.com/photos/alanenglish/6625304571/sizes/z/in/photostream/)No sé si ha habido alguna inauguración hotelera reciente, sino es así en general los **hoteles** de la zona son muy justitos (de las cadenas hoteleras Quality Inn, Best Western o Holiday Inn) pero como con una noche de alojamiento es suficiente para conocer el parque no tendría que importarte mucho.  
   
 **RECOMENDACIONES**
 

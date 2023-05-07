@@ -4,14 +4,14 @@ type: "post"
 date: "2013-03-31 00:00:00"
 slug: "hotel-newport-bay-club-eurodisney-2249266"
 categories: ["En Familia","Europa","Hoteles"]
-image: "/post-images/511bb829aaf8fs134922.jpg"
+image: "post-images/511bb829aaf8fs134922.jpg"
 ---
 
    
   
 Este es el hotel dónde estuvimos alojados en Eurodisney para celebrar el cumpleaños de una niña muy especial para mi. **Es un 4\* justito con una ubicación estupenda cerca de los** **dos parques** (a unos 15 minutos caminando). La entrada principal y su lobby son acogedoras, todo decorado de maderas blancas laqueadas y con motivos marineros al estilo de primeros de siglo XX de Nueva Inglaterra. El personal es encantador, desde el camarero de turno hasta el recepcionista. Todo el mundo tiene una sonrisa y un buen gesto (estamos en Disneyland, no es para menos). Pero....... hay bastantes peros.  
   
-[![ - ](/post-images/511bb829aaf8fs134922.jpg "detalle del bar club Hotel Newport Disney by missviajes")](/post-images/511bb829aaf8fs134922.jpg)En primer lugar **las habitaciones estándar están muy trotadas.** Aunque mantienen su pulcritud y las camas son cómodas, los muebles están viejos y desgastados, estoy casi segura de que la televisión y la nevera son los originales que inauguraron el hotel y en general los detalles escasean: vasos de plástico, apenas te dan una pastilla de jabón y un bote de champú con el que asearte, el secador no tiene fuerza, la grifería muy deteriorada .....  
+[![ - ](post-images/511bb829aaf8fs134922.jpg "detalle del bar club Hotel Newport Disney by missviajes")](post-images/511bb829aaf8fs134922.jpg)En primer lugar **las habitaciones estándar están muy trotadas.** Aunque mantienen su pulcritud y las camas son cómodas, los muebles están viejos y desgastados, estoy casi segura de que la televisión y la nevera son los originales que inauguraron el hotel y en general los detalles escasean: vasos de plástico, apenas te dan una pastilla de jabón y un bote de champú con el que asearte, el secador no tiene fuerza, la grifería muy deteriorada .....  
   
 Hay dos restaurantes dentro del hotel Cape Cod y Yacht Club. Puedo decir que **el buffet libre,** al menos del Cape Cod**, es pobre y sin mucha variedad**.  
   

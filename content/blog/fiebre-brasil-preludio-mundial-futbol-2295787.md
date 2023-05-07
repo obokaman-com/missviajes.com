@@ -4,10 +4,10 @@ type: "post"
 date: "2013-10-18 12:30:00"
 slug: "fiebre-brasil-preludio-mundial-futbol-2295787"
 categories: ["Actualidad","América"]
-image: "/post-images/52610b41e365as12192.jpg"
+image: "post-images/52610b41e365as12192.jpg"
 ---
 
- ![ TAGS:](/post-images/52610b41e365as12192.jpg)
+ ![ TAGS:](post-images/52610b41e365as12192.jpg)
 
  Brasil está de moda. Quedan más de 6 meses para que empiece el [ Mundial de Fútbol](http://www.footballclubtickets.bz/brazil-world-cup-2014-packages/spain-world-cup-2014-football), pero ya se intuye la repercusión que va a tener la celebración del evento en el país que por sus figuras del deporte o por su concepto de juego se ha relacionado con el fútbol. Yo no es que sea muy futbolera que se diga, pero reconozco que algún que otro partido arrastrada por los gustos familiares si que los veo. (me entiendes, verdad ??)
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2012-04-27 09:33:00"
 slug: "turismo-musical-trending-topic-1876216"
 categories: ["Cosas Varias"]
-image: "/post-images/4f980d8c984eds23928.jpg"
+image: "post-images/4f980d8c984eds23928.jpg"
 ---
 
  Cada vez somos más, es una **tendencia en auge**, los que nos movemos arrastrados por las ganas de asistir al concierto de nuestro grupo favorito o de no perdernos la nueva edicioón de un festival de música. Con el buen tiempo, el panel musical internacional trae los mejores artistas del momento a nuestro país.
 
  Uno de esos eventos musicales más esperados en la ciudad condal es **[el Sónar](http://www.sonar.es/es/2012/) que del 14 al 16 de junio agitará toda Barcelona.**
 
- ![ TAGS:](/post-images/4f980d8c984eds23928.jpg "Sónar 2012")
+ ![ TAGS:](post-images/4f980d8c984eds23928.jpg "Sónar 2012")
 
  Es un **Festival de música y arte multimedia que se celebra durante la tercera semana del mes de junio en diversos espacios de la ciudad:** **e**l **Centro de Cultura Contemporánea de Barcelona (CCCB), el Museo de Arte Contemporáneo de Barcelona (MACBA) o la Fira Gran Via 2 de Hospitalet de Llobregat**. La propuesta artística de Sónar Barcelona se divide entre las **actividades de Sónar de Día** (conciertos, showcases, zona para profesionales, área de exposición), y **los grandes shows de Sónar de Noche**, donde se presentan los nombres clave del panorama musical internacional. El festival, además, propone cada año una serie de eventos paralelos en equipamientos culturales de Barcelona como L’Auditori o el CosmoCaixa. Ahhh... y el **Sonar Kids** con un montón de propuestas para que los niños también participen.
 

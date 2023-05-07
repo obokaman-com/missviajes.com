@@ -4,7 +4,7 @@ type: "post"
 date: "2012-08-01 15:23:00"
 slug: "20-cosas-amman-2122129"
 categories: ["Oriente Medio"]
-image: "/post-images/501925769cb7bs140515.jpg"
+image: "post-images/501925769cb7bs140515.jpg"
 ---
 
 Ammán, capital de Jordania, es una ciudad lleno de contrastes, colores y tradiciones. Hay muchas actividades que hacer y experiencias que vivir. Aquí te paso un listado de unas cuantas
@@ -18,7 +18,7 @@ Ammán, capital de Jordania, es una ciudad lleno de contrastes, colores y tradic
 - Disfrutar de **las vistas desde el Wild Jordan Café**.
 - **Visitar la Ciudadela**, sobre la antigua Rabbath-Ammon. Se han descubiertos restos de la época romana bizantina así como islámica temprana.
 
-[![ - ](/post-images/501925769cb7bs140515.jpg "atardecer en Amman ")](/post-images/501925769cb7bs140515.jpg)
+[![ - ](post-images/501925769cb7bs140515.jpg "atardecer en Amman ")](post-images/501925769cb7bs140515.jpg)
 
 - Y ya que estamos en la Ciudadela, **visitar el Museo Arqueológico**. Alberga yacimientos prehistóricos de Jordania hasta el siglo XV.
 - Un tour por el **Teatro Romano**, construido en el siglo II d.C.

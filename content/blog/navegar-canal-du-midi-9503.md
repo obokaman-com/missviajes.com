@@ -4,10 +4,10 @@ type: "post"
 date: "2007-04-09 00:00:00"
 slug: "navegar-canal-du-midi-9503"
 categories: ["Cosas Varias","En Familia","Europa","Hoteles"]
-image: "/post-images/9503-10670.jpg"
+image: "post-images/9503-10670.jpg"
 ---
 
-![canal du midi](/post-images/9503-10670.jpg "canal du midi")Este canal de 240 kms navegables, se encuentra en la región francesa del **Languedoc**. Une el rio Garona desde Toulousse con el mar Mediterráneo. Tiene una profundidad media de unos 2 metros y una anchura de 20 metros.
+![canal du midi](post-images/9503-10670.jpg "canal du midi")Este canal de 240 kms navegables, se encuentra en la región francesa del **Languedoc**. Une el rio Garona desde Toulousse con el mar Mediterráneo. Tiene una profundidad media de unos 2 metros y una anchura de 20 metros.
 
 **RECOMENDACIONES**
 

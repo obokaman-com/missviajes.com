@@ -4,7 +4,7 @@ type: "post"
 date: "2018-09-05 09:08:35"
 slug: "un-dia-en-tivissa"
 categories: ["En Familia","Europa","Playas","Visitas Y Excursiones"]
-image: "/post-images/muralle-medieval-casco-TIVISSA.jpg"
+image: "post-images/muralle-medieval-casco-TIVISSA.jpg"
 ---
 
 Tivissa es uno de esos pueblecitos de Catalunya que no te puedes perder. Es un municipio de la Ribera de l'Ebre en Tarragona, construido sobre un cerro a unos 310 metros sobre el nivel del mar y a unos 45 min en coche hasta la playa de Miami Platja.  
@@ -15,7 +15,7 @@ La **plaza Baranova** es quizás uno de los lugares más emblemáticos del lugar
   
    
   
-![](/post-images/muralle-medieval-casco-TIVISSA.jpg)  
+![](post-images/muralle-medieval-casco-TIVISSA.jpg)  
   
    
   

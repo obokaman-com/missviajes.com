@@ -4,12 +4,12 @@ type: "post"
 date: "2013-03-01 09:00:00"
 slug: "hotel-al-maha-oasis-medio-desierto-17305"
 categories: ["Hoteles","Oriente Medio"]
-image: "/post-images/17305-16184.jpg"
+image: "post-images/17305-16184.jpg"
 ---
 
- ![exterior habitaci?n](/post-images/17305-16184.jpg "exterior habitaci?n")
+ ![exterior habitaci?n](post-images/17305-16184.jpg "exterior habitaci?n")
 
- A **45 minutos de Dubai, en medio del desierto,**  basado en el concepto de los campamentos beduinos es el perfecto lugar para escapar del mundo. Si tuviera que ![carabana de camellos](/post-images/17305-16186.jpg "carabana de camellos")describir este hotel diria paz y quietud. Es un oasis de tranquilidad. No esperes animación de ningún tipo y el único sonido que oirás por las noches será el silencio.
+ A **45 minutos de Dubai, en medio del desierto,**  basado en el concepto de los campamentos beduinos es el perfecto lugar para escapar del mundo. Si tuviera que ![carabana de camellos](post-images/17305-16186.jpg "carabana de camellos")describir este hotel diria paz y quietud. Es un oasis de tranquilidad. No esperes animación de ningún tipo y el único sonido que oirás por las noches será el silencio.
 
  Puedes participar en diferentes actividades como : safari por las dunas, caza con halcón, tiro al arco, excursiones en caballo y caminatas por la zona para disfrutar de puestas de sol únicas y ver en directo la vida salvaje del desierto.
 

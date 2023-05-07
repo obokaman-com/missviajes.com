@@ -4,16 +4,16 @@ type: "post"
 date: "2014-01-08 09:30:00"
 slug: "hotel-village-montana-pie-pista-5721"
 categories: ["Europa","Hoteles"]
-image: "/post-images/52cc669cdb9ffs134573.jpg"
+image: "post-images/52cc669cdb9ffs134573.jpg"
 ---
 
-![ TAGS:](/post-images/52cc669cdb9ffs134573.jpg)  
+![ TAGS:](post-images/52cc669cdb9ffs134573.jpg)  
   
 El [hotel Village Montagne](http://www.booking.com/hotel/fr/village-montana-tignes-le-lac.html?aid=1294466&no_rooms=1&group_adults=1), situado en la zona de "Les Almes" en Tignes-Le Lac (una de las grandes estaciones de esquí de Francia) forma parte de un complejo de villas y residencias totalmente integradas en las construcciones alpinas de la zona.  
   
 Es un hotel de 3 estrellas muy acogedor y de estilo rústico, una muy buena opción económica dentro de los precios que se cobran por habitación en esta estación de esquí. Lo mejor: se encuentra a pie de pistas y de los remontes, a 800m de la zona comercial.  
   
-![ - ](/post-images/5721-5902.jpg "habitación standard")La capacidad máxima de las habitaciones es de cuatro personas. Son espaciosas comparadas con muchos hoteles de los alpes franceses, pero están un tanto viejos (no sucios ni dejados). Con vistas y mobiliario de madera garantizan un ambiente muy cálido. El hotel tiene tienda para alquiler de equipo de esquí y snowboard. Si prefieres viajar con tu equipo, te dan la posibilidad de reservar una taquilla en su guardaesquis a pie de pistas.  
+![ - ](post-images/5721-5902.jpg "habitación standard")La capacidad máxima de las habitaciones es de cuatro personas. Son espaciosas comparadas con muchos hoteles de los alpes franceses, pero están un tanto viejos (no sucios ni dejados). Con vistas y mobiliario de madera garantizan un ambiente muy cálido. El hotel tiene tienda para alquiler de equipo de esquí y snowboard. Si prefieres viajar con tu equipo, te dan la posibilidad de reservar una taquilla en su guardaesquis a pie de pistas.  
   
 Después de un gran día de esquí, nada mejor para completarlo con una sesión de relax en el Fitness Club del hotel con servicio de masajes, piscina climatizada interior y exterior, duchas escocesas, sauna y baños de vapor.  
   

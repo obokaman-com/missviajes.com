@@ -4,16 +4,16 @@ type: "post"
 date: "2014-11-12 17:02:00"
 slug: "semana-andorra-andorra-shopping-festival-2371072"
 categories: ["Cosas Varias","Europa"]
-image: "/post-images/54623987477bfs103789.jpg"
+image: "post-images/54623987477bfs103789.jpg"
 ---
 
-![ TAGS:undefined](/post-images/54623987477bfs103789.jpg)  
+![ TAGS:undefined](post-images/54623987477bfs103789.jpg)  
   
 Aprovechando el **\#AndorraShoppingFestival** que se celebra en Andorra desde **el 31 de octubre hasta el 16 de Noviembre**, decidimos unas amigas y yo pasar el fin de semana juntas. La verdad es que a pesar de que me pilla relativamente cerca, nunca había pernoctado en Andorra. Supongo que porque siempre lo había asociado a nieve y montaña, nunca me había valorado la posibilidad de una escapada para ir a comprar o de relax.  
   
-![ TAGS:undefined](/post-images/54637894c3d66s41089.jpg)La experiencia fue muy positiva, tuvimos tiempo de todo. El viernes por la noche como llegamos tarde, cenamos y poco más, pero el sábado fue un día muy largo. Después del desayuno nos acercamos a una de las muchas perfumerias Gala de la ciudad y nos dieron una masterclass sobre productos de la marca Lancome. A medida que transcurrian las horas, el ambiente era más animado con música en directo y actores camuflados que sorprendian a más de un despistado . Las tiendas anunciaban en sus escaparates descuentos especiales para el Festival y la música en directo sonaba las calles. Un Showroom montado en mitad de la Avenida Meritxell (la calle principal de Les Escaldes) fue uno de los reclamos más exitosos del día. La cola no se acababa nunca y muchas chicas fueron las que se dejaron aconsejar para mejorar su imagen por el equipo de Andrea Villalonga.  
+![ TAGS:undefined](post-images/54637894c3d66s41089.jpg)La experiencia fue muy positiva, tuvimos tiempo de todo. El viernes por la noche como llegamos tarde, cenamos y poco más, pero el sábado fue un día muy largo. Después del desayuno nos acercamos a una de las muchas perfumerias Gala de la ciudad y nos dieron una masterclass sobre productos de la marca Lancome. A medida que transcurrian las horas, el ambiente era más animado con música en directo y actores camuflados que sorprendian a más de un despistado . Las tiendas anunciaban en sus escaparates descuentos especiales para el Festival y la música en directo sonaba las calles. Un Showroom montado en mitad de la Avenida Meritxell (la calle principal de Les Escaldes) fue uno de los reclamos más exitosos del día. La cola no se acababa nunca y muchas chicas fueron las que se dejaron aconsejar para mejorar su imagen por el equipo de Andrea Villalonga.  
   
-![ TAGS:undefined](/post-images/546378e601889s892742.jpg "inúu ")  
+![ TAGS:undefined](post-images/546378e601889s892742.jpg "inúu ")  
   
 Hasta las 24.00 hrs estaba todo abierto, te dan tiempo para que te decidas si dudas en algo. Al día siguiente y como final de fiesta fuimos a [Inúu](http://www.inuu.com/), el nuevo espacio de Caldea. Un centro wellness con más privacidad y menos aglomeraciones que Caldea, dónde te sientes muy mimado, dónde poder pasar el día entre baños de aguas termales, camas de agua, saunas, hammam, cueva de sal y lagunas exteriores. La variedad de masajes y tratamientos ofrecidos es muy variado ( de belleza, cuerpo, mente y sensoriales). No dejes de consultarlos porque hay de todo. El centro en sí es bastante exclusivo, sólo hay que ver la zona de tratamientos con salas privadas y la última tecnología.  
   

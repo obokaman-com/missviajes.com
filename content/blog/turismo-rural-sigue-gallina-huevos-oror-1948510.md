@@ -4,12 +4,12 @@ type: "post"
 date: "2012-05-11 17:30:00"
 slug: "turismo-rural-sigue-gallina-huevos-oror-1948510"
 categories: ["Actualidad"]
-image: "/post-images/4fad21243d649s488323.jpg"
+image: "post-images/4fad21243d649s488323.jpg"
 ---
 
  Durante el Travel Bloggers Meeting, se dio lugar una mesa de debate entre todos los participantes sobre el rumbo que sigue el **Turismo Rural** en España de manos de Top Rural. Fue una de las iniciativas más interesantes del encuentro bloggero.
 
- ![ TAGS:](/post-images/4fad21243d649s488323.jpg "Infografia sobre la evolución del Turismo Rural by Top Rural")
+ ![ TAGS:](post-images/4fad21243d649s488323.jpg "Infografia sobre la evolución del Turismo Rural by Top Rural")
 
  ¿Cómo definirias Turismo Rural? Naturaleza, gente, tranquilidad, entorno, aventura... No hay un significado exacto porque hay quien recurre a este tipo de turismo para **desconectar y cultivar el no hacer nada**, hay quien busca **actividades de aventura**, hay quien prefiere ver pájaros y quien busca conocer el entorno y comer bien.
 

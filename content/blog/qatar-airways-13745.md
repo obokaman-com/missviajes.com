@@ -4,10 +4,10 @@ type: "post"
 date: "2007-07-12 00:00:00"
 slug: "qatar-airways-13745"
 categories: ["Sin Categoría"]
-image: "/post-images/13745-15349.jpg"
+image: "post-images/13745-15349.jpg"
 ---
 
- Recientemente estuve en una presentación de **Qatar Airways** y reafirmaron la idea que ya tenía de ellos. Doha, la capital de Qatar y base de operaciones de la cia aérea, se encuentra a mitad de camino entre Oriente y Occidente, eso ha ![Qatar Airways](/post-images/13745-15349.jpg "Qatar Airways")facilitado conseguir en pocos años, lo que muchas compañias tardes décadas: posicionamiento, reconocimiento, mercado y buenos precios (muy importante).
+ Recientemente estuve en una presentación de **Qatar Airways** y reafirmaron la idea que ya tenía de ellos. Doha, la capital de Qatar y base de operaciones de la cia aérea, se encuentra a mitad de camino entre Oriente y Occidente, eso ha ![Qatar Airways](post-images/13745-15349.jpg "Qatar Airways")facilitado conseguir en pocos años, lo que muchas compañias tardes décadas: posicionamiento, reconocimiento, mercado y buenos precios (muy importante).
 
 La flota de aviones (son todos Airbus) con que operan sus vuelos son nuevos, innovadores (con pantallas individuales de TV más grandes de lo habitual ) espaciosos asientos (difícil de encontrar en la mayoria de cias con medio y largo recorrido) y un muy buen servicio.
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2019-08-26 00:00:08"
 slug: "escapada-a-las-playas-de-guipuzcoa"
 categories: ["Europa"]
-image: "/post-images/mutriku-1-1024x621.jpg"
+image: "post-images/mutriku-1-1024x621.jpg"
 ---
 
 Este verano las playas del norte del País Vasco han sido nuestro destino. Aunque ya había visitado aquella zona otras veces, es un destino muy agradecido al que no me importa volver y descubrir nuevos pueblitos.  
   
 **Mutriku** fue el pueblecito escogido para alojarnos y desde allí ir moviéndonos. Las distancias son relativamente cortas y las carreteras en general están súper bien. Mutriku es un pueblo pesquero ubicada en una pendiente, de la "Euskadi profunda" como dijo un amigo con todo el cariño del mundo. Tiene un casco histórico lleno de callejuelas estrechas súper bonito con casas y torres de hasta el siglo XV.  
   
-![](/post-images/mutriku-1-1024x621.jpg)  
+![](post-images/mutriku-1-1024x621.jpg)  
   
 A visitar **Zumaia** le dedicamos medio día. Zumaia me encantó. Es pequeñito, no muy grande. Con unas casonas impresionantes en la avenida delante del puerto. Desde allí contratamos una excursión de un paseo en barco que más abajo te detallo. Hay un paseo hasta la ermita de San Telmo muy bonita, con unas vistas sobre un acantilado espectacular. Muy cerquita de la Ermita hay un par de playas pequeñitas, así que si el tiempo te acompaña, te recomiendo que lleves el bañador.  
   
@@ -25,7 +25,7 @@ Aunque pertenece a la provincia de Vizcaya, no perdimos la oportunidad por su pr
   
 **RECOMENDACIONES**
 
-- **![](/post-images/IMG_4982-225x300.jpg)Un lugar dónde alojarte**: [Casa Rural Pikua](https://www.booking.com/hotel/es/casa-rural-pikua.en.html?aid=1294466&no_rooms=1&group_adults=1) en Mutriku. Este alojamiento rural, es un hotel restaurante ubicado en el barrio de Laranga (Laranga uzoa) a las afueras de la ciudad. Las curvitas y la carretera para llegar hasta allí es una aventura, pero el lugar vale la pena. Las habitaciones son realmente cómodas, el personal amable y las vistas sobre la ciudad y el mar muy bonitas. Además como plus, te diré que se come súper bien y no es caro.
+- **![](post-images/IMG_4982-225x300.jpg)Un lugar dónde alojarte**: [Casa Rural Pikua](https://www.booking.com/hotel/es/casa-rural-pikua.en.html?aid=1294466&no_rooms=1&group_adults=1) en Mutriku. Este alojamiento rural, es un hotel restaurante ubicado en el barrio de Laranga (Laranga uzoa) a las afueras de la ciudad. Las curvitas y la carretera para llegar hasta allí es una aventura, pero el lugar vale la pena. Las habitaciones son realmente cómodas, el personal amable y las vistas sobre la ciudad y el mar muy bonitas. Además como plus, te diré que se come súper bien y no es caro.
 - Hay una excursión que venden en la oficina de turismo de **Zumaia** para poder ver los acantilados desde el mar que no es muy cara (17 euros adultos y 10 euros niños) que dura una hora y es un paseo súper bonito. Además si eres aficionado a la serie "Juego de Tronos"... creo que esos acantilados (o flysch como lo llaman..) te serán muy familiares.
 - Te apetecen unos **buenos pinchitos para comer**? En Zumaia descubrimos un local pequeñito cerca del puerto.. Más concretamenta en la plaza Kupela. Se llama Kalari. Cada pincho costaba 1.80 euros y a cual más bueno
 

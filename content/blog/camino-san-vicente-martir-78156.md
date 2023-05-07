@@ -4,14 +4,14 @@ type: "post"
 date: "2019-01-28 00:00:00"
 slug: "camino-san-vicente-martir-78156"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/78156-64195.jpg"
+image: "post-images/78156-64195.jpg"
 ---
 
 ¿Habías oído hablar alguna vez del Camino de San Vicente Mártir? Desde algunas plataformas se está intentando rescatar de la memoria una ruta de peregrinaje que siglos atrás fue una importante vía de peregrinaje. Hablo del Camino de San Vicente Mártir. Para situarnos un poco, comentarte en cuatro lineas que Vicente Mártir fue un clérigo español que en el año 303 fue capturado y torturado despiadadamente bajo la orden del emperador Diocleciano. Suele aparecer representado con un cuervo, una muela de molino o sobre unas ascuas.  
   
-![](/post-images/78156-64195.jpg)**Seiscientos kilómetros** desde los Pirineos hasta Valencia recorrió san Vicente en la Hispania romana para luego sufrir martirio. Es exactamente ese camino de vía romana el que se pretende reconstruir como una ruta de senderismo e ideal para ciclistas. Desde **Huesca hasta Valencia**, el camino discurre sobretodo por poblaciones del interior, con bellos paisajes y virgen en turismo. Almudévar, San Mateo de Gállego, Zaragoza, Fuenllana, Cariñena o Morella son algunas de las poblaciones que atraviesa el camino. Con este proyecto se pretende entre otras muchas cosas inyectar una ayuda a todas aquellas poblaciones afectadas por la despoblación y el envejecimiento.  
+![](post-images/78156-64195.jpg)**Seiscientos kilómetros** desde los Pirineos hasta Valencia recorrió san Vicente en la Hispania romana para luego sufrir martirio. Es exactamente ese camino de vía romana el que se pretende reconstruir como una ruta de senderismo e ideal para ciclistas. Desde **Huesca hasta Valencia**, el camino discurre sobretodo por poblaciones del interior, con bellos paisajes y virgen en turismo. Almudévar, San Mateo de Gállego, Zaragoza, Fuenllana, Cariñena o Morella son algunas de las poblaciones que atraviesa el camino. Con este proyecto se pretende entre otras muchas cosas inyectar una ayuda a todas aquellas poblaciones afectadas por la despoblación y el envejecimiento.  
   
-![](/post-images/78156-64196.jpg)**RECOMENDACIONES**
+![](post-images/78156-64196.jpg)**RECOMENDACIONES**
 
 - Debido al corto tiempo que lleva en promoción el proyecto hay bastantes tramos del camino sin señalizar. A medida que se va insistiendo en el trazado y se dispone de más recursos, se van añadiendo marcas para ayudar al caminante a no perder la senda. Por eso es recomendable llevar preparado el camino antes de partir.
 

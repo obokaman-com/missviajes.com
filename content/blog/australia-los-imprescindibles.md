@@ -4,7 +4,7 @@ type: "post"
 date: "2019-09-23 00:00:34"
 slug: "australia-los-imprescindibles"
 categories: ["Oceania","Playas"]
-image: "/post-images/koala.jpg"
+image: "post-images/koala.jpg"
 ---
 
 Australia tiene una superficie de 7692 millones de kilómetros cuadrados. Así que la pregunta inevitable es ... ¿ que lugares son los imprescindibles para viajar? Más que nada porque no todos disponemos de 3 meses o un año para recorrer el país.
@@ -43,7 +43,7 @@ Con unas sierras impenetrables y frondosos bosques de eucaliptos estuvieron habi
 
 
 
-![](/post-images/koala.jpg)
+![](post-images/koala.jpg)
 
 
 
@@ -85,7 +85,7 @@ Esta carretera recorre 243 kilómetros por la costa australiana. Fue construida 
 
 
 
-![](/post-images/australia-northern-territory-kakadu-national-park-2.jpg)
+![](post-images/australia-northern-territory-kakadu-national-park-2.jpg)
 
 
 

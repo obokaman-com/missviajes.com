@@ -4,10 +4,10 @@ type: "post"
 date: "2008-12-05 00:00:00"
 slug: "viajar-ninos-gratis-royal-caribbean-167768"
 categories: ["Sin Categoría"]
-image: "/post-images/167768-106597.jpg"
+image: "post-images/167768-106597.jpg"
 ---
 
-![167768-106597.jpg](/post-images/167768-106597.jpg "167768-106597.jpg")
+![167768-106597.jpg](post-images/167768-106597.jpg "167768-106597.jpg")
 
 Es momento de crisis y hay que buscar recursos para facilitar la venta y ser competitivos. Una de las compañias navieras más importantes del mundo, [Royal Caribbean](http://www.royalcaribbean.es/allaboutcruising/familycruising/home.do;jsessionid=0000jz1WlA9byEdYTxV59L5AgF6:13dlij62p?cS=NAVBAR), han decidido empujar las ventas con determinación y efecto.
 

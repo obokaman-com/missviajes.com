@@ -4,10 +4,10 @@ type: "post"
 date: "2016-06-10 09:09:14"
 slug: "nara-camino-del-japon-mas-tradicional"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/13402264_972721579502346_1331077501_n1-300x300.jpg"
+image: "post-images/13402264_972721579502346_1331077501_n1-300x300.jpg"
 ---
 
-![13402264_972721579502346_1331077501_n(1)](/post-images/13402264_972721579502346_1331077501_n1-300x300.jpg)La siguiente parada de mi aventura por [Japón](http://www.missviajes.com/la-ruta-kumano-perdida-en-japon/), después de [Osaka](http://www.missviajes.com/osaka-y-el-puente-de-dotombori/) fue **Nara**, la capital de una de las prefacturas de Japón más tradicionales, a unos 42 kms al sur de Kyoto. Hay una parada de tren JR ubicada en el centro de la ciudad que facilita llegar hasta allí. Es una ciudad tranquila, con muchos templos que descubrir. En mi corta estancia me dio tiempo a ver dos de ellos el Santuario Kashuga Taisha y el Templo Todaiji . 
+![13402264_972721579502346_1331077501_n(1)](post-images/13402264_972721579502346_1331077501_n1-300x300.jpg)La siguiente parada de mi aventura por [Japón](http://www.missviajes.com/la-ruta-kumano-perdida-en-japon/), después de [Osaka](http://www.missviajes.com/osaka-y-el-puente-de-dotombori/) fue **Nara**, la capital de una de las prefacturas de Japón más tradicionales, a unos 42 kms al sur de Kyoto. Hay una parada de tren JR ubicada en el centro de la ciudad que facilita llegar hasta allí. Es una ciudad tranquila, con muchos templos que descubrir. En mi corta estancia me dio tiempo a ver dos de ellos el Santuario Kashuga Taisha y el Templo Todaiji . 
 
  
 
@@ -15,7 +15,7 @@ El **Santuario sintoista de Kashuga Taisha** es uno de los más famosos del paí
 
  
 
-![IMG_7006](/post-images/IMG_7006-225x300.jpg)El **Templo Todaiji**, también es Patrimonio de la Humanidad por la Unesco. El edificio principal es un imponente edificio de madera que cobija un Buda de 16 metros de altura. Los dos guardianes tallados en madera que están detrás del Buda, tampoco tienen desperdicio. Está a 3 minutos a pie desde la parada de autobús Daibutsuden-Kasuga-taisha-mae (a 7 minutos en autobús desde la estación Kintetsu de Nara)
+![IMG_7006](post-images/IMG_7006-225x300.jpg)El **Templo Todaiji**, también es Patrimonio de la Humanidad por la Unesco. El edificio principal es un imponente edificio de madera que cobija un Buda de 16 metros de altura. Los dos guardianes tallados en madera que están detrás del Buda, tampoco tienen desperdicio. Está a 3 minutos a pie desde la parada de autobús Daibutsuden-Kasuga-taisha-mae (a 7 minutos en autobús desde la estación Kintetsu de Nara)
 
 
 
@@ -27,7 +27,7 @@ Alrededor de la estación de tren principal de Nara hay un parque conocido como 
 
 
 
-**RECOMENDACIONES![by missviajes](/post-images/IMG_6914-225x300.jpg)**
+**RECOMENDACIONES![by missviajes](post-images/IMG_6914-225x300.jpg)**
 
 - ¿Un alojamiento? **Hotel [Nikko Nara](http://www.missviajes.com/donde-dormir-en-nara/)**, al lado de la estación de tren.
 - ¿Un lugar dónde comer? **Restaurante Hiraso Nara** .... no dejes de probar el vino blanco de la zona

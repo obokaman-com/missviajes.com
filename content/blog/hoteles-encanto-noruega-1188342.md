@@ -4,10 +4,10 @@ type: "post"
 date: "2011-04-07 23:40:00"
 slug: "hoteles-encanto-noruega-1188342"
 categories: ["Europa","Hoteles"]
-image: "/post-images/1188342-339800.jpg"
+image: "post-images/1188342-339800.jpg"
 ---
 
-![cabaña pescadores en Lofoten](/post-images/1188342-339800.jpg "cabaña pescadores en Lofoten")
+![cabaña pescadores en Lofoten](post-images/1188342-339800.jpg "cabaña pescadores en Lofoten")
 
 El alojamiento durante un viaje condiciona la opinión que se imprime en tus sentidos durante un viaje. Puede convencerte de un país como un destino maravilloso o infravalorarlo por una mala experiencia. El problema es saber elegir y la duda de si tomaste la decisión correcta no se aclarará hasta el mismo día que entres por la puerta del hotel. Por eso es muy importante disponer de toda la información posible.
 

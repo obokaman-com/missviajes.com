@@ -4,7 +4,7 @@ type: "post"
 date: "2020-01-08 00:00:15"
 slug: "escapada-3-dias-a-madrid-ruta-cultural-y-gastronomica-dia-1"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/62613DFA-407A-4535-9D20-C19503F6CCB8.jpg"
+image: "post-images/62613DFA-407A-4535-9D20-C19503F6CCB8.jpg"
 ---
 
 Que mejor manera de comenzar el año con una escapadita a Madrid. Es una ciudad con mucha historia, mucha solera y mucho que ofrecer pero lo que no me deja de sorprender es la cantidad de bares, tabernas y restaurantes bonitos y auténticos para comer tapas ricas y beber buenos vinos. Da igual el día de la semana, siempre encontrarás ambiente en las muchas zonas que tienes por dónde moverte. Pero vamos por partes. La historia del país ha dejado huella en cada fachada, cada calle, cada rinconcito de la ciudad tiene algo que contar. Con 3 días para visitarla, te dejarás mucho por visitar, pero al menos te harás una idea de cómo es y como se vive en la ciudad. Intentaré ser concisa y breve para no escribir una epístola en lugar de un post sobre Madrid.
@@ -19,7 +19,7 @@ Antes de comenzar a caminar, te recomiendo una primera parada para tomar un caf�
 
 
 
-![](/post-images/62613DFA-407A-4535-9D20-C19503F6CCB8.jpg)Desde la Puerta del Sol salen muchos de los free -walking tours de la ciudad. **De 11.30 a 14.00 visitamos el Madrid de los Austrias** que recorre **Plaza Mayor, calle Mayor , Mercado de San Miguel, la Catedral de la Almudena, Palacio Real, la Plaza de la Villa y/o el Teatro Real**. Que mejor manera para reponer fuerzas que volver a la plaza Mayor y comer un bocadillo típico de calamares en un lugar próximo llamado ***La Campana.*** 
+![](post-images/62613DFA-407A-4535-9D20-C19503F6CCB8.jpg)Desde la Puerta del Sol salen muchos de los free -walking tours de la ciudad. **De 11.30 a 14.00 visitamos el Madrid de los Austrias** que recorre **Plaza Mayor, calle Mayor , Mercado de San Miguel, la Catedral de la Almudena, Palacio Real, la Plaza de la Villa y/o el Teatro Real**. Que mejor manera para reponer fuerzas que volver a la plaza Mayor y comer un bocadillo típico de calamares en un lugar próximo llamado ***La Campana.*** 
 
 Otra opción es probar el **bacalao rebozado de Casa Labra**, aunque en ambos locales la cola es segura.
 
@@ -31,7 +31,7 @@ Después del break, continuamos con otro free walking tour, esta vez con el **to
 
 **RECOMENDACIONES**
 
-- ![](/post-images/IMG_6441.jpg)En el barrio de la Latina, además de ser una zona de copas, vinos y tapas, puedes comer una de las mejores **tortillas de patata de la ciudad en un restaurante llamado Juana La Loca**. Es una tortilla tamaño XXL... ya lo verás...
+- ![](post-images/IMG_6441.jpg)En el barrio de la Latina, además de ser una zona de copas, vinos y tapas, puedes comer una de las mejores **tortillas de patata de la ciudad en un restaurante llamado Juana La Loca**. Es una tortilla tamaño XXL... ya lo verás...
 - Te recomiendo un paseo por el **Barrio de las Letras,**  calles llenas de librerías y tiendas curiosas, como La Libreria Desnivel, toda de maderita y dónde podrás encontrar cualquier libro sobre escalada y montañismo en todas sus versiones. Nunca mejor dicho, con cada paso que des por el Barrio de las Letras, irás pisando pedacitos de literatura de los más grandes escritores. Este barrio bien se merece otro post.
 - Las ***Fatigas del Querer*** es una de las tabernas que me encantó de Madrid. Ambientado como si fuera un local típico de Andalucía, las tapas son generosas y se come muy bien.
 - No puedes irte de Madrid sin visitar el **barrio de Chueca** y entrar en alguno de los locales nocturnos de ambiente. **Why Not** es uno de ellos... con música de todo tipo, divertido , gayfriendly y gente guapa.

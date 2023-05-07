@@ -4,7 +4,7 @@ type: "post"
 date: "2018-07-19 00:00:00"
 slug: "ruinas-tikal-imagen-recuerdo-18690"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/full_tikal_02_big.jpg"
+image: "post-images/full_tikal_02_big.jpg"
 ---
 
    
@@ -15,7 +15,7 @@ Este parque natural al **norte de Guatemala**, en la **región del Petén**, con
   
    
   
-![](/post-images/full_tikal_02_big.jpg)  
+![](post-images/full_tikal_02_big.jpg)  
   
 En medio de una gran selva, hay toda una serie de grandes templos escondidos entre la vegetación. En muchos casos los caminos son apenas senderos embarrados y cuando crees que tus pasos no te llevan a ningún sitio, aparece entre los arboles con una gran pirámide con un montón de escaleras o un antiguo palacio o una plaza abierta con restos de edificios de esta civilización.  
   

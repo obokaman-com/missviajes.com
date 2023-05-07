@@ -4,10 +4,10 @@ type: "post"
 date: "2009-02-20 19:06:00"
 slug: "plaza-violeta-madrid-foto-mes-202921"
 categories: ["Sin Categoría"]
-image: "/post-images/202921-120953.jpg"
+image: "post-images/202921-120953.jpg"
 ---
 
- [ ![PLAZA canalejas de Madrid by magajim](/post-images/202921-120953.jpg "PLAZA canalejas de Madrid by magajim")](http://www.flickr.com/photos/magajim/3019058884/#comment72157608813499417)
+ [ ![PLAZA canalejas de Madrid by magajim](post-images/202921-120953.jpg "PLAZA canalejas de Madrid by magajim")](http://www.flickr.com/photos/magajim/3019058884/#comment72157608813499417)
 
  La foto de este mes a simple vista refleja una calle con una terraza llena de gente. Pero el colorido amarronado y las fachadas le dan un toque atemporal. Puedo imaginarme esa misma estampa hace 50 años. De hecho es justo lo mismo lo que llamó la atención a su autora. [Magajim](http://www.flickr.com/photos/magajim/) dice :" *Esta foto es una panoramica de la Plaza de Canalejas, donde está la famosa tienda de "La Violeta". La hice el pasado 14 de Octubre cuando estuve en* [*Madrid*](http://www.missviajes.com/madrid-doce-campanadas-5747) *para hacer un examen de las oposiciones que estoy estudiando. Me encantaron los tonos marrones de las fachada y por eso la hice* " .
 

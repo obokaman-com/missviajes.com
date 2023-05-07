@@ -4,12 +4,12 @@ type: "post"
 date: "2018-06-06 00:00:00"
 slug: "cuando-ninos-viajan-solos-47645"
 categories: ["Cosas Varias","En Familia"]
-image: "/post-images/boy-airport.jpg"
+image: "post-images/boy-airport.jpg"
 ---
 
 El otro día en el aeropuerto me fijé en un niño de unos 5 ó 6 años que llevaba una identificación colgada de su cuello y caminaba cogido de la mano de una azafata. Caí en la cuenta de que el pequeño debía de viajar sólo y por eso iba acompañado por personal de la compañía aérea en cuestión.  
   
-![](/post-images/boy-airport.jpg)  
+![](post-images/boy-airport.jpg)  
   
 Aunque no son muchos los casos, todas las compañías aéreas tienen una política especial para estas situaciones. **En puntos generales**:
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2006-11-22 07:50:13"
 slug: "hotel-le-meridien-bora-bora-4998"
 categories: ["Hoteles","Oceania"]
-image: "/post-images/4998-5264.jpg"
+image: "post-images/4998-5264.jpg"
 ---
 
-![exterior bugalow playa](/post-images/4998-5264.jpg "exterior bugalow playa") 
+![exterior bugalow playa](post-images/4998-5264.jpg "exterior bugalow playa") 
 
 ¿Alguna vez has pensado en un hotel de playas paradisiacas ? ImagÍnate... cocoteros, aguas transparentes, playas de arena blanca coralina, atardeceres con colores ocres... mmm. Suena bien, ¿verdad?. Lo cierto es que hoteles enclavados en idílicos lugares como éste hay muchos (aunque parezca increíble), pero pocos hay que tengan el suelo de la habitación de cristal sobre el agua del mar. Sí, has leido bien. Suelo de cristal.
 
-![interior bungalow overwater](/post-images/4998-5262.jpg "interior bungalow overwater")
+![interior bungalow overwater](post-images/4998-5262.jpg "interior bungalow overwater")
 
 Estoy hablando del hotel **Le Meridien Bora Bora**. La cadena [**Le Meridien**](http://www.starwoodhotels.com/lemeridien/index.html) es ya una garantía del buen gusto (y también a decir no del modesto precio ). Ir a la Polinesia comporta relax, descanso, belleza y nirvana. Si juntamos los dos conceptos el resultado es explosivo.
 
@@ -19,7 +19,7 @@ Estoy hablando del hotel **Le Meridien Bora Bora**. La cadena [**Le Meridien**](
 
 El hotel dispone de muchos **tipos de habitaciones** y bungalows (es un tipo de habitación edificada en una caseta individual normalmente de aspecto rústico ). Los hay con vista jardín, con salida a la piscina, en la playa y sobre el agua (llamados overwaters o pilotis).
 
-![vista exterior bungalow overwater](/post-images/4998-5263.jpg "vista exterior bungalow overwater")Si quieres hacer algo más que estirarte a tomar el sol, tienes tantas **actividades** como gustes ,algunas de ellas gratuitas: snorkelling, kayak, botes de pedales, volley playa, sky acuatico, catamaran, pesca de tiburón ... No esta mal ¿verdad?
+![vista exterior bungalow overwater](post-images/4998-5263.jpg "vista exterior bungalow overwater")Si quieres hacer algo más que estirarte a tomar el sol, tienes tantas **actividades** como gustes ,algunas de ellas gratuitas: snorkelling, kayak, botes de pedales, volley playa, sky acuatico, catamaran, pesca de tiburón ... No esta mal ¿verdad?
 
 **RECOMENDACIONES.**
 

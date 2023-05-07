@@ -4,10 +4,10 @@ type: "post"
 date: "2016-11-10 00:00:00"
 slug: "tossa-mar-playas-costa-brava-familia-1241136"
 categories: ["En Familia","Europa","Playas"]
-image: "/post-images/4e21f4d05e900s2597924.jpg"
+image: "post-images/4e21f4d05e900s2597924.jpg"
 ---
 
-**Tossa de Mar** se encuentra en pleno corazón de la [**Costa Brava**](http://www.missviajes.com/costa-brava-esperando-verano-314045/). No negaré que es un pueblo muy turístico, pero aunque Lloret de Mar está justo al lado, dista todavía bastante a parecerse. Es más un lugar para ir en familia. Es un pueblo de pescadores con rinconcitos de mucho encanto y un castillo vigilando las playas. Las **playas son de arena gruesa** (o como digo yo: piedrecitas ) y de aquellas que andas 3 pasos y y el agua te llega al cuello, pero su agua es de un verde y azul increíble. La playa que más me gustó es la pequeñita que está detrás del hotel Reymar ![ TAGS:](/post-images/4e21f4d05e900s2597924.jpg "tossa de mar by missviajes")(el más conocido de Tossa de Mar). Además de las 3 playas del pueblo, Tossa tiene otras calas entre las que destacan  **Cala Bona** (pequeñita y muy tranquila), **Cala Giverola** (de arena fina pero más masificada), **Cala Futadera** (espectacular, pequeña y de aguas cristalinas).
+**Tossa de Mar** se encuentra en pleno corazón de la [**Costa Brava**](http://www.missviajes.com/costa-brava-esperando-verano-314045/). No negaré que es un pueblo muy turístico, pero aunque Lloret de Mar está justo al lado, dista todavía bastante a parecerse. Es más un lugar para ir en familia. Es un pueblo de pescadores con rinconcitos de mucho encanto y un castillo vigilando las playas. Las **playas son de arena gruesa** (o como digo yo: piedrecitas ) y de aquellas que andas 3 pasos y y el agua te llega al cuello, pero su agua es de un verde y azul increíble. La playa que más me gustó es la pequeñita que está detrás del hotel Reymar ![ TAGS:](post-images/4e21f4d05e900s2597924.jpg "tossa de mar by missviajes")(el más conocido de Tossa de Mar). Además de las 3 playas del pueblo, Tossa tiene otras calas entre las que destacan  **Cala Bona** (pequeñita y muy tranquila), **Cala Giverola** (de arena fina pero más masificada), **Cala Futadera** (espectacular, pequeña y de aguas cristalinas).
 
    
   

@@ -4,7 +4,7 @@ type: "post"
 date: "2018-03-13 10:55:48"
 slug: "que-ver-en-shanghai"
 categories: ["Asia"]
-image: "/post-images/25021652_1125547770915197_68569363334037504_n.jpg"
+image: "post-images/25021652_1125547770915197_68569363334037504_n.jpg"
 ---
 
 Después de [Hangzhou](http://www.missviajes.com/escapada-de-dos-dias-a-hangzhou/) marchamos hacia Shanghai en un tren rápido de 1 hora más o menos. Durante todo el trayecto no dejas de ver edificaciones y casas.... nada de campo a través.  
@@ -15,7 +15,7 @@ Después de [Hangzhou](http://www.missviajes.com/escapada-de-dos-dias-a-hangzhou
   
 Otra de las visitas de rigor es subir a la Torre de Comunicación, **la Perla de Oriente**, aquella que tiene la esfera rosa. Las vistas de la ciudad desde arriba son espectaculares. Un detalle.... la plataforma desde dónde se ven las vistas más impresionantes tiene el suelo de cristal ..... impresiona mucho !  
   
-\[caption id="attachment\_3974" align="aligncenter" width="487"\]![](/post-images/25021652_1125547770915197_68569363334037504_n.jpg) JARDINES YUYUAN BY MISSVIAJES\[/caption\]  
+\[caption id="attachment\_3974" align="aligncenter" width="487"\]![](post-images/25021652_1125547770915197_68569363334037504_n.jpg) JARDINES YUYUAN BY MISSVIAJES\[/caption\]  
   
 El **jardín Yuyuan** es uno de los jardines más famosos de toda China. Está cerca de la antigua muralla y en medio de una "simulación" de barrio chino reconstruido lleno de tiendas y restaurantes. Los jardines fueron diseñados durante la dinastía Ming por un acaudalado funcionario para que sus padres de movilidad reducida ya mayores pudieran descansar y disfrutar de un jardín parecido a los imperiales de la época. Está lleno de rincones muy bonitos, bucólicos y de lo más fotográficos. La única pega.... la marabunta de gente con la que tendrás que compartir el momento. Es una buena forma de trabajar la manera de aislarte.  
   

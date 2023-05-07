@@ -4,10 +4,10 @@ type: "post"
 date: "2012-09-05 22:20:00"
 slug: "intercambio-casas-forma-economica-viajar-2161558"
 categories: ["Actualidad","Cosas Varias"]
-image: "/post-images/5047703f5eadbs16832.jpg"
+image: "post-images/5047703f5eadbs16832.jpg"
 ---
 
-[![ - ](/post-images/5047703f5eadbs16832.jpg)](/post-images/5047703f5eadbs16832.jpg)  
+[![ - ](post-images/5047703f5eadbs16832.jpg)](post-images/5047703f5eadbs16832.jpg)  
   
 Es la nueva tendencia y en breve será un tendent topic... Me refiero a viajar intercambiandocasas. Hoy te alojas en mi casa y cuando visite tu país, me alojo en la tuya. No es nada nuevo, de hecho recuerdo que había una mayorista de viajes hace muchos años **Interhome** que ya lo hacía... y que sigue haciéndolo.  
   

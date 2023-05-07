@@ -4,10 +4,10 @@ type: "post"
 date: "2014-05-14 15:29:00"
 slug: "piazza-di-spagna-vacaciones-roma-2346970"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/53733e756d8acs1655602.jpg"
+image: "post-images/53733e756d8acs1655602.jpg"
 ---
 
- Siguiendo con mi escapada por [Roma,](http://www.missviajes.com/roma-escapada-fecha-regreso-2339722) con las Fashion Travel Bloggers, mi siguiente post es para la **Piazza di Spagna.** Quizás movida un poco por los recuerdos de las muchas ![ TAGS:](/post-images/53733e756d8acs1655602.jpg "by missviajes")películas en las que aparece esta plaza como escenario o bien por las ganas de conocer la ciudad, me encantó estar allí y no dudé en sentarme durante un ratito en la escalinata para ver pasar a los muchos viandantes y disfrutar del momento. Que emoción !! Que ilusión !
+ Siguiendo con mi escapada por [Roma,](http://www.missviajes.com/roma-escapada-fecha-regreso-2339722) con las Fashion Travel Bloggers, mi siguiente post es para la **Piazza di Spagna.** Quizás movida un poco por los recuerdos de las muchas ![ TAGS:](post-images/53733e756d8acs1655602.jpg "by missviajes")películas en las que aparece esta plaza como escenario o bien por las ganas de conocer la ciudad, me encantó estar allí y no dudé en sentarme durante un ratito en la escalinata para ver pasar a los muchos viandantes y disfrutar del momento. Que emoción !! Que ilusión !
 
  Es un lugar muy céntrico, que s**e une a la Piazza del Popolo a través de la Via Condotti**, una calle llena de tiendas ( y dónde por cierto teníamos nosotros el alojamiento).
 
@@ -15,7 +15,7 @@ image: "/post-images/53733e756d8acs1655602.jpg"
 
  Construidas en el siglo XVIII, creo que nadie se esperaba que los 135 escalones fueran tan amortizados por turistas o locales que no dudan en sentarse a descansar.
 
- ![ TAGS:](/post-images/5373408a2ce08s588782.jpg)
+ ![ TAGS:](post-images/5373408a2ce08s588782.jpg)
 
  **RECOMENDACIONES**
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2017-01-10 13:26:06"
 slug: "conques-uno-de-los-pueblos-mas-bonitos-de-francia"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/IMG_83801-1024x682.jpg"
+image: "post-images/IMG_83801-1024x682.jpg"
 ---
 
 La última etapa de mi mini-escapada por el Sur de Francia me llevó un poquito más lejos... a **Conques**. Puedo decir que es uno de los pueblecitos justo con [Cesky Krumlov](http://www.missviajes.com/cesky-krumlov-cuento-hadas-8420/) (República Checa), más bonitos que yo he visto. Parece sacado de un cuento de Disney, o como si fuera el escenario perfecto de cartón piedra para una película infantil. Es muy muy bonito, además cuando yo fui este noviembre, coincidiendo con su temporada baja estaba vacio. No había nadie, apenas algún vecino trabajando... incluso los comercios cerrados. Pero no te engañes porque con la señalización de los parkings se puede intuir que en verano debe ser un hormiguero de turistas.
@@ -13,7 +13,7 @@ La última etapa de mi mini-escapada por el Sur de Francia me llevó un poquito 
 
 
 
-![img_83801](/post-images/IMG_83801-1024x682.jpg)  
+![img_83801](post-images/IMG_83801-1024x682.jpg)  
   
    
   
@@ -23,7 +23,7 @@ Es un pueblecito con mucho encanto también ubicado en lo alto de una colina. Su
 
 
 
-![2016-11-23-photo-00003023](/post-images/2016-11-23-PHOTO-00003023.jpg)Siguiendo el camino puedes acercarte a **Rodez** ... pero se me hizo de noche y no pude verla bien , así que no sé decirte si vale o no la pena. En Rodez un café y rumbo al hotel de Cordes. Está fue otra de la grandes sorpresas del viaje.
+![2016-11-23-photo-00003023](post-images/2016-11-23-PHOTO-00003023.jpg)Siguiendo el camino puedes acercarte a **Rodez** ... pero se me hizo de noche y no pude verla bien , así que no sé decirte si vale o no la pena. En Rodez un café y rumbo al hotel de Cordes. Está fue otra de la grandes sorpresas del viaje.
 
 
 

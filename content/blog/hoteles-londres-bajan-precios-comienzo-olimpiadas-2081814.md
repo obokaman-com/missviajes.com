@@ -4,10 +4,10 @@ type: "post"
 date: "2012-07-26 15:56:00"
 slug: "hoteles-londres-bajan-precios-comienzo-olimpiadas-2081814"
 categories: ["Actualidad"]
-image: "/post-images/50112ad840332s80484.jpg"
+image: "post-images/50112ad840332s80484.jpg"
 ---
 
- [ ![ TAGS:](/post-images/50112ad840332s80484.jpg "Londres 2012, bienvenida a los atletas ")](http://www.london2012.com/news/articles/london-2012-gives-athletes-magical-welcome.html)
+ [ ![ TAGS:](post-images/50112ad840332s80484.jpg "Londres 2012, bienvenida a los atletas ")](http://www.london2012.com/news/articles/london-2012-gives-athletes-magical-welcome.html)
 
  El comparador de precios de [Trivago](http://www.trivago.es) ha publicado en su web después de analizar tarifas desde Abril hasta finales de Julio, que **los hoteles de Londres han reducido sus precios en un 36% durante las fechas de los Juegos Olimpicos Londres 2012**.
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2013-06-28 13:34:00"
 slug: "10-mejores-hoteles-playa-espana-2013-2279394"
 categories: ["Europa","Hoteles","Playas"]
-image: "/post-images/51cd6f8198cafs2524618.jpg"
+image: "post-images/51cd6f8198cafs2524618.jpg"
 ---
 
- ![ TAGS:](/post-images/51cd6f8198cafs2524618.jpg "MIrador de Dalt Vila , detalle de la piscina")Tal y como nos tienen acostumbrados los chicos de Trivago, han publicado su último ránking a través de las valoraciones de sus usuarios sobre los 10 mejores hoteles de playa en España del 2013. Este es el resultado.
+ ![ TAGS:](post-images/51cd6f8198cafs2524618.jpg "MIrador de Dalt Vila , detalle de la piscina")Tal y como nos tienen acostumbrados los chicos de Trivago, han publicado su último ránking a través de las valoraciones de sus usuarios sobre los 10 mejores hoteles de playa en España del 2013. Este es el resultado.
 
 1. [**Vincci Selección Aleysa Playa (Benalmádena, Málaga)**](http://www.trivago.es/benalmadena-89089/hotel/vincci-seleccion-aleysa-100353), situado en primera línea es el único hotel boutique 5 estrellas en el corazón de la Costa del Sol. Cerca de Marbella y Torremolinos decir que entre sus "delicatessen" está la carta de almohadas que ofrecen a sus clientes.
 2. [Marítimo Ris](http://www.trivago.es/noja-102398/hotel/maritimo-ris-1585857) (Noja, Cantabria)**, en primera línea de la Playa de Ris en Noja, es un hotel de 3 estrellas rodeado de más de 2km de playa. Es perfecto para los más aventureros ya que su orientación hacia el norte es ideal para la práctica del surf y otros deportes acuáticos.

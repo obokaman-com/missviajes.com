@@ -4,14 +4,14 @@ type: "post"
 date: "2007-03-08 00:00:00"
 slug: "hotel-disney-broadwalk-inn-8550"
 categories: ["América","En Familia","Hoteles"]
-image: "/post-images/8550-9965.jpg"
+image: "post-images/8550-9965.jpg"
 ---
 
-![hall Broadwalk Inn](/post-images/8550-9965.jpg "hall Broadwalk Inn")
+![hall Broadwalk Inn](post-images/8550-9965.jpg "hall Broadwalk Inn")
 
 Este hotel de categoría **cinco estrellas** forma parte del complejo de resorts de **Walt Disney World Orlando**. Junto con el hotel Disney Beach Club y el Disney Yacht Club, es de los pocos hoteles desde los cuales puedes ir caminando hacia uno de los parques Disney, en este caso **Epcot.**
 
-![lago zona Broadwalk Inn](/post-images/8550-9964.jpg "lago zona Broadwalk Inn")Alrededor de un gran lago, con un gran paseo de madera, este hotel recuerda los hoteles-vacaciones que a principios del siglo XX alojaron a los primeros veraneantes que huían de las grandes ciudades. Combina el **clasicismo de la época con cierta extravagancia en la decoración** : juguetes antiguos, grandes porches, sillas mecedoras dónde descansar con vistas al lago, villas y edificios de poca altura con largos pasillos, colores vistosos, además de jardines y fuentes muy cuidadas.
+![lago zona Broadwalk Inn](post-images/8550-9964.jpg "lago zona Broadwalk Inn")Alrededor de un gran lago, con un gran paseo de madera, este hotel recuerda los hoteles-vacaciones que a principios del siglo XX alojaron a los primeros veraneantes que huían de las grandes ciudades. Combina el **clasicismo de la época con cierta extravagancia en la decoración** : juguetes antiguos, grandes porches, sillas mecedoras dónde descansar con vistas al lago, villas y edificios de poca altura con largos pasillos, colores vistosos, además de jardines y fuentes muy cuidadas.
 
 Las **habitaciones** son muy amplias y acogedoras, muy completas con un baño grande y todo los servicios de rigor.
 
@@ -23,7 +23,7 @@ Las **habitaciones** son muy amplias y acogedoras, muy completas con un baño gr
 
 **CURIOSIDADES**
 
-- ![paseo Broadwalk Inn](/post-images/8550-9962.jpg "paseo Broadwalk Inn")En el vestíbulo del hotel hay un carrusel en miniatura. Es de los años 20 y lo fabricó un maestro diseñador de carruseles de Illinois.
+- ![paseo Broadwalk Inn](post-images/8550-9962.jpg "paseo Broadwalk Inn")En el vestíbulo del hotel hay un carrusel en miniatura. Es de los años 20 y lo fabricó un maestro diseñador de carruseles de Illinois.
 
 **INFORMACIÓN ADICIONAL**
 

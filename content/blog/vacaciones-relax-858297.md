@@ -4,10 +4,10 @@ type: "post"
 date: "2010-08-27 22:52:00"
 slug: "vacaciones-relax-858297"
 categories: ["Sin Categoría"]
-image: "/post-images/858297-286607.jpg"
+image: "post-images/858297-286607.jpg"
 ---
 
-![SPA balnearios](/post-images/858297-286607.jpg "SPA balnearios")Con la vida tan ajetreada que llevamos, los niños, el cole, el coche, el tráfico, metros y trenes con retrasos, el trabajo y los objetivos cumplidos, los jefes, la casa, lavadoras, cuelga la ropa de la lavadora, recoge la ropa de la lavadora, plancha la ropa de la lavadora... uooo uooo uoooo... ¡STOP! Hay que poner un freno (aparte de pagar a alguien que te ayude en las faenas de casa... jejeje) y cada uno lo intenta como puede. Unos viajan y desconectan en un mundo diferente al nuestro y otros se van a un hotel aislado a descansar.
+![SPA balnearios](post-images/858297-286607.jpg "SPA balnearios")Con la vida tan ajetreada que llevamos, los niños, el cole, el coche, el tráfico, metros y trenes con retrasos, el trabajo y los objetivos cumplidos, los jefes, la casa, lavadoras, cuelga la ropa de la lavadora, recoge la ropa de la lavadora, plancha la ropa de la lavadora... uooo uooo uoooo... ¡STOP! Hay que poner un freno (aparte de pagar a alguien que te ayude en las faenas de casa... jejeje) y cada uno lo intenta como puede. Unos viajan y desconectan en un mundo diferente al nuestro y otros se van a un hotel aislado a descansar.
 
 Los spas, balnearios, centros de wellness, casas rurales y centros de masajes lo saben y por eso cada vez más cuidan con mimo todos los detalles y cada vez son más el número de alojamientos especializados repartidos por toda la península.
 

@@ -4,14 +4,14 @@ type: "post"
 date: "2011-10-13 22:38:00"
 slug: "vincci-hoteles-1292664"
 categories: ["Hoteles"]
-image: "/post-images/4e974685b6fb3s48220.jpg"
+image: "post-images/4e974685b6fb3s48220.jpg"
 ---
 
- ![ TAGS:](/post-images/4e974685b6fb3s48220.jpg "hotel vincci helios")
+ ![ TAGS:](post-images/4e974685b6fb3s48220.jpg "hotel vincci helios")
 
  Hoy te voy a hablar de la cadena de Hoteles Vincci. Tienen un total de 35 hoteles repartidos entre España, Portugal, Túnez y por último uno de ellos en New York. Entre todos los establecimientos, la clasificación que ellos mismos utilizan los filtra en primer lugar por hoteles **Vincci&amp;spa,** como el hotel spa Túnez Nozha Beach de Hammamet que ofrece además servicio todo incluido.
 
- ![ TAGS:](/post-images/4e9746307b68cs40701.jpg "hotel vincci canela golf resort")Los denominados hoteles **Vincci&amp;Urbano** son hoteles más orientados al viajero de negocios y al turista que busca un alojamiento céntrico para disfrutar de la oferta de ocio y cultura de la ciudad así como descubrir sus rincones. Es el caso del **Vincci Capitol** en pleno corazón de Madrid (entre Gran Via y Plaza Callao) o el **Vincci Centrum** más de diseño y al lado del Museo del Prado.
+ ![ TAGS:](post-images/4e9746307b68cs40701.jpg "hotel vincci canela golf resort")Los denominados hoteles **Vincci&amp;Urbano** son hoteles más orientados al viajero de negocios y al turista que busca un alojamiento céntrico para disfrutar de la oferta de ocio y cultura de la ciudad así como descubrir sus rincones. Es el caso del **Vincci Capitol** en pleno corazón de Madrid (entre Gran Via y Plaza Callao) o el **Vincci Centrum** más de diseño y al lado del Museo del Prado.
 
  Dentro del grupo de los **Vincci&amp;Mar,** ubicados algunos a pie de bonitas playas y algunos cerca de emblemáticas zonas marítimas**,** se encuentra una de las joyas de los Vincci: el hotel colonial **La Plantación del Sur** en Costa Adeje con unas hermosas vistas al mar y jardines tropicales.
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2020-01-28 00:00:00"
 slug: "avignon-campos-lavanda-2395793"
 categories: ["Europa"]
-image: "/post-images/55cdf4c694e49s336491.jpg"
+image: "post-images/55cdf4c694e49s336491.jpg"
 ---
 
    
@@ -13,7 +13,7 @@ Para mí fue todo un descubrimiento visitar la Provenza. Sin saber que me iba a 
   
 Empezamos por el **[Palacio de los Papas](http://www.palais-des-papes.com/fr)** . La historia de este Palacio comienza en 1309 cuando un papa llamado Clemente V traslada la sede de Roma a Avignon. Esta construcción resultó ser extremadamente caro para las arcas papales de la época que se quedaron sin fondos. Una vez acabado, este palacio fue el mayor palacio gótico de Europa (equivaldría a cuatro catedrales juntas), sede de nueve papas y símbolo de la Cristiandad del siglo XV. Fue decorado lujosamente y a día de hoy se pueden visitar 25 de sus cámaras dónde se mantienen algunos frescos de incalculable valor.  
   
-![](/post-images/55cdf4c694e49s336491.jpg)  
+![](post-images/55cdf4c694e49s336491.jpg)  
   
 Otra de las visitas estrellas de esta bella población es el **puente de Saint Beneze,** patrimonio de la Unesco, Hoy sólo quedan en pie cuatro de los veintidós arcos que tenía el puente, mantiene todo su encanto. Se levantó en el siglo XII sustituyendo uno que había de madera para unir las dos orillas del río Ródano. En pie se mantiene la antigua capilla de Saint Beneze dónde los viajeros hacían una parada para orar. En el pasado el puente continuaba hasta la isla de Barthelasse y después de cruzarla llegaba hasta Villeneuve-lez-Aviñon.  
   
@@ -21,7 +21,7 @@ Caminando por entre los callejones de la ciudad , encontrarás un mercado, el **
   
 **En la place d'Horloge podrás tomar un buen café** al lado del antiguo Tio Vivo. Alrededor de esta plaza hay muchas calles adoquinadas con reminiscencias medievales como es el caso de la Rue des Teinturiers por dónde corre el agua del canal.  
   
-Verás que no faltan tiendas con productos elaborados de Lavanda, chocolates y *calissons* (un dulce típico francés), tiendas de diseñadores locales franceses tanto de ropa como del mobiliario provenzal tan trendy como costoso. Sin duda, junto con la [ **semana en París**](http://www.missviajes.com/semana-paris-imprescindibles-2369134) y los **[ Castillos del Loira](http://www.missviajes.com/castillos-loira-ruta-renacimiento-58954)**, es una escapada ![ TAGS:undefined](/post-images/55cdf5cbc6932s294429.jpg)muy recomendable en el país vecino.  
+Verás que no faltan tiendas con productos elaborados de Lavanda, chocolates y *calissons* (un dulce típico francés), tiendas de diseñadores locales franceses tanto de ropa como del mobiliario provenzal tan trendy como costoso. Sin duda, junto con la [ **semana en París**](http://www.missviajes.com/semana-paris-imprescindibles-2369134) y los **[ Castillos del Loira](http://www.missviajes.com/castillos-loira-ruta-renacimiento-58954)**, es una escapada ![ TAGS:undefined](post-images/55cdf5cbc6932s294429.jpg)muy recomendable en el país vecino.  
   
    
   

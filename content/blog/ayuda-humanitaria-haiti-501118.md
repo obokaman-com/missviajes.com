@@ -4,12 +4,12 @@ type: "post"
 date: "2010-01-14 20:51:00"
 slug: "ayuda-humanitaria-haiti-501118"
 categories: ["Sin Categoría"]
-image: "/post-images/501118-212782.jpg"
+image: "post-images/501118-212782.jpg"
 ---
 
 Tengo un post a medias pero me parece una frivolidad colgar un artículo sobre turismo cuando miles de personas están sufriendo las graves consecuencias del **terremoto de Haití.** Parece que las desgracias se ceban con los que menos tienen. Poco más puedo decir que no se haya dicho ya en todos los medios de comunicación.
 
-![cruz roja](/post-images/501118-212782.jpg "cruz roja")Me da mucha pena. Desde este humilde blog envio mi más sentido pésame y mi soporte a todos aquellos de manera directa o directamente estén afectados por este golpe tan fuerte de la naturaleza.
+![cruz roja](post-images/501118-212782.jpg "cruz roja")Me da mucha pena. Desde este humilde blog envio mi más sentido pésame y mi soporte a todos aquellos de manera directa o directamente estén afectados por este golpe tan fuerte de la naturaleza.
 
 Haití es uno de los países más pobres del mundo, o si no al menos el más podre de América Latina. Las imágenes de niños solos buscando a sus padres, cadáveres por las calles sin que nadie pueda enterrarlos, edificios derruidos, ..... es estremecedor. Los países occidentales se han movilizado , es nuestra obligación moral, pero toda ayuda es poca. Necesitan ayuda de todo tipo. Aquí tienes algunas páginas web que esperan donativos
 

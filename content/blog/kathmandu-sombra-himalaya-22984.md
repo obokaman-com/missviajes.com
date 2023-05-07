@@ -4,16 +4,16 @@ type: "post"
 date: "2013-05-16 09:00:00"
 slug: "kathmandu-sombra-himalaya-22984"
 categories: ["Asia"]
-image: "/post-images/518ce78534f71s332343.jpg"
+image: "post-images/518ce78534f71s332343.jpg"
 ---
 
- [ ![ TAGS:](/post-images/518ce78534f71s332343.jpg "prayer wheels by jeeheon")](http://www.flickr.com/photos/jeeheon/5013459373/sizes/z/in/photostream/)
+ [ ![ TAGS:](post-images/518ce78534f71s332343.jpg "prayer wheels by jeeheon")](http://www.flickr.com/photos/jeeheon/5013459373/sizes/z/in/photostream/)
 
  Katmandhu, **la capital del Nepal** se encuentra a las faldas de la cordillera del Himalaya. Es muy habitual visitarla después de haber visitado India y realmente resulta ser un dulce después del caos, la miseria y los contrastes del país vecino.
 
  Vista desde los tejados, con las montañas de fondo parecen una mezcla de típica postal alpina pero con el reflejo de los adornos de los templos budistas. No tiene nada que ver con India y si tiene que ver con la mentalidad más curtida de los inviernos que se esconden tras los elevados picos.
 
- [ ![ TAGS:](/post-images/518ce8929875fs133687.jpg "niña de Kathmandu by girolame")](http://www.flickr.com/photos/girolame/6279154286/sizes/m/in/photostream/)En el **centro histórico** puedes ver calles apelotonadas, alrededor de la **plaza Durbar**, dónde años de historia se funden con monjes, **antiguos templos budistas** , **turistas** y puestos ambulantes dónde comprar. Ason Toler y la Stupa de Swambunath son visitas obligadas.
+ [ ![ TAGS:](post-images/518ce8929875fs133687.jpg "niña de Kathmandu by girolame")](http://www.flickr.com/photos/girolame/6279154286/sizes/m/in/photostream/)En el **centro histórico** puedes ver calles apelotonadas, alrededor de la **plaza Durbar**, dónde años de historia se funden con monjes, **antiguos templos budistas** , **turistas** y puestos ambulantes dónde comprar. Ason Toler y la Stupa de Swambunath son visitas obligadas.
 
  **RECOMENDACIONES**
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2019-07-01 00:00:00"
 slug: "granada-alhambra-siete-maravillas-12402"
 categories: ["Visitas Y Excursiones"]
-image: "/post-images/12402-13124.jpg"
+image: "post-images/12402-13124.jpg"
 ---
 
 Han sido varías las intentonas promovidas por las instituciones para que La Alhambra de Granada se convierta en una de las 7 Maravillas del Mundo, aunque de momento sin éxito que yo sepa. Me gustaría que algún día lo fuera. Es uno de los lugares más mágicos que recuerdo de España.
@@ -25,12 +25,12 @@ La Alcaicería era el antiguo mercado de la seda, el antiguo zoco árabe lleno d
   
    
   
-![ TAGS:undefined](/post-images/12402-13124.jpg "detalle de la Alhambra by missviajes")  
+![ TAGS:undefined](post-images/12402-13124.jpg "detalle de la Alhambra by missviajes")  
   
 Pero mi consejo es que la ciudad hay que vivirla,  
   
 **RECOMENDACIONES**- Antes de ir a cenar, o ir a comer, piensa que por cada cerveza o un vinito que pidas te sirven una tapa. Pero no hablo de un platito con olivas o patatas fritas, no ... puede ser un plato combinado, ensaladilla rusa, paella, jamón... Y lo más gracioso es que si pides más de una ronda en el mismo bar, no repetirás de tapa. (entre nosotros, todavía no entiendo de dónde sacan el beneficio ¿?).
-- Las entradas de **la Alhambra y el Generalife** hay que comprarlas con antelación porque hay un numero limitado de visitantes al día.![ TAGS:undefined](/post-images/12402-13121.jpg "albaycin by missviajes")
+- Las entradas de **la Alhambra y el Generalife** hay que comprarlas con antelación porque hay un numero limitado de visitantes al día.![ TAGS:undefined](post-images/12402-13121.jpg "albaycin by missviajes")
 - El Albaicín está lleno de antiguos cármenes transformados en hoteles con encanto. Aunque tengas que pasarte el día subiendo y bajando pendientes (ojo !! son calles empedradas, así que zapato cómodo y con un poquito de suela) , vale la pena. Mi recomendación es [Carmen de la Alcubilla del Caracol](https://www.booking.com/hotel/es/carmen-de-la-alcubilla-del-caracol.en.html?aid=1294466&no_rooms=1&group_adults=1), un hotelito con mucho encanto y un personal de lo más amable.
 
 **CURIOSIDADES**- En Granada se llama carmen a las casas moriscas del Albaicín que tienen un patio ajardinado en su interior.

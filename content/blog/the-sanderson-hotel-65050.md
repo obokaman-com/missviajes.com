@@ -4,14 +4,14 @@ type: "post"
 date: "2008-02-29 00:00:00"
 slug: "the-sanderson-hotel-65050"
 categories: ["Sin Categoría"]
-image: "/post-images/65050-54298.jpg"
+image: "post-images/65050-54298.jpg"
 ---
 
-![recepción](/post-images/65050-54298.jpg "recepción")
+![recepción](post-images/65050-54298.jpg "recepción")
 
 Considerado uno de los mejores hoteles del mundo, nadie lo diria pensando si tomas como referencia la fachada del edificio de oficinas tan "común" dónde esta instalado. Este hotel no te dejará indiferente, o te encantará o lo detestarás por agotamiento visual.
 
- Ubicado **en el West End de Londres, a 15 minutos de Picadilly y British Museum**, este hotel de diseño justifica **sus 5 estrellas** con una **explosión de colores, espacios surrealistas y muebles únicos**. ![bar Largo](/post-images/65050-54297.jpg "bar Largo")
+ Ubicado **en el West End de Londres, a 15 minutos de Picadilly y British Museum**, este hotel de diseño justifica **sus 5 estrellas** con una **explosión de colores, espacios surrealistas y muebles únicos**. ![bar Largo](post-images/65050-54297.jpg "bar Largo")
 
 Empezando por la recepción y siguiendo por todas las áreas comunes es pasearte por una galería de arte contemporáneo dónde la estética es la que marca las áreas. Sillas con ojos, ascensor con estrellas, sofas de estilo rococó, mesas étnicas a lo africano.. .. todo tiene cabida.
 

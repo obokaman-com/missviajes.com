@@ -4,10 +4,10 @@ type: "post"
 date: "2011-12-26 13:37:00"
 slug: "proxima-inauguracion-hotel-jumeirah-port-soller-resort-1347518"
 categories: ["Europa","Hoteles"]
-image: "/post-images/4ef45ea4ad110s150778.jpg"
+image: "post-images/4ef45ea4ad110s150778.jpg"
 ---
 
- **[ ![ TAGS:](/post-images/4ef45ea4ad110s150778.jpg "puerto de Soller by wo.men")](http://www.flickr.com/photos/16aabb16/5580010668/sizes/z/in/photostream/)**
+ **[ ![ TAGS:](post-images/4ef45ea4ad110s150778.jpg "puerto de Soller by wo.men")](http://www.flickr.com/photos/16aabb16/5580010668/sizes/z/in/photostream/)**
 
  **Jumeirah Hotels &amp; Resorts** ha elegido **Mallorca** como sede de su primer hotel en España y  
  primer resort del grupo en Europa. El hotel, que **abrirá sus puertas en marzo del 2012, tendrá la categoría cinco estrellas gran lujo.**

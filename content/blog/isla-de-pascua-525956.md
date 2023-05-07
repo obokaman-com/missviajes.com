@@ -4,10 +4,10 @@ type: "post"
 date: "2010-02-28 23:13:00"
 slug: "isla-de-pascua-525956"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/525956-224939.jpg"
+image: "post-images/525956-224939.jpg"
 ---
 
-[![moai by avodrocc](/post-images/525956-224939.jpg "moai by avodrocc")](http://www.flickr.com/photos/22086776@N00/3175426265)
+[![moai by avodrocc](post-images/525956-224939.jpg "moai by avodrocc")](http://www.flickr.com/photos/22086776@N00/3175426265)
 
 Creo que el misterio es el mayor atractivo de esta isla. **Es el lugar habitado más aislado del mundo**. El punto más próximo para **llegar es Santiago de Chile y tardas entre 5 y 6 horas en avión.** Aunque políticamente pertenece a Chile, su población es más polinésica que chilena.
 

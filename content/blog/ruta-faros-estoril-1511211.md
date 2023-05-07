@@ -4,14 +4,14 @@ type: "post"
 date: "2017-02-16 00:00:00"
 slug: "ruta-faros-estoril-1511211"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/faro-cascais-1024x683.jpg"
+image: "post-images/faro-cascais-1024x683.jpg"
 ---
 
 [](/wp-content/uploads/2012/02/4f43941eba7a5s215865.jpg)  
   
 La **Costa de Estoril (Portugal)** fue una de las primeras regiones en implementar la profesión de farero. Los aventureros que marchaban en busca de nuevas oportunidades en el ‘nuevo continente’ y el aumento de las transacciones comerciales por vía marítima, permitieron que se iniciara esta actividad en el siglo XVIII. Actualmente, la Costa de Estoril mantiene su esencia marinera con estos emplazamientos que son auténticas piezas de museo  
   
-![](/post-images/faro-cascais-1024x683.jpg)  
+![](post-images/faro-cascais-1024x683.jpg)  
   
 El **Farol da Guía** fue uno de los primeros faros que iluminó los mares europeos en el siglo XVIII. Ubicado en la localidad de Cascais, todavía hoy se mantiene en pie después de resistir al devastador terremoto de 1755.  
   

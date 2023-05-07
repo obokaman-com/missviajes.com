@@ -4,10 +4,10 @@ type: "post"
 date: "2012-05-14 23:30:00"
 slug: "busco-un-viaje-1948512"
 categories: ["Cosas Varias"]
-image: "/post-images/4fb2c8737f664s223565.jpg"
+image: "post-images/4fb2c8737f664s223565.jpg"
 ---
 
- [![ TAGS:](/post-images/4fb2c8737f664s223565.jpg "Busco Un Viaje")](/post-images/4fb2c8737f664s223565.jpg)
+ [![ TAGS:](post-images/4fb2c8737f664s223565.jpg "Busco Un Viaje")](post-images/4fb2c8737f664s223565.jpg)
 
  Como ya expliqué hace unos días, asistí al último Travel Blogger Meeting celebrado en la Sierra de Gredos. [BuscoUnviaje](http://www.buscounviaje.com) era uno de los patrocinadores, **es el primer buscador de viajes de Internet que te pone en contacto con agencias de viaje especializadas para organizar tu viaje a medida,** agencias tan reconocidas como **Orixá, Años Luz, Kananga, Banoa, Taranná o Nuba**.
 

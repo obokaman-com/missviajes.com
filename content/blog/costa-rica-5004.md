@@ -4,14 +4,14 @@ type: "post"
 date: "2006-11-20 00:00:00"
 slug: "costa-rica-5004"
 categories: ["América"]
-image: "/post-images/5004-5256.jpg"
+image: "post-images/5004-5256.jpg"
 ---
 
 Hay una **leyenda** que refleja muy bien la esencia de Costa Rica. Cerca de San José , hace muchísimos años una princesa llamada Turi Uba , se fugó con su joven guerrero enamorado perteneciente a una tribu enemiga y junto con un grupo de amigas que compartian su dolor. En la huida el joven murió a manos del padre de ella y su alma ascendió a la cima de un cerro donde habitaban las almas. Turi Uba siguió alejandóse junto con sus amigas, pero fue tan grande la pena y las ganas de reunirse con su querido , que poco a poco sus cuerpos se volvieron más ágiles, sus pieles en sedosas alas ... hasta transformarse en mariposas. Por eso se suele ven en grandes cantidades mágicas mariposas en las cumbres de Zurquí.
 
-![Volcán Poas](/post-images/5004-5256.jpg "Volcán Poas")Costa RICA es **naturaleza en estado puro**. Es de obligada visita el **Volcán Poas** con uno de los cráteres más grandes del mundo; el **Parque nacional de Tortuguero**, santuario de tortugas, dónde puedes verlas en su hábitat natural;el **Parque Nacional de Corcovado** con playas de agua cristalinas ; la **Reserva Biológica del Bosque Nuboso de Monteverde**, lugar mágico lleno de vida, con gran variedad de flora y fauna; el **Parque Nacional de Manuel Antonio** dónde encontrarte con perezosos , monos y demás animales y **Guanacaste**,recorriendo en bote el río Tempisque, dónde puedes ver la riqueza de este parque en vida anfibia y reptil y aves acuáticas. La lista seguiría pero todo dependerá del numero de dias que dispongas para viajar por el país.
+![Volcán Poas](post-images/5004-5256.jpg "Volcán Poas")Costa RICA es **naturaleza en estado puro**. Es de obligada visita el **Volcán Poas** con uno de los cráteres más grandes del mundo; el **Parque nacional de Tortuguero**, santuario de tortugas, dónde puedes verlas en su hábitat natural;el **Parque Nacional de Corcovado** con playas de agua cristalinas ; la **Reserva Biológica del Bosque Nuboso de Monteverde**, lugar mágico lleno de vida, con gran variedad de flora y fauna; el **Parque Nacional de Manuel Antonio** dónde encontrarte con perezosos , monos y demás animales y **Guanacaste**,recorriendo en bote el río Tempisque, dónde puedes ver la riqueza de este parque en vida anfibia y reptil y aves acuáticas. La lista seguiría pero todo dependerá del numero de dias que dispongas para viajar por el país.
 
-![Parque Nacional de Tortuguero](/post-images/5004-5259.jpg "Parque Nacional de Tortuguero")Un elevado porcentaje de la **oferta hotelera** son tipo lodges y bungalows . Pero este concepto de hotel, que siempre intenta respetar el entorno, puede ser en según que zonas una opción muy justita .
+![Parque Nacional de Tortuguero](post-images/5004-5259.jpg "Parque Nacional de Tortuguero")Un elevado porcentaje de la **oferta hotelera** son tipo lodges y bungalows . Pero este concepto de hotel, que siempre intenta respetar el entorno, puede ser en según que zonas una opción muy justita .
 
 
 

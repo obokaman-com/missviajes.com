@@ -4,10 +4,10 @@ type: "post"
 date: "2008-11-07 00:00:00"
 slug: "sorteo-viaje-al-londres-james-bond-152036"
 categories: ["Sin Categoría"]
-image: "/post-images/152036-101827.jpg"
+image: "post-images/152036-101827.jpg"
 ---
 
- ![big ben by lope@](/post-images/152036-101827.jpg "big ben by lope@")El **próximo dia 21 de noviembre** se estrena en España la última película de James Bond titulada [007 Quantum of Solace](http://www.sonypicturesreleasing.es/sites/quantumofsolace/test01_007/) y la oficina de [Turismo de Gran Bretaña](http://www.visitbritain.es/?SE=GGL&CAT=VB+Brand&KEY=visit+britain&MED=IH) ha arrancado su maquinaria de promoción para aprovechar la tirada y el reclamo de su personaje fetiche.
+ ![big ben by lope@](post-images/152036-101827.jpg "big ben by lope@")El **próximo dia 21 de noviembre** se estrena en España la última película de James Bond titulada [007 Quantum of Solace](http://www.sonypicturesreleasing.es/sites/quantumofsolace/test01_007/) y la oficina de [Turismo de Gran Bretaña](http://www.visitbritain.es/?SE=GGL&CAT=VB+Brand&KEY=visit+britain&MED=IH) ha arrancado su maquinaria de promoción para aprovechar la tirada y el reclamo de su personaje fetiche.
 
 ¿Cómo? Con **un sorteo: un viaje muy especial**, un experiencia única, pensada para que los fans de James Bond y los amantes de los viajes diferentes puedan emular , al menos por unos días, el auténtico estilo de vida 007.
 

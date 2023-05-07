@@ -4,7 +4,7 @@ type: "post"
 date: "2018-11-26 00:00:04"
 slug: "el-desierto-de-atacama-el-cielo-mas-limpio-del-planeta"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/IMG_2405.jpg"
+image: "post-images/IMG_2405.jpg"
 ---
 
 El **desierto de Atacama** fue sin dudas el mejor descubrimiento de mi [viaje cruzando los Andes](http://www.missviajes.com/cruzando-los-andes-de-atacama-a-salta/).
@@ -23,7 +23,7 @@ Tiene un algo hippy, joven, con buena energía y que despierta buen ambiente.
 
 
 
-![](/post-images/IMG_2405.jpg)
+![](post-images/IMG_2405.jpg)
 
 
 
@@ -31,7 +31,7 @@ De entre todas las excursiones que se pueden hacer las más impactantes para mi 
 
  a) La de los **Geysers del Tatio:** te levantas a las 05.00 de la mañana (aún de noche) para que cuando llegues a la localización de los geysers puedas verlos despertar a medida que el sol sale y va poco a poco calentando el agua. El lugar es espectacular con los colores del azufre, el blanco de la sal, el marrón intenso de las montañas, los vapores... Increíble !
 
-![](/post-images/IMG_2429.jpg)
+![](post-images/IMG_2429.jpg)
 
 
 
@@ -39,7 +39,7 @@ b) **El salar y las lagunas Altiplánicas.** fue otra de las excursiones que má
 
 
 
-![](/post-images/IMG_2628.jpg)
+![](post-images/IMG_2628.jpg)
 
 
 
@@ -55,7 +55,7 @@ d) Por último y si te da tiempo, puedes acercarte al **Valle de la Luna y al Va
 
  
 
-![](/post-images/IMG_2652.jpg)
+![](post-images/IMG_2652.jpg)
 
 **RECOMENDACIONES**
 

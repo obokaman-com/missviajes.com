@@ -4,14 +4,14 @@ type: "post"
 date: "2016-05-03 00:00:00"
 slug: "holanda-pais-cuento-854332"
 categories: ["En Familia","Europa"]
-image: "/post-images/AMSTERDAM-300x169.jpg"
+image: "post-images/AMSTERDAM-300x169.jpg"
 ---
 
 ¿Pensando en dónde irte estas vacaciones ? Voy a hacerte una sugerencia.... tal vez Holanda  
   
 Holanda es de aquellos países que resultan ser agradecidos en un viaje. Me explico, es un país pequeño, de distancias cortas dónde no se hace pesado hacer kilómetros; dónde moverse muy fácilmente, de preciosos paisajes llanos de vivos colores y pueblos pintorescos, con una gente especialmente cordial, amable y tolerante; un país que culturalmente tiene mucho que ofrecer, con un importantísimo patrimonio artístico y sobretodo pictórico; un país perfecto para viajar con niños.... !! Que más se puede pedir !!!  
   
-[![AMSTERDAM](/post-images/AMSTERDAM-300x169.jpg)Amsterdam](http://www.missviajes.com/amsterdam-capital-tulipanes-5053/)**,** la capital, es una mezcla de lo nuevo con lo antiguo (museos del sexo, modernas cafeterías se mezclan entre antiguos edificios, bicicletas y canales). **La Haya, Rotterdam , Utrecht, Haarlem, Maastricht** (la ciudad más antigua de los Países Bajos, año 50a.c. cuando los romanos se aposentaron a orillas del río Mosa) son las ciudades más importantes del país con una gran oferta cultural, museos y lugares históricos que visitar.  
+[![AMSTERDAM](post-images/AMSTERDAM-300x169.jpg)Amsterdam](http://www.missviajes.com/amsterdam-capital-tulipanes-5053/)**,** la capital, es una mezcla de lo nuevo con lo antiguo (museos del sexo, modernas cafeterías se mezclan entre antiguos edificios, bicicletas y canales). **La Haya, Rotterdam , Utrecht, Haarlem, Maastricht** (la ciudad más antigua de los Países Bajos, año 50a.c. cuando los romanos se aposentaron a orillas del río Mosa) son las ciudades más importantes del país con una gran oferta cultural, museos y lugares históricos que visitar.  
   
 Otros lugares interesantes que visitar son por ejemplo los **jardines de tulipanes de** **Keukenhof** (es el jardín más grande del planeta), o **las islas Wadden**, la ciudad medieval de **Den Bosch**, el mercado de quesos de Gouda, o **los molinos de Kinderdijk** (Patrimonio Mundial de la Unesco).  
   

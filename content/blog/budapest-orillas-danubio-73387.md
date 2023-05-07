@@ -4,16 +4,16 @@ type: "post"
 date: "2015-09-28 09:00:00"
 slug: "budapest-orillas-danubio-73387"
 categories: ["Europa"]
-image: "/post-images/55f7fac383a4es503470.jpg"
+image: "post-images/55f7fac383a4es503470.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/55f7fac383a4es503470.jpg "puente de las Cadenas ")
+ ![ TAGS:undefined](post-images/55f7fac383a4es503470.jpg "puente de las Cadenas ")
 
  Hungría, y por efecto colateral , Budapest no es que esté en su momento algido de popularidad con todo el conflicto de los refugiados. Dudé por un momento en escribir este post o no. Sin embargo una cosa no quita la otra. No hay que dejar de reconocer la [belleza de este lugar, Budapest.](http://destinia.com/viajes/Budapest/) Junto con [ Praga](http://www.missviajes.com/praga-joyas-mejor-conservadas-europa-8436), es una de las joyas de centroeuropa, una escala obligatoria para los bucólicos del pasado.
 
  La ciudad se levanta a orillas del Danubio: **Buda y Obuda** en el margen occidental del rio y origen histórico de la ciudad y **Pest** en el margen oriental que se expandió más durante la industrialización de finales del siglo XIX.
 
- El **barrio del Castillo**, perfecto para unos paseos románticos, **la plaza Disz**, la **iglesia Mathias** (dónde se coronaba a los reyes húngaros), el **antiguo Ayuntamiento**, el antiguo **Palacio Real** y la **Iglesia de los Capuchinos** (que durante la invasión turca fue transformada en mezquita para lugeo volver a convertirse en iglesia) son algunos de los lugares a destacar de Buda. ![ TAGS:undefined](/post-images/55f7f91a40ca1s53940.jpg "panoramica de Budapest")
+ El **barrio del Castillo**, perfecto para unos paseos románticos, **la plaza Disz**, la **iglesia Mathias** (dónde se coronaba a los reyes húngaros), el **antiguo Ayuntamiento**, el antiguo **Palacio Real** y la **Iglesia de los Capuchinos** (que durante la invasión turca fue transformada en mezquita para lugeo volver a convertirse en iglesia) son algunos de los lugares a destacar de Buda. ![ TAGS:undefined](post-images/55f7f91a40ca1s53940.jpg "panoramica de Budapest")
 
  Numerosos puentes cruzan el Danubio para acercarnos a Pest, entre ellos destaca el **Puente de las Cadenas** o el de la **Liberación** (dedicado a Sissi Emperatriz ). No dejes de pasear a orillas del rio, a tu paso iras encontrando pedacitos de historia inolvidables.
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2008-07-18 00:00:00"
 slug: "ganador-concurso-musica-viajar-109678"
 categories: ["Sin Categoría"]
-image: "/post-images/109678-81388.jpg"
+image: "post-images/109678-81388.jpg"
 ---
 
-![MP3 Sanza Fuze](/post-images/109678-81388.jpg "MP3 Sanza Fuze")Ya tenemos el ganador del concurso "[Musica para viajar](http://www.missviajes.com/concurso-musica-viajar-102505#comments_list)". Antes de nada agradecer la participación y cada una de las sugerencias que habeis ido enviando. Ha habido comentarios de todo tipo y algunos muy divertidos (entre los que señalaría el de alicietix : *si vas con niños lo mejor las canciones de los payasos de la tele, así no molestan* o el de Fernando escribiendo vivas a Giorgie Dan... jejejej ).
+![MP3 Sanza Fuze](post-images/109678-81388.jpg "MP3 Sanza Fuze")Ya tenemos el ganador del concurso "[Musica para viajar](http://www.missviajes.com/concurso-musica-viajar-102505#comments_list)". Antes de nada agradecer la participación y cada una de las sugerencias que habeis ido enviando. Ha habido comentarios de todo tipo y algunos muy divertidos (entre los que señalaría el de alicietix : *si vas con niños lo mejor las canciones de los payasos de la tele, así no molestan* o el de Fernando escribiendo vivas a Giorgie Dan... jejejej ).
 
 Yo suele escoger música del destino dónde me dirijo. Si voy a Brasil, lleno los megas de mi mp3 con Bossanova y si voy a Marruecos intento buscar canciones de algún artista local (aunque no entienda mucho de ese estilo ). En mi caso me ayuda a vivir más intensamente el país.
 

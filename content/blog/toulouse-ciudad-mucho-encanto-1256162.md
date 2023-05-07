@@ -4,7 +4,7 @@ type: "post"
 date: "2011-08-10 16:10:00"
 slug: "toulouse-ciudad-mucho-encanto-1256162"
 categories: ["Europa"]
-image: "/post-images/4e4256b662c48s144185.jpg"
+image: "post-images/4e4256b662c48s144185.jpg"
 ---
 
 [](/wp-content/uploads/2011/08/4e42587c92dces126723.jpg)
@@ -13,7 +13,7 @@ Toulouse es la capital del Midi-Pyrénées, una de las ciudades más pobladas de
 
 Es una ciudad con mucha vitalidad, mucha cultura, con una personalidad propia gracias en parte a su fachada de tejas rojas que la hacen tan peculiar (llamada también la ciudad rosa). Son de visita imprescindible **la plaza del Capitolio y el ayuntamiento, la basílica Saint-Sernin, la parte del viejo Toulouse, el canal del Mediodía (declarado Patrimonio Mundial de la Humanidad por la Unesco)y un paseo por las orillas del Garona**. Puedes dar un paseo en barca y hacer un pequeño trayecto por el [Canal du Midi](http://www.missviajes.com/navegar-canal-du-midi-9503).
 
-![ - ](/post-images/4e4256b662c48s144185.jpg "cuadro de Le massage, scene de hammam . Museo de los Agustinos by dalbera")De entre todos los museos que tiene Toulouse en espléndidas edificaciones quizás me quedaría con el [Museo de los Agustinos](http://www.augustins.org/intro/accueil.htm), con pinturas de Toulouse-Latrec, Monet y esculturas de Rodin entre otras obras.
+![ - ](post-images/4e4256b662c48s144185.jpg "cuadro de Le massage, scene de hammam . Museo de los Agustinos by dalbera")De entre todos los museos que tiene Toulouse en espléndidas edificaciones quizás me quedaría con el [Museo de los Agustinos](http://www.augustins.org/intro/accueil.htm), con pinturas de Toulouse-Latrec, Monet y esculturas de Rodin entre otras obras.
 
 **RECOMENDACIONES**
 

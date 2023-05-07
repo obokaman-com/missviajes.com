@@ -4,7 +4,7 @@ type: "post"
 date: "2019-02-11 00:00:00"
 slug: "orlando-y-disneyworld-dos-mundos-paralelos-4996"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/55979f527fabes327506.jpg"
+image: "post-images/55979f527fabes327506.jpg"
 ---
 
 Orlando es una de las ciudades más importantes de Florida, pero si por algo es conocida esta ciudad es por todos los parques de atracciones que allí se encuentran. Empezando por Disneyworld, Universal Studios, Lego y el Kennedy Space Center de la NASA.
@@ -19,7 +19,7 @@ El más entrañable de todos es **Magic Kingdom,** dedicado a los personajes cl�
 
 Dentro de este maravilloso mundo, dispones de hoteles de todas las categorías y variedad de diseños en las habitaciones, como es de suponer, si buscas algo económico tendrá que ser fuera del recinto, en la zona de LakeBuenaVista. Esta es una segunda buena opción porque casi todos los hoteles disponen de transporte gratuito hasta los parques Disney.
 
-![ TAGS:undefined](/post-images/55979f527fabes327506.jpg "parque Epcot")
+![ TAGS:undefined](post-images/55979f527fabes327506.jpg "parque Epcot")
 
 
 

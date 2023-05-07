@@ -4,10 +4,10 @@ type: "post"
 date: "2008-10-03 00:00:00"
 slug: "viajar-ninos-coche-131327"
 categories: ["Sin Categoría"]
-image: "/post-images/131327-95603.jpg"
+image: "post-images/131327-95603.jpg"
 ---
 
-![vigilando by missviajes](/post-images/131327-95603.jpg "vigilando by missviajes")
+![vigilando by missviajes](post-images/131327-95603.jpg "vigilando by missviajes")
 
 ¿Cuando llegamos ? ¿Falta mucho? ¿Está muy lejos? ... Antes de que tus hijos te hicieran esta pregunta la hiciste tú a tus padres. Debe de ser algo inherente al ser humano. A continuación tienes algunos consejos y recomendaciones (fruto de la experiencia de padres ya "rodaditos") para que el viaje no se convierta en un suplicio.
 

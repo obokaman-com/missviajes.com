@@ -4,7 +4,7 @@ type: "post"
 date: "2011-02-11 22:42:00"
 slug: "amazonia-vivencias-selva-1162759"
 categories: ["América"]
-image: "/post-images/1162759-331810.jpg"
+image: "post-images/1162759-331810.jpg"
 ---
 
 [](/wp-content/uploads/2011/02/1162759-331811.jpg)El último número de la edición bimensual de la revista Altair está dedicado a Perú. Como cada publicación aparecen un sinfín de artículos interesantes sobre las diferentes regiones del país, así como información sobre economia o rasgos culturales y tradición.
@@ -17,7 +17,7 @@ Por último señalar la reseña sobre las guías de Amazonas que ellos considera
 
 **RECOMENDACIONES**
 
-- La mejor época para viajar es **de mayo a septiembre**, la época seca![](/post-images/1162759-331810.jpg)
+- La mejor época para viajar es **de mayo a septiembre**, la época seca![](post-images/1162759-331810.jpg)
 - Debido a la dificultad de los desplazamientos y a la falta de infraestructuras es **casi obligatorio visitarlo con excursiones organizadas ya sea desde Lima o Iquitos con un guia competente capaz de ilustrar sobre la flora y la fauna así como sobre las tribus indígenas** (que sepa aportar al viajero normas de comportamiento, protocolo y ritos culturales).
 
 **INFORMACIÓN ADICIONAL**

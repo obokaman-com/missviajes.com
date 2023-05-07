@@ -4,10 +4,10 @@ type: "post"
 date: "2011-11-03 09:18:00"
 slug: "otono-en-canada-1307943"
 categories: ["América"]
-image: "/post-images/4eb57194c7587s1540706.jpg"
+image: "post-images/4eb57194c7587s1540706.jpg"
 ---
 
-[![ - ](/post-images/4eb57194c7587s1540706.jpg "parque Omega by missviajes")](/post-images/4eb57194c7587s1540706.jpg)
+[![ - ](post-images/4eb57194c7587s1540706.jpg "parque Omega by missviajes")](post-images/4eb57194c7587s1540706.jpg)
 
 Ya estoy de vuelta y el viaje ha sido todo un éxito. Nos ha gustado muchísimo y hemos disfrutado. Es un destino perfecto para viajar con niños si los tienes. El tiempo nos ha acompañado y aunque hacía frío, sólo tuvimos lluvias 1 día o 2.   
 **Lo mejor el color de los paisajes con el cambio de hoja** ..... brutal !!! Me quedo también con **Lac L'Eau Claire, Quebec, Ottawa, el Parque Omega y las ballenas de Tadoussac**.

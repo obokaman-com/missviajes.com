@@ -4,12 +4,12 @@ type: "post"
 date: "2009-01-02 00:00:00"
 slug: "viaje-reyes-magos-171370"
 categories: ["Sin Categoría"]
-image: "/post-images/171370-111841.jpg"
+image: "post-images/171370-111841.jpg"
 ---
 
 La Biblia cuenta que **hace más de 2000 años tres Reyes de Oriente viajaron hasta Belén para venerar al niño Jesús**. ¿Pero **de dónde venian**? ¿Como llegaron hasta Belén? Una estrella les guió y recorrieron el camino subidos en sus camellos acompañados de sus pajes.
 
-![reyes magos](/post-images/171370-111841.jpg "reyes magos")Por la descripción de sus fastuosos trajes (con capas, adornos y túnica) se **deduce que los Reyes veían de Persia**. Su veneración zoroastrista (religión que creía en la llegada de un mesías, que coincidía con la fecha de nacimiento de Jesús) reafirmaría esta teoría. **Desde Persépolis continuaron el recorrido hasta Babilonia y, atravesando Siria, Líbano y Palestina, llegaron a Belén**.
+![reyes magos](post-images/171370-111841.jpg "reyes magos")Por la descripción de sus fastuosos trajes (con capas, adornos y túnica) se **deduce que los Reyes veían de Persia**. Su veneración zoroastrista (religión que creía en la llegada de un mesías, que coincidía con la fecha de nacimiento de Jesús) reafirmaría esta teoría. **Desde Persépolis continuaron el recorrido hasta Babilonia y, atravesando Siria, Líbano y Palestina, llegaron a Belén**.
 
 **Otra teoría dice que fue Babilonia** el punto de partida. Partieron directamente **desde Faluja; de allí hacia los bordes del Eufrates, siguieron por Tadmur, Damasco, Dar´a, Amán, Jerusalén y destino final: Belén**. Esta segunda tesis viene fundamentada por una antigua moneda encontrada que lleva grabada la legendaria estrella que los guió.
 

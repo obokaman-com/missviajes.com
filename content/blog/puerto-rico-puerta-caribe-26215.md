@@ -4,16 +4,16 @@ type: "post"
 date: "2013-05-08 09:25:00"
 slug: "puerto-rico-puerta-caribe-26215"
 categories: ["América"]
-image: "/post-images/5188ff4c80a85s345247.jpg"
+image: "post-images/5188ff4c80a85s345247.jpg"
 ---
 
- ![ TAGS:](/post-images/5188ff4c80a85s345247.jpg "blue pants man Pinones by J.Armanso Serrano Photography")
+ ![ TAGS:](post-images/5188ff4c80a85s345247.jpg "blue pants man Pinones by J.Armanso Serrano Photography")
 
  **475 kilómetros de playa** son una buena carta de presentación para una isla que enamoró a los primeros españoles que pisaron sus tierras. Puerto Rico es isla de descanso, largos paseos, golf, sol y música.
 
  Su capital, **San Juan**, ofrece lujo y descanso en los grandes complejos hoteleros concentrados de **Isla Verde Condado y Miramar**, así como un encantador casco antiguo en el **Viejo San Juan** con edificios del siglo XVI mientras caminas por callejones adoquinados.
 
- En **Ponce** encontrarás muestras neoclásicas de edificios criollos así como y vestigios de la cultura taína (descendientes de los arauacos).![ TAGS:](/post-images/26215-25251.jpg "muelle del viejo sanjuan by abmol")
+ En **Ponce** encontrarás muestras neoclásicas de edificios criollos así como y vestigios de la cultura taína (descendientes de los arauacos).![ TAGS:](post-images/26215-25251.jpg "muelle del viejo sanjuan by abmol")
 
  Si vas en busca de cascadas de película y parajes de cuento, siguiendo la la **Ruta del Coquí** los encontrarás. Comienza a 45 minutos de San Juan y atrviesas bosques frondosos, subes cimas con vistas preciosas, puedes observar refugios de aves hasta llegar a **El Yunque** dónde hay helechos gigantes.
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2014-01-17 09:00:00"
 slug: "ronda-ciudad-sonada-5228"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/52d8ef7acd3ecs274688.jpg"
+image: "post-images/52d8ef7acd3ecs274688.jpg"
 ---
 
-[ ![ TAGS:](/post-images/52d8ef7acd3ecs274688.jpg "Ronda by Phillips (Tony) ")](http://www.flickr.com/photos/37783959@N02/4915271723/sizes/z/in/photostream/)  
+[ ![ TAGS:](post-images/52d8ef7acd3ecs274688.jpg "Ronda by Phillips (Tony) ")](http://www.flickr.com/photos/37783959@N02/4915271723/sizes/z/in/photostream/)  
   
 Ronda se encuentra en la **provincia de Málaga**, en la parte limítrofe con **Cádiz**. La imagen romántica que desprende esta ciudad es en parte causa al bandolerismo de la Serranía rondeña (quien no ha escuchado alguna vez el nombre del mítico *[Tempranillo](http://es.wikipedia.org/wiki/El_Tempranillo)*) y la afición a los toros que en el s. XIX tanto impactaron a ilustres viajeros.  
   

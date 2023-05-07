@@ -4,14 +4,14 @@ type: "post"
 date: "2018-11-05 00:00:00"
 slug: "camino-faros-costa-da-morte-2326328"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/52c71e70cee23s547893.jpg"
+image: "post-images/52c71e70cee23s547893.jpg"
 ---
 
 ¿ Has oído alguna vez hablar del Camino de los Faros? en la Costa da Morte ? .  
   
 Esta ruta increíble de 200 kilómetros por la Costa da Morte une Malpica con Finisterre por el borde del mar, que pasa por todos los faros de la costa con un espectacular mar de fondo rompiendo las olas de todas las formas imaginables. Encontrarás faros, playas y dunas, ríos, acantilados, bosques, estuarios con una gran cantidad de aves, mares de granito, dólmenes, villas marineras, increíbles miradores , puestas de sol... Es una ruta de senderismo única que lleva al caminante a un mundo de sensaciones únicas que sólo se pueden disfrutar en esta Costa da Morte.  
   
-![](/post-images/52c71e70cee23s547893.jpg)  
+![](post-images/52c71e70cee23s547893.jpg)  
   
 La ruta se divide en 8 etapas  
   

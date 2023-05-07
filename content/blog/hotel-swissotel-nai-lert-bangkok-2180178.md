@@ -4,12 +4,12 @@ type: "post"
 date: "2016-03-20 09:04:00"
 slug: "hotel-swissotel-nai-lert-bangkok-2180178"
 categories: ["Asia","Hoteles"]
-image: "/post-images/508e807325619s307453.jpg"
+image: "post-images/508e807325619s307453.jpg"
 ---
 
-[![ TAGS:](/post-images/508e807325619s307453.jpg "restaurante buffet desayuno hotel Swissotel Nai Lert")](/post-images/508e807325619s307453.jpg)  
+[![ TAGS:](post-images/508e807325619s307453.jpg "restaurante buffet desayuno hotel Swissotel Nai Lert")](post-images/508e807325619s307453.jpg)  
   
-El **hotel Swissotel es un 5\*** situado en uno de los distritos de negocios, una zona tranquila, al lado de la Embajada Británica, a unos 5 minutos en ***tuctuc*** del centro y a 10 minutos a pie de una de las paradas de Skytrain.[![ TAGS:](/post-images/508e819b6581bs105916.jpg "habitación doble")](/post-images/508e819b6581bs105916.jpg)  
+El **hotel Swissotel es un 5\*** situado en uno de los distritos de negocios, una zona tranquila, al lado de la Embajada Británica, a unos 5 minutos en ***tuctuc*** del centro y a 10 minutos a pie de una de las paradas de Skytrain.[![ TAGS:](post-images/508e819b6581bs105916.jpg "habitación doble")](post-images/508e819b6581bs105916.jpg)  
   
 No es un hotel céntrico pero está bien comunicado. Si viajas con niños es perfecto porque tiene un gran jardín muy bonito y piscina al aire libre.  
   

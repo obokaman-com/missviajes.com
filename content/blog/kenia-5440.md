@@ -4,18 +4,18 @@ type: "post"
 date: "2007-01-02 00:00:00"
 slug: "kenia-5440"
 categories: ["África"]
-image: "/post-images/5440-6636.jpg"
+image: "post-images/5440-6636.jpg"
 ---
 
-![jirafas frente el Kilimanjaro](/post-images/5440-6636.jpg "jirafas frente el Kilimanjaro")
+![jirafas frente el Kilimanjaro](post-images/5440-6636.jpg "jirafas frente el Kilimanjaro")
 
 Seguro que estás pensando en aquella postal de la sabana africana con un león dormitando debajo de una acacia, o en la fotografía donde las jirafas se retiran a descasar bajo la luz ocre del atardecer. Tienes que saber que la realidad superará en belleza tus espectativas .
 
-![lago Nakuru](/post-images/5440-6637.jpg "lago Nakuru")El nombre de **Kenya** proviene del *Monte Kenya*, que en swaheli significa "*montaña luminosa".* Todos los vuelos internacionales llegan a **Nairobi**, su capital. No obstante, el único interés que tiene la ciudad es como punto de partida de todos los safaris. No te pierdes gran cosa.
+![lago Nakuru](post-images/5440-6637.jpg "lago Nakuru")El nombre de **Kenya** proviene del *Monte Kenya*, que en swaheli significa "*montaña luminosa".* Todos los vuelos internacionales llegan a **Nairobi**, su capital. No obstante, el único interés que tiene la ciudad es como punto de partida de todos los safaris. No te pierdes gran cosa.
 
 Lo maravilloso de este país es su luz y sus parques. Estos son los principales: **Masai Mara** con grandes espacios abiertos dónde ver **leones, guepardos, hienas, ñus, hipopótamos y cocodrilos**; la **Reserva Nacional de Samburu** tierra árida de la tribu Samburu con **cebras y generuk** de cuello largo; **Parque Nacional de Amboseli** en las faldas del Kilimanjaro con gran número de **elefantes y jirafas**, **Aberdares** y su paisaje de alturas con densos bosques; y el **Lago Nakuru** con cientos de flamencos descansando en sus aguas.
 
-![pareja de leones](/post-images/5440-6638.jpg "pareja de leones")Dado el gran número de etnias que forman el mapa humano del país, la cultura es muy variada, con una fuerte influencia británica tras casi 70 años de colonización. Los **[masáis](http://es.wikipedia.org/wiki/Masai)**  son los más conocidos. Son un pueblo nómada cuya vida gira entorno al ganado vacuno. Algunas de las otras tribus son los samburu, los kikuyu, los pokot.... y un largo etcétera.
+![pareja de leones](post-images/5440-6638.jpg "pareja de leones")Dado el gran número de etnias que forman el mapa humano del país, la cultura es muy variada, con una fuerte influencia británica tras casi 70 años de colonización. Los **[masáis](http://es.wikipedia.org/wiki/Masai)**  son los más conocidos. Son un pueblo nómada cuya vida gira entorno al ganado vacuno. Algunas de las otras tribus son los samburu, los kikuyu, los pokot.... y un largo etcétera.
 
 **RECOMENDACIONES** :
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2019-12-04 00:00:00"
 slug: "ruta-cataros-historia-dels-bons-homes-9504"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/lastours.jpg"
+image: "post-images/lastours.jpg"
 ---
 
 Al **sur de Francia, en el Languedoc**, quedan los restos de una antigua civilización propulsada por "*los buenos hombres*" , así es como se llamaban también los cátaros. Se puede decir que hay una ruta de unos 300 kilómetros por toda la región llena de castillos y pueblitos dónde los cátaros construyeron sus estratégicas defensas, además de grandes extensiones de viñedos, ríos y bonitos paisajes.  
@@ -13,7 +13,7 @@ Como punto de partida propongo [**Carcassone**](http://www.missviajes.com/la-ciu
   
 Veinte kilómetros al norte, en lo alto de una cima vigilando el río Orbiel, el conjunto derruido de **Lastours.** La mejor panorámica de las ruinas de los 4 castillos que componen el conjunto de Lastours se ve desde Belvedere de Montfermier.  
   
-![](/post-images/lastours.jpg)  
+![](post-images/lastours.jpg)  
   
 Por carreteras locales, se llega hasta la siguiente parada, la bella **Minerve** . Es el típico pueblito de cuento, con calles empinadas, con casas colgantes al lado del precipicio del río y una casa del Temple todavía en pie.  
   
@@ -25,7 +25,7 @@ Por último y no menos importante, el recorrido acabaría en  **[Albi](http://ww
   
 En todas estas localidades encontraras un laberinto de callejuelas estrechas, con su caracterización medieval intacta, puentes, iglesias y en general un conjunto arquitectónico muy característico.  
   
-![](/post-images/cordes.jpg)  
+![](post-images/cordes.jpg)  
   
    
   

@@ -4,14 +4,14 @@ type: "post"
 date: "2017-11-16 00:00:00"
 slug: "hotel-mandarin-oriental-barcelona-2256373"
 categories: ["Europa","Hoteles"]
-image: "/post-images/513df7105ad13s269904.jpg"
+image: "post-images/513df7105ad13s269904.jpg"
 ---
 
    
   
 Ya que el lunes te dí detalles e información de una [Ruta Modernista por Barcelona](http://www.missviajes.com/ruta-modernista-de-1-dia-por-barcelona/), sería un poco pretencioso pensar que te he convencido y estás mirando[ vuelos baratos de Expedia](https://www.expedia.es/Vuelos-Baratos). Pero aún así, déjame que te hable de uno de los hoteles más conocidos de la ciudad de los últimos años. Está en pleno centro, en Paseo de Gracia. No hace mucho tuve la oportunidad de visitar el hotel Mandarín Oriental. Insisto en la palabra "visitar" porque viendo el nivelazo podría decir que es una realidad paralela a la mía. No es un hotel ostentoso, ni tampoco me pareció que hiciera alarde de los excesos, pero son los detalles los que definen estipo de establecimiento y los que hacen que los más adinerados puedan permitírselo.  
   
-![](/post-images/513df7105ad13s269904.jpg)  
+![](post-images/513df7105ad13s269904.jpg)  
   
 Moqueta en el ascensor, las superficies de los baños de corian, los amenities del baño son de Acqua de Parma, Red Flower o bien de La Praie, zapatillas y albornoces de diferentes tallas.....  
   
@@ -19,7 +19,7 @@ La habitación más sencilla tiene un precio mínimo de 590 euros la habitación
   
 No son habitaciones grandes pero puedes imaginarte que el diseño y el mimo con el que se cuidan son incuestionables.  
   
-![](/post-images/el-terrat.jpg)  
+![](post-images/el-terrat.jpg)  
   
    
   

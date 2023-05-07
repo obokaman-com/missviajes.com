@@ -4,10 +4,10 @@ type: "post"
 date: "2013-05-10 14:41:00"
 slug: "travel-bloggers-meeting-2013-tmbcatsur-2270795"
 categories: ["Cosas Varias"]
-image: "/post-images/518cefa3f19d3s63028.jpg"
+image: "post-images/518cefa3f19d3s63028.jpg"
 ---
 
- ![ TAGS:](/post-images/518cefa3f19d3s63028.jpg)
+ ![ TAGS:](post-images/518cefa3f19d3s63028.jpg)
 
  El proximo fin de semana \*\* comienza **una nueva edición del Travel Bloggers Meeting 2013** que se celebrará en Tarragona durante 3 días muy intensos. Este año no puedo asistir porque como ya comenté hace unos días marcho de viaje a Sri Lanka.
 

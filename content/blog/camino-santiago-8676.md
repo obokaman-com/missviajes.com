@@ -4,10 +4,10 @@ type: "post"
 date: "2007-03-16 00:00:00"
 slug: "camino-santiago-8676"
 categories: ["Cosas Varias","Europa"]
-image: "/post-images/8676-10218.jpg"
+image: "post-images/8676-10218.jpg"
 ---
 
-![peregrinos by freecat](/post-images/8676-10218.jpg "peregrinos by freecat")Los historiadores situan el hallazgo de los restos del **apóstol Santiago el Mayor en el siglo IX**. La creencia de los poderes milagrosos de la reliquia se extendieron por todo el continente europeo y en poco tiempo se convirtió en uno de los centros de peregrinación más importantes de la religión cristina.
+![peregrinos by freecat](post-images/8676-10218.jpg "peregrinos by freecat")Los historiadores situan el hallazgo de los restos del **apóstol Santiago el Mayor en el siglo IX**. La creencia de los poderes milagrosos de la reliquia se extendieron por todo el continente europeo y en poco tiempo se convirtió en uno de los centros de peregrinación más importantes de la religión cristina.
 
 Son muchas las rutas que llegan hasta **Santiago de Compostela**, pero quizás la más transitada es el "*camino francés*", que entra en España atravesando **los Pirineos por Roncesvalles y atraviesa Zubiri, Pamplona, Estella, los Arcos, Logroño, Santo Domingo de la Calzada, Burgos, Carrión de los Condes, León, Astorga y Palas de Rey** (entre muchas otras poblaciones).
 
@@ -20,7 +20,7 @@ No sólo podrás disfrutar del arte, las costumbres y paisajes , sino sobretodo 
 
 **CURIOSIDADES**
 
-- ![8676-10217.jpg](/post-images/8676-10217.jpg "8676-10217.jpg")Al finalizar el peregrinaje, el mejor recuerdo además de las vivencias es **la Compostela**. Es un certificado oficial que concede el Arzobispado o el Cabildo al llegar a Santiago. Tienes que presentar el *pasaporte de peregrino* (lo entregan en los puntos de ruta) **o un diario personal de ruta con los sellos y firmas que acrediten al menos 100km a pie o caballo y 200kms en bicicleta**.
+- ![8676-10217.jpg](post-images/8676-10217.jpg "8676-10217.jpg")Al finalizar el peregrinaje, el mejor recuerdo además de las vivencias es **la Compostela**. Es un certificado oficial que concede el Arzobispado o el Cabildo al llegar a Santiago. Tienes que presentar el *pasaporte de peregrino* (lo entregan en los puntos de ruta) **o un diario personal de ruta con los sellos y firmas que acrediten al menos 100km a pie o caballo y 200kms en bicicleta**.
 - Uno de los peregrinos ilustres del camino de Santiago es Shirley MacLaine. Fruto de esta experiencia es el libro que escribió "*El Camino, un viaje espiritual*l" dónde cuenta sus anécdotas y sus conclusiones.
 
 **INFORMACIÓN ADICIONAL**

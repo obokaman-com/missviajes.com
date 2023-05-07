@@ -4,10 +4,10 @@ type: "post"
 date: "2020-02-10 00:00:00"
 slug: "venecia-ciudad-canales-6042"
 categories: ["Europa"]
-image: "/post-images/536a3f8a60bf3s571016.jpg"
+image: "post-images/536a3f8a60bf3s571016.jpg"
 ---
 
-[ ![ TAGS:](/post-images/536a3f8a60bf3s571016.jpg "canales de Venecia by martino.pizzol")](https://www.flickr.com/photos/martinopizzol/996742295/sizes/l/in/photostream/)Hace ya unos años que visité Venecia pero a pesar de ir añadiendo ciudades en mi lista de "volveré", ésta sigue estando entre las primeras. Si durante el día su magia te atrapa a pesar de los turistas, por la noche, cuando se encienden las luces y los flashes de las camaras se van, las calles descansan y el lugar consigue atraparte.  
+[ ![ TAGS:](post-images/536a3f8a60bf3s571016.jpg "canales de Venecia by martino.pizzol")](https://www.flickr.com/photos/martinopizzol/996742295/sizes/l/in/photostream/)Hace ya unos años que visité Venecia pero a pesar de ir añadiendo ciudades en mi lista de "volveré", ésta sigue estando entre las primeras. Si durante el día su magia te atrapa a pesar de los turistas, por la noche, cuando se encienden las luces y los flashes de las camaras se van, las calles descansan y el lugar consigue atraparte.  
   
 A día de hoy no sé si hay alguna novedad en los proyectos de conservación ante las inundaciones que los últimos años hacen temer por la ciudad. Las aguas fangosas de la laguna son una constante amenaza y espero que consigan encontrar la fórmula para solucionar el problema  
   

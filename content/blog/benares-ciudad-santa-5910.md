@@ -4,7 +4,7 @@ type: "post"
 date: "2018-05-08 00:00:00"
 slug: "benares-ciudad-santa-5910"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/526ed58d2d6c9s97019.jpg"
+image: "post-images/526ed58d2d6c9s97019.jpg"
 ---
 
 Si tuviera que destacar alguna vivencia de mi viaje a la [India](http://www.missviajes.com/india-pais-sensaciones-5921/), **sería Benares**, la ciudad santa. No caeré en el tópico del misticismo: ni me encontré conmigo misma, ni hallé la ansiada paz interior.
@@ -13,7 +13,7 @@ Lo que sí es cierto es que fue una experiencia muy especial y me emocioné much
   
 El **templo dorado de Shiva y la Mezquita de Gyanvapi** son prescindibles de visitar. El **Ganges y los ghats** (son las escaleras de piedra que bordean el rio) son las aútenticas joyas de la ciudad.  
   
-![ - ](/post-images/526ed58d2d6c9s97019.jpg "Benares by rahuldlucca")  
+![ - ](post-images/526ed58d2d6c9s97019.jpg "Benares by rahuldlucca")  
   
 Yo llegué de noche, a oscuras; la única iluminación eran los farolillos que colgaban de las fachadas de algunas casas porque el tendido eléctrico apenas funcionaba. A medida que nos íbamos adentrando en esta ciudad, el gentío iba creciendo en una sola dirección. Todos se dirigian al río. Conseguimos hacernos sitio entre la multitud que se agolpaba en una placeta dónde unos hombres vestidos con ropajes rojos y dorados se disponian a tocar. Nos subieron en una barca y desde las aguas del Ganges vimos la ceremonia. A lo largo de todo el río ( y en todos los ghats) aquellos hombres con un tipo de instrumento de viento desconocido, tocaron y bailaron al unísono una dulce melodía mientras uno de ellos cantaba. Al finalizar, el rio se llenó de de improvisadas velas. Fue mágico.  
   

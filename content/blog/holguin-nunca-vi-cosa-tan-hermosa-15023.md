@@ -4,10 +4,10 @@ type: "post"
 date: "2012-12-27 11:00:00"
 slug: "holguin-nunca-vi-cosa-tan-hermosa-15023"
 categories: ["América"]
-image: "/post-images/15023-14843.jpg"
+image: "post-images/15023-14843.jpg"
 ---
 
- ![guardalavaca by ben bell](/post-images/15023-14843.jpg "guardalavaca by ben bell")"*Nunca antes tan fermosa cosa vide*" así de breve y contundente describió Colón el litoral norte de Holguín, **la región más oriental de Cuba**.
+ ![guardalavaca by ben bell](post-images/15023-14843.jpg "guardalavaca by ben bell")"*Nunca antes tan fermosa cosa vide*" así de breve y contundente describió Colón el litoral norte de Holguín, **la región más oriental de Cuba**.
 
  En esta zona de la isla se alternan hermosas playas de arena fina y extensas llanuras cubiertas de bosques frondosas y reservas naturales. De la capital de la región lleva el mismo nombre, Holguín, destacaría el **Museo Indocubano Baní** con una completa exposición sobre la cultura aborigen cubana; y diferentes edificios de influencias neoclásicas como la **Catedral d**. **e San Isidro y la Iglesia de San José.**
 
@@ -16,7 +16,7 @@ image: "/post-images/15023-14843.jpg"
  **RECOMENDACIONES**
 
 - En Guardalavaca se encuentra el centro de buceo **Eagle Ray** con inmersiones de 5 a 40 metros de profundidad. Estupendos fondos marinos.
-- ![vida cotidiana en holguin by tgraham](/post-images/15023-14844.jpg "vida cotidiana en holguin by tgraham")Tampoco dejes de visitar el parque natural de **Bahía Naranjo, los pinares de Mayarí, y las Cuchillas del Toa**(reserva de la Biosfera declarada por la Unesco).
+- ![vida cotidiana en holguin by tgraham](post-images/15023-14844.jpg "vida cotidiana en holguin by tgraham")Tampoco dejes de visitar el parque natural de **Bahía Naranjo, los pinares de Mayarí, y las Cuchillas del Toa**(reserva de la Biosfera declarada por la Unesco).
 
  **CURIOSIDADES**
 

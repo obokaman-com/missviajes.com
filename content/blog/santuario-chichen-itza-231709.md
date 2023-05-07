@@ -4,10 +4,10 @@ type: "post"
 date: "2015-02-17 09:30:00"
 slug: "santuario-chichen-itza-231709"
 categories: ["América","Visitas Y Excursiones"]
-image: "/post-images/54e2fa2628e3as49822.jpg"
+image: "post-images/54e2fa2628e3as49822.jpg"
 ---
 
- [ ![ TAGS:undefined](/post-images/54e2fa2628e3as49822.jpg "Chichen Itzà")](http://estoesquintanaroo.com/chichen-itza-presenta-nuevo-espectaculo-de-luz-y-sonido/)  
+ [ ![ TAGS:undefined](post-images/54e2fa2628e3as49822.jpg "Chichen Itzà")](http://estoesquintanaroo.com/chichen-itza-presenta-nuevo-espectaculo-de-luz-y-sonido/)  
  Este histórico santuario es una de las muestras de la arquitectura maya y tolteca. Situado a unos 120kms de Mérida (México) . Fue una ciudad o un centro ceremonial que pasó por diversas épocas constructivas y en el que influyeron diferentes pueblos. Este monumento **Patrimonio de la Humanidad** incluye entre sus edificaciones más famosas la **Pirámide de Kukulkán o el Castillo, el Templo de los Guerreros y las 1.000 columnas, el Cenote Sagrado y el Observatorio** con su curiosa forma circular**.**
 
  **Tiempo aproximado del recorrido**: 3 horas

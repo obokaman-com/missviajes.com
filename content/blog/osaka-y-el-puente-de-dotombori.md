@@ -4,7 +4,7 @@ type: "post"
 date: "2016-06-02 17:11:08"
 slug: "osaka-y-el-puente-de-dotombori"
 categories: ["Asia"]
-image: "/post-images/FamTrip-Japon16-21-300x200.jpg"
+image: "post-images/FamTrip-Japon16-21-300x200.jpg"
 ---
 
 Mi visita a Osaka fue una visita relámpago. Apenas llegamos a la ciudad y dejamos maletas en el [hotel Nikko Osaka](http://www.missviajes.com/hotel-nikko-osaka/), después de un día sin sentido y lleno de absurdos en un pueblo cercano llamado Sakai, para irnos a dar una vuelta por la ciudad. Pasamos la noche y al día siguiente tuvimos que irnos pronto
@@ -17,7 +17,7 @@ Es una ciudad con mucha vida. A una 1 hora aproximadamente del[ aeropuerto Inter
 
   
   
-[caption id="attachment_2950" align="alignright" width="344"]![A](/post-images/FamTrip-Japon16-21-300x200.jpg) A[/caption]  
+[caption id="attachment_2950" align="alignright" width="344"]![A](post-images/FamTrip-Japon16-21-300x200.jpg) A[/caption]  
   
 La zona de **Shinsaibashi-suji (zona sur)** es quizás la parte de la ciudad más significativa y más llamativa. Llena de tiendas, teatros, ambiente y restaurantes en Dotombori... dónde todo el mundo quiere hacerse la foto sobre el puente. De día no tuve oportunidad de visitarla, pero estoy convencida de que el gran espectáculo es por la noche. Las luces, los carteles gigantes de led, los grandes centros comerciales, karaokes, restaurantes, bares, ..... es un exceso de todo. Hay tantos estímulos que no sabes a dónde mirar y más si es tu primer contacto con Japón.  
   

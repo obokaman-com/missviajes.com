@@ -4,7 +4,7 @@ type: "post"
 date: "2015-03-05 09:00:00"
 slug: "amsterdam-capital-tulipanes-5053"
 categories: ["Europa"]
-image: "/post-images/54f6dd098abafs442968.jpg"
+image: "post-images/54f6dd098abafs442968.jpg"
 ---
 
  [](/wp-content/uploads/2015/03/54f6dbb9bd458s595243.jpg)
@@ -13,7 +13,7 @@ image: "/post-images/54f6dd098abafs442968.jpg"
 
  No es una casualidad que una gran concentración de obras pictóricas de los mejores pintores de todos los tiempos se encuentren en la ciudad de Amsterdam. La oferta cultural de la ciudad es muy amplia con gran variedad de espectáculos , exposiciones y conciertos.
 
- Imprescindible conocer: la **Plaza Damm** (su plaza mayor ), **el Palacio Real, la Casa de Anna Frank**, el **barrio Rojo** conocido por "sus escaparates" (si no sabes de que hablo, mejor descúbrelo tu mismo.. te llevarás una sorpresa), el **Mercado de las Flores**, el **Rijksmuseum** (es el Museo Nacional de Amsterdam) , **el Museo de Vicent Van Gogh y el Barrio judío**. Me dejo muchos otros puntos importantes , pero no acabaría de mencionarlos todos. En cuanto a dónde dormir en Amsterdam, hay una gran capacidad hotelera y puedes encontrar alojamiento de todo tipo de presupuestos. Si buscas precios bajos sin perder calidad, te aconsejo que mires los [hostales en Amsterdam](http://www.hostelsclub.com/city-es-224-Amsterdam.html), ya que son una opción muy ecónomica y aconsejable. ![ TAGS:undefined](/post-images/54f6dd098abafs442968.jpg)
+ Imprescindible conocer: la **Plaza Damm** (su plaza mayor ), **el Palacio Real, la Casa de Anna Frank**, el **barrio Rojo** conocido por "sus escaparates" (si no sabes de que hablo, mejor descúbrelo tu mismo.. te llevarás una sorpresa), el **Mercado de las Flores**, el **Rijksmuseum** (es el Museo Nacional de Amsterdam) , **el Museo de Vicent Van Gogh y el Barrio judío**. Me dejo muchos otros puntos importantes , pero no acabaría de mencionarlos todos. En cuanto a dónde dormir en Amsterdam, hay una gran capacidad hotelera y puedes encontrar alojamiento de todo tipo de presupuestos. Si buscas precios bajos sin perder calidad, te aconsejo que mires los [hostales en Amsterdam](http://www.hostelsclub.com/city-es-224-Amsterdam.html), ya que son una opción muy ecónomica y aconsejable. ![ TAGS:undefined](post-images/54f6dd098abafs442968.jpg)
 
  Si tuviera que destacar alguna virtud de sus gentes, es la tolerancia en todas sus variantes. Son de hábitos sencillos y mente abierta, no juzgan ni se extrañan (siempre dentro de unos límites, claro).
 

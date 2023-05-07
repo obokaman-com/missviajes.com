@@ -4,10 +4,10 @@ type: "post"
 date: "2014-03-31 10:40:00"
 slug: "visita-roma-fiat500-clasico-2341341"
 categories: ["Cosas Varias","Europa","Visitas Y Excursiones"]
-image: "/post-images/5336abe4992a9s2140019.jpg"
+image: "post-images/5336abe4992a9s2140019.jpg"
 ---
 
- ![ TAGS:](/post-images/5336abe4992a9s2140019.jpg "by missviajes")
+ ![ TAGS:](post-images/5336abe4992a9s2140019.jpg "by missviajes")
 
  Tal y como ya te adelanté hace unos días en el post que escribí sobre mi [escapada a Roma](http://www.missviajes.com/roma-escapada-fecha-regreso-2339722), una de las visitas que más me gustaron fue la que hicimos por la ciudad en un Fiat 500.
 
@@ -24,7 +24,7 @@ image: "/post-images/5336abe4992a9s2140019.jpg"
 
  **RECOMENDACIONES**
 
-- ![ TAGS:](/post-images/5336ad4a12393s2258032.jpg "local de Bibenda Wine Concept")Llegada la hora de regresar con mucha pena, porque me hubiera gustado alargar la experiencia un poco más. Era mediodía hora de comer. Al lado de la oficina de alquiler de los coches, hay un local llamado [**Bibenda Wine Concept**](http://www.wineconcept.it/wineconcept.php/NOFOLLOW) que además de ofrecer catas de vinos, se come de maravilla. La comida es casera y como no soy muy fan de la pasta, con más motivo puedo decir que la lasagna y el *tortino* ( una especie de tortilla de patata con setas y mozzarella) estaban de escándalo.
+- ![ TAGS:](post-images/5336ad4a12393s2258032.jpg "local de Bibenda Wine Concept")Llegada la hora de regresar con mucha pena, porque me hubiera gustado alargar la experiencia un poco más. Era mediodía hora de comer. Al lado de la oficina de alquiler de los coches, hay un local llamado [**Bibenda Wine Concept**](http://www.wineconcept.it/wineconcept.php/NOFOLLOW) que además de ofrecer catas de vinos, se come de maravilla. La comida es casera y como no soy muy fan de la pasta, con más motivo puedo decir que la lasagna y el *tortino* ( una especie de tortilla de patata con setas y mozzarella) estaban de escándalo.
 
  **INFORMACIÓN ADICIONAL**
 

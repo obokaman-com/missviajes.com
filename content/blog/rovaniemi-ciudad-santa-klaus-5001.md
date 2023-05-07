@@ -4,14 +4,14 @@ type: "post"
 date: "2012-12-03 09:00:00"
 slug: "rovaniemi-ciudad-santa-klaus-5001"
 categories: ["Europa"]
-image: "/post-images/50b8d33976409s120306.jpg"
+image: "post-images/50b8d33976409s120306.jpg"
 ---
 
- [ ![ TAGS:](/post-images/50b8d33976409s120306.jpg "huskies de Lapland, Finlandia by Visit Finland")](http://www.flickr.com/photos/visitfinland/5147667331/sizes/z/in/photostream/)
+ [ ![ TAGS:](post-images/50b8d33976409s120306.jpg "huskies de Lapland, Finlandia by Visit Finland")](http://www.flickr.com/photos/visitfinland/5147667331/sizes/z/in/photostream/)
 
  Ahora que llega la Navidad y los niños tienen vacaciones son muchas las familias que deciden pasar unos días todos juntos en la nieve. Rovaniemi es una ciudad situada en la **parte central de [ Finlandia](http://www.visitfinland.com/es/?gclid=CIul7o6nk7QCFWbKtAod5VAAOA)**, en el Circulo Polar Ártico, famosa por tener como habitante honorífico a **Papá Noel** y no menos importante el pueblo de los [samis](http://www.noruega.es/facts/sami/sami/sami.htm), uno de los pocos pueblos nómadas que mantienen su cultura y su lengua .
 
- [![ TAGS:](/post-images/50b8cfa2dc553s122568.jpg "familia sami 1920 by saamiblog")](/post-images/50b8cfa2dc553s122568.jpg)
+ [![ TAGS:](post-images/50b8cfa2dc553s122568.jpg "familia sami 1920 by saamiblog")](post-images/50b8cfa2dc553s122568.jpg)
 
  Llena la maleta de ropa de invierno y buen calzado porque la mitad de días del año está cubierto de nieve y registra un promedio de temperaturas de entre los **-10ºC / -20ºC**.
 
@@ -23,7 +23,7 @@ image: "/post-images/50b8d33976409s120306.jpg"
 
  **RECOMENDACIONES**
 
-- [ ![ - ](/post-images/50b8d0e71939es167279.jpg "cartas a Santa Claus by tea&biscuits")](http://www.flickr.com/photos/naiver07/3837113982/sizes/z/in/photostream/)No dejes de tirar tu carta en la oficina de correos de Santa Klaus. Vale la pena ver como se organizan.
+- [ ![ - ](post-images/50b8d0e71939es167279.jpg "cartas a Santa Claus by tea&biscuits")](http://www.flickr.com/photos/naiver07/3837113982/sizes/z/in/photostream/)No dejes de tirar tu carta en la oficina de correos de Santa Klaus. Vale la pena ver como se organizan.
 
  **CURIOSIDADES**:
 

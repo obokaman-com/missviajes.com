@@ -4,7 +4,7 @@ type: "post"
 date: "2007-03-19 00:00:00"
 slug: "paseo-emeraude-8990"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/8990-10304.jpg"
+image: "post-images/8990-10304.jpg"
 ---
 
  
@@ -13,7 +13,7 @@ image: "/post-images/8990-10304.jpg"
 
 
 
- ![emeraude](/post-images/8990-10304.jpg "emeraude")Este barco es una réplica de los antiguos barcos de vapor que surcaban las aguas de Indochina, aunque a mi me recuerda más los transbordadores que Tom Sawyer veía pasar por el Mississippi. 
+ ![emeraude](post-images/8990-10304.jpg "emeraude")Este barco es una réplica de los antiguos barcos de vapor que surcaban las aguas de Indochina, aunque a mi me recuerda más los transbordadores que Tom Sawyer veía pasar por el Mississippi. 
 
 Transformado en el mejor crucero de la **bahía de Halong**, cuenta con **39 cabinas** todas ellas con vistas a cubierta y mobiliario cuidadosamente escogido.
 
@@ -37,7 +37,7 @@ El alojamiento es en **pensión completa**, (excepto las bebidas que las tienes 
 
 **CURIOSIDADES** 
 
-- ![cubierta](/post-images/8990-10308.jpg "cubierta")A las 07.00hrs tienes la posibilidad de hacer *tai-chi* con un monitor en la cubierta superior del barco.
+- ![cubierta](post-images/8990-10308.jpg "cubierta")A las 07.00hrs tienes la posibilidad de hacer *tai-chi* con un monitor en la cubierta superior del barco.
 - Seguro que has visto el anuncio de **electrodomésticos Balay** dónde aparece un hombre en un barco mientras el supuesto "sr Balay" le sirve (creo recordar) una copa de vino. Ese barco es el Emeraude.
 
 **INFORMACIÓN ADICIONAL** 

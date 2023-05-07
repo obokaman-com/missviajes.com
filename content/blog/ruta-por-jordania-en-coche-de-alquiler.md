@@ -4,7 +4,7 @@ type: "post"
 date: "2017-05-08 11:09:36"
 slug: "ruta-por-jordania-en-coche-de-alquiler"
 categories: ["Oriente Medio","Visitas Y Excursiones"]
-image: "/post-images/33686922624_ca3a3c21c4_k-1024x684.jpg"
+image: "post-images/33686922624_ca3a3c21c4_k-1024x684.jpg"
 ---
 
 Recién aterrizada, voy a necesitar unos cuantos días para procesar todo lo visto y vivido en mi viaje por **Jordania**. Ha superado con creces mis expectativas y todos los miedos sobre la inseguridad se disiparon desde el momento uno. Los miedos fundados en la localización de Jordania haciendo frontera con Siria y el hecho de viajar 3 chicas solas .... quedaron totalmente invalidados. Primero porque hay fuertes medida de seguridad y control militar en todo lo largo y ancho del país.
@@ -13,7 +13,7 @@ Y segundo, no voy a negar que te sientes observada y que alguna otra mirada es m
 
 El pueblo jordano son gente encantadora y afable, les encanta charlar. No entiendo muy bien la obsesión que tienen por el #FCBarcelona y el #RealMadrid, pero la realidad es así, el país está dividido entre esos dos equipos y viven el clásico con una intensidad casi incomprensible.
 
- ![](/post-images/33686922624_ca3a3c21c4_k-1024x684.jpg)
+ ![](post-images/33686922624_ca3a3c21c4_k-1024x684.jpg)
 
 
 
@@ -48,7 +48,7 @@ Esta fue nuestra ruta
 
 
 
-![](/post-images/IMG_05491-300x225.jpg)En los próximos posts os iré explicando nuestro viaje en coche de alquiler, el cual nos proporcionó [AUTO EUROPE ](http://www.autoeurope.es/), porque el transporte público lo descartamos. La mayoría de coches son manuales. Si no quieres tener un ataque de crisis el primer día que conduzcas, es mejor que recojas el coche directamente en el aeropuerto. En general conducen cada uno como quiere y en Ammán es de locos.
+![](post-images/IMG_05491-300x225.jpg)En los próximos posts os iré explicando nuestro viaje en coche de alquiler, el cual nos proporcionó [AUTO EUROPE ](http://www.autoeurope.es/), porque el transporte público lo descartamos. La mayoría de coches son manuales. Si no quieres tener un ataque de crisis el primer día que conduzcas, es mejor que recojas el coche directamente en el aeropuerto. En general conducen cada uno como quiere y en Ammán es de locos.
 
 
 

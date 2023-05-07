@@ -4,12 +4,12 @@ type: "post"
 date: "2020-01-14 00:00:08"
 slug: "escapada-3-dias-a-madrid-ruta-cultural-y-gastronomica-dia-2"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/IMG_6466.jpg"
+image: "post-images/IMG_6466.jpg"
 ---
 
 Seguimos nuestro [recorrido por Madrid](http://www.missviajes.com/escapada-3-dias-a-madrid-ruta-cultural-y-gastronomica-dia-1/). En este caso, empezamos con un día intenso de Museos.  
   
-![](/post-images/IMG_6466.jpg)  
+![](post-images/IMG_6466.jpg)  
   
 Empezamos el día con el **[Museo de Sorolla](http://www.culturaydeporte.gob.es/msorolla/inicio.html)**, cerca de Chamberí. Es pequeño, fácil de visitar, acogedor y con mucha luz ... como sus cuadros. El edificio fue realmente su casa y en ella se exponen parte de sus importantes pinturas, dibujos, esculturas, mobiliario, algunas de sus cartas, cerámicas y muchas de las antigüedades que recibía en compensación por sus obras. Te lleva una hora más o menos visitarlo.  
   
@@ -19,7 +19,7 @@ Después de 2 horas y media entre arte, para almorzar te recomiendo ***la Tabern
   
    
   
-![](/post-images/CocidoMesa-960x400.jpg)  
+![](post-images/CocidoMesa-960x400.jpg)  
   
 Caminamos un poco para bajar la comilona y nos acercamos al [**Museo del Prado**](http://www.missviajes.com/museo-prado-proximo-homenaje-bosco-839536/?preview_id=425&preview_nonce=a85d675026&post_format=standard&_thumbnail_id=1772&preview=true) para hacer el triplete de museos. Si quieres aprovechar la visita del museo gratis, te recomiendo estar una hora antes porque si no no podrás entrar de la cantidad de gente que ha tenido la misma idea que tú. El museo es impresionante y necesitas 1 día entero. Salas y salas y salas con pinturas que has visto miles de veces.... Te sentarías en uno de esos bancos un ratito para disfrutar en cada uno de tus favoritos. Es muy muy impresionante. Espectacular. ***El jardín de las delicias (El Bosco); El Caballero de la mano en el pecho (El Greco), El Cardenal (Rafael), Las Meninas y La Rendición d e Brenda (Velazquez), El juicio de Paris (Rubens) , Los fusilamientos o La maja desnuda (Goya)*** .... la lista es inacabable . Y todo lo que deben tener guardado sin exponer...  
   

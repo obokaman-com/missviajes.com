@@ -4,10 +4,10 @@ type: "post"
 date: "2008-09-12 00:00:00"
 slug: "columnas-karnak-foto-mes-115717"
 categories: ["Sin Categoría"]
-image: "/post-images/115717-88741.jpg"
+image: "post-images/115717-88741.jpg"
 ---
 
-![columnas de karnak by albert garcia](/post-images/115717-88741.jpg "columnas de karnak by albert garcia")
+![columnas de karnak by albert garcia](post-images/115717-88741.jpg "columnas de karnak by albert garcia")
 
 La foto escogida este mes muestran las columnas de uno de los **templos de Karnak (Egipto)** desde otra perspectiva. El autor de la fotografia, [Albert Garcia](http://www.obokaman.com), nos cuenta:
 

@@ -4,7 +4,7 @@ type: "post"
 date: "2012-07-16 22:30:00"
 slug: "costa-blanca-vive-tus-suenos-2015012"
 categories: ["Europa","Playas"]
-image: "/post-images/5004740ebae53s241836.jpg"
+image: "post-images/5004740ebae53s241836.jpg"
 ---
 
  [](/wp-content/uploads/2012/07/500474f2cdb61s181872.jpg)
@@ -15,7 +15,7 @@ image: "/post-images/5004740ebae53s241836.jpg"
 
  **Desde Els Poblets hasta Calp se extiende la Costa Blanca**, una de las zonas del litoral español más solicitado por los turistas. Ha preparado un **concurso en Facebook llamado "[Vive tus sueños](http://www.vivetussuenos.com/?utm_source=Addoor&utm_medium=Display&utm_campaign=Verano2012)"** . **La dinámica del concurso es muy fácil, sólo tienes que hacerte fan de Costa Blanca y escoger una de las rutas que han preparado: ¿ conocer la Ruta Marina Alta: Son de Mar?**
 
- ![ TAGS:](/post-images/5004740ebae53s241836.jpg "Calpe by gibffe")
+ ![ TAGS:](post-images/5004740ebae53s241836.jpg "Calpe by gibffe")
 
  En la Costa Blanca encontrarás pueblos marineros como Dénia, pueblos con historia y unas vistas impresionantes sobre el mar como Jávea, calas de arena fina, campos de golf o paseos al lado del mar para ir en bicicleta.
 
@@ -35,4 +35,4 @@ image: "/post-images/5004740ebae53s241836.jpg"
 
 - [ Vive tus sueños ](http://www.vivetussuenos.com/?utm_source=Addoor&utm_medium=Display&utm_campaign=Verano2012)
 
- ![](/post-images/B6731345;sz=1x1;ord=[timestamp])![](/post-images/[timestamp])
+ ![](post-images/B6731345;sz=1x1;ord=[timestamp])![](post-images/[timestamp])

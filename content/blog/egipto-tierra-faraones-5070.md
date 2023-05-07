@@ -4,16 +4,16 @@ type: "post"
 date: "2006-12-05 00:00:00"
 slug: "egipto-tierra-faraones-5070"
 categories: ["Oriente Medio"]
-image: "/post-images/5070-5760.jpg"
+image: "post-images/5070-5760.jpg"
 ---
 
-![Abu Simbel](/post-images/5070-5760.jpg "Abu Simbel")Pocos países pueden presumir de tener un sello de identidad mundialmente tan conocido como las PIRAMIDES o la esfinge de **TUT ANKH AMON**.
+![Abu Simbel](post-images/5070-5760.jpg "Abu Simbel")Pocos países pueden presumir de tener un sello de identidad mundialmente tan conocido como las PIRAMIDES o la esfinge de **TUT ANKH AMON**.
 
 La población se concentra en las orillas del río Nilo, mientras que el resto de su territorio ocupado por desierto apenas está habitado.
 
 **El Cairo**, con 16 millones de habitantes es un auténtico caos. Miles de túnicas que se mezclan por las calles tienen que compartir tu atención con el tráfico tan desastroso. Da miedo cruzar la calle entre tanto coche descontrolado, carros tirados por burros y cabras sueltas por los arcenes. Pero no te lleves una mala impresión de la ciudad. Entre tanto barullo, tienes que visitar **el Museo Egipcio** , el **barrio copto**, la **mezquita de alabastro**, la **ciudadela de Saladino**, el **bazar de Khan en Khalili** (de obligatorio regateo, encontrarás de todo ) .... y como no las **Pirámides de Giza**. A unos 25kms se encuentran los emplazamientos arqueológicos de **Memfis y Saqqara** que considero también imprescindible ver.
 
-![5070-5779.jpg](/post-images/5070-5779.jpg "5070-5779.jpg")Hay muchísimos **cruceros que suben y bajan el Nilo a diario de 3 ,4 ó 7 noches** de duración. A medida que vayas navegando podrás ir disfrutando de un gran número de templos : el **Valle de los Reyes, el templo de la Reina Hatspetsut, los Colosos de Menón, los templos de Karnak y Luxor, el templo de Horus en Edfú, Kom Ombo , Abu Simbel y la Gran Presa de Aswan**. No sé como explicaros lo que es ver un atardecer en la cubierta del barco , con el desierto y el cielo colores tierra de fondo, mientras una brisa muy cálida te roza la piel... ¿te lo puedes imaginar?
+![5070-5779.jpg](post-images/5070-5779.jpg "5070-5779.jpg")Hay muchísimos **cruceros que suben y bajan el Nilo a diario de 3 ,4 ó 7 noches** de duración. A medida que vayas navegando podrás ir disfrutando de un gran número de templos : el **Valle de los Reyes, el templo de la Reina Hatspetsut, los Colosos de Menón, los templos de Karnak y Luxor, el templo de Horus en Edfú, Kom Ombo , Abu Simbel y la Gran Presa de Aswan**. No sé como explicaros lo que es ver un atardecer en la cubierta del barco , con el desierto y el cielo colores tierra de fondo, mientras una brisa muy cálida te roza la piel... ¿te lo puedes imaginar?
 
 Y para finalizar el viaje, que mejor que un poquito de playa. En **Hurghada y Sharm El Sheij**, ambos en el **Mar Rojo**, han surgido en los últimos años modernos complejos turísticos dónde descansar y relajarse. Si te gusta bucear, supongo que estarás informado de sus arrecifes de coral.
 

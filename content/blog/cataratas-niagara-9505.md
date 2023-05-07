@@ -4,10 +4,10 @@ type: "post"
 date: "2007-04-02 00:00:00"
 slug: "cataratas-niagara-9505"
 categories: ["América","En Familia","Visitas Y Excursiones"]
-image: "/post-images/9505-10673.jpg"
+image: "post-images/9505-10673.jpg"
 ---
 
-![niagara by bruno guirin](/post-images/9505-10673.jpg "niagara by bruno guirin")
+![niagara by bruno guirin](post-images/9505-10673.jpg "niagara by bruno guirin")
 
 Las **cataratas del Niágara** dividen la **frontera entre Estados Unidos y Canadá**. Este complejo de cascadas de diferentes niveles es uno de los tesoros más preciados de nuestro planeta. Se encuentra **a una media hora en coche de Buffalo** por el lado estadounidense.
 
@@ -15,7 +15,7 @@ El estruendo de las cataratas rompiendo el agua es impresionante. Ataviado con u
 
 Alrededor de este regalo de la naturaleza, se han montado toda una de hoteles, restaurantes y tiendas dirigidas a los turistas. Los precios en general son elevados, sobretodo las habitaciones con vistas a las cataratas, por eso antes de decidirte a comprar o a reservar una habitación, compara un poco los precios.
 
-![maid of the mist by diego 336](/post-images/9505-10672.jpg "maid of the mist by diego 336")Además tienes muchas atracciones con las que disfrutar durante tu estancia (aunque con 1 noche es suficiente) : cruzar el **Rainbow bridge** que une los tres grandes saltos de las cataratas, ver los arco iris que se forman en las orillas del **río en el parque Victoria**, atravesar las cataratas a través de los **túneles**, subir en **teleférico** (no recomendable si te asustan las alturas)
+![maid of the mist by diego 336](post-images/9505-10672.jpg "maid of the mist by diego 336")Además tienes muchas atracciones con las que disfrutar durante tu estancia (aunque con 1 noche es suficiente) : cruzar el **Rainbow bridge** que une los tres grandes saltos de las cataratas, ver los arco iris que se forman en las orillas del **río en el parque Victoria**, atravesar las cataratas a través de los **túneles**, subir en **teleférico** (no recomendable si te asustan las alturas)
 
 **RECOMENDACIONES**
 

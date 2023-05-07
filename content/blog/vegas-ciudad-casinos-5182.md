@@ -4,7 +4,7 @@ type: "post"
 date: "2017-04-24 06:54:00"
 slug: "vegas-ciudad-casinos-5182"
 categories: ["América"]
-image: "/post-images/vegas1.jpg"
+image: "post-images/vegas1.jpg"
 ---
 
 Las Vegas es sin duda una de las ciudades más conocidas de Estados Unidos. ¿ Quien no ha visto alguna vez ***Ocean's Eleven*** ?? o la histriónica... ***Resacón en Las Vegas*** ???  
@@ -13,7 +13,7 @@ Las Vegas es un **gigantesco parque de atracciones**. Súper hoteles, eventos de
   
 A pie de calle todo vale para llamar la atención a los viandantes. Sin necesidad de pagar entrada, encontrarás una batalla naval con fragata inglesa a tamaño natural y cañones cada 90 minutos en el hotel ***Treasure Island***, un volcán en erupción cada 30 minutos en el **hotel *Mirage*,** un musical de agua en las fuentes del **hotel Bellagio** y un sinfín más.  
   
-![](/post-images/vegas1.jpg)  
+![](post-images/vegas1.jpg)  
   
 En el **boulevard Las Vegas o Strip**, se encuentran los hoteles-casino más importantes: **Luxor &amp; Casino** con el edificio principal en forma de Pirámide, el hotel **Excalibur** representando un castillo medieval, el **Grand MGM** , el hotel **Mandalay** , **Caesar-s Palace**, **Aladdin** ... Es fácil encontrar hoteles en Las Vegas con precios interesantes. Esta avenida corta la ciudad en dos : Norte y Sur. Es lo único que necesitas saber para moverte. No tiene pérdida y es muy fácil.  
   

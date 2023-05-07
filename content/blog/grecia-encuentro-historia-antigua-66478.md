@@ -4,14 +4,14 @@ type: "post"
 date: "2014-02-14 17:00:00"
 slug: "grecia-encuentro-historia-antigua-66478"
 categories: ["Europa"]
-image: "/post-images/52fe2cf2d7e24s264992.jpg"
+image: "post-images/52fe2cf2d7e24s264992.jpg"
 ---
 
 Si existe un país en el que las chinchetas rojas de lugares deseados están más concentradas en el mapamundi, ese es Grecia. Es el el destino con itinerario imposible porque no hay dias suficientes para poder  
   
 visitarlo todo. Sus **tesoros artísticos, sus increibles parajes y el peso de la Historia** complican todo tipo de selección y hacen de  
   
-![ TAGS:](/post-images/52fe2cf2d7e24s264992.jpg "santorini by szeke")
+![ TAGS:](post-images/52fe2cf2d7e24s264992.jpg "santorini by szeke")
 
 Grecia un país completo. Grecia está en la lista de mis "*volveré"* porque es imposible visitarlo todo y te quedas con ganas de más. Los **monasterios medievales de Meteora**, el **santuario de Apolo en [Delfos](http://www.missviajes.com/delfos-343051)**[,](http://www.missviajes.com/delfos-343051) el **teatro de Epidauro, la luz de la isla de Hidra**, las ruinas de Olimpia, y sus islas son algunos de los imprescindibles.
 

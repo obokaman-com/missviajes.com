@@ -4,7 +4,7 @@ type: "post"
 date: "2017-03-29 00:00:00"
 slug: "parque-nacional-picos-europa-26512"
 categories: ["Europa","Visitas Y Excursiones"]
-image: "/post-images/potes.jpg"
+image: "post-images/potes.jpg"
 ---
 
 Situado en el norte de la península Iberica, el Parque Nacional de los Picos de Europa delimita con las comunidades autónomas de Asturias, Cantabria y León.  
@@ -17,7 +17,7 @@ Entre la fauna que vive en el parque hay rebecos, corzos, jabalís, zorros, lobo
   
 **RECOMENDACIONES**
 
-- Hay un **servicio gratuito de rutas guiadas**, con salidas diarias durante julio, agosto y septiembre y en cada uno de los accesos ( Lagos de Covadonga, Cabrales, Liébana, Sajambre y Valdeón). Solo tienes que estar en el punto de partida a la hora de salida. Los grupos son máximo 25 personas.![](/post-images/potes.jpg)
+- Hay un **servicio gratuito de rutas guiadas**, con salidas diarias durante julio, agosto y septiembre y en cada uno de los accesos ( Lagos de Covadonga, Cabrales, Liébana, Sajambre y Valdeón). Solo tienes que estar en el punto de partida a la hora de salida. Los grupos son máximo 25 personas.![](post-images/potes.jpg)
 - Los lunes se celebra en un **Potes**, una población de la comarca de Liébana, un mercado dónde las paradas estan repletas de productos naturales (tan dificiles de encontrar hoy en dia). Entre todos los productos, el orujo es la estrella.
 - La **Ruta del Cares** es un recorrido de unos 12kms entre Caín (León) y Pocebos (Asturias). No hace falta ser un experto montañero y está bien señalizado. El paisaje es espectacular. El inconveniente es que o haces los 12kms de regreso a pie o tienes un coche esperandote para hacer la vuelta al final del recorrido porque no hay otra forma de regresar
 

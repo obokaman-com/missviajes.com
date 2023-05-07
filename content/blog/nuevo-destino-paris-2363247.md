@@ -4,10 +4,10 @@ type: "post"
 date: "2014-09-07 18:38:00"
 slug: "nuevo-destino-paris-2363247"
 categories: ["Europa"]
-image: "/post-images/540c95a48bd12s276126.jpg"
+image: "post-images/540c95a48bd12s276126.jpg"
 ---
 
- ![ TAGS:undefined](/post-images/540c95a48bd12s276126.jpg)
+ ![ TAGS:undefined](post-images/540c95a48bd12s276126.jpg)
 
  Ese es el nuevo destino de mis vacaciones. En esta ocasión me apetecía conocer una ciudad a fondo y sin prisas. Lo hice con Estambul (una semana al completo) y la experiencia me encantó. No tenía ganas de hacer y deshacer maletas, organizar rutas aceleradas ni sumar kilómetros sin apenas tiempo para ver nada.
 

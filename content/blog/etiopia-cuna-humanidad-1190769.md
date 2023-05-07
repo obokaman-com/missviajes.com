@@ -4,7 +4,7 @@ type: "post"
 date: "2011-04-12 23:18:00"
 slug: "etiopia-cuna-humanidad-1190769"
 categories: ["África"]
-image: "/post-images/1190769-340150.jpg"
+image: "post-images/1190769-340150.jpg"
 ---
 
 [](/wp-content/uploads/2011/04/1190769-340151.jpg)
@@ -13,7 +13,7 @@ Etiopia es uno de los grandes desconocidos africanos. Está a la sombra de Kenia
 
 Dicho esto, hay que decir que **Etiopia se considera la cuna de la Humanidad**. El norte del país es un viaje envuelto de historia y cultura, y un viaje por el sur es sumergirse más en el paisaje humano.
 
-![hawzen road by mm-j](/post-images/1190769-340150.jpg "hawzen road by mm-j")![](/post-images/1988876356)En la capital Addis Abeba empieza todo, punto de partida de todas las expediciones y parada obligada por logística más que por interés. **Hacía el norte hay que visitar Lalibela (con sus iglesias excavadas en la roca) , Azum, Gondar (y su castillo), Baher Dar y sus cataratas sobre el Nilo Azul o las montañas Semien**. Hacía el sur la zona de los lagos de tonos verdes rompe los esquemas preconcebidos de un Etiopia seca y agrietada. El **Parque Nacional de Mago, el Parque Nacional Nechitsar** son obligados, pero es el **pueblo Hamer (sus mujeres cubren pelo y cuerpo con arcilla y aceite), los Karo, los Mursi (pueblo guerrero reconocible por el platillo que llevan en el labio inferior), los Erbore, los Tsemey o los Dorze** lo que más te sorprenderan.
+![hawzen road by mm-j](post-images/1190769-340150.jpg "hawzen road by mm-j")![](post-images/1988876356)En la capital Addis Abeba empieza todo, punto de partida de todas las expediciones y parada obligada por logística más que por interés. **Hacía el norte hay que visitar Lalibela (con sus iglesias excavadas en la roca) , Azum, Gondar (y su castillo), Baher Dar y sus cataratas sobre el Nilo Azul o las montañas Semien**. Hacía el sur la zona de los lagos de tonos verdes rompe los esquemas preconcebidos de un Etiopia seca y agrietada. El **Parque Nacional de Mago, el Parque Nacional Nechitsar** son obligados, pero es el **pueblo Hamer (sus mujeres cubren pelo y cuerpo con arcilla y aceite), los Karo, los Mursi (pueblo guerrero reconocible por el platillo que llevan en el labio inferior), los Erbore, los Tsemey o los Dorze** lo que más te sorprenderan.
 
 **RECOMENDACIONES**
 

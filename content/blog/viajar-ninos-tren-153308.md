@@ -4,12 +4,12 @@ type: "post"
 date: "2008-11-10 00:00:00"
 slug: "viajar-ninos-tren-153308"
 categories: ["Sin Categoría"]
-image: "/post-images/153308-102050.jpg"
+image: "post-images/153308-102050.jpg"
 ---
 
 Si vas leyendo este blog con cierta frecuencia, ya te habrás dado cuenta que soy muy aficionada a viajar en tren. Me gusta poder mirar por la ventanilla, tener un pasillo largo para caminar, una cafetería dónde hablar con algún que otro pasajero y dormir con el traqueteo de las vías.
 
-![viajando en tren by madame fastras](/post-images/153308-102050.jpg "viajando en tren by madame fastras")Igual de relajado que puede ser para un adulto, para los niños lo es más de lo que nos pensamos. Empezando por un asiento con **ventanilla panorámica** (panorámica si la comparamos con la de un coche o un autobús), supone una via de escape para la imaginación de un pequeño: con las casas, el campo, el paisaje ya tienes un comodín con el que distraerlos.
+![viajando en tren by madame fastras](post-images/153308-102050.jpg "viajando en tren by madame fastras")Igual de relajado que puede ser para un adulto, para los niños lo es más de lo que nos pensamos. Empezando por un asiento con **ventanilla panorámica** (panorámica si la comparamos con la de un coche o un autobús), supone una via de escape para la imaginación de un pequeño: con las casas, el campo, el paisaje ya tienes un comodín con el que distraerlos.
 
 Los **lavabos y su fácil acceso** es otro punto a favor. Te olvidas de buscar como locos un área de servicio de una autopista si viajas en coche y de obligar al niño a hacer pipi durante la única parada en el itinerario del autobús.
 

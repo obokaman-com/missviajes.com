@@ -4,14 +4,14 @@ type: "post"
 date: "2016-05-23 10:55:19"
 slug: "cultura-japonesa-que-te-vas-a-encontrar"
 categories: ["Asia","Cosas Varias"]
-image: "/post-images/FullSizeRender-1-202x300.jpg"
+image: "post-images/FullSizeRender-1-202x300.jpg"
 ---
 
 Ya estoy de vuelta y voy a necesitar un poco de tiempo para digerir todo lo que he vivido durante este viaje. Antes de comenzar a explicarte las diferentes etapas creo que merece la pena reflexionar sobre la cultura japonesa. Que distintos son de nosotros. La historia cuenta que en la época Edo ningún japonés podía salir del país y los extranjeros tenían prohibido entrar. Esto hizo que durante más de 2 siglos estuvieran totalmente aislados del mundo. Mientras que en Europa la Revolución Industrial cambiaba los cimientos de Occidente, Japón seguía en su etapa feudal. Esto hizo que su cultura no se parezca a ninguna otra.
 
 
 
-![FullSizeRender (1)](/post-images/FullSizeRender-1-202x300.jpg)No quiero caer en tópicos ni en etiquetar a la gente pero si tuviera que destacar algo de ellos es
+![FullSizeRender (1)](post-images/FullSizeRender-1-202x300.jpg)No quiero caer en tópicos ni en etiquetar a la gente pero si tuviera que destacar algo de ellos es
 
 
 
@@ -33,7 +33,7 @@ Ya estoy de vuelta y voy a necesitar un poco de tiempo para digerir todo lo que 
 
 - Son **súper puntuales**. Llegar tarde a un sitio es ofensivo para el que espera. Una anécdota: entre el grupo de españoles que viajábamos uno de ellos se dejó una cámara en un súpermercado. La primera reacción del grupo fue volver atrás para ayudarle a encontrar la cámara y retrasar la visita. Sin embargo si hubiera sido japones, hubiera preferido perder la cámara antes de hacer que el grupo retrasara el viaje por su culpa. Mientras que unos se ofrecen a ayudar , otros se sacrifican por no molestar. Son visiones distintas.
 
-![IMG_6947](/post-images/IMG_6947-e1463999628555-225x300.jpg)
+![IMG_6947](post-images/IMG_6947-e1463999628555-225x300.jpg)
 
 
 

@@ -4,16 +4,16 @@ type: "post"
 date: "2016-01-11 16:25:00"
 slug: "krabi-paraiso-donde-descansar-relajarse-2407662"
 categories: ["Asia","Playas"]
-image: "/post-images/5693c2c48b8e7s41417.jpg"
+image: "post-images/5693c2c48b8e7s41417.jpg"
 ---
 
-![ TAGS:undefined](/post-images/5693c2c48b8e7s41417.jpg "by missviajes")  
+![ TAGS:undefined](post-images/5693c2c48b8e7s41417.jpg "by missviajes")  
   
 Retomamos mi última viaje con la última etapa. Después de disfrutar de los T[emplos de Angkor en Siem Reap](http://www.missviajes.com/siem-reap-templos-angkor-2403658) (Camboya) , nos fuimos a descansar a Thailandia. En nuestro anterior viaje a este país nos enamoramos de [ Koh Samui](http://www.missviajes.com/mejor-koh-samui-pequeno-paraiso-golfo-tailandia-2398216), así que probamos suerte con otra de las zonas de playa más conocidas, Krabi.  
   
 La ciudad de Krabi (que lleva el mismo nombre que la provincia en la que se encuentra) en realidad es la zona de paso para llegar a Ao Nang, una pequeña población alrededor de la cual se encuentran las playas que buscamos. Así como en Koh Samui los hoteles están concentrados y seguidos uno detrás del otro en unas largas playas, en Krabi los hoteles se agrupan por playas separadas una de otras y en algunos casos de difícil acceso.  
   
-![ TAGS:undefined](/post-images/5693c2c2ac768s89855.jpg "by missviajes")  
+![ TAGS:undefined](post-images/5693c2c2ac768s89855.jpg "by missviajes")  
   
 La oferta hotelera no es tan amplia como en otras islas, aunque si tienes de todas las categorias y gustos. El tiempo que tardas del aeropuerto al hotel de playa puede llevar desde los 20 minutos a la 1hora para los más alojados.  
   

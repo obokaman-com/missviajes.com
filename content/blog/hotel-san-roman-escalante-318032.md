@@ -4,10 +4,10 @@ type: "post"
 date: "2009-08-25 12:11:00"
 slug: "hotel-san-roman-escalante-318032"
 categories: ["Sin Categoría"]
-image: "/post-images/318032-175522.jpg"
+image: "post-images/318032-175522.jpg"
 ---
 
-![detalle de la piscina](/post-images/318032-175522.jpg "detalle de la piscina")
+![detalle de la piscina](post-images/318032-175522.jpg "detalle de la piscina")
 
 Este hotel se encuentra en una de las **zonas más bellas de Cantabria**, al lado de la **Reserva Natural de las Marismas de Santoña**. Es una antigua casona solariega escondida tras su propio bosque privado. Pertenece a la **cadena Relais&amp;Châteux, todo un 5\*.**
 

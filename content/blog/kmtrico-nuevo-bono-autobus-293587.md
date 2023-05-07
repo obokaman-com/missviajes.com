@@ -4,10 +4,10 @@ type: "post"
 date: "2009-07-24 14:26:00"
 slug: "kmtrico-nuevo-bono-autobus-293587"
 categories: ["Cosas Varias"]
-image: "/post-images/293587-160540.jpg"
+image: "post-images/293587-160540.jpg"
 ---
 
-![autobus](/post-images/293587-160540.jpg "autobus")
+![autobus](post-images/293587-160540.jpg "autobus")
 
 La semana pasada me enteré por casualidad que **desde el 01julio hasta el 31 agosto** hay una manera nueva de viajar por España. Es un tipo interrail pero en autobús. **Alsa, Continental Auto y Alsina Graells** se han puesto de acuerdo para crear un pase común llamado Kmtrico sin límite de kilometros (tanto largo recorrido como autobuses de cercanias) , libertad de horarios a un precio cerrado.
 

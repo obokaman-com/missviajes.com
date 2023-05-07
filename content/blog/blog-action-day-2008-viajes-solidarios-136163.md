@@ -4,16 +4,16 @@ type: "post"
 date: "2008-10-15 00:00:00"
 slug: "blog-action-day-2008-viajes-solidarios-136163"
 categories: ["Sin Categoría"]
-image: "/post-images/136163-97131.jpg"
+image: "post-images/136163-97131.jpg"
 ---
 
-![blog action day 2008](/post-images/136163-97131.jpg "blog action day 2008")
+![blog action day 2008](post-images/136163-97131.jpg "blog action day 2008")
 
 Hoy es el dia del **BLOG ACTION DAY** y desde este blog nos unimos a la iniciativa donando todos los **ingresos del dia de hoy** a uno de los proyectos humanitarios propuestos por el Blog Action Day. El tema central de este año es la **pobreza** y mi post de hoy va dedicado a los viajes solidarios.
 
 Son muchas las organizaciones que a través de una plataforma de turismo promueven otro tipo de viaje alternativo más comprometido y de intercambio social, a través del cual se viven experiencias inigualables, haciendo uso de una conciencia ecológica del sistema.
 
-![sonrisas de bombay](/post-images/136163-97130.jpg "sonrisas de bombay")
+![sonrisas de bombay](post-images/136163-97130.jpg "sonrisas de bombay")
 
 Desde los años 90, las ONG tienen propuestas de diferentes modalidades:
 

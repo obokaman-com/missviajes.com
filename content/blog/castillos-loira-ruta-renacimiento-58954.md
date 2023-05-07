@@ -4,16 +4,16 @@ type: "post"
 date: "2008-03-11 00:00:00"
 slug: "castillos-loira-ruta-renacimiento-58954"
 categories: ["Sin Categoría"]
-image: "/post-images/58954-57467.jpg"
+image: "post-images/58954-57467.jpg"
 ---
 
 Recorrer la campiña francesa del **río Loira** que da nombre al valle es un auténtico lujo. Es una de las rutas más interesantes de **Francia**. **Desde Orleans hasta Angers** son muchos los castillos majestuosos que se levantan rodeados de una historia llena de intrigas amorosas y venganzas palaciegas que le dan más magia aún si cabe.  
   
-![castillo de chambord by alaskan dude](/post-images/58954-57467.jpg "castillo de chambord by alaskan dude")Obras maestras de la arquitectura renacentista junto a parques bucólicos. De entre todas las posibles paradas resaltaría como imprescindibles el **castillo de Chambord** con 400 habitaciones y rodeado por 5500 hectáreas de bosque, el c**astillo de Chenonceau** levantado sobre el río Cher, el **castillo de Cheverny** que conserva inteacto su moviliario y decoración, el **castillo de Ussé** con maniquies vestidos con trajes de época, el **castillo de Blois** las vistas desde sus terrazas, o el **castillo de Villandry** y sus magnítifcos jardines.  
+![castillo de chambord by alaskan dude](post-images/58954-57467.jpg "castillo de chambord by alaskan dude")Obras maestras de la arquitectura renacentista junto a parques bucólicos. De entre todas las posibles paradas resaltaría como imprescindibles el **castillo de Chambord** con 400 habitaciones y rodeado por 5500 hectáreas de bosque, el c**astillo de Chenonceau** levantado sobre el río Cher, el **castillo de Cheverny** que conserva inteacto su moviliario y decoración, el **castillo de Ussé** con maniquies vestidos con trajes de época, el **castillo de Blois** las vistas desde sus terrazas, o el **castillo de Villandry** y sus magnítifcos jardines.  
   
 Aprovecha para visitar en tu recorrido las ciudades de **Órleans, Tours y Anger**s las tres con un casco antiguo muy interesante.  
   
-![castillo de chenonceau bv ayres no graces](/post-images/58954-57468.jpg "castillo de chenonceau bv ayres no graces")**RECOMENDACIONES**
+![castillo de chenonceau bv ayres no graces](post-images/58954-57468.jpg "castillo de chenonceau bv ayres no graces")**RECOMENDACIONES**
 
 - Los dias 7 y 8 de mayo se celebra en Orleans la fiesta de la liberación de la ciudad por Juana de Arco.
 

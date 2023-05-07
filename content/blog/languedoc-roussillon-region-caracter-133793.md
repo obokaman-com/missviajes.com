@@ -4,14 +4,14 @@ type: "post"
 date: "2008-10-10 00:00:00"
 slug: "languedoc-roussillon-region-caracter-133793"
 categories: ["Sin Categoría"]
-image: "/post-images/133793-96062.jpg"
+image: "post-images/133793-96062.jpg"
 ---
 
-![landscape languedoc by lefilsde](/post-images/133793-96062.jpg "landscape languedoc by lefilsde")Esta región del sur de Francia es una de mis preferidas. La variedad de paisajes entre los Pirineos y el mar Mediterraneo, así como la oferta cultural están garantizadas. Los espacios naturales tienen un valor añadido porque albergan pueblos pintorescos en sus laderas y hacen de la escena una fotografía perfecta.
+![landscape languedoc by lefilsde](post-images/133793-96062.jpg "landscape languedoc by lefilsde")Esta región del sur de Francia es una de mis preferidas. La variedad de paisajes entre los Pirineos y el mar Mediterraneo, así como la oferta cultural están garantizadas. Los espacios naturales tienen un valor añadido porque albergan pueblos pintorescos en sus laderas y hacen de la escena una fotografía perfecta.
 
 Entre los recursos turísticos con los que cuenta se encuentran las ciudades medivales de [Carcassone](http://www.missviajes.com/carcassone-20614) (que conserva la muralla medieval y su ciudad intactas), **Narbone, Montpellier, Nimes o Perpinyà**. Una buena excusa con la que visitar la región es iniciar el [Camino de Santiago](http://www.missviajes.com/camino-santiago-8676) (dos de los principales caminos pasan por Languedoc: el de ozère y el del sur que pasa por el Gard ), recorrer la [Ruta de los Cátaros](http://www.missviajes.com/ruta-cataros-9504) o navegar por el [Canal du Midi](http://www.missviajes.com/navegar-canal-du-midi-9503).
 
-![detalle de Carcassone by djof](/post-images/133793-96063.jpg "detalle de Carcassone by djof")Aunque si quieres otra razón de peso es su **gastronomia y sus vinos**. Grandes extensiones de viñedos salpican estas tierras productoras de una marca con el sello de la denominación de origen.
+![detalle de Carcassone by djof](post-images/133793-96063.jpg "detalle de Carcassone by djof")Aunque si quieres otra razón de peso es su **gastronomia y sus vinos**. Grandes extensiones de viñedos salpican estas tierras productoras de una marca con el sello de la denominación de origen.
 
 **RECOMENDACIONES**
 

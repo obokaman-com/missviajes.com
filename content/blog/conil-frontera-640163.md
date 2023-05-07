@@ -4,10 +4,10 @@ type: "post"
 date: "2010-06-28 09:33:00"
 slug: "conil-frontera-640163"
 categories: ["En Familia","Europa","Visitas Y Excursiones"]
-image: "/post-images/640163-261371.jpg"
+image: "post-images/640163-261371.jpg"
 ---
 
- ![playa de conil by jesu d'alange](/post-images/640163-261371.jpg "playa de conil by jesu d'alange")
+ ![playa de conil by jesu d'alange](post-images/640163-261371.jpg "playa de conil by jesu d'alange")
 
  Este municipio costero de la **provincia de Cádiz**. es conocido sobre todo por sus playas y su clima. Enclavado en la **Costa de la Luz** (por su luz perenne todo el año) la temperatura es suave en invierno y cálida en verano. El litoral es llamativo porque de momento no hay construcciones, sigue en estado virgen.
 

@@ -4,10 +4,10 @@ type: "post"
 date: "2013-04-18 23:00:00"
 slug: "ayutthaya-capital-reino-siam-2265737"
 categories: ["Asia","Visitas Y Excursiones"]
-image: "/post-images/51705ca1194bbs66523.jpg"
+image: "post-images/51705ca1194bbs66523.jpg"
 ---
 
- [ ![ TAGS:](/post-images/51705ca1194bbs66523.jpg "Ayutthaya by iamagloworm")](http://www.flickr.com/photos/iamagloworm/409487125/sizes/l/in/photostream/)
+ [ ![ TAGS:](post-images/51705ca1194bbs66523.jpg "Ayutthaya by iamagloworm")](http://www.flickr.com/photos/iamagloworm/409487125/sizes/l/in/photostream/)
 
  Ayutthaya, es una de las visitas obligadas si tienes previsto viajar a [Tailandia](http://www.missviajes.com/tailandia-ideal-viajar-ninos-2178570). A unos .... kms de Bangkok, es una de las perlas del país, **reconocida Patrimonio Mundial de la Unesco.** También conocida como la ciudad dorada, disfrutar de los enormes templos y ruinas de Ayutthaya supone un viaje en el tiempo. Ayutthaya fue la capital del reino de Siam durante aproximadamente 400 años. A primeros del siglo XVIII la ciudad acogía a casi un millón de habitantes y unos 500 templos, convirtiéndola en una de las ciudades más importantes de Asia hasta que los birmanos la invadieron ese mismo siglo. La visita incluye el Palacio Bang Pa-In, frecuentado por el rey Rama V (fallecido hace más de 100 años), Wa Yai Chia Mongkol y Wat Phra Sri Sanpetch entre otros.
 
