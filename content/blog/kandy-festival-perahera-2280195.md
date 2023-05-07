@@ -1,0 +1,17 @@
+---
+title: "Kandy y el Festival de Perahera"
+type: "post"
+date: "2018-02-21 00:00:00"
+slug: "kandy-festival-perahera-2280195"
+categories: ["Asia","Visitas Y Excursiones"]
+image: "/post-images/51d4305b41c0es258704.jpg"
+---
+
+La ciudad de Kandy fue la siguiente parada en mi viaje por [Sri Lanka](http://www.missviajes.com/sri-lanka-pais-eterna-sonrisa-2272853/), **a unos 120 kilómetros de Colombo, a los pies de las montañas.** La ciudad, de una gran importancia para la religión budista, tiene muchas influencias británicas testimonio de los años de colonialismo. A las orillas del **lago Kandy**, esta ciudad bulliciosa cuenta con animosos mercados de carne, frutas y ropas dónde entretenerse y pasar un buen rato. Dicho esto, ¿qué es lo que tiene de especial esta ciudad? El **Templo del Diente de Buda (Sri Dalawa Maligawa)** que como ya puedes interpretar guarda la sagrada reliquia en un cofre muy bien protegido.El templo en realidad es un **complejo arquitectónico que comprende el Palacio Real, la Biblioteca, un Museo... aunque todo gira en torno al Templo del Diente de Buda.** Mi recomendación es que lo visites de noche. Creo que es a partir de las 19.00hrs (mejor confirmarlo) cuando los devotos creyentes hacen las ofrendas. Las luces iluminan todo el recinto y el sonido de los tambores y los cánticos inundan el lugar.![ - ](/post-images/51d4305b41c0es258704.jpg "vistas de Kandy desde el hotel Casamara by missviajes")  
+  
+   
+  
+El diente se guarda en una especie de estupa muy protegida. Después de hacer una cola, sólo tendrás 5 segundos para ver la reliquia y a una distancia importante. Vamos, que necesitarás recurrir a la imaginación para entender qué has visto.Es muy bonito de ver, la duración **aproximada es de una hora** y el coste de una entrada es más o menos **unos 6 euros**.Pero es durante la **celebración de la Perahera** cuando la ciudad de Kandy brilla y se llena de esplendor. Durante una semana bien en julio o en agosto según la luna llena, la reliquia se pasea por la ciudad en procesiones multitudinarias, con elefantes elegantemente vestidos con sedas y luces. Con ello se pretende conmemorar la llegada del Diente a Sri Lanka. Es una fiesta muy popular y muy esperada por el pueblo.**RECOMENDACIONES**- Hay un hotel que goza de una de las vistas más privilegiadas de la ciudad durante la celebración del Perahera. Es el hotel Casamara. Es un hotel muy muy justito con apenas 2 ó 3 estrellas de categoría, pero todas sus habitaciones tienen un balcón que dan a una de las calles principales por dónde pasa la procesión.
+- En Travelgenio puedes encontrar los vuelos si piensas viajar a este maravilloso país. [Travelgenio](https://www.upitravel.com/travelgenio-una-agencia-de-confianza-en-la-red/389/) es una agencia de viajes online que ofrece los mejores precios en vuelos, hoteles, alquiler de coches y seguros de viajes. La compañía está presente en 32 países de Europa, América y Asia-Pacífico, con webs en 17 idiomas diferentes, y tiene previsto seguir expandiendo su negocio en los próximos años.
+
+**CURIOSIDADES**- Según explican los religiosos cuando Buda fue incinerado como era costumbre de honrar a los muertes, uno de sus dientes fue rescatado de la pira funeraria. Una princesa de un reino Indio lo llevó a Ceilán escondido en su cabello para que llegara sano y salvo. La reliquia fue primero benerado primero un tiempo en Anuradhapura, con el tiempo lo trasladaron a [Polanaruwa](http://www.missviajes.com/polonnaruwa-budas-gal-vihara-2275587/) para al final quedarse en Kandy indefinidamente.

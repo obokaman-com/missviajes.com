@@ -1,0 +1,10 @@
+---
+title: "Chamonix : en la falda de Mont Blanc"
+type: "post"
+date: "2013-10-15 09:30:00"
+slug: "chamonix-falda-mont-blanc-34561"
+categories: ["Europa"]
+image: "post-background.jpg"
+---
+
+ El valle de Chamonix se encuentra en las faldas del Mont Blanc, el pico más alto de Europa, en los alpes franceses. Ya en el siglo XIX la aristocracia europea visitaba la zona en verano y organizaba los primeros ascensos.Hoy la ciudad que lleva el mismo nombre, Chamonix en una localidad turistica preparada con todo tipo de servicios: oficinas de guías, tiendas, hoteles, restaurantes, telecabinas y trenes que te llevan hasta los glaciares. Para disfrutar de las mejores panorámicas sobre el MOnt Blanc tienes varios miradores como el de Aiguille du Midi dónde veras también los glaciares de Glace y Géant o el mirador de Aiguille Verte El valle dispone de 150 kilometros de pistas de esquí alpino, itinerarios de esquí nórdico (en Argentière y Montets) , circuitos de esquí de montaña a los glaciares (en la Vallée Blanche ) y 17 kilometros de rutas señalizadas para los amantes del senderismo (incluyendo excursiones con raquetas o visita a la Reserva Natural de las Aiguilles Rouges) RECOMENDACIONESSe no llevas coche existe el Chamonix Bus, que es una linea regular que comunica los pueblos de la zona con los remontes.Debido a las elevadas alturas hasta las que suben las cabinas de los teleféricos o la situación de los miradores , es muy importante protegerse del sol, beber mucha agua y caminar despacio para que el cuerpo se habitue más fácilmente al cambio. CURIOSIDADESFueron Jacques Blamat y Michel Gabriel Paccard quienes en 1786 coronaron la cumbre del Mont Blanc con 4807 metros de altitud.La fondue es una de las especialidades culinarias de la zona, platos a base de queso fundido, aunque el gratin savoyard (es como una especie de lasaña pero a base de capas de queso y patata) tampoco está nada mal INFORMACION ADICIONAL Maison de la France Chamonix-guides (en inglés o francés) Chamonix (en inglés o francés)
